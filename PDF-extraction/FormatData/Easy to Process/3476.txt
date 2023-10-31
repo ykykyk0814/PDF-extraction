@@ -1,0 +1,173 @@
+Reifenschweiler, O., Reduced radioactivity of tritium in small titanium particles. Phys. Lett. A, 1994. 184: p. 149.
+Reduced radioactivity of tritium in small titanium particles
+Otto Reifenschweiler 1,2
+Work carried out at the Philips Research Laboratories, Eindhoven, The Netherlands
+Received 23 November 1993; accepted for publication 7 December 1993
+Communicated by A. Lagendijk
+By heating a TiT0.0035 preparation consisting of extremely small monocrystalline particles
+(≈ 15 nm) a decrease of the radioactivity by 40% was observed. In further experiments the
+concentration of tritium in such preparations was varied (TiTx experiments) showing that the
+radioactivity of the tritium increased less than proportionally to its concentration. Careful
+analysis of the experiments seems to rule out the possibility of trivial errors. A provisional
+hypothetical explanation is formulated. Our experiments may point to a connection with cold
+DD-fusion.
+Several recent publications deal with “cold fusion” of deuterons suitably absorbed in solid
+matter (e.g. Pd or Ti) [1-3] and although some difference of opinion may still exist as to the
+interpretation of the results, they have certainly stimulated renewed interest in the question
+whether nuclear phenomena can be influenced by the atomic and electronic environment. In this
+connection the author wants to report some curious results obtained many years ago in the course
+of technological projects [4-8] based on the use of the hydrogen isotope tritium absorbed in
+titanium [9-11]. It seems to me that it would certainly be worth repeating these experiments with up-
+to-date experimental technology, but unfortunately I am no longer in a position to do this
+myself.3 Hence this communication.
+In our experiments the titanium preparation was made by evaporation of the metal in argon at
+a suitable pressure, e.g. 0.5 to 2 cm Hg [4,6]. It was deposited as a kind of soot, consisting of
+monocrystalline particles about 15 nm in diameter, arranged in chains, on the inner wall of the
+measuring vessel. In fig. 2 of ref. [4] and fig. 1 of ref. [6] electron micrographs of such
+preparations are shown. After the argon was pumped out the tritium was added and was
+completely absorbed within a few seconds. This was confirmed by hundreds of experiments. In one
+part of the experiments the electron current(β-particles and secondaries) was measured by a
+vibrating reed electrometer via a cylindrical electrode placed inside the vessel. In several other
+experiments there was a thin steel window to enable the x-radiation accompanying theβ-decay
+(internal and external bremsstrahlung and characteristic X-rays [12]) to be measured by a GM-
+tube (fig. 1). Various experiments established for both detection systems the linear relationship
+between the read-out and the activity.
+In one experiment [5] a TiT0.0035 preparation (48 mg Ti, 100 mC T2) is slowly heated (duration
+about 10 h) in the arrangement of fig. 1 and the radioactivity is measured by the x-radiation. The
+1 Retired Chief Physicist, Philips Research Laboratories.
+2 Present address: Jan Sluytersweg 13, 5645 JA Eindhoven, The Netherlands.
+3 A more detailed description of our experiments with proposals to improve the experimental technique can be
+obtained on request from the author.
+tritium which is released–if any–is pumped out continuously. Figure 2, graph A gives the count
+rate as a function of temperature. The increase of tritium pressure during the heating of an
+identical preparation is determined in a separate experiment in a sealed-off tube (graph B). It is
+very strange that the radioactivity a decreases sharply between 115°C and 160°C by 28% followed by
+a slower decrease, reaching 60% of its initial value at 275°C, and then rises steeply to the initial
+value at 360°C (graph A). With further increase of temperature the count rate decreases fast due
+to decomposition of the preparation and hence the loss of tritium. The first decrease of
+radioactivity between 115°C and 275°C, however, cannot be explained by decomposition of the
+preparation. GraphΒ shows that there is no measurable release of tritium below about 300°C
+(confirmed by many experiments). But the strongest evidence that no tritium is lost at the first
+decrease of radioactivity between 115°C and 275°C is the re-increase of the count rate between
+275°C and 360°C.
+Fig. 1. Experimental arrangement for the relative measurement of the β-activity as a function of temperature
+measuring the x-radiation by a GM-tube.
+Fig. 2. Graph A: Count rate as a function of temperature in the pumped system. Graph B: Tritium pressure as
+a function of temperature in the closed system.
+In two other experiments carried out under different conditions a similar decrease and
+increase of the radioactivity with increasing temperature was observed. But there was also one
+experiment with a 10 times higher concentration of tritium and a roughly 5 times faster increase
+of temperature where the decrease of count rate did not occur.
+To arrive at an explanation of the strange result presented in fig. 2 we proceed in the following
+way: If n is the number of GM-counts per second, NT the number of tritium atoms,λ the decay
+constant andαthe counting efficiency, then we have
+n =αλΝT.
+As was explained above, we are convinced that the decrease of n between 115°C and 275°C
+cannot be caused by a decrease of NT. The counting efficiencyαcomprises the efficiency of
+generation of internal and external bremsstrahlung and of characteristic X-rays by theβ-electrons of
+tritium [12], the overall geometrical factor (only a very small part of the generated X-rays hit the
+GM-tube) and the counting efficiency of the GM-tube. The generation of internal bremsstrahlung
+is independent of external conditions and thus proportional to the number ofβ-electrons. A change
+of the efficiency of generation of external bremsstrahlung, of characteristic X-rays and of the overall
+geometrical factor between 115°C and 275°C would require a considerable migration of tritium,
+although–as was explained above–no tritium was escaping from the titanium layer. Such a
+migration seems thus impossible. The counting efficiency of the GM-tube was tested several times
+and may be assumed constant during the experiment. Thus it is hard to see that the counting
+efficiencyαcould change at temperatures between 115°C and 275°C. It is calculated that
+α=4.2×10-9 at the beginning of the heating experiment.
+So we are almost forced to assume a decrease ofλ between 115°C and 275°C during our
+experiment even though no physical effect is known that brings about such a high change of
+radioactivity [13].
+In order to obtain further evidence for a change ofλ another series of experiments was made
+at room temperature. The concentration x of the tritium was varied in a finely divided TiTx
+preparation and the corresponding increase of the emission current caused by theβ-electrons of
+tritium was measured (TiTx experiment). In these experiments a substantial deviation from the
+expected proportionality between current i and concentration x was observed: Δi/Δx is not
+constant with increasing concentration x but shows characteristic variations. In one of these
+experiments 3.6 mg Ti was deposited as a finely divided preparation with particle size of about
+16 nm on the inner wall of the measuring vessel (a bulb of 10 cm diameter covered inside by a
+Au layer). After removing the evaporator a cylindrical electrode of 5 cm diameter and a length of
+8 cm was lowered into the centre of the bulb, the system was sealed off and a negative voltage U =
+-252 V was applied to the Au electrode carrying the TiTx preparation. With this voltage the i=f(U)
+curve (current-voltage characteristic) was nearly horizontal. The small accurately determined
+quantities of tritium were added successively and the increase of the currentΔi/Δx was measured.
+By recording the tritium pressure using a special tube which measures theβ-emission of the
+gaseous tritium it was ascertained that the tritium has been absorbed completely after each
+addition. Figure 3 shows the result. With increasing xΔi/Δx first decreases reaching a minimum of
+about 55% of its initial value at x≈3×10-4 and then increases again to the initial value at
+x≈5×10-4.
+Again we can write the number of the detectedβ-electrons per second n determined from the
+emission current as
+TNn  or ii  ,
+where i is the measured current and iβtheβ-emission current.
+The number of tritium atoms NT absorbed in the preparation and with itΔx and x were
+carefully determined at each addition of tritium as stated above. The counting efficiencyδ contains
+a possible absorption effect of theβ-electrons in the titanium and the overall geometrical factor
+consisting of the loss of electrons not hitting the central electrode and the addition of
+backscattered and secondary electrons from the Au backing of the TiTx preparation. The mean
+thickness of the titanium preparation was determined as 25 nm, which is about the range of 1 keV
+electrons [14]. Thus the absorption effect of the titanium is very small. Furthermore from several
+observations a uniform distribution of the tritium in the Ti preparation is concluded, the small
+absorption effect does not change during the experiment and is thus negligible. Furthermore we
+cannot see any reason why the overall geometrical factor should depend on x. We thus come to a
+constant counting efficiencyδ during the experiment. At the beginning of the experiment it was
+determined asδ=0.89. We may thus conclude that the measured current i is proportional to the
+β-emission current of the tritium in the preparation and the increase of the measured currentΔi/Δx
+may be replaced by the increase of theradioactivity Δa/Δx in the preparation.
+There was also an experiment in which the radioactivity was determined by the x-radiation as
+in our heating experiment and where a course ofΔa/Δx=f(x) of the same kind as that shown in
+fig. 3 was obtained.
+
+So we are once more forced to the conclusion that we have to look for a decrease ofλ of the
+added tritium. However, as stated above with the heating experiment such a marked change ofλ
+is never observed experimentally [13] and unfortunately there is no theory that can describe such a
+pronounced decrease ofλ. It may be that current theory has overlooked some effects that might
+occur because of the rather special conditions: emitted electrons have to find their place among the
+electrons of extremely small single crystals. But it seems unlikely that this can cause a 40%
+decrease ofλ in our heating experiment and also the roughly 45% decrease ofλ of the added
+tritium at the minimum of theΔa/Δx=f(x) curve.
+Fig. 3. Increase of radioactivityΔα/Δ* as a function of concentration x. Evaporator removed.
+Even more puzzling are the following results: In two independent experimentsΔa/Δx was
+found to decrease at x≈3×10-3 to very low values of a few percent of the initial value. This
+observation, however, is not quite certain because the evaporator was not removed from the
+measuring vessel and could have absorbed some tritium. But during the course of these
+experiments several additions of tritium were followed by a decrease of the radioactivity
+(Δa/Δx<0), which even continued when all tritium was absorbed. This extremely strange
+behaviour cannot be explained by absorption of tritium by the evaporator.
+Under these circumstances it seems justified to put forward a highly unorthodox hypothesis,
+the nuclear pair hypothesis. If we assume that tritons absorbed in the extremely small single
+Ti-crystals can combine into pairs and that the decay constant of such a pair is much smaller than
+that of a free triton, then the observed behaviour of all TiTx. experiments can be explained.
+The author–though well aware that the experimental evidence is rather limited and that a
+theoretical foundation is lacking–feels strongly attracted by this idea of nuclear pairing with
+reduced radioactivity and he believes that it might have other applications. The author hopes to
+come back to these questions in later publications.
+It should be obvious that our results might also have a bearing on cold fusion [1-3]. As a first
+step I should like to propose experiments with deuterium absorbed in preparations of finely divided
+hydrogen absorbers (Ti, Pd or others) as used in our tritium experiments and at temperatures
+between 100°C and the dissociation temperature.
+I am grateful to Professors H.B.G. Casimir, H.L. Hagedoorn, J. Kistemaker, D. Lenstra, M.J.
+Steen-land and M.J.A. de Voigt for their interest in this work and for encouraging and
+stimulating discussions.
+References
+[1] M. Srinivasan, Curr. Sci. 60 (1991) 417.
+[2] E. Storms, Fusion Technol. 20 (1991) 433.
+[3] M. Fleischmann and S. Pons, Phys. Lett. A 176 (1993) 118.
+[4]Ο. Reifenschweiler, in: Proc. Conf. on Peaceful uses of atomic energy, vol. 19 (United
+Nations, Geneva, 1958) p. 360.
+[5] J.F. van de Vate, O. Reifenschweiler and G. van de Ligt, Onderzoekingen naar de
+temperatuurvastheid van fijnverdeelde metaal-tritium-systemen in vacuum, Internal report, Philips
+Research Laboratories (1961), unpublished.
+[6] O. Reifenschweiler, Rev. Sci. Instrum. 35 (1964) 456.
+[7] H. Horsier, H. Lydtin, O. Reifenschweiler and K.G. Frohner, Z. Angew. Phys. 22 (1967) 203.
+[8] O. Reifenschweiler, in: Proc. 1968 Int. Conf. on Modern trends in activation analyses,
+Special Publication 312, Vol. II (National Bureau of Standards, Washington, DC, 1969) p. 905.
+[9] W.M. Mueller, in: Metal hydrides, eds. W.M. Mueller, J.P. Blackledge and G.G. Libowitz
+(Academic Press, New York, 1968) p. 336.
+[10] J.R. Morton and D.S. Stark, Trans. Faraday Soc. 56 (1960) 351.
+[11] G. Alefeld and J. Volkl, eds., Hydrogen in metals, Vols. I and II, Topics in applied physics
+(Springer, Berlin, 1978).
+[12] D.K. Wickenden and O. Reifenschweiler, Some investigations into the bremsstrahlung of
+tritium, Internal report, Philips Research Laboratories (1961), unpublished.
+[13] G.T. Emery, Annu. Rev. Nucl. Sci. 22 91972) 165.
+[14] J.E. Holliday and E.J. Sternglass, J. Appl. Phys. 30 (1959) 1428.

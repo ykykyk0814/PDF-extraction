@@ -1,0 +1,366 @@
+IL NUOVO CIMENTO VOL. 15 D, N. 11 Novembre 1993
+Study of Deuterium Charging in Palladium by the Electrolysis
+of Heavy Water: Heat Excess Production.
+L. BERTALOT(2), F. DE MARCO(2), A. DE NINNO(1), A. LA BARBERA(3)
+F. SCARAMUZZI(1), V. VIOLANTE (2) and P. ZEPPA(4)
+(1) ENEA, Dipartimento Innovazione, Settore Elettroottica e Laser
+Centro Ricerche Energia Frascati - C.P. 65, 00044 Frascati~ Romc~ Italia
+(2) Associazione EURATOM-ENEA sulla Fusione, Centro Ricerche Energia Frascati
+C.P. 65, 00044 Frascati, Romo, Italia
+(3) ENEA/ INN/NUMA,  Centro Ricerche Energia - Casaccia, Italia
+(4) ENEA/DISP/ASC, Centro Ricerche Energia - Casaccia, Italia
+(ricevuto il 6 Agosto 1993; approvato il 13 Settembre 1993)
+Summary. - -  An experiment based on the electrolysis of heavy water with a
+palladium cathode is reported. The production of excess power during the
+electrolysis has been measured with the help of a quite accurate and reliable
+calorimeter. The correlation of the detected power excess with some meaningful
+parameters of the experiment is investigated. Some of the features of the
+experiment permit to investigate the dynamics of deuterium in the palladium
+lattice, which is thought of as the basic phenomenon for excess power production.
+PACS 66.30 - Diffusion in solids.
+1.  - I n t r o d u c t i o n .
+In the last four years many experiments have been performed in the field
+conventionally known as ,,cold fusion,,, with results that are not easily reproduced
+and that are not easily explainable in the light of established knowledge, both in solid
+state and in nuclear sciences. A thorough review of the experiments, both positive
+and negative, and of the proposed theories has been published quite recently by
+Storms [1].
+There have been numerous reports of excess power production over power input
+during the electrolysis of heavy water with a palladium cathode. This type of
+experiment was first performed by Fleischmann and Pons in 1989 [2]. One of the few
+features that have become clear in these years is the relation between the power
+excess production and the amount of deuterium absorbed by the cathode, called in the
+following D / P d  ratio (atomic): no effects are seen if the D / P d  ratio is lower than 0.8.
+This suggests that a new class of phenomena might take place in the palladium lattice
+when the amount of absorbed deuterium exceeds this value.
+1435
+1436 L. BERTALOT, F. DE MARCO, A. DE NINNO, ETC.
+The experiment described here had as a primary goal the testing of the production
+of excess heat: this task has been accomplished with positive results. Furthermore,
+we devised for the electrolysis a novel approach, which seems a very promising
+method for investigating the mechanism regulating the transport of deuterium in the
+palladium lattice, which, in our opinion, is at the core of this class of phenomena. This
+allowed us to demonstrate the correlation between excess power and some
+parameters of the physical system, presumably related to the D/Pd ratio.
+A model, proposed by two of us (ADN and VV), successfully interprets the
+results of the experiment in terms of deuterium motion in the palladium lattice: it will
+be presented for publication.
+Preliminary reports on both the experiment and the model have been presented at
+a specialized conference [3].
+2. - T h e  e l e c t r o l y s i s .
+A peculiarity of this class of experiments, designed to detect power excess, is the
+high level of current densities: hundreds of mA/cm 2 are passed through the cell,
+which is one to two orders of magnitude higher than in the electrolysis used normally
+to study the kinetics of hydrogen-electrode reactions. Besides this, three main
+features characterize this experiment.
+A group from Osaka University has claimed that higher D / P d  ratios can be
+obtained if low-current periods are alternated with high-current ones of the same
+time duration (,,hi-lo,, technique): a semi-period of 6 hours was used [4]. We have
+adopted this technique, and have investigated the influence of the period on the
+power excess production.
+A particular geometry was adopted: the cathode is immersed on one side in the
+electrolytic solution, while the other side faces a vacuum-tight region into which
+gaseous D2 (or H2) is introduced. Measuring the pressure variation of the gas in this
+region, at constant volume and temperature, provides information on its permeation
+through the cathode, thought of as a membrane.
+Experiments designed to detect power excess normally have long durations, up
+to weeks, or even months. For such long times, a typical feature that can influence
+the experiment is the poisoning of the cathode surface, due to the continuous
+deposition, through electrolysis, of substances contained in the solution, or dissolved
+from the cell walls, or even the metal constituting the anode (usually platinum): this
+renders the absorption of deuterium in the cathode more and more inefficient,
+preventing high D / P d  ratios, and thus eventually ,,shutting down,~ the phenomenon
+under observation. In order to overcome this problem, a palladium anode has been
+used. The palladium anode is slowly but continuously dissolved in the electrolyte, and
+conversely palladium is deposited on the cathode surface, thus regenerating it,
+creating new active sites for the absorpion of deuterium.
+A schematic drawing of the electrolytic cell is shown in fig. 1. In order to minimize
+poisoning effects, the only materials in contact with the electrolyte are Pyrex glass
+and Teflon. An L-shaped glass pipe is immersed in the liquid and ends with the
+cathode, which is held in its position through a vacuum-tight connection obtained
+with the help of an O-ring and a teflon support; in this way one side of the cathode is
+STUDY OF DEUTERIUM CHARGING IN PALLADIUM ETC. 1437
+Fig. 1. - Schematic drawing of the apparatus. The electrolytic cell consists of the cathode (a) and
+the anode (b), rigidly held by the Teflon support (c), which also allows a vacuum-tight connection
+of the cathode to the glass pipe (d) through the O-ring (e). In the glass coil (f), with inlet (g) and
+outlet (h), water at constant temperature and constant flow is circulated. The measurement of AT
+between g and h permits to evaluate the power excess produced.
+immersed in the electrolyte, while the other one faces the inside of the glass pipe. The
+latter can be filled with deuterium gas at a selected pressure, and then the pressure
+can be monitored at constant volume and temperature, procuring in this way a
+measurement of the deuterium permeation through the cathode in both directions.
+The anode, of palladium as well, is rigidly held parallel to the cathode, at a distance of
+3 ram, by the same Teflon support holding the cathode. In the experiments reported
+here circular plane electrodes were used, with size of 1 and 2 cm 2 and thickness of,
+respectively, 0.25 and 0.5 ram. For the electrical connections, nickel wires, coated by
+Teflon, were used. A solution of LiOD (0.1 M) in heavy water was the electrolyte; for
+the control experiment, it was LiOH (0.1 M) in light water.
+The electrodes [5] were subjected to a pretreatment before operation: they were
+heated at a temperature of 900 ~ still far from annealing, and then rapidly quenched
+at liquid-nitrogen temperature. All these operations, and the mounting of the
+electrodes in the cell were performed in a controlled atmosphere of argon in a
+glove-box. Samples of palladium observed with an electron microscope before the
+electrolysis showed a structure in grains, with the average linear dimension of grains
+of about 20 ~m.
+The electric current was fed by a constant current generator. Due to the
+high values of the current used in the experiments, bubbles of gas (D2 and
+02) are continuously formed, producing oscillations in the applied voltage. The
+measurement of the voltage, necessary for the calorimetric evaluations, was
+performed through an integrating RC circuit, with a time constant of ~ 20s,
+1438 L. BERTALOT, F. DE MARCO, A. DE NINNO, ETC.
+a time long with respect to the dynamics of bubbles in the liquid, and short
+with respect to the thermal equilibrium time of the thermodynamic system.
+3. - C a l o r i m e t r y .
+Calorimetry consists in comparing the power input with the power output in a
+thermodynamic system: an excess power is detected when the latter is higher than
+the former. The power produced in the electrolytic cell, due both to the imposed
+power input (electrolysis) or to any other cause inside the cell, produces a
+temperature increase of the cell. The measurement of the temperature rise permits to
+evaluate the power output. In order to obtain a linear response of the system, in this
+experiment we chose parameters and procedures such as to minimize the
+temperature difference between the cell and the environment, while maintaining
+high calorimeter sensitivity. The main feature consists of the ,,flow,, configuration of
+the calorimeter. A glass pipe shaped as a coil is immersed in the cell (see fig. 1) and
+water at constant temperature (25 + 0.1)~ and constant mass flow (less than
+1 cm3/s) is passed through it, extracting heat from the electrolyte. Note that the
+symmetry of the heat exchanger guarantees that heat is extracted independently of
+the point at which it is produced. Moreover, by using an appropriate mass flow, it is
+possible to obtain a quite small rise of the cell temperature (in our case 1W
+corresponds to = 0.15 ~ The temperature difference between water inlet and outlet
+is proportional to the power output, and is measured by a thermocouple used in
+differential mode: this assures for the measurement a substantial independence from
+the temperature fluctuations of flowing water. In order to minimize the heat losses to
+the environment, the cell was thermally insulated from the room, with a 20 cm thick
+polyethylene layer, and the room temperature was kept constant at (25 + 1)~
+Under these conditions a calibration of the calorimeter was performed, either
+producing Joule dissipation in an electric heater immersed in the electrolyte, or
+passing a current through a control electrolyte. The linearity of the calibration curve,
+expressing the measured AT as a function of the power input W, confirmed that all
+the above conditions were satisfied: the linearity was satisfactory up to 25 W, which
+140
+120
+100
+8O
+6O
+4O
+2O
+O-b
+q-
+~ , i , i ' 1 ' 6  ' 2 '  ' i 0 4 8 12 0 24
+power (W)
+Fig. 2. - The calibration curve of the calorimeter. The voltage V reported is the output of the
+differential thermocouple, and thus gives AT, the difference in temperature between points h and
+g (see fig. 1). Squares represent measurements in light water, crosses in heavy water: 1 ~
+corresponds to 39 ~V.
+STUDY OF DEUTERIUM CHARGING IN PALLADIUM ETC. 1439
+is much higher than the power reached in the experiments, and is shown in fig. 2. The
+error in the power measurement was of _+ 50 roW, mostly due to the accuracy of the
+thermocouples.
+Two additional checks were made. The temperature difference between a point in
+the cell and the water inlet temperature was monitored, and showed values in
+agreement with the main AT measurement. An electric heater was placed in the cell,
+not far from the electrodes, and was used during the electrolysis, from time to time,
+to check, by producing an additional power inlet, that the calorimeter was working
+correctly.
+The power inlet due to electrolysis was calculated by multiplying the current by
+the voltage across the cell decreased by 1.54 V, thus taking into account the work
+done by the current to dissociate the heavy-water molecule. A flowmeter confLrmed
+that the amount of gas evolving from the cell was consistent with the electric charge
+passed.
+The temperatures were measured by thermocouples, whose reading was
+monitored by nanovoltmeters, connected to a PC-based data acquisition system. The
+pressure on the gas side of the cathode was measured with a strain gauge device and
+then recorded. The voltage across the cell was measured across an RC circuit, as
+mentioned above, and also recorded.
+4.  - R e s u l t s .
+The experiment consisted in four runs, each lasting more than 10 days: three with
+heavy water, and one (control) with light water. In all three runs with heavy water
+we detected the production of excess power. No excess power was measured in the
+control light-water run. Run no. 1 served also to test the various technical aspects of
+the measurement: thus, experimental procedures were changed while running it. For
+this reason, we will not refer to it in the following, even though we were able to
+detect the production of excess power. During the three positive runs we tried to
+correlate the excess power with meaningful parameters of the experiment, as
+discussed below. In doing this, it happened that for extended periods of time no
+excess power was produced, while in other extended periods a significant amount of
+excess power could be detected. In both conditions we systematically checked the
+behaviour of the calorimeter, by adding extra power to the cell and measuring the
+corresponding increase in temperature. These results seem to us very convincing
+proof of the reliability of the experimental system. The maximum excess power
+measured amounted to ~ 3W (60W/cm 3) for both low and high currents: this
+corresponds to = 10 times the power input at low currents, and to doubling of the
+power input at high currents.
+We tried to study the dependence of the excess power produced on the following
+parameters:
+a) the period of the hi-lo sequence,
+b) the voltage across the cell,
+c) the pressure variation on the gas side.
+(We found no correlation between current density and excess power.) The results
+were as follows.
+1440 L. BERTALOT, F. DE MARCO, h. DE NINNO, ETC.
+2
+q)
+r
+Q9
+.
+o
+high current: 400 ~A (Pi,=10.2 W)
+low current: 100 mA (Pin=l.6 W)
+160 mA (2.6 W) 190 mA (3.3 W)
+40 mA (0.28 W) W) 40 mA (0.28
+I
+7-
+~ _ _ L _ _ _ . . _ x _ _
+12o 16o 200 240 280 320 360
+time (h)
+Fig. 3. - The power excess measured during run no. 2 as a function of time. The influence of the
+period of the hi-lo procedure is investigated. The peak shown at the end of the graph is the
+maximum power excess measured, i.e. 3 W (the same for low-current and high-current modes),
+which lasted almost 20 hours.
+a) Dependence on the period. The range investigated was 5000-20000 s: the
+lower limit was imposed by the thermal relaxation time of the system, about 20 rain.
+In fig. 3, referring to run no. 2, which lasted more than 500 hours, the excess power is
+reported as a function of time, for a large part of the run. In the first 120 hours, not
+shown in the figure, the period was of 20 000 s, and no excess power was detected. In
+the last 150 hours, also not shown in the figure, the period was 9000 s and no excess
+power was detected. After the run, we found that the anode showed macroscopic
+holes in its body, which altered the electric-field configuration in the cell: this
+presumably produced the ,~shutting-down~ of the observed phenomenon in the last
+part of the run. The observed holes are attributed to the continuous transfer of
+palladium from anode to cathode during the electrolysis. Even though it is difficult to
+establish a quantitative correlation between the period and the excess power, it
+seems reasonable to infer from the data presented here that shorter periods are more
+effective in producing the phenomenon.
+The last peak shown in the figure is the maximum excess power measured, quoted
+above: note that it lasted about 20 hours.
+b) Dependence on the voltage. An accurate determination of the electrolysis'
+parameters would require the measurement of the cathode's potential, i.e. the
+potential measured with respect to a reference electrode. We did not have a reference
+electrode, and thus we could only measure the difference of potential between the
+two electrodes (which in the following we will call ,~the potentially), while a constant
+current was passing through the system. In fig. 4 data from run no. 3 are reported. In
+this run we purposely changed the current intensity by steps, and the values of the
+difference of potential between the electrodes are shown in fig. 4a) and b), respectively
+for the high-current mode and the low-current one, as a function of time. Note that in
+the first half of the run we increased the current in four steps, and then we decreased
+STUDY OF DEUTERIUM CHARGING IN PALLADIUM ETC. 1441
+25
+2O
+>S
+15
+,~ 10
+5
+I I I I I I I I I
+10
+8
+6
+4
+2
+0
+b)
+0.8
+0.6
+~ 0.4
+~ ~ 0 . 2
+c)
+10.5
+7.5
+5.0
+2.5
+d)
+0 50 100 150 200 250 0 50 100 150 200 250
+time (h)
+Fig. 4. - Run no. 3. During the run the current has been increased in four steps, and then
+decreased in the same four steps. The values were (a) and c) refer to the high-current mode,
+b) and d) to the low-current one): 7-50, 50-200, 150-350, 200-600mA/cm 2. In a) and b) the
+voltage across the cell is plotted vs .  time. In c) and d) the corresponding relative power excess is
+shown. The hV's represent the difference between the voltage during the stepping up and that
+during the stepping down of current, the latter with a substantial absence of power excess: this
+quantity in the text has been called by convention ,,the overpotential,.
+it, running along the same steps. In fig. 4c) and d) the corresponding values of the
+power excess are reported on the same time scale. In this experiment a large power
+excess was measured in the first part of the run; then, a failure of the low-current
+generator had the effect of strongly decreasing the power excess, which never came
+back to the previous value. The dashed lines drawn on fig. 4a) and b) show that in the
+first part of the run, when excess power was detected, the potential across the cell,
+for the same current, was higher than in the second part, when no excess power was
+detected. The difference between the two measurements, that we define the
+,,overpotential,, ranges from about 10% to about 50% of the value measured in the
+absence of power excess. Thus, it is possible to state that there is a clear connection
+between the overpotential and the production of power excess.
+c) Dependence on pressure variation in the gas. In fig. 5 we report data from
+run no. 3, the same run as fig. 4. In order to investigate the flow of deuterium gas
+through the cathode, the pressure in the gas volume behind the cathode is
+continuously monitored, keeping both volume and temperature substantially
+constant. The flow can then be easily evaluated using the ideal gas law. In fig. 5 the
+time derivative of the pressure, expressed as the number of deuterium atoms
+crossing the cathode surface per unit time, is plotted as a function of time: the
+negative sign of the flow indicates that deuterium gas is flowing into the cathode.
+Two characteristic regions of the run are shown: in fig. 5a) at the beginning of the
+run, and in fig. 5b) at the end of it. In the same graphs the corresponding power
+excess is shown. The correlation between power excess and permeation of deuterium
+95 - l l  Nuovo Cimento D
+1442 L. BERTALOT, F. DE MARCO, A. DE NINNO, ETC.
+0.4
+0 . 2  84
+a0
+-0.2
+-0.4
+0
+a)
+.
+i i i
+10 20 30 40
+time (h)
+1.0
+0.5
+0
+-0.5
+-1.01 ,
+200
+b)
+I I I | I I i i ;
+210 220 230 240 250
+time (h)
+Fig. 5. - Run no. 3 again. The fwst 50 hours (a)) and the last ones (b)) are reported. The time
+derivative of the pressure is shown as a function of time, and is expressed as the number of atoms
+per second crossing the cathode (squares): the negative sign means that deuterium is entering
+the cathode from the gas side. On the same graphs the power excess is reported (dots). The two
+graphs show a very different behaviour in the two instances: in the presence of a significant
+power excess (a)) and when power excess is absent (b)).
+gas into the cathode is clear: when power excess is produced, there is a clearly
+measurable flow of deuterium into the cathode.
+5. - C o n c l u s i o n s .
+The experiment described here has confLrmed the production of heat excess in an
+electrolytic cell with heavy water and a palladium cathode, using an accurate and
+reliable calorimetric measurement. The geometry used in the cell, in particular the
+possibility of measuring the permeation of deuterium gas through the cathode during
+the electrolysis, represents a step forward in the study of this class of phenomena. It
+permits to investigate the dynamics of deuterium atoms in the palladium lattice,
+which seems to be a promising means for understanding the physics of high-
+concentration metal hydrides.
+Two of us (ADN and VV) have developed a model, designed to interpret the
+movement of deuterium atoms in the palladium lattice as matter waves, and studied
+superposition and interference phenomena of the waves. The model yields results
+that fit quite well some of the features of the experiment. A paper on this subject will
+be submitted for publication.
+The authors are grateful fo Messrs D. Lecca, G. LoUobattista and F. Marini for
+their skilled cooperation in the construction of the apparatus and in the execution of
+the measurements.
+STUDY OF DEUTERIUM CHARGING IN PALLADIUM ETC. 1443
+R E F E R E N C E S
+[1] E. STORMS: Fusion Technol., 20, 433 (1991).
+[2] M. FLEISCHMANN and S. PONS: J. ElectroanaL Chem., 261, 301 (1989).
+[3] L. BERTALOT, F. DE MARCO, A. DE NINNO, A. LA BARBERA, F. SCARAMUZZI, V. VIOLANTE
+and P. ZEPPA: Study of deuterium charging in palladium by the electrolysis of heavy water:
+search for heat excess and nuclear ashes, in Proceedings of the III International Conference
+on Cold Fusio~ Nagoy~ October 21-25, 1992 (Frontieres of Cold Fusion, University
+Academy Press, Inc., Tokyo, 1993), p. 365; A. DE NINNO and V. VIOLANTE: Quasi-plasma
+trasport model in deuterium overloaded palladium cathodes, in Proceedings of the III
+International Conference on Cold Fusion, Nagoya, October 21-25, 1992 (Frontieres of Cold
+Fusion, University Academy Press, Inc., Tokyo, 1993), p. 107.
+[4] A. TAKAHASHI, A. MEGA, T. TAKEUCHI, H. MIYAMARU and T. IIDA: Anomalous excess heat
+by D 20/Pd cell under L-H mode electrolysis, in Proceedings of the III International
+Conference on Cold Fusion~ Nagoya, October 21-25, 1992 (Frontieres of Cold Fusion,
+University Academy Press, Inc., Tokyo, 1993), p. 79.
+[5] Johnson Matthey: Materials Technology U.K., Grade 1 Palladium foil.

@@ -1,0 +1,84 @@
+
+Dr. Prahlada Ramarao,
+Padma Shri awardee 2015,
+Pro-Chancellor & Director,
+Centre for Energy Research
+Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA),
+Prashanti Kutiram Campus,
+Giddenahalli, Jigani Hobli,
+Anekal Tq., Bengaluru – 560105
+
+E-mail: prahlada.ramarao@gmail.com  Phone: +91 77607 85666
+18th September 2020
+Dear Jed Rothwell,
+
+Greetings from Centre for Energy Research, Bangalore, India.
+
+A short writ-up regarding the experiments carried at our centre and its results are given below. We
+are happy to discuss further in this connection.
+
+With Warm Regards
+
+(Dr Prahlada Ramarao)
+
+Dr. Prahlada Ramarao,
+Padma Shri awardee 2015,
+Pro-Chancellor & Director,
+Centre for Energy Research
+Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA),
+Prashanti Kutiram Campus,
+Giddenahalli, Jigani Hobli,
+Anekal Tq., Bengaluru – 560105
+
+E-mail: prahlada.ramarao@gmail.com  Phone: +91 77607 85666
+Generation of Excess Energy with (Ni+Pd) +H2/D2 system
+Centre for Energy Research (CER) at Swami Vivekananda Yoga Anusandhana Samsthana (S-
+VYASA) which is a deemed-to-be University at Bangalore, India started its research on Low
+Energy Nuclear Reactions (LENR) in 2015. The team at CER tried different designs of custom
+made reactors and has so far carried out more than 200 experiments with various
+combinations of the active materials like Nickel (Ni), Palladium (Pd) with Lithium Aluminium
+Hydride (LAH), Lithium and Hydrogen (H2)/Deuterium (D2) gas at different conditions.
+Extensive studies and work was also carried out on instrumentation and data Acquisition to
+capture the phenomena.
+Some of the experiments showed positive result of generation of excess heat but could not
+sustain for long mainly due to either breakage of the heating system or breakage of the
+ceramic reactor itself. A new reactor was designed where Silicon Carbide (SiC) heater
+replaced the kanthal wire as a heating element, which solved major issues related to the
+failure of the heating element. This reactor too showed positive result by generating excess
+energy for sufficiently longer period but the excess energy generated could not be tapped
+for measurements. Custom made hardware and software were used to record all the
+parameters as a function of time.
+The team was happy with the results obtained by Prof. Tadahiko Mizuno where air-
+calorimeter was used to tap the excess energy generated. His open invitation made the team
+to think in the same direction and developed modified reactor and evolved the procedure
+and protocol accordingly. The team conducted more than 15 experiments including
+calibration (without active materials inside the reactor). Most of the experiments showed
+generation of excess energy and continued to do so for months together for different input
+powers to the heater (0, 25, 50 and 100W).
+
+Dr. Prahlada Ramarao,
+Padma Shri awardee 2015,
+Pro-Chancellor & Director,
+Centre for Energy Research
+Swami Vivekananda Yoga Anusandhana Samsthana (S-VYASA),
+Prashanti Kutiram Campus,
+Giddenahalli, Jigani Hobli,
+Anekal Tq., Bengaluru – 560105
+
+E-mail: prahlada.ramarao@gmail.com  Phone: +91 77607 85666
+The generation of excess energy for one such
+experiment is compared with the o/p of
+calibration experiment and shown here. For an
+input power of more than 100 W the
+experiment with active materials showed more
+o/p energy when compared to the calibration
+run. For an i/p power up to 50 and in some
+experiments up to 100 W the system generated
+excess power of ~ 50%.
+Similar results have been obtained about a
+dozen times. Currently, the focus is on
+increasing the efficiency and power output.
+
+Fig.1 Experimental setup showing Data Acquisition system, Power Source and the
+calorimeter
+

@@ -1,0 +1,81 @@
+ENERGETIC CHARGED PARTICLES FROM
+DEUTERIUM METAL SYSTEMS
+F.E. CECIL, H. LIU AND C.S. GALOVICH
+Department of Physics
+Colorado School of Mines, Golden CO 80401
+We report on measurements made a number of years ago of energetic charged parti-
+cles which were emitted from deuterium metal systems subject to non-equilibrium
+conditions of temperatures and electric currents. These measurements include (i)
+thin Titanium foils deuterated at moderately high temperatures in a deuterium at-
+mosphere and then monitored as they were cycled from LN2 to room temperatures;
+(ii) charged particle detection of Ti foils exposed to a deuterium glow discharge;
+and (iii) observation of charged particles from Ti foils following bombardment with
+energetic deuterium ions.
+
+1. Introduction
+Following the initial reports in 1989 of excess heat and nuclear phenomena from
+deuterium metal systems at room temperatures, we undertook a series of experi-
+ments devoted to the detection of energetic charged particles from thin deuterated
+metallic foils subject to a variety of non-equilibrium physical conditions. The moti-
+vation for this approach was the possibility that the excess heat in the presence of a
+very low associated neutron background was due to energetic charged particles from
+deuteron induced nuclear reactions. We carried out three independent experimen-
+tal approaches to this search. In every case very clear unambiguous observations of
+charged particles, with energies up about 6 MeV were made.
+2. Deuterium loaded foils
+The first measurements consisted of preparing deuterated Ti foils by heating in a
+deuterium atmosphere. The foils were then placed in vacuum and cooled to LN2
+temperatures and allowed to slowly warm up while an electric current was passed
+through the foils. Intense bursts of charged particles with energies up to about 4
+MeV were seen during these warm up periods. Details of the target preparation
+and these results have been published elsewhere1,2 .
+3. Glow discharges
+We fabricated a small glow discharge chamber with charged particle detectors view-
+ing the Ti cathode during deuterium glow discharge. Details of the design and op-
+erating parameters are given elsewhere1 . In Figure 1 (top) we show the spectrum
+535
+536
+Figure 1. Top. Spectrum of 214Am calibration source with and without detector biases and
+Kapton degrading foil. Bottom Spectrum of deuterium glow discharge with Ti cathode with and
+without detector biases and Kapton degrading foil. The energy of the alpha particles from the
+241Am source in the upper spectrum is 5.48 MeV. The energy of the group in the lower spectrum
+centered at channel 670 is approximately 6.8 MeV
+537
+measured with a 0.1 µCurie 241Am calibration source, with and without the applied
+detector bias and with and without an extra Kapton degrading foil in. The spec-
+trum measured during one of the glow discharges under the same set of detector
+conditions is shown in the bottom of Figure 1. The similarity between these spectra
+is striking and the fact that the energy calibration of the two spectra is identical in-
+dicates the production 6.8 MeV particles with an average source strength of roughly
+several thousand particles per second.
+4. Ion bombardment
+A deuterated Ti titanium target was prepared by bombarding a Ti foil with 30
+keV deuterium ions for several hours at a current of 10 µAmperes from the Col-
+orado School of Mines particle accelerator3 . The spectrum measured during the
+bombardment is shown in the top of Figure 2. The three particle groups are from
+the d-d reactions between the beam ions and the previously implanted deuterons.
+The spectrum measured following the bombardment (with the gate valve to the
+accelerator closed) and with the temperature of the target at about 190 K is shown
+in the bottom of Figure 2. The somewhat broadened peak at channel 100 in the
+lower spectrum suggests, by comparison with the top figure, the production of 3
+MeV protons.
+
+5. Conclusions
+We have obtained solid evidence, under three independent sets of experimental
+circumstances, for the anomalous production of energetic charged particles from
+deuterium metal systems. Further work to reproduce these results and to enhance
+their repeatability is encouraged. This work was supported by the U.S. Department
+of Energy and the Electric Power Research Institute.
+References
+1. H. Liu. “Studies of nuclear reactions d-d, d-6Li and d-10B at low energies and charged
+particle emission from deuterium metal systems”. Ph. D. thesis, Colorado School of
+Mines (1992) (Unpublished)
+2. F.E. Cecil, H. Liu, D. Beddingfield and C.S. Galovich in “Anomalous nuclear effects
+in deuterium/metal systems” AIP Conference Proceedings Vol 228; edited by Steven
+Jones, Franco Scaramuzzi and David Worledge, p. 375 (1990).
+3. F.E. Cecil, D. Ferg, H. Liu, B. Kriss, H. Liu and J. Scorby, ”The low energy, high
+current particle accelerator at the Colorado School of Mines”, Nucl. Instrum. and
+Meth. in Phys. Res., B40/41, 934 (1989).
+538
+Figure 2. Top. Spectrum measured during bombardment of Ti target with deuterium ion beam.
+Bottom spectrum measured following deuterium ion bombardment with target at 190 K.

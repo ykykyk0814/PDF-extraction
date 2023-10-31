@@ -1,0 +1,265 @@
+OVERVIEW OF H-NI SYSTEMS: OLD EXPERIMENTS AND NEW SETUP
+E. CAMPARI*, S. FOCARDI*, V. GABBANI**, V. MONTALBANO**, F. PIANTELLI**, S. VERONESI***
+
+*Dipartimento di fisica Università di Bologna Dipartimento di fisica Sezione INFN di Bologna
+**Dipartimento di Fisica , Centro IMO, Univerità di Siena
+
+***INFM, Udr di Siena.
+
+This is an overview of our experimental activity during the last twelve years. We have been studying the Ni-H system at
+temperatures of about 700 K. Our investigations have revealed several interesting effects:
+a) energy production for long time
+b) neutron emission
+c) γ-ray emission
+d) charged particles emission
+e) appearance of elements other than Ni on the surfaces of Ni samples.
+These experiments were performed in several laboratories: the greatest part in Siena but also in Bologna, Colleferro and
+Pavia. A new laboratory in Colle Val d’Elsa (Siena) will become operative in the summer 2004.
+
+
+Introduction
+Several kinds of metal samples were used: pure Ni, Nickel alloys and Nickel plated, having cylindrical or planar
+shape. In a typical experiment the samples were inserted in a cell, loaded with hydrogen at pressure in the range 100-
+1000 mbar and kept at temperatures between 420 and 720 K1-4. The reported temperature range represents the optimum
+choice for hydrogen loading in Nickel below a limit value 1000 K which guarantees the cell’s integrity. Experiments
+were performed using three different kinds of cells built to hold one cylindrical sample, 4 cylindrical samples or three
+planar samples. A schematic layout of the experimental setup is shown in Figure 1.
+
+v
+R.P.S
+i Pt P
+P.M.2
+P.M.1
+VACUUM
+PUMP
+P.M.3
+H2 D2
+Pt
+
+Figure 1. A schematic layout of the experimental setup.
+
+The following sections describe several results obtained with these specimens, regarding their hydrogen loading,
+excess heat production, nuclear particles emission, and detection of new elements on the surfaces of loaded samples.
+Table 1 summarizes a selection of results obtained in the experiments.
+
+Table 1. A selection of results obtained in the experiments.
+
+γ-ray
+no neutrons
+no altered metal surface
+0 00lowNi
+plane
+Novemb
+er 97
+Siena  S. Focardi, V. Gabbani,
+V. Montalbano
+F. Piantelli , S. Veronesi
+no γ-ray or neutrons
+measures
+altered metal surface
+not valued ….….highNi alloy
+cylindrical
+June
+96
+Bologn
+a
+E. Campari, S. Focardi,
+V. Gabbani, V.
+Montalbano
+F. Piantelli , S. Veronesi
+γ-ray
+no neutrons
+altered metal surface
+0 0 0 very lowNi
+plane
+July  96 Siena  S. Focardi, V. Gabbani,
+V. Montalbano
+F. Piantelli , S. Veronesi
+no γ-ray or neutrons
+measures
+no measures on metal
+surface
+elab ……..mediumnickel-
+plated
+Ni alloy
+cylindrical
+Septemb
+er 01
+Pavia  S. Focardi, L. Cattaneo
+V. Gabbani,V.
+Montalbano
+L. Nosenzo, F. Piantelli ,
+A. Piazzoli, S. Veronesi
+no γ-ray or neutrons
+no measures on metal
+surface
+∼100 8147mediumNi alloy
+cylindrical
+Septemb
+er 97
+Collefer
+ro
+S. Focardi, V. Gabbani,
+V. Montalbano ,F.
+Piantelli , E. Porcù,
+E. Tosti, S. Veronesi
+γ-ray
+no neutrons
+altered metal surface
+38 2722mediumNi
+plane
+March
+96
+Siena  S. Focardi, V. Gabbani,
+V. Montalbano
+F. Piantelli , S. Veronesi
+γ-ray
+no neutrons measures
+no measures on metal
+surface
+∼ 600 18 319 high nickel-
+plated
+Ni alloy
+cylindrical
+Novemb
+er 94
+Siena  S. Focardi, V. Gabbani,
+V. Montalbano
+F. Piantelli , S. Veronesi
+γ-ray
+neutrons
+altered metal surface
+∼ 900 72 278 very highnickel-
+plated
+Ni alloy
+cylindrical
+Septemb
+er 94
+Siena  S. Focardi, V. Gabbani,
+V. Montalbano
+F. Piantelli , S. Veronesi
+no γ-ray or neutrons
+measures
+altered metal surface
+> 90  44 55 high  nickel-
+plated
+Ni alloy
+cylindrical
+October
+93
+Siena  S. Focardi, R. Habel,
+F. Piantelli
+no γ-ray or neutrons
+measures
+altered  metal surface
+not valued 1236highNi
+cylindrical
+January
+92
+Siena  F. Piantelli
+NUCLEAR ASHESTOTAL HEAT
+EXCESS [MJ]
+∆Pm
+ax
+[W]
+∆tmax
+[d]
+H
+LOADIN
+G
+SAMPLE START LAB  AUTHORS
+1  Hydrogen loading
+Before loading the cells with hydrogen, air is pumped out. In some cases annealing cycles were performed at
+temperatures up to 820 K in vacuum and 720 K in hydrogen. The hydrogen loading in the metals is measured by the
+pressure decrease inside the cells. We observed in the experiments various hydrogen loading rates and also a
+temperature dependence. Such effect is clearly evident from Figure 2.
+
+Figure 2. Hydrogen pressure (continuous curve) and Ni temperature (step curve) measured in a period of 10 days. The hydrogen loading depends on
+the temperature and increases for T< 200  0C.
+
+Figure 3. An example of fast hydrogen loading which corresponds to about 7000 mbar/day.
+
+In this case, the mean loading rate resulted to be of the order of 50 mbar/day. The fast loading shown in Figure 3
+corresponds to about 7000 mbar/day.
+
+Figure 4. Pressure versus temperature plot showing a slow hydrogen loading. The pressure decrease which correspond to the temperature increase
+cannot be explained by the gas laws.
+
+The hydrogen absorption is not completely reversible: as shown in Figure 4, in a thermal cycle, the final pressure is
+lower than the initial pressure at the same temperatures.
+2  Excess heat production
+Regardless of the cell type, excess heat production was detected using the same method. At the beginning of the
+experiment, a set of calibration curves was constructed plotting the temperature of several reference positions as a
+function of the input power9. A correction was done for the room temperature fluctuations.
+
+Figure 5. Calibration curve (line connecting experimental points) and points corresponding to heat production. The distance measured on the
+horizontal line directly provides the excess heat amount: in this case about 15 W.
+
+A temperature increase with respect to the reference curve, at a given input power, is evidence for excess heat
+production. In Figure 5, which refers to a cell with a cylindrical sample, shows the calibration curve (lower) and the
+points corresponding to heat production (higher). The distance measured on the horizontal line directly provides the
+excess heat amount. In two cases, a considerable amount of energy was produced4: a cell with a single cylindrical
+sample (cell A) produced 900 MJ in 278 days; a second cell with four cylindrical samples (cell B) produced 600 MJ in
+319 days. The samples were made of pure Ni, or an alloy of Ni, Cr, Mn and Fe.
+3  Radiation emission
+The excess energy release described in the previous section cannot be accounted for by any chemical reaction involving
+the masses of Ni and H inside the cell. Therefore same kind of nuclear process should be taken into consideration. This,
+in turn, justifies the search for radiation emission associated with the heat production. Several kind of detectors were
+
+Figure 6. Four germanium γ-rays spectra: the upper curve (note the 411.8 keV peak) was obtained measuring the γ  emitted from a gold sheet placed
+for 12 days near the cell A. The other curves correspond to laboratory background, gold sheet not irradiated, gold sheet after a 12 days exposition 10
+m away from the cell.
+
+used at this purpose: neutron detectors filled with 3He and shielded, for neutron thermalization, with paraffin or
+polythene; NaI scintillation counters; a germanium detector; X-rays films; a cloud chamber.
+In one case, during the period of heat production from cell A, neutron emission was detected both by the neutron
+counters and the activation method5. For the latter, a gold sheet placed inside a paraffin box was kept near cell A. A
+neutron capture transmutes 197Au into 198Au which emits, while decaying, a 411.8 keV γ-ray. We detected such γ-rays
+with the germanium detector (Figure 6) and evaluated a neutron flux of about 6000 neutrons/s
+
+Figure 7. NaI γ-rays spectrum showing a peak superimposed to the background. The insert, obtained by subtracting the background, shows the typical
+structure of a γ-ray: photoelectric peak, Compton and backscattering peak.
+In some other occasions, working with planar cells, γ-ray emission was detected with a NaI counter6. The spectrum
+(Figure 7) shows, superposed to the background, a peak centered to 660±1 keV. The γ-ray emission lasted for a few
+days and then ended.
+
+Figure 8. Picture of a track of an ionizing particle emitted from the Nickel taken in a cloud chamber.
+
+The cylindrical specimen which produced energy in cell A, at the end of experiment, was placed in a cloud
+chamber. As shown in Figure 8, we observed tracks of charged particles coming from the specimen8. We checked that
+no tracks were present when a reference nickel sample (not treated in a cell) was placed inside the cloud chamber.
+
+Figure 9. A typical EDAX spectrum observed in a little spot, showing the existence on the surface of Na, Al, Si, S, Cl, K, Ca, Fe and Zn.
+
+At the end of each experiment, the sample surfaces were analyzed by using a SEM with an EDAX probe. Those
+samples which produced energy or absorbed a considerable amount of hydrogen exhibited regions where elements not
+present before the treatments were observed. Figure 9 is a typical EDAX spectrum of such regions. These elements are
+usually found in little spots or corroded regions. We found F, Na, Mg, Al, Si, P, S, Cl, K, Ca, Cr, Mn, Fe, Cu and Zn.
+Apart from light elements, which are not detectable by SEM, we found all the elements lighter than Ni plus Cu and Zn,
+except for Sc, Ti, V and Co7-8. Figure 10 is an optical image of one of those corroded regions where the above
+mentioned elements are found.
+
+Figure 10. An optical image of a corroded region, where elements other than Ni can be found by using EDAX .
+4  New Laboratory in Colle Val d’Elsa
+As a result of a collaboration between Siena University and Lumenergia (a firm based in Brescia), a new laboratory
+with 400 m2 of floor space will begin activity in Colle Val d’Elsa, near Siena, by the end of 2004. In this new laboratory
+a facility for Ni samples production (Figure 11) has been installed: it will be used to produce Ni samples for the next
+experiments.
+
+Figure 11. Colle Val d’Elsa laboratory  facility for Ni samples production.
+
+References
+1.     F. Piantelli, Atti Accad. Fis., Serie XV, Tomo XII, pag. 89-96 (1993)
+2.     S. Focardi, R. Habel, F. Piantelli, Nuovo Cimento A 107, 163 (1994).
+3.     S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, Atti Accad. Fisioc,  Serie XV, XV 109 (1996).
+4.     S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, Nuovo Cimento A 111, 1233 (1998).
+5.    A. Battaglia, L. Daddi, S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, P. G. Sona, S. Veronesi, Nuovo
+Cimento A 112, 921 (1999).
+6.     S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, Asti Workshop on Hydrogen/Deuterium loaded
+metals, Conference Proceedings 64, W.J.M.F. Collis editor, (1999) 35
+7.   . S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, Atti Accad. Fisioc., Serie XV, XVIII 109 (1999)
+8.     E. G. Campari, S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, ICCF8, Conference Proceedings
+70, F. Scaramuzzi editor, (2000) 69E. G. Campari,
+9.      E. G. Campari, S. Focardi, V. Gabbani, V. Montalbano, F. Piantelli, S. Veronesi, Atti TESMI Workshop, Lecce,
+december 6-7 2002, A. Lorusso and V. Nassisi editors, 35-42 (2004).
+

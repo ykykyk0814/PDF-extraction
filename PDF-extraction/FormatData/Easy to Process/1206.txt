@@ -1,0 +1,183 @@
+Abnormal excess heat observed during Mizuno-type experiments
+Jean-François FAUVARQUE*, Pierre Paul CLAUZON, Gérard Jean-Michel LALLEVÉ
+Laboratoire d'Electrochimie Industrielle, Conservatoire National des Arts et Métiers
+292, rue Saint Martin, F-75141 PARIS, CEDEX 03, France.
+* e-mail : fauvarqu@cnam.fr
+
+ABSTRACT
+A simple calorimeter has been designed that works at constant temperature; that of boiling water. Heat
+losses can be estimated accurately with an ohmic heater. As expected, losses are independent of the
+electric power input to the heater and the amount of evaporated water is linearly dependant on the power
+input. The device has been used to determine the heating power of a plasma electrolysis (the Ohmori-
+Mizuno experiment). We confirm that in this experiment, the heat output from electrolysis is greater than
+the electrical power input. The excess energy increases as the electrolysis voltage is increased from 200 V
+up to 350 V (400 W input). The excess energy may be as high as 120 W.
+
+1- INTRODUCTION
+Our experiment is an electrolysis experiment made in plasma mode with a Tungsten cathode, a
+platinized Titanium wire as an anode, and as electrolyte a water solution of potassium carbonate
+(K2CO3 at 0.2 M). In the same type of experiments, T. Mizuno reported both excess heat and excess
+hydrogen production.
+The explanations found in the bibliography for this phenomenon are, for example, transmutations in the
+cathode material (2). The abnormal observations are concerned with the appearance of Osmium, Iridium
+Platinum and Gold, without quantitative measurements. (2)
+We thought it would be quite interesting to confirm these results with the help of a simplified
+experimental setup.
+2- EXPERIMENTAL
+We decided to do our experiments at a constant temperature, the boiling point of water, and to measure
+the heat emissions only by weighing the mass of water in the experimental device. A water storage
+container inside the device allows us to maintain the electrolyte at a constant water level, and thus keep
+the K2CO3 concentration constant. This container, being graduated, also gives us a way to confirm the
+mass of water boiled off.
+An interesting repercussion of this operating mode concerns the thermal losses. Once the boiling
+temperature is reached and overall thermal stability is achieved, the thermal losses, which depend only
+on the temperature, remain constant, and this is true whatever thermal emissions are observed. This
+allowed us to hold the experiment in a simple beaker of an appropriate size and then to avoid the of an
+opaque Dewar vessel. This allows us to visually observe the cathode condition.
+Finally, the use of an ohmic heater allowed us to bring the device at the suitable boiling temperature and
+to maintain this temperature at this level much more quickly than by electrolysis alone. We also verified
+that other sources of inaccuracy were insignificant. For example, in the range of power used, the
+recondensation level inside the device was low, and few unboiled droplets of water sprayed outside the
+beaker. The excess heat that we were trying to measure is quite large (30% to 100%). So, it is not
+necessary to obtain very precise measurements.
+3- EXPERIMENTAL DEVICE DESCRIPTION
+Figure 2. Photograph of the experimental apparatus.
+« Sartorius »
+balance
+Electrolyte
+reserve
+Ohmic heater
+Anode +
+Cathode–Distilled water
+reserve
+Figure 1. Experimental setup. Electrolyte reserve is 2 l. The
+tripod used to hold components in position is not shown
+Glass tube
+0 0 0 0 . 0 g
+Figure 1 shows the details of the experimental setup:
+- A SARTORIUS balance, the heart of the device, measuring up to 6kg at an accuracy of 0.1g
+- Beaker containing between 1 to 1.5 liter of electrolyte
+- Tripod (not shown in this figure) is placed on the balance to hold the electrodes and a container of
+pure water
+- Continuous current electricity supply (500 volts, 4 amperes)
+- Wattmeter to measure the input energy (Unigor 390 LEM)
+The input energy was also frequently measured by use of the inlet voltage and the mean current
+intensity as given by a recorder. These results were compared to the wattmeter data.
+- A tungsten cathode of 2.4 mm diameter made with 2% of Thorium (this type of electrode is often
+used for commercial scale welding)
+This cathode rod is shielded with a Pyrex tube. About 15 mm of the rod extends out from the tube,
+where it is exposed to electrolysis. In some experiments, ceramic tubes were used instead of Pyrex.
+- An anode made of a wire in platinized titanium in a cone or cylinder shape around the cathode to
+regulate the water current. This is made quite large, to cope with the boiling, and to stop unboiled
+droplets of electrolyte from leaving the beaker. The anode and cathode are 4 cm apart.
+- An ohmic heater rated to about 400 watts (enough to evaporate 34g of water in 300 seconds)
+- A distillated water container equipped with a tap which allows us to maintain a stable water level
+inside the beaker during the experiment.
+- Various measuring instruments for the electrical components.
+A typical run lasts 10 to 20 minutes, divided into 5-minute measurement periods. The evaporated water quantity
+may reach 50 to 100g, which corresponds to energy ranging from 113,000 to 226,000 joules. In some cases, we
+used a Geiger-Muller device to check for possible nuclear radiation. The results of these nuclear observations
+were always negative.
+4- RESULTS AND DISCUSSION
+4-1 CALIBRATION
+Using an ohmic heater, which can remain inside the beaker permanently, we have verified the response
+of our device to heat emission. It was necessary to verify that the thermal losses were constant beyond a
+certain input power level, and then that every increase in power would give a loss of water
+corresponding exactly to the energy supplied in the device during the measurement period.
+The electrolyte level is maintained constant, due to the supply of water (at 20°C) from the reserve. The
+energy used for the boiling of 1g of water is then:
+2260j (latent heat at 100°C) + (100°C–20°C) × 1 × 4.18 (heat needed to bring 1g of water from 20°C
+to 100°C) = 2594j.
+Figure 3, below, shows the results. Note that from about 300 watts inlet power, the experimental curve
+and the theoretical straight line are rigorously parallel, and the thermal loss is 75 watts. Three important
+features can be deduced when we maintain the power of the ohmic heater at about 400 watts:
+- We were able to verify the validity of our measurement of the latent heat of water evaporation
+- The power increase due to the experiment is directly measured by the water loss during a given
+time unit.
+- Losses due to the recondensation inside the experimental device, as well as those caused by
+unboiled droplets driven out of the beaker, seem to be negligible.
+Vaporized water with re-feeding
+0
+100
+200
+300
+400
+500
+600
+700
+0 10 20 30 40 50 60 70
+m (g/300s)
+P
+(W
+at
+ts
+)
+Mass water corresponding to
+energy input
+Measured mass water (with
+thermal losses)
+Figure 3. Device calibration using ohmic heating only.
+4-1 RESULTS
+We made a parametrical study on the influence of the voltage applied during glow discharge
+electrolysis. The temperature was brought to the boiling point (100°C) with the auxiliary
+resistance heater. Then electrolysis was begun at 200 volts. This high voltage is needed to
+produce a suitable plasma around the cathode. Plasma generation is greatly enhanced by the
+high electrolyte temperature. The Joule heating effect during electrolysis immediately gives
+rise to an envelope of steam around the cathode, and a plasma, that is supposed to be hydrogen
+plasma according to Mizuno. The table shown below gives the value of the COP, which is the
+ratio of the energy of vaporization divided by the electrical energy supplied to the device
+(which of course includes energy consumed by the ohmic heater). It is very important to
+confirm that the device is thermally stable. The selected definitive values for the inlet energies
+are the values of the wattmeter, considered to be more reliable than those based on voltage and
+mean registered current.
+Table 1. Five-minute test results
+Voltage (volts) COP (Energy out / energy in) Number of tests
+200 1.0 3
+250 1.05 to 1.12 8
+300 1.12 to 1.15 8
+350 1.31 to 1.41 4
+Remarks:
+1- The calculation of the COP is straightforward. Let us take the 200-volt data. The mass
+of evaporated water is 63g, with for 34g due to auxiliary resistance heater. The mean
+current was 1.25 Amp., and the duration of the test is 300 s (5 minutes).
+Energy out: (63 g–34 g (auxiliary resistance) × 2594j = 75226 joules
+Energy in: 200v × 1.25 A × 300 s = 75000 joules
+The COP is then: 1.0
+2- The COP values bands are not correlated with the inaccuracy of the measurements.
+The results presented here were collected over several hours of operation of the
+cathode. The cathode is corroded at the very high temperatures of the experiment, so
+between experimental runs we push more of the cathode through the Pyrex shield,
+keeping the length of exposed cathode at about 15 mm. That explains the variation
+bands.
+3- Reproducibility is within a range of about 5%.
+4-2 DISCUSSION
+The very simple device used allowed us to highlight with reproducibility an abnormal excess
+heat, which increases with voltage.
+We believe that we have confirmed abnormal excess energy for voltages higher than 200 volts
+with our present device. The data presented here for 350 volts correspond to input power
+exceeding 400 watts. The abnormal excess heat exceeds 120 watts without taking into account
+the gas formation or luminous radiation. This power is therefore definitely significant. We did
+not find any classical explanation for this thermal effect, and we are examining the possibility
+of less classical explanations.
+
+5 CONCLUSION
+The initial purpose of these experiments was to investigate the potential of a simple experimental device
+to confirm the results obtained by T. Mizuno. We think that this first step has been accomplished and
+that we can say that ratios between output and input energy (COP) of 1.3 and 1.4 have been reached
+with satisfactory reproducibility.
+In a second step, we will try to explain this phenomenon in order to increase the COP.
+In any case, the device presented in this paper is a very simple device which can be used to rapidly
+verify hypotheses without sophisticated means. For example, we have verified that this phenomenon
+does not seem related with the heavy water which is found at one part in 7,000 in natural water. We
+increased the concentration of heavy water by a factor of 100 in our electrolyte, i.e. to 1 part in 70. We
+did not see any perceptible change in our results.
+AKNOWLEDGEMENTS
+The authors want to express our deep appreciation to M. M. D. NOËL, J-L. NAUDIN and O. HORNER
+of “EDF Les Renardières” for fruitful discussions.
+REFERENCES
+Ref. 1. Experimental study of glow discharge in light water with Tungsten electrodes by D.Y. Chung,
+Y. Aoki, F. Senftle and T. Mizuno, ICCF11 conference in Marseille (Oct.31- Nov.5 / 2004).
+T. Mizuno , T. Akimoto & T. Ohmori. Confirmation of anomalous hydrogen generation by plasma
+electrolysis, in 4th Meeting of Japan CF Research Society. 2003, Japan, Iwate University.
+Ref. 2. Transmutation of metal to low energy in confined plasma in the water (electrochemical plasma
+cell) by D. Cirillo, A. Dattilo, V. Iorio, ICCF11 conference in Marseille (Oct.31–Nov.5 / 2004).

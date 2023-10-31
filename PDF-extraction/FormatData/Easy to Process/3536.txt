@@ -1,0 +1,835 @@
+(12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT)
+(19) World Intellectual Property Organization
+International Bureau
+(43) International Publication Date
+15 October 2009 (15.10.2009)
+11111111111101111111110111111111110111 11111111111111111111111111111111111011110111111
+(10) International Publication Number
+WO 2009/125444 Al
+PCT
+(51) International Patent Classification:
+CO1B 3/00 (2006.01) 	CO1B 6/02 (2006.01)
+(21) International Application Number:
+PCT/IT2008/000532
+(22) International Filing Date:
+4 August 2008 (04.08.2008)
+(25) Filing Language: 	 English
+(26) Publication Language: 	 English
+(30) Priority Data:
+MI2008A 000629 9 April 2008 (09.04.2008) 	IT
+(71) Applicant (for all designated States except US): PAS-
+CUCCI MADDALENA [IT/IT]; Via Ezio, 24, 1-00192
+ROMA (IT).
+(72) Inventor; and
+(75) Inventor/Applicant (for US only): ROSSI, Andrea
+[IT/IT]; C/0 PASCUCCI, Maddalena, Via Ezio, 24,
+1-00192 ROMA (IT).
+(74) Agent: CICOGNA, Franco; UFFICIO INTER-
+NAZIONALE BREVETTI, DOTT. PROF. FRANCO CI-
+COGNA, VIA VISCONTI Dl MODRONE 14/A, 1-20122
+MILANO - ITALY (IT).
+(81) Designated States (unless otherwise indicated, for every
+kind of national protection available): AE, AG, AL, AM,
+AO, AT, AU, AZ, BA, BB, BG, BH, BR, BW, BY, BZ,
+CA, CH, CN, CO, CR, CU, CZ, DE, DK, DM, DO, DZ,
+EC, EE, EG, ES, Fl, GB, GD, GE, GH, GM, GT, HN,
+HR, HU, ID, IL, IN, IS, JP, KE, KG, KM, KN, KP, KR,
+KZ, LA, LC, LK, LR, LS, LT, LU, LY, MA, MD, ME,
+MG, MK, MN, MW, MX, MY, MZ, NA, NG, NI, NO,
+NZ, OM, PG, PH, PL, PT, RO, RS, RU, SC, SD, SE, SG,
+SK, SL, SM, ST, SV, SY, TJ, TM, TN, TR, TT, TZ, UA,
+UG, US, UZ, VC, VN, ZA, ZM, ZW.
+(84) Designated States (unless otherwise indicated, for every
+kind of regional protection available): ARIPO (BW, OH,
+GM, KE, LS, MW, MZ, NA, SD, SL, SZ, TZ, UG, ZM,
+ZW), Eurasian (AM, AZ, BY, KG, KZ, MD, RU, TJ,
+TM), European (AT, BE, BG, CH, CY, CZ, DE, DK, EE,
+ES, FI, FR, GB, GR, HR, HU, 1E, IS, IT, LT, LU, LV,
+MC, MT, NL, NO, PL, PT, RO, SE, SI, SK, TR), OAPI
+(BF, BJ, CF, CG, CI, CM, GA, GN, GQ, GW, ML, MR,
+NE, SN, TD, TG).
+Published:
+— with international search report (Art. 21(3))
+= (54) Title: METHOD AND APPARATUS FOR CARRYING OUT NICKEL AND HYDROGEN EXOTHERMAL REACTIONS
+
+(57) Abstract: A method and apparatus
+FIG. 1 	 for carrying out highly efficient exother-
+106 	 mal reaction between nickel and hydro-
+gen atoms in a tube, preferably, though
+not necessary, a metal tube filled by a
+nickel powder and heated to a high tem-
+perature, preferably, though not neces-
+sary, from 150 to 5000C are herein dis-
+closed. In the inventive apparatus, hy-
+drogen is injected into the metal tube
+4
+containing a highly pressurized nickel
+2(100) 	 powder having a pressure, preferably
+though not necessarily, from 2 to 20
+bars.
+105
+7(102) N
+W
+O
+20
+09
+/1
+25
+44
+4
+A
+l
+
+8(103)
+77)r
+9
+105
+
+WO 2009/125444 	 PCT/1T2008/000532
+METHOD AND APPARATUS FOR CARRYING OUT NICKEL AND
+HYDROGEN EXOTHERMAL REACTIONS
+BACKGROUND OF THE INVENTION
+5
+The present invention relates to a method and
+apparatus for carrying out nickel and hydrogen
+exothermal reactions, and has been stimulated by the
+well known requirement of finding energy sources
+10 alternative to fossil sources, to prevent atmospheric
+carbon dioxide contents from being unnecessarily
+increased.
+For meeting the above need non polluting energy
+sources should be found which do not involve health
+15 risks, are economically competitive with respect to oil
+sources susceptible to be easily discovered and
+exploited and naturally abundant.
+Many of the above alternative energy sources
+have already been explored and operatively tested even
+20 on an industrial scale, and comprise biomasses, solar
+energy used both for heating and photovoltaic electric
+generation purposes, aeolian energy, fuel materials of
+vegetable or agricultural nature, geothermal and sea
+wave energy and so on.
+25 	 A possible alternative to natural oil, is the
+uranium-fission nuclear energy. However, yet unresolved
+problems affect nuclear energy such as great safety and
+waste material processing problems, since, as is well
+known, radioactive waste materials remain dangerously
+30 active for thousands or millions of years, with
+consequent great risks for persons living near
+radioactive waste disposal-off places.
+WO 2009/125444 	 PCT/1T2008/000532
+2
+To the above the fact should also be added that,
+at present, a, nuclear fusion based on a laser actuated
+inertial confining method does not allow to make
+efficient power systems.
+5 	 The above drawbacks are also true for deuterium-
+tritium fusion processes, as shown by the operating
+times estimated for the ITER project, which should
+within the year 2025 should allow to construct power
+systems according to the so-called DEMO project to
+10 make, within the year 2035, the first fusion power
+station.
+In fact, up to now, the so-called "cold" fusion,
+after an early announcement by Fleischmann and Pons in
+1989 (M. Fleischmann, M. Hawkins, S. Pons: Journal
+15 Electroanal. Chem., 261,301-1989), notwithstanding
+several exploiting attempts on a world-wise scale, has
+not provided useful and reliable systems capable of
+generating energy for normal, industrial or domestic
+applications.
+20 	 The most intelligent work performed in the
+fusion field, which work has been accurately studied by
+the present inventor for practicing his invention, is a
+study of Prof. Sergio Focardi, (Dipartimento di Fisica
+dell'UniveritA di Bologna), and Prof. Francesco
+25 Piantelli, (Dipartimento di Fisica dell'UniversitA di
+Siena) as disclosed in the following bibliographic
+documents:
+- S. Focardi, F. Piantelli: Produzione di
+energia e reazioni nucleari in sistemi Ni-H a 400 ° C,
+30 Atti della Conferenza Nazionale sulla politica
+energetica in Italia, University di Bologna, 18-19
+aprile 2005.
+WO 2009/125444 	 PCT/IT2008/000532
+3
+- S. Focardi, R. Habel, F. Piantelli: Anomalous
+heat production in Ni-H systems, Nuovo Cimento Vol.
+107, pp 163-167, 1994
+- S. Focardi, V. Gabbiani, V. Montalbano, F.
+5 Piantelli, S. Veronesi: Large excess in heat production
+in Ni-H systems, Nuovo Cimento Vol. 111 A pp. 1233-
+1241, 1998
+- A. Battaglia, L. Daddi, S. Focardi, V.
+Gabbiani, V. Montalbano, F. Piantelli, P.G. Sona, S.
+10 Veronesi: Neutron emission in Ni-H systems, Nuovo
+Cimento Vol. 112 A pp 921-931, 1999
+- S. Focardi, V. Gabbiani, V. Montalbano. F.
+Piantelli, S. Veronesi: On the Ni-H systems, Asti
+Workshop in Hydrogeldeuterium loaded metals, pp 35-47,
+15 	1997
+- E.G. Campari, S. Focardi, V. Gabbiani, V.
+Montalbano. F. Piantelli, E. Porcu, E. Tosti, S.
+Veronesi: 	Ni-H systems, 	Proceedings of the 	8th
+Conference on Cold Fusion, pp 69-74, 2000.
+20 	 The present inventor, moreover, 	has also
+accurately studies the following related patents: US-
+6,236,225, 	US-5,122,054, 	US-H466, 	US-4,014,168, 	US-
+5,552,155, US-5,195,157, US-4,782,303, 	US-4,341,730,
+US-A-20010024789.
+25 	 An analysis of the above mentioned references
+shows that:
+1- all experiments performed based on cold
+fusion have not permitted to generate power in such an
+amount to be reliably and constantly exploited in
+30 industrial applications;
+2- all the uranium based methods and systems
+have not up to now solved the problem of safely
+WO 2009/125444 	 PCT/1T2008/000532
+4
+disposing of nuclear waste materials;
+3- all the nuclear fusion based methods and
+systems have not been shown as capable of generating
+significative amounts of energy while allowing the
+5 . . fusion process to be safely monitored;
+4- all the magnetic and inertial confining based
+methods and systems, such as the plasma fusion method,
+cannot be properly economically managed; and
+5- the catalyzed fusion of negative muons based
+10 methods and systems cannot be used because of the muon
+short life.
+SUMMARY OF THE INVENTION
+15 	 Accordingly, the aim of the present invention is
+to provide a method allowing to produce energy in an
+economic, convenient, reliable and repetitive manner,
+without generating radiations and radioactive waste
+materials.
+20 	 Within the scope of the above mentioned aim, a
+main object of the invention is to provide such a
+method which can be carried out in small size systems,
+adapted to be easily controlled and allowing to heat
+individual places at an operating cost less than that
+25 of commercially available heating systems.
+According to one aspect of the present
+invention, the above mentioned aim and objects, as well
+as yet other objects, which will become more apparent
+hereinafter, are achieved by a method and apparatus for
+30 carrying out a highly efficient exothermal reaction
+between nickel atoms and hydrogen atoms, in a tube,
+preferably, though not exclusively made of a metal,
+WO 2009/125444 	 PCT/IT2008/000532
+5
+filled by a nickel powder and heated to a high
+temperature preferably, though not necessarily, from
+150 to 500 ° C, by injecting hydrogen into said metal
+tube said nickel powder being pressurized, preferably,
+5 though not necessarily, to a pressure from 2 to 20
+bars.
+In applicant exothermal reaction the hydrogen
+nuclei, due to a high absorbing capability of nickel
+therefor, are compressed about the metal atom nuclei,
+10 while said high temperature generates internuclear
+percussions which are made stronger by the catalytic
+action of optional elements, thereby triggering a
+capture of a proton by the nickel powder, with a
+consequent transformation of nickel to copper and a
+15 beta+ decay of the latter to a nickel nucleus having a
+mass which is by an unit larger than that of the
+starting nickel.
+The present inventor believes that in this
+reaction is possibly involved a capture of a proton by
+20 a nickel nucleus which is transformed into a copper
+nucleus with a consequent beta decay of the formed
+unstable copper (Cu 59 - 64) since the produced thermal
+energy is larger, as it will be thereinafter
+demonstrated, than the energy introduced by the
+25 electric resistance.
+It is believed that the nickel nuclei are
+transformed to copper since the mass (energy) of the
+final status (copper isotope) is less than the overall
+mass (energy) of the starting status (nickel isotope +
+30 	proton).
+The exothermal reaction thereon Applicant's
+invention is based differs from those adopted by prior
+WO 2009/125444 	 PCT/1T2008/000532
+6
+searchers since the inventor has not tried to
+demonstrate .an emission of elementary particles
+supporting a validity of a theory, but he has
+exclusively tried to provide an amount of energy larger
+5 than the consumed energy amount, to just achieve a
+practical method and apparatus for generating an energy
+amount larger than the consumed energy, and this by
+exploiting nuclear energy generating processes starting
+from electrochemical energy.
+10 	 Thus, 	the 	inventive 	apparatus 	has 	been
+specifically designed for producing the above mentioned
+energy in a reliable, easily controllable, safe,
+repeatable manner, for any desired applications.
+In particular, the inventive apparatus is coated
+15 by boron layers and lead plates both for restraining
+noxious radiations and transforming them into energy,
+without generating residue radiations and radioactive
+materials.
+In this connection it is pointed out that all
+20 prior attempts to generate like types of energy, have
+brought to small energy amounts generating prototypes
+not suitable for a safe industrial use, because of the
+theoretical nature of the performed searches.
+25
+
+SUMMARY OF THE INVENTION
+Thus, the aim of the present invention is to
+provide an energy generating apparatus adapted to
+operate in a reliable and repeatable manner and
+30 including 	a 	plurality of 	series 	and parallel
+connectable apparatus modules, thereby generating an
+impressively high energy amount by so bombarding a
+WO 2009/125444 	 PCT/1T2008/000532
+7
+nickel atom by a hydrogen atom, to provide a large
+atomic mass loss copper atom to be transformed into
+energy, based on the Einstein's equation, plus a beta
+decay energy of the radioactive copper atoms.
+5 	 The following discussion may be considered as
+valid for some (radioactive) Cu isotopes, but not for
+the two stable copper isotopes (^63Cu and ^65Cu) which
+do not decay.
+As the copper atom decays, an energy emitting
+10 positive beta decay occurs, according to the following
+equations:
+P = N+ e+ + v,
+where
+P = proton
+15 	 N = neutron
+E+ = positron
+v = neutrino
+The positron forms the electron antiparticle,
+and hence, as positrons impact against the nickel
+20 electrons, the electron-positron pairs are annihilated,
+thereby generating a huge amount of energy.
+In fact, few grams of Ni and H would produce an
+energy amount equivalent to that of thousands oil tons,
+as it will become more apparent hereinafter, without
+25 pollutions, greenhouse effects, or carbon dioxide
+increases, nuclear and other waste materials, since the
+radioactive copper isotopes produced in the process
+will decay to stable nickel isotopes by beta +
+processes, in a very short time.
+30 	 For clearly understanding the following detailed
+discussion of the apparatus, it is necessary to at
+first consider that for allowing nickel to be
+WO 2009/125444 	 PCT/1T2008/000532
+8
+transformed into stable copper, it is necessary to
+respect 	the 	quantic 	laws. 	Accordingly, 	it 	is
+indispensable to use, for the above mentioned
+exothermal reactions, a nickel isotope having a mass
+5 number of 62, to allow it to transform into a stable
+copper isotope 62. All the other Ni isotopes, on the
+other hand, will generate unstable Cu, and,
+accordingly, a beta decay.
+Considering that about 10 6 tons nickel for year
+10 are produced through the world and since, as it will be
+disclosed hereinafter in Table 1, 1 g nickel would
+generate an energy amount equivalent to that produced
+by 517 tons oil, thus the yearly produced nickel
+amount, assuming that only 1/10,000 generates nuclear
+15 processes, will provide
+1,000,000,000,000*517/10000 	= 	51,700,000,000 	(oil
+equivalent) ton per year.
+And this without considering the fact that the
+yearly nickel production could be easily increased,
+20 depending on demand, and that, like mineral oil, nickel
+can be recovered and remelted from nickel scraps of
+steelwork and electronic applications.
+Actually, nickel is one of the most abundant
+metals of the Earth crust.
+25
+BRIEF DESCRIPTION OF THE DRAWINGS
+Further characteristics and advantages of the
+present invention will become more apparent hereinafter
+30 from the following detailed disclosure of a preferred,
+though not exclusive, embodiment of the invention,
+which is illustrated, by way of an indicative, but not
+WO 2009/125444 	 PCT/1T2008/000532
+9
+limitative, example, in the accompanying drawings,
+where:
+Figure 1 is a constructional diagram of the
+apparatus according to the present invention;
+5 	 Figure 2 is a picture, taken by a 1.400 x
+electronic microscope, showing the nickel powder (on a
+1.400 x scale), withdrawn by the apparatus;
+Figures 3 and 4 are electronic microscope
+diagrams related to the powder atomic composition, at
+10 the two points shown by the arrows in figure 2.
+DESCRIPTION OF THE PREFERRED EMBODIMENT
+With reference to the number references of the
+15 above mentioned figures, the apparatus according to the
+present invention comprises an electric resistance 1,
+enclosed in a metal tube 2, further including therein a
+nickel powder 3.
+A solenoid valve 4 adjusts the pressure under
+20 	hydrogen 5 is introduced into the metal tube.
+Both the temperature generated by the electric
+resistance or resistor and the hydrogen injection
+pressure can be easily adjusted either to constant or
+pulsating values.
+25 	 More specifically, the electric resistance, or
+other heat source, is switched off as the exothermal
+reaction generating energizing status is triggered. A
+thermostat will hold said heat source operating,
+depending on the temperature in the circuit.
+30 	 The assembly comprising said electric resistance
+and nickel holding copper tube is shielded from the
+outer environment by using, respectively from the
+which
+WO 2009/125444 	 PCT/IT2008/000532
+10
+inside to the outside:
+a) a jacket 7 including water and boron, or only
+boron
+b) a further lead jacket 8, which, optionally,
+though not necessarily, may be coated by a steel layer
+9.
+The above mentioned coatings are so designed as
+to restrain all radiations emitted by the exothermal
+reaction and transform said radiation into thermal
+10 energy.
+The heat generated by the particle decay and
+nuclear transformations will heat the primary fluid,
+comprising borated water, thereby said primary fluid,
+in turn, will exchange heat with the secondary circuit,
+15 in turn heated by said primary fluid and conveying the
+produced thermal energy to desired applications, such
+as electric power, heating, mechanical energy, and so
+on.
+In the absence of a primary fluid, the fluid to
+20 be heated will exchange heat directly with the lead and
+steel jacket.
+According to a further embodiment of the
+invention, the apparatus further comprises the
+following features.
+25 	 Nickel is coated in a copper tube 100, including
+a heating electric resistance 101, adjusted and
+controlled by a controlling thermostat (not shown)
+adapted to switch off said resistance 101 as nickel is
+activated by hydrogen contained in a bottle 107.
+30  A first steel-boron armored construction 102,
+coated by a second lead armored construction 103,
+protect both the copper tube, the hydrogen bottle
+WO 2009/125444 	 PCT/1T2008/000532
+1 1
+connection assembly 106, and the hydrogen bottle or
+cylinder 107, thereby restraining radiations through
+the overall radiation life, allowing said radiations to
+be transformed into thermal energy.
+5 	 On the outside of the lead armored construction,
+the copper reactor cooling water, circulates through a
+steel outer pipe assembly 105, and this conveyed to
+thermal energy using devices.
+The above disclosed prototype can also be used
+10 as a heating module which, in a series and/or parallel
+coupling relationship with other like modules, will
+provide a basic core desired size and power heating
+systems.
+A practical embodiment of the inventive
+15 apparatus, installed on October 16, 2007, is at present
+perfectly operating 24 hours per day, and provides an
+amount of heat sufficient to heat the factory of the
+Company EON of via Carlo Ragazzi 18, at Bondeno
+(Province of Ferrara).
+20 	 For better understanding the invention, the main
+components of the above mentioned apparatus have been
+schematically shown in Table 2.
+The above mentioned apparatus, which has not
+been yet publicly disclosed, has demonstrated that, for
+25 a proper operation, the hydrogen injection must be
+carried out under a variable pressure.
+The electric resistance temperature controlling
+thermostat has been designed to switch off said
+electric resistance after 3-4 hours of operation,
+. 30 thereby providing self-supplied system, continuously
+emitting thermal energy in an amount larger than that
+initially generated by said electric resistance, which
+WO 2009/125444 	 PCT/1T2008/000532
+12
+mode of operation is actually achieved by an exothermal
+reaction.
+As it will be shown in a detailed manner in the
+following Table 1, it is possible to calculate that,
+5 supposing a full transformation, a mole, that is 58 g
+nickel, generate the same amount of energy obtained by
+burning about 30,000 tons of oil.
+Figures 2-5 show data measured on January 30,
+2008 which basically demonstrate that the invention
+10 actually provides a true nuclear cold fusion.
+The photo of figure 2 ,( obtained by a 1.400 x
+electronic microscope) shows the nickel powder on a
+1.400 x scale, as withdrawn from the apparatus: in
+particular said photo clearly shows the flake granules,
+15 greatly promoting an absorption of the hydrogen atoms
+by the nickel nuclei.
+The two arrows in the figure show the two
+positions of the powder sample thereon the electronic
+microscope tests for detecting the powder atomic
+20 composition have been carried out.
+The two graphs of figures 3 and 4 have been made
+by the electronic microscope of Dipartimento di Fisica
+dell'Universitd di Bologna, under the supervision of
+Prof. Sergio Focardi, on January 30, 2008, and are
+25 related to the powder atomic composition at the two
+above points of figure 2
+In particular, said graphs clearly show that
+zinc is formed, whereas zinc was not present in the
+nickel powder originally loaded into the apparatus said
+30 zinc being actually generated by a fusion of a nickel
+atom and two hydrogen atoms.
+This demonstrates that, in addition to fusion,
+WO 2009/125444 	 PCT/IT2008/000532
+13
+the inventive reaction also provides a nickel nucleus
+fission phenomenon generating lighter stable atoms.
+Moreover, it has been found that, after having
+generated energy the used powders contained both copper
+5 and lighter than nickel atoms (such as sulphur,
+chlorine, potassium, calcium).
+This demonstrate that, in addition to fusion,
+also a nickel nucleus fission phenomenon generating
+lighter stable atoms occurs.
+10 	 It has been found that the invention fully .
+achieves the intended aim and objects.
+TABLE 1
+15 	 Determining the energy produced by a nickel mol.
+1 nickel mol = 58 g
+Avogadro number 6.022 x 10 23 mol-1 = number of
+nickel atoms in 58 g nickel.
+The energy generated in each hydrogen capture
+20 process has been evaluated (for each nickel isotope)
+from the difference between the initial mass (nickel +
+hydrogen) and the reaction end product mass.
+A reasonable estimate, considering the different
+values for the different isotopes, is 10 MeV electron
+25. (a MeV corresponds to a million electron-volts and is
+the energy measuring unit, as conventionally used in
+nuclear physics).
+Since 1 Mev is equivalent to a variation of mass
+of 1.78 x 10 -30 kg, the mass variation corresponding to
+30 an energy emission of 10 Mev is 1.78 x 10 -29 kg.
+The mass loss corresponding to a transformation
+of an entire Ni mol can be calculated by multiplying
+WO 2009/125444 	 PCT/1T2008/000532
+14
+the Avogadro number (6.022 x 1023 ) time the mass
+variation of the single reaction.
+Thus is obtained (for 58 g Ni)
+M=(6.022 x 10 23 ) x 1.7 .8 x 10 -29 kg=1.07 x 10-5 kg
+5 	 From the Einstein equation we have
+E = mc2 where c is the light speed c = 3 x 10 8
+m/s.
+Thus, by replacing:
+J=1.07 x 10 -5 x (3 x 10 8 ) 2 = 9.63 x 10 11 J which
+10 can be approximated to 0.3 x 10 9 kcal (which can be
+approximated by defect to reserve).
+This is an energy equivalent to about 30,000 ton
+oil considering a pci of 10,000 kcal/kg for mineral
+oil; thus, 58 g nickel will generate the same energy as
+15 that provided by 30,000 ton oil, that is 517 tons/gram.
+TABLE 2
+List of materials used for making prototypes for
+20 experimentally testing the inventive apparatus
+Electric resistance: Frei, Brescia
+Thermoadjuster: Pic 16- cod. 1705- Frei
+Lead shields: Picchi Srl-Brugherio (Milan)
+Hydrogen: Linde Gas Italia, Arluno (Milan)
+25 	 Pressure reducer: Linde Gas Italia
+Powder nickel: Gerli Metalli - Milan
+Boron: Danilo Dell'Amore Srl- Bologna
+Copper tube: Italchimici- Antezzate (Brescia)
+Laser beam temperature measuring device:
+30 Raytheon, USA
+Pressure gauge: Elaborazione - Dipartimento di
+Fisica - University degli Studi di Bologna
+WO 2009/125444 	 PCT/1T2008/000532
+15
+Neutron measuring 	device: 	Elaborazione
+Dipartimento . di Fisica - UniversitA degli Studi di
+Bologna
+Chemical-physical analyses: - Dipartimento di
+5 Fisica - UniversitA degli Studi Bologna.
+WO 2009/125444 	 PCT/IT2008/000532
+16
+CLAIMS
+I. A method for carrying out an isothermal
+reaction of nickel and hydrogen, characterized in that
+5 said method comprises injecting hydrogen into a metal
+tube filled by a nickel powder, even of nanometric
+dimensions, or nickel granules or bars, in a high
+temperature and pressurized hydrogen gas saturated
+environment, thereby generating energy.
+10 	 2. A method according to claim 1, characterized
+in that in said method catalyzer materials are used.
+3. A method according to claim 1, characterized
+in that said high temperature is preferably from 150 to
+500 ° C.
+15 	 4. A method according to claim 1, characterized
+in that said hydrogen is injected into said nickel
+powder filled metal tube at a pressure preferably from
+2 to 20 bars.
+5. An apparatus for carrying out an exothermal
+20 reaction by a method according to claim 1,
+characterized in that said apparatus comprises a metal
+tube filled by a nickel powder and heated to a set
+temperature, hydrogen being further injected into said
+metal tube.
+25 	 6. 	An apparatus according to claim 5,
+characterized in that said nickel powder contains
+catalyzer materials.
+7. An apparatus according to claim 5,
+characterized in that said hydrogen is injected into
+30 said tube under a non-constant pulsating pressure.
+8. An apparatus 	according to claim 5,
+characterized in that said temperature is variable.
+WO 2009/125444 	 PCT/1T2008/000532
+17
+9. An apparatus 	according to claim 5,
+characterized in that said nickel powder filled metal
+tube is coated, on an outside thereof, by a jacket of
+water and boron, or steel and boron, and by a lead
+5 layer.
+10. An apparatus according to claim 9,
+characterized in that said lead layer is coated by a
+steel layer.
+11. An apparatus according to claim 5,
+10 characterized in that said apparatus comprises a steel
+pipe therethrpugh a flow of water, or other fluid, is
+caused to flow, said steel pipe being anempted in a
+heat exchanging relationship with said metal tube.
+12. An apparatus according to claim 5,
+15 characterized in that said nickel powder is a nickel
+isotope powder.
+13. An apparatus according to claim 5,
+characterized in that said nickel powder is replaceable
+by a copper powder.
+20 	 14. An apparatus according to claim 5,
+characterized in that said apparatus is an apparatus
+module susceptible to be series and/or parallel coupled
+with like apparatus modules.
+15. An apparatus according to claim 5,
+25 characterized in that said exothermal reaction is a
+multiple exothermal reaction, adapted to provide
+different atoms depending on an amount of protons
+interacting with nickel nuclei.
+WO 2009/125444 	 PCT/1T2008/000532
+1/4
+106 (107)
+105
+4
+7(102)
+2(100)
+8(103) --11.
+9 2gv.
+105
+FIG. 1
+WO 2009/125444
+
+PCT/IT2008/000532
+2/4
+FIG. 2
+WO 2009/125444 	 PCT/IT2008/000532
+3/4
+Label:powder Small Ball dot left bottom
+kV:20.0 	Tilt:0.0 	Take-off:35.0 Det Type:E314C Res:139 	Amp."
+FS : 237 Lsec : 97 30-Jan-2008 17:21:58
+rill
+i
+i
+1
+1
+1
+1
+I
+zn i
+Ni
+l i 	 M
+1 _Si 	ii 	:1 	i ,: 	. CuM
+i Zn
+1 	.
+1
+•t 	t '
+
+II iiii l .igi__ 	 , 	..'l 	Ad
+,i,
+Li _t _.,__.:LIIt'...0iii:' , ,,,.• 0 : A ei ,. 1 A 	,,,a — lailli=-1 ;"takA'rkiatiiiii.iliiiii .
+2.00 	4.00 	6.00 8.00 10.00 12.00 	14.00
+:50.0
+FIG. 3
+WO 2009/125444
+
+PC T/IT2008/000532
+4/4
+Label:powder Small Ball dot left bottom
+kV:20.0 	Tilt:0.0 Take-off:35.0 Det Type:E3/4C Res:139 	Amp."
+FS : 822 Lsec : 109 30-Jan-2008 17:27:03
+gti
+I
+I
+Zr:
+i Zr•
+4  .,t1.4 a ,
+2.00 4.00 6.00 8.00 10.00 12.00 	14.00
+FIG. 4
+m.r
+MI I Crwin I IlJnIAL. OC/411m.r7 I-Mrs
+■••■
+-In 1
+International application No
+PCT/IT2008/000532
+A. CLASSIFICATION OF SUBJECT MATTER 	 '
+INV. 	CO1B3/00
+ADD. CO1B6/02
+According to International Patent Classification (IPC) or to both national classification and IPC
+B. FIELDS SEARCHED
+Minimum documentation searched (classification system followed by classification symbols)
+CO1B
+Documentation searched other than minimum documentation to the extent that such documents are included in the fields searched
+Electronic data base consulted during the international search (name of data base and, where practical, search terms used)
+EPO -Internal
+C. DOCUMENTS CONSIDERED TO BE RELEVANT
+Category* Citation of document, with indication, where appropriate, of the relevant passages Relevant to claim No.
+X
+Y
+Y
+EP 1 551 032 A (OSAKA IND PROMOTION ORG
+[JP] ARATA YOSHIAKI [JP])
+6 July 2005 (2005-07-06)
+paragraphs [0014], 	[0043], 	[0046],
+[0064], 	[0073]; 	claims 	1,4,7; 	figure 4;
+example 1
+E. 	CAMPARI, 	S. 	FOCARDI, 	V. 	GABBANI, 	V.
+MONTALBANO, 	F. 	PIANTELLI, 	S. 	VERONESI:
+"Overview of H_Ni 	systems: old experiments
+and new setup"
+5TH ASTI WORKSHOP ON ANOMALIES IN
+HYDROGEN-DEUTERIUM LOADED METALS, ASTI,
+ITALY, 2004, XP002517911
+figures 1,2,9; table 1
+1,3-5,7,
+8,13,14
+2,6,
+9-12,15
+2,6,11,
+12,15
+documents are listed in the continuation of Box C. annex. X 	Further X 	See patent family
+' 	Special categories
+'A' document
+considered
+'E' earlier
+filing date
+'L' document
+which
+citation
+'0' document
+other
+'P' document
+later than
+of cited documents
+defining the general state of the art which is not
+to be of particular relevance
+document but published on or after the international 	 'X'
+which may throw doubts on priority claim(s) or
+is cited to establish the publication date of another
+or other special reason (as specified)
+'T' later document published after the international filing date
+or priority date and not in conflict with the application but
+cited to understand the principle or theory underlying the
+invention
+document of particular relevance; the claimed invention
+cannot be considered novel or cannot be considered to
+involve an inventive step when the document is taken alone
+'r document of particular relevance; the claimed invention
+cannot be considered to involve an inventive step when the
+document is combined with one or more other such docu-
+ments, such combination being obvious to a person skilled
+in the art.
+'8' document member of the same patent family
+referring to an oral disclosure, use, exhibition or
+means
+published prior to the international filing date but
+the priority date claimed
+Date of the actual completion of the international search
+6 March 2009
+Date of mailing of the intemational search report
+06/04/2009
+Name and mailing address of the ISA/
+European Patent Office, P.B. 5818 Patentlaan 2
+NL - 2280 HV Rijswijk
+Tel. (+31-70) 340-2040,
+Fax: (+31-70) 340-3016
+Authorized officer
+Cristescu, 	Ioana
+Form PCT/ISA/210 (second sheet) (April 2005)
+page 1 of 2
+Ini 1 	I-IrrA in./MAL OCririk•ri =run I
+International application No
+PCT/IT2008/000532
+C(ContInuation). 	DOCUMENTS CONSIDERED TO BE RELEVANT
+Category* Citation of document, with indication, where appropriate, of the relevant passages Relevant to claim No.
+Y
+A
+A
+S. 	FOCARDI, 	V. 	GABBANI, 	V. 	MONTALBANO, F.
+PIANTELLI, 	S. 	VERONESI: "Evidence of
+Electromagnetic radiation from Ni-H
+Systems"
+11TH INTERNATIONAL CONFERENCE ON CONDENSED
+MATTER NUCLEAR SCIENCE 2004, MARSEILLE,
+FRANCE, 2004, 	XP002517912
+figure 2
+CERRON-ZEBALLOS E ET AL: 	"INVESTIGATION
+OF ANOMALOUS HEAT PRODUCTION IN NI-H
+SYSTEMS"
+SOCIETA ITALIANA DI FISICA, NUOVO CIMENTO
+A, 	EDITRICE COMPOSITORI, 	BOLOGNA, 	IT,
+vol. 	109A, 	no. 	12,
+1 December 1996 (1996-12-01), pages
+1645-1654, XP008103248
+ISSN: 0369-3546
+the whole document
+G. 	MENGOLI, 	M. 	BERNARDINI, 	C. 	MANDUCHI, G.
+ZANNONI: 	"Anomalous heat effects
+correlated with electrochemical hydriding
+of nickel"
+IL NUOVO CIMENTO,
+vol. 	20D, 	no. 	3, 	1998, 	pages 331-352,
+XP002517910
+page 332
+•
+2,6,9-12
+1-15
+1-15
+Form POT/ISA/210 (continuation of second sheet) (April 2005)
+page 2 of 2
+INTERNATIONAL SEARCH REPORT
+Information on patent family members
+International application No
+PCT/IT2008/000532
+Publication
+date
+Patent document
+cited in search report
+Publication
+date
+Patent family
+member(s)
+EP 1551032 A 06-07-2005 AU
+WO
+US
+2003271180 Al
+2004034406 Al
+2006153752 Al
+04-05-2004
+22-04-2004
+13-07-2006
+Form PC17ISA/210 (patent family annex) (April 2005)

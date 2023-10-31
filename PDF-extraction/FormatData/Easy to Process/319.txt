@@ -1,0 +1,159 @@
+Bertalot, L., et al. Analysis of Tritium and Heat Excess in Electrochemical Cells With Pd Cathodes. in Second
+Annual Conference on Cold Fusion, "The Science of Cold Fusion". 1991. Como, Italy: Societa Italiana di Fisica,
+Bologna, Italy.
+
+ANALYSIS OF TRITIUM AND HEAT EXCESS IN
+ELECTROCHEMICAL CELLS WITH Pd CATHODES
+
+L. Bertalot, L. Bettinali, F. De Marco, V. Violante
+Associazione EURATOM-ENEA sulla Fusione, Centre Ricerche Energia Frascati,
+C.P. 65 -00044 Frascati, Rome, Italy
+
+P. De Logu, T. Dikonimos Makris, A. La Barbera
+ENEA, Dipartimento INN-PCM, Centre Ricerche Energia Casaccia, Rome, Italy
+
+
+INTRODUCTION
+The origin of the excess heat [1,2] developed during the electrolysis of heavy water in
+“Cold Fusion” cells is up to now open to question. The necessary presence of deuterium suggests
+that fusion reactions can be partially or totally responsible for the generation of excess heat.
+Experience has shown neutron emission to be sporadic and very weak; on the other hand
+tritium was found in small but detectable amounts [3,4]. Moreover if tritium accumulates in the
+solution it can be comfortably measured postmortem.
+Two experimental campaigns were performed:
+The first one in Frascati having as main objective the detection of tritium excess.
+Particular care was exerted to avoid any tritium and hydrogen contamination.
+The second one at the Texas A & M University in the framework of a scientific
+collaboration, having as objective the excess of heat and tritium measurement.
+
+EXPERIMENTAL
+Electrochemical cells
+Two type of cells were used.
+The first one was used in Frascati for nine tests (named C1 to C9) and is shown in Fig. la.
+The vessel is made of glass and the lid of teflon. The lid is screwed on the top of the cell. The
+connector for the Pd cathode is a nickel tube containing a thermocouple to detect the cathode
+head temperature. The tube is insulated from the solution by means of a glass tube sealed with
+araldite. Different anodes and dimensions were used. Some details are reported in Table I.
+The second type of cells was used at TAMU for three experiments (named C10 to C12)
+and it is shown in Fig 1b. It was made of stainless steel with a teflon lid. The lid is screwed on
+the top of the cell and it has two connectors and a valve to permit a free gas evolution. The
+connector for the Pd wire is a Pt wire spot welded and insulated from the solution by using a
+teflon tape wrapped around it.
+All the Pd cathodes were annealed under vacuum before use. In the Frascati experiments
+they were treated at 1000 °C for 10 h. In the calorimetric tests the cathodes were treated at 950
+°C for 1 h. In every case the Pd cathodes were washed in ethanol, rinsed in water and in heavy
+water just before the cell assembling. Pd wires from Engelhard 99.95% were used for the cells Cl
+to C4, from Johnson & Matthey 99.9997% for the cells C5 to C9 and from Alpha Product
+99.997% for the cells C10 to C12. Platinum and Nickel from Carlo Erba 99.5% were used as
+anodes for the cells Cl to C9 and platinum from Alpha Product 99.9995% for the cells C10 to
+C12. Heavy water from Fluorochem Limited 99.9% atomic in deuterium for the cells Cl to C9
+and from Aldrich with 99.8% atomic in deuterium for the cells C10 to C12 was used. Both had
+similar activity of about 185 dpm/ml. Lithium from Carlo Erba 99.9% for the cells Cl to C9 and
+from Aldrich 99.9% for the cells C10 to C12 was used. Deionized water for the cell C11 and
+Sodium deuteroxide from MSD Isotopic 99.8% atomic in deuterium for the cell C12 were used.
+
+Fig. la - Frascati cell    Fig. 1b - TAMU cell
+
+Diagnostics
+The neutron detection equipment consists of three 3He neutron counters and a BF3
+counter, all embedded in polyethylene. One of the 3He detectors is used to monitor the
+noise/background signal. The overall efficiency of the counters are in the order of 5 10-5 - 10-4
+cts/n. The minimum detectable neutron emission rate is 30 n/s at the source. No significant
+neutron emission rate above the minimum detectable rate has been observed in all the
+experiments.
+The tritium measurements, within ±3% error, have been carried out by means of a BETA
+counter 2560 XL Packard, having 33% efficiency for tritium. The background level was 4 CPM.
+The tritium measurements have been performed by taking into account the radiation energy
+spectrum emitted by the liquid scintillator.
+Chemical and microstructural characterization of the cathodes was performed by using an
+high resolution scanning Auger spectrometer Perkin Elmer model 600.
+Calorimetry
+A commercial available 4 cell Hart Scientific Model 8244 heat conduction calorimeter
+was used to measure the heat output from the electrochemical cells. It was possible to operate
+with 4 cells at the same time in a power range up to 2 W per cell. The calorimeter is based on the
+Seebeck effect. A potential proportional to a difference of temperature is generated. Such a
+potential is then directly proportional to the heat flow coming from the cell. All the four cells
+have a twin cell. The system is mounted in a large aluminum block that is submerged in a
+constant temperature water bath. When a temperature change occurs in the working cell, a
+potential is generated and registered. The twin cell design has the advantage of canceling
+external thermic effects. The signals of the twin cells are connected in a differential way. This
+connection results in a long-term stability and reproducibility of the base line. The system can
+easily be calibrated by means of internal resistors and 5 mW is the maximum error estimated.
+Table 1 - Synopsis of the Cells.
+Cells Anodes Cathodes Pd wire (mm) Current density (mA/cm2) Time (day)
+Cl Pt(a) 1 × 37(d) 100-700 46
+C2 Ni(a) 0.5 × 82(d) 100-700 36
+C3 Ni(a) as C2(d) 100-700 34
+C4 Ni(a) as C2(d) 100-1200 33
+C5 Ni(a) Tube = 6.3(e) × 82 × 0.15 100 16
+C6 Pt(b) AsC5(e) 60 84
+C7 Pt(b) as C2(e) 100-650 66
+C8 Pt(b) as C2(e) 100-650 82
+C9 Pt(b) AsC2(e) 100-650 82
+C10 Pt(c) 0.5 × 10(f) 500-950 62
+C11 Pt(c) as C10(f) 600-800 60
+C12 Pt(c) as C10(f) 600 48
+
+(a) Gauze and (b) Coil from Carlo Erba. (c) Coil and (f) from Alpha Product. (d) from Engelhard
+(e) from Johnson and Matthey
+
+Fig.2 - Tritium enrichment vs time in C3
+
+Fig. 3a – Onset of the excess heat
+
+Fig. 3b - End of the excess heat production
+
+RESULTS AND DISCUSSION
+Tritium measurement
+The tritium measurement relative to the cell C3 is shown in Fig. 2. The continuous line
+shows the isotopic tritium enrichment by assuming 2 as separation factor. The content of tritium
+in all the experiments is in agreement with the expected isotopic enrichment even if the
+behaviour of the single cells is different on a day to day basis. In two of them sharp, short (<12h)
+increases occurred a few times, that can be fitted with a separation factor larger than 5.
+Heat Measurement
+One cell put of three gave an excess of heat (cell C10). In Fig. 3a and 3b two diagrams
+relative to heat versus time are shown. The cell was first operated for about 23 days by imposing
+different current densities and applying current pulses up to 1.4 A/cm2 (for a maximum time of
+30 min). During the following five days the cell was maintained at 600 mA/cm2. Then the
+current density was enhanced up to 950 mA/cm2 for three hours (i.e. the relaxation time of the
+calorimeter) and then decreased at 850 mA/cm2. After three hours an excess of heat generation
+rate of about 50 mW was detected.
+To verify if the system were working well 111 mW were superimposed by means of the
+internal resistor and after three hours exactly 111 mW more were measured (see Fig. 3a). The
+excess of heat generation rate lasted about 10 days, at that moment the current density was again
+increased up to 950 mA/cm2 for a time and then decreased at 750 mA/cm2: the excess heat
+generation disappeared (see Fig. 3b). During the 10 days such excess ranged between 50 and 80
+mW, that means 12-20% of the power input. The total energy produced was about 57 kJ (>200
+MJ/mol Pd). During the last three days of excess of heat generation rate, the gas evolution was
+several times measured by means of a flow meter to verify if any recombination took place. The
+result was 100% ± 5% of the expected flow rate. To produce an excess of heat of about 50-80
+mW a recombination of 25-40% should be considered, which is rather far from the gas evolution
+measured.
+Auger analysis
+Semiquantitative Auger analysis performed on cathodes has shown a thick scale of about
+200-300 Å mainly constituted of Oxygen, Iron and Calcium and lesser quantity of Copper,
+Platinum, Silicon and Carbon. Similar contaminants have been found on cathodes used at TAMU
+and at Frascati.
+
+
+CONCLUSIONS
+
+• Nine cells were set up in Frascati aimed to detect tritium as the indicator for D-D
+fusion, while trying to avoid contamination.
+• No tritium above the electrochemical isotopic enrichment was found.
+• Three cells were set up at Appleby’s laboratory at TAMU inside a commercial
+calorimeter.
+• One cell gave an excess power ranging between 12 and 20% (25-40 W/cm3) for about
+10 days producing about 57 kJ.
+• Post mortem Auger analysis on cathodes revealed similar contaminants.
+
+REFERENCES
+
+1) M. Fleischmann, S. Pons, M.W Anderson, L. J. Li, and M. Hawkins, J. Electr.
+Anal.Chem. 287 (1990) 293.
+2) J. Appleby, Y. J. Kim, C. R. Martin, O. J. Murphy and S. Srinivasan, “Proc. Workshop
+Cold Fusion Phenomena” Santa Fe, New Mexico, May 22-25 1989.
+3) J.O’M.Bockris, G.H.Lin, N.J.C.Packham, Fusion Tech. 18 (1990) 11.
+4) E.Storms, “Review of Experimental Observation about the Cold Fusion Effect”. To be
+published in Fusion Techn.
+

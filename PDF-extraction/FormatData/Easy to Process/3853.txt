@@ -1,0 +1,483 @@
+Conference Proceedings Vol. 70
+"ICCF8"
+F. Scaramuzzi (Ed.)
+SIF, Bologna, 2000
+NEW ELECTROLYTIC PROCEDURE FOR THE OBTAINMENT OF VERY
+HIGH HlPd LOADING RATIOS. PRELIMINARY ATTEMPTS FOR ITS
+APPLICATION TO THE D-Pd SYSTEM
+1 1 2 2
+A. Spallone. F. Celani. P. Marini. V. Di Stefano
+(1) INFN-LNF. Via Enrico Fermi, 00044 Frascati (Roma), Italy
+(2) EURESYS, Via Lero 30,00129 Roma, Italy
+
+Abstract
+A new electrolytic protocol is proposed, capable of insuring a very high Hydrogen loading of
+thin Palladium wires. The main characteristic of the procedure consists in the use of a particular
+electrolyte containing very small amounts of alkaline-earth metals dissolved in a diiuted acid
+solution (H20+HCl).
+The addition of alkaline-earth metals to the electrolyte appears to be decisive for the
+achievement of HlPd loading ratios close to 1. Two independent Research Groups have tested the
+protocol with similar results.
+Probably because of the presence of contaminants in the heavy water, less satisfactory results
+have been obtained for the DlPd loading ratios (best result: RlRo = 1.52; DlPd ;: 0.97)
+
+Introduction
+It is generally known that in cold fusion experiments, in order to obtain stable and reproducible
+excess heat it is necessary to achieve and maintain very high DlPd (» 0.85) loading ratios [Ref. I].
+The poor results, especially from the point of view of their reproducibility, generally achieved
+by the conventional electrolytic techniques, based on the use of LiOH solutions, induced us to
+develop a completely different approach.
+In order to increase the cathodic overvoltage, which is known to be the main controlling.
+parameter of the H(D) Pd loading, we tried to modify the nature of the cathode, by inducing the
+formation of a very thin layer of an alkaline-earth carbonate on its surface [Ref. 2].
+After the fust encouraging results, we decided to carry out a systematic work, starting with
+light water, in order to define the best composition of the electrolyte and the most effective loading
+procedure.
+With reference to the paper presented by Celani et al. [Ref. 3], which is substantially a
+comprehensive panorama over all the activities carried out by our group in the last two years, the
+present one shows in detail the most significant results of the experimental work.
+Experimental Apparatus
+A schematic diagram of the experimental set-up is shown in Figure 1. The electrolytic cell
+consists of a Pd cathode (a thin wire - diameter 50 IlIll - length 19 cm), a Pt anode of the same
+length (diameter 200 1lIll) set at a distance of 1.5 - 2 cm form the cathode, both plunged iIi a glass
+191
+beaker filled with about 400 m1 of H20+HCI solution. The cell is placed into a two litre water bath
+in order to reduce the temperature fluctuations around the room temperature (usually kept at 22°C).
+Cell, bath and room temperatures are continuously monitored and recorded.
+The power supply can operate as a constant D.C. current generator or, optionally, as a constant
+D.C. voltage generator. The cathode is grounded. The voltage is applied to the anode electrode
+through a home-made impedance adapter circuit (impedance booster), in order to avoid a current
+feed-back from the A.C. measuring circuit. The latter is essentially composed by a pulse generator
+(having sinusoidal, square and triangular wave selection) and a ground home-made coupling circuit
+(ground return, both for the D.C. and A.c. generators):
+The D.C. generator can be applied to the edge points A or B of the anode whereas the A.C.
+generator can be applied to the edge points C or G of the cathode. The Pd wire voltage pick-ups
+C,D,E,F,G allow for the measurements of the resistances of the correspondent wire segments (CD=
+bottom, DE=down, EF=up, FG=top). In the present work the length of the CD and FG segments has
+been set to 0, so that in the following, reference will be made to only two segments, i.e. DE=
+"down" and EF= "up", both of length 9.5 cm.
+The loading ratio is inferred by means of the well known relationship [Ref.s 4,5,6] between
+resistance and H(D) content in the Pd matrix (Fig. 2) and continuously monitored.
+The Pd cathode, because of its favourable surface/volume ratio, allows for a faster Hydrogen
+absorption and its high resistivity improves both the accuracy and the precision of the
+measurements. Furthermore, the lIr dependence of the electric field around the wire allows for a
+sharp increase of the pH value just in its proximity, thus promoting the carbonate precipitation in
+that region only (see after).
+Composition of the electrolyte
+The set of experiments which led us to the fmal choice of the electrolyte composition is
+extensively described in Reference 2. Here only the essentials will be treated.
+It is known that Hydrogen can enter a metal only if it is present on its surface in the form of H
+atoms. In the case of the electrolytic Hydrogen loading of a Pd cathode, after the first rapid
+absorption (absorption isotherm - a+13 phase), the Hydrogen loading progressively slows down
+until it comes to an end, no matter how much is the applied current density. TItis is mainly due to
+the catalytic properties of the Pd surface. In fact, even though Hydrogen atoms are continuously
+formed at the Pd cathode during the electrolysis, they rapidly recombine to form the Hydrogen
+molecule, thus hindering the absorption process, (a fact consistent with the very low overvoltage
+measured with Pd cathodes). It is also known that catalytic surfaces can be poisoned by films of
+
+adsorbed or deposited substances. On the basis of this assumption we tried to alter the Pd surface
+through the local precipitation of inorganic substances. The final choice has fallen upon alkaline
+earth carbonates and among them Strontium carbonate.
+The choice of the alkaline earth metals was dictated by the fact that they do not discharge to
+form a metallic layer, which can eventually hinder the Hydrogen absorption due to the low
+Hydrogen permeability typical of most metals. M ercury, for example, even though it effectively
+poisons the Pd surface, is able to stop any Hydrogen exchange. We found it useful only as an
+extremely thin layer, very hardly controllable through the concentration of Hg ions in the
+electrolyte. Instead, because of its solubility product, the local precipitation of srCo3 is easily
+controlled through Sr++ concentration, pH, and current density. Because of their higher solubility
+product both CaC03 and BaC03 are less effective [Ref. 2u�]. The proper Sr++ concentration range is
+within 30 to 70 �MIl. Sr++ is added as SrClz. By setting the pH at 4.5 with HCI additions, the proper
+CO2 concentration is that one insured by maintaining the electrolyte exposed to open air.
+192
+Experimental
+Effect of Sr++ additions
+After a start-up procedure, common to all experiments, consisting in:
+I) The Pd wire is Joule heated (SOO rnA) in air (up to roughly 600°C) in order to completely
+eliminate occasional residual Hydrogen and to relax mechanical stresses due to the wire
+cold-working.
+2) The cell is filled with pure distilled water (400 cm3).
+3) A small quantity of HCl is added till the pH of the solution is around 4.S (the required
+amount is about 20 j..IM )
+the electrolysis starts with the application of S rnA current. This current value is maintained until the
+cathode reaches a first asymptotic loading value (Fig. 3). At this point the electrolysis current is
+varied according to the following sequence:
+Turned off (partial deloading) - turned on (high current loading till next asymptotic value) -
+turned off (partial deloading)- Turned on (low current loading till next asymptotic value).
+It will be referred to this sequence as to the off-high-off-low (OHOL) current sequence.
+By repeating the sequence, the loading ratios HlPd tend to become higher until a final
+asymptotic value is reached, subjected to no further improvement.
+In order to point out the effectiveness of the Sr addition to the electrolyte a blank test has been
+carried out by operating with an electrolyte containing only HC!.
+In Figure 4, it is shown that the final maximum loading ratio RfRo obtained by the above described
+procedure is "" I.SO.
+At this point the current was turned off in order to allow for a complete deloading of the Pd cathode
+(Fig. 4).
+SrCl2 is then added (SO IlM) to the electrolyte and the electrolysis is started again with the
+same set of conditions (S rnA). The OHOL sequence has then been applied and repeated until a
+final asymptotic value of RfRo of US has been reached (Fig.s S, 6 and 7). Therefore it is proved
+that the Sr addition is decisive for the achievement of extremely low RfRo values.
+Substantially the same results have been obtained by substituting the cr ions with S04 - ones.
+Effect of Hg ++ additions
+Tests using HgCh at a concentration of ",, 100{; M (pH=4.S) have shown that a Hg coating forms
+quickly, thus covering the Pd cathode and blocking the loading at around the peak (RlRo= 1.7S).
+The block could not be removed even by strongly increasing the current or by repeatedly applying
+the OHOL sequence.
+Further tests [Ref. 7] carried out with remarkably lower HgCh concentrations (",, 10-8 M) have
+shown a very slow loading (two days) up to a final asymptotic value of RlRo=1.3S. It was observed
+that even by turning off the current, the deloading rate was extremely low, suggesting that even at
+such a low concentration an impermeable Hg layer fmally forms on the Pd surface.
+In another experiment (Fig. 8), to the Sr++ containing electrolyte, HgCl2 was added up to a
+concentration of 10-5 M. A strong loading occurred (RlRo= 1. 10 and I. IS respectively for "up" and
+"down" sectors). This suggests that Mercury could not form a continuous coating because of the
+presence on the cathode surface of a previously precipitated srCo3 layer.
+Thermal resistivity coefficient of the Pd-H cathode.
+As described in an our previous works [Ref. 8], for the first time we measured the thennal
+resistivity coefficient of the Pd cathode (aT), when RfRo= 1.2. Such a coefficient is known to
+decrease as the H concentration in Pd increases between HlPd=O. 1 (ar 4.1. 10-3 KI) up to
+193
+......
+\0
+.j:>.
+1.1
+1.'
+� 1.4
+1.2
+IlII!.
+IIlInwD. -- _ I 'J
+(ELECTROL vnc CELL)
+Fig. 1-
+Apparatus set-up:
+electrolytic cell, D.C.
+power supply block and
+a.c. resistance measure­
+ment block; electric and
+physical parameters are
+100
+� �. ' � [}+ : l�, � . �
+i
+I
+�
+:.-:
+.
+. ;. '
+law
+� �1i¥.4,�;;'"
+I000O 100000 1I0000
+Hmo I')
+200000
+1.
+2I000O
+Fig. 3 - HCI blank test: beginning of loading + OHOL sequences.
+Fig. 2 -
+Normalised Palladium resi­
+stance versus Hydrogen
+(Deuterium) molar fraction
+in Pd. Peak value is: HlPd=
+0.75, RlRo= 1.78 (Hydrogen)
+and D/Pd= 0.75, RlRo= 2.0
+(Deuterium).
+Maximum gas loading achie­
+ved: H(D)/Pd= 0.95 at RlRo=
+1.4 (1.6).
+�
+2 ..,...,...
+1.8
+1.6
+1.4
+1.2
+0.20 0.40 0.60 0.80
+1.2
+110000
+high ; r::· ... :
+. O:N :=:: ...  ,n ...
+. ' . I
+t!
+� : "
+low
+., ' ' r0�" up .... : . .
+.
+..
+.. .
+.
+.. ·.,.:,�' .. :�� .. ..t· ':';.:f ... 'i
+......... .. :.
+: down
+H(D)lPd
+... .... :..... . . .... .
+"P
+.,4·1······_····)·· '�� ;� f� -: - '!���
+110000 700000 120000 740000
+ttnw(a)
+110000 110000
+100
+10
+Fig. 4 - HCI blank test: final maximum loading; the complete deloading of the
+cathode is shown.
+1.00
+I
+I
+H/Pd=O.7 (2.0.10.3 K·'), which is the maximum H concentration for which there were available data
+[Ref 9]. The result of our measurements at RfRo=1.2 (H/Pd close to 1) is aT = 3.5.10.3 K'.
+A further value of aT;: 6.0.10.3 K·' has been found at H/Pd a bit closer to 1 (RIRo = 1.15).
+These results show that between H/Pd=O.7 and H/Pd '" 1, there must be a minimum value of aT,
+probably rising rapidly in the H/Pd region close to 1. This strongly suggests that a new phase is
+starting to nucleate inside the Pd-H 13 phase.
+Finally, the existence of a change of phase seems to be indicated by the presence of a
+characteristic shoulder (Fig. 4), which appears in the RIRo versus time deloading curve, just after
+the peak has been overcome. The occurrence of the shoulder (roughly around H/Pd=0.65) after the
+peak, might be connected with the end of 13 phase and the beginning of a+13 phase, sequentially
+occurring during the deloading.
+Preliminary Pd-D loading experiments
+When our batch of commercial heavy water was used for preparing the electrolytic solution,
+according to the above described protocol, the best loading obtained was DlPd=O.75. Taking into
+account that our procedure requires the absence of any foreign substance in the electrolyte apart
+from Sr++ ions and CO2, it will be clear that even the small amounts of impurities (inorganic,
+organic and biologic materials) normally present into that commercial heavy water, could have
+seriously impaired the proper formation of the thin layer ofSrC� on the Pd surface.
+Another batch of guaranteed higher purity heavy water was employed and the composition of
+the electrolyte was the same one used for H loading.
+High purity heavy water is remarkably hygroscopic. Consequently, the electrolytic cell was
+excluded from the contact with ambient air. The necessary supply of CO2 was assured by a flow of
+air, dried by bubbling it into concentrated sulphuric acid, and subsequently into heavy water.
+It is to be noted that with the experimental set-up used for D loading, both ends of the up and
+down sectors of the Pd wires were protected with a drop of silicone sealant for a total length of
+roughly 4 mm (about 4% of their length). These portions of the cathode are not in contact with the
+electrolyte and cannot be directly loaded. In this conditions it was found that the maximum
+numerical value of RIRo read by the instruments was 1.96 instead of 2.0. Therefore the values of
+RIRo, reported in the Figures from 9 to 12 are about 2% lower than the correct ones.
+In Figure 9 the effect of the OHOL sequence is shown with some detail. These results are
+rather inferior if compared with the ones obtained with H loading.
+After several attempts it was found effective to increase the deloading time during the off
+portion of the OHOL sequence, allowing for an almost complete deloading. Some of the results are
+shown in Figure 10. After several new OHOL sequence applications a final asymptotic value of
+RIRo=1.62 (at 25°C) was achieved. The current was then increased up to 30 rnA. It can be seen
+that an RIRo value of 1.55 was rapidly achieved. By lowering the applied current the RIRo value
+rose to 1.65. By again increasing the current up to 90 rnA a RIRo value of 1.52 was obtained (Fig.
+11). In the same figure it is shown that by turning the current off: the deloading process proceeds
+regularly with a peak of RIRo at 1.95. It should be noted that the deloading rate of the D loaded
+wire is significantly lower than that observed with the deloading of the H-Ioaded wire (Fig. 4). Such
+a difference could be due to the difference between the length of the deloading time within the
+OHOL sequence.
+The previously reported "loading ramps" effect [Ref 10] has been observed to occur
+sometimes when loading is quite high (RIRo< 1.75). We observed this effect to occur several times
+especially in the "up" wire sector (Fig. 12), when RIRo decreases under 1.65 (cycles oscillating
+between 1.643 and 1.647, with a period roughly of 1 hour, even lasting for about I day and
+disappearing when RIRo rises up over 1.66).
+In a previous paper [Ref II], we conjectured that this effect could be located within just a few
+small fractions of the wire achieving very high loading (RIRo< 1.5), thus giving rise to "bursts" of
+195
+.-
+1.0
+0\
+0
+�
+100
+:: r··. -" j��t-. · · .·.··:.·.· •. ·.· ·.
+·
+·.· ·.·.·.· .· · •• ··•·• : .•. .•
+.
+•. ..••.. .• � "
+. . .. :�: 1iL.:.;..: .. ':' .. :. .. :.:..::.:: . :.:.:�.:.:..i.i,;" • . � ' �"H....at+'. "'i":':"':"':':� 1.2
+38000 70000
+time!l)
+108000
+Fig. 5 - Sr test: beginning of the loading + OHOL sequence; RlRo is reduced
+from 1.75 to 1.55 (back to low current).
+.,..,:;...-\��
+1.8
+1.6
+� 1.4
+1.2 ·;:.'·;·: ..·.:;1· low
+36000 38000 40000 42000
+_ ...... -_ ... ,;_ . .,...,�
+�·.;.\o;)r:,'·· . low
+44000 46000 46000 50000
+timet.'
+100
+10
+Fig. 6 - Sr test: detail of OHOL sequence ("down" sector); RlRo= 1.40 is
+achieved at high current.
+n c
+I j �
+I n c
+I I j
+l>
+-I
+1.8 I- ... : .,'.: . ........ . u�
+0 0: ii!
+, . : 1.2
+100000
+. . . -. ... ... . . : . . . . . . . . ... . . .  � . .  ........ ,.,:1 100
+........... - . . . . .. : . . . l low : :
+. ���II:>iII' ... � : ' . . . � '. " '� �':'4�·�r..'·\J c.M : ..
+128000
+tlme!l)
+180000 178000
+Fig. 7 - Sr test: maximum final loadings: RlRo= 1.15 at low current (5 rnA, 7 V)
+and 1.05 at high current (120 rnA) .
+1.8
+1.6
+down � / ..... .... ' .........  � .• :.�.-.-� ..
+I
+'-: ...... . : t� ��":-.L .. ,nl$lh .. .... ; .. �/�;.-'j 100
+up : , ..... __ \.0"" ..... .  up ,. �
+2
+I i
+� 1.4 r :r�;��;;."··�·�: : : irf�f I
+(2 ··�t·"'·i'.' .... ) . : low
+j
+1 ..
+:off :
+3000
+;/ow
+6000
+tlm.t.,
+eooo
+10 !
+up
+12000
+Fig. 8 -�: an addition ofHg to the solution (containing Sr) and a sharp increase of
+electrolytic current, allow fur a fust and strong looding .
+1.95
+1.'
+0 II:
+1.8S "
+,..
+1.7S
+1,7
+8.000
+dOW'"
+J­i
+. 1 ·
+_ _  h�h _ _
+.......... � •.• " ... , ""I"!.'''''�.
+low
+u
+.0000 92000
+0';
+._�._ �_: ... . v_ . . . .
+high . ,
+�:i:·";.�.t ...
+84000
+timo(s)
+high
+96000 98000
+100
+down
+10
+100000
+n
+i
+3" �
+Fig. 9 - DzO test: detail of OHOL sequence; maximum loading: RlRo --+ 1.72
+,"-11- ..
+i high ! high
+t�""!.....,........ ·."
+down
+r�:;'i"'''''6_ij;,i;o .. ::;:C:-:" _ . .-........ -.
+low
+down
+OFF
+- -
+tim. (a)
+1. n <
+; a
+'3 �
+100000
+Fig. 10 - Dp test: final value after the new OHOL sequence (RIRo == 1.62); the
+current was switched up to 30 rnA and RIRo = 1.55 was achieved.
+& "
+1.'
+1.8
+1.7
+1.8
+1.'
+high: if
+180000 200000 220000
+timo(a)
+100
+10
+240000 280000
+n
+i
+3" �
+Fig. 11- hlP test: starting from RlRo= 1.65, by increasing the current up to 90
+rnA, RIRo= 1.52 was obtained. In OFF, a very slow deloading occurs.
+1.7!
+1.746
+1.74
+1.731
+0 II:
+1.73 Ci
+1.7215
+1.72
+1.7115
+1.71
+178000 1 ..... 1 ..... 1I0000 1HOOO
+tim. (a)
+200000
+..
+..
+.. ;;
+3 .., $
+� 30 e
+;0
+!i
+28
+'T-"'"--,,
+-..
+'T�
+20
+11
+2OtOOO 210000
+Fig. 12 - Dp test: detail of some typical loading "ramps" occurring (for RIRo<
+1.75) at low current for the ''up'' sector only.
+heat production which locally rise the wire resistance, but that are on the average too small to be
+detected by the sensors as cell temperature rise.
+
+Conclusions
+
+In conclusion a protocol for the obtainment of high H/Pd and D/Pd values has been
+developed, in agreement with the hypothesis of a modification of the catalytic properties of the Pd­
+cathode surface, through the formation of thin layers of srCo3, by local precipitation due to pH
+increase at the cathode surface.
+The Pd-H loading protocol has been tested by Pirelli-Cavi SpA Research Laboratory (Milan),
+by Dr D. Garbelli Group (under the supervision of Ing. F. Fontana) and the Stanford Research
+Institute (CA), by Dr P. Tripodi Group (under the direction of Dr M. McKubre) and was found to
+be effective. In particular by the PireIli Group has shown detailed evidence of the deposited layer on
+the Pd surface through the use of a SEM apparatus (as it is reported by Dr Garbelli at this same
+Congress).
+Acknowledgements
+We are indebted to Eng. Alfredo Mancini for his precious support. We are grateful to Dr.
+Daniele Garbelli and Eng. Flavio Fontana for their important help and we want to thank Dr Paolo
+Tripodi and Dr Mike McKubre for their useful suggestions. Finally, we wish to thank Prof Sandro
+Pace appreciating so much his useful criticism.
+References
+[1] M.e.H. McKubre et aI. Frontiers of Cold Fusion (proc. ICCF3, 1992, Nagoya, Japan), 5(1993)
+[2] F. Celani, A. Spallone et aI. "High Hydrogen loading of thin Palladium wires through alkaIine­
+earth carbonates' precipitation on the cathodic surface. Evidence of a new phase in the Pd-H
+system." Published by LNF-00/006 (P), 6 Marzo 2000 --- To be published by Physics Letter
+A
+[3] F. Celani, A. Spallone et aI. "A study on the electrochemistry parameters to achieve reproducible high
+HlPd values in relation to 'anomalous' excess heat; proteobacteria contamination problematic."
+Submitted to the IV Workshop on Anomalies in Hydrogen/Deuterium Loaded Metals, Conf
+Proc. 22-24 Oct. 1999, Asti, Italy
+[4] B. Baranowski and R. Wisniewski (1969), Phys. Stat. Sol. 35, 539
+[5] J.e. Barton, F.A. Lewis and I. Woodward (1963), Trans. Faraday Soc. 59, 1201
+[6] M. McKubre et aI. Con! Proc. ICCFI (Salt Lake City, Utah) March 28-31 1990, p.20-31
+[7] A. Spallone, F. Celani et aI. "A reproducible method to achieve very high (over 1:1) H/Pd
+loading ratio using thin wires in acidic solution with addition of very low concentration
+impurities." Submitted to the IV Workshop on Anomalies in Hydrogen/Deuterium Loaded
+Metals, Conf Proc. 22-24 Oct. 1999, Asti, Italy --- Published by INFN: LNF-OO/OJ7 (P). 27
+Giugno 2000
+[8] P. Marini et aI. XXI Secolo Scienza e Tecnologia, Anno X - Num. 1, pg. 34-41 (1999)
+[9] B. Baranowski, Filipek et aI. (1990), J Less Common Metals, 158, 347
+[10] F. Celani, A. Spallone, P. Tripodi et aI. "Deuterium overloading of palladium wires by means
+of high power �s pulsed electrolysis and electromigration: suggestions of a 'phase transition'
+and related excess heat." Physics Letters A, 214 (1996) 1-13
+[11] A. Spallone, F. Celani et aI. "A preliminary D/Pd study: anomalous resistivity transition
+effect."
+"Asti Workshop on Anomalies in Hydrogen/Deuterium Loaded Metals" (SIF-Conf Proc. Vol.
+64 pg 7-16, Asti 27-30 Nov. 1997) Edit by W.J.M.F. Collis, Compositori-Bologna, Italy
+(1999).
+198

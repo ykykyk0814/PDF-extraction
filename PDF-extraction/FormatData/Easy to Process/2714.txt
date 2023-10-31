@@ -1,0 +1,644 @@
+1
+McKubre, M.C.H., et al. Isothermal Flow Calorimetric Investigations of the D/Pd System. in Second
+Annual Conference on Cold Fusion, "The Science of Cold Fusion". 1991. Como, Italy: Societa Italiana di
+Fisica, Bologna, Italy.
+ISOTHERMAL FLOW CALORIMETRIC INVESTIGATIONS OF
+THE D/Pd SYSTEM
+By: Michael C. H. McKubre, Romeu Rocha-Filho, Stuart I. Smedley,
+Francis L. Tanzella
+SRI International
+and
+Steven Crouch-Baker, Thomas O. Passell, Joseph Santucci
+Electric Power Research Institute
+
+INTRODUCTION
+An experimental program was undertaken to explore the central idea proposed by
+Fleischmann et al.1 that heat, and possibly nuclear products, could be created in palladium
+lattices under electrolytic conditions.
+Three types of experiments were performed to determine the factors that control the extent of
+D loading in the Pd lattice, and to search for unusual calorimetric and nuclear effects. It is the
+purpose of this communication to discuss observations of heat output observed calorimetrically in
+excess of known sources of input heat.
+The central postulate guiding the experimental program was that anomalous effects
+previously unobserved or presently unexplained in the deuterium-palladium system occur at a
+very high atomic ratio D/Pd. Emphasis was placed on studying phenomena that provide a
+fundamental understanding of the mechanism by which D gains access to the Pd lattice, and how very
+high loadings (near, at, or perhaps, beyond unity) can be achieved and maintained.
+Measurements of the interfacial impedance and of the Pd cathode voltage with respect to
+a thermodynamic reference electrode were made in order to characterize the electrochemical
+kinetic and thermodynamic processes that control the absorption of D into Pd.
+Measurements of the Pd solid phase resistivity were used to monitor on-line, the degree
+of loading atomic ratios, specifically D/Pd, H/Pd and H/D. Calibration of the resistance ratio -
+atomic ratio functionality has been made by reference primarily to the works of Baranowski2-4 and
+Smith5-6, but also by volumetric observation of the displacement of gas during loading in a closed
+system at constant pressure and temperature.
+2
+
+The overall conclusions of this study are that, by careful control of the electrode
+pretreatment, the electrolyte composition and the current density, it is possible to load Pd to an atomic
+ratio D/Pd >~ 1, and to sustain this loading for periods of weeks.
+Calorimetric experiments were performed in palladium rods, highly loaded with D and/or
+H, and electrolyzed at substantial current densities (typically 300-600 mA cm-2, but up to 6400
+mA cm-2) for considerable periods of time (typically 1000-2000 hours). The application of
+knowledge gained from the independent loading studies was essential in achieving these
+conditions.
+Our calorimeters were designed with the philosophy that in precise calorimetry, and in the
+search for unusual reaction products, it is desirable to have a closed system, and a knowledge at
+all times of the composition of the reacting system. All experiments were performed with closed
+and sealed electrochemical cells operating from 40 to 10,000 psi above atmospheric pressure.
+Axial resistance measurements were made to monitor the D/Pd or H/Pd ratio.
+Approximately 30 experiments have been performed with flow calorimeters operating at
+constant power input. The calorimeters were designed and constructed with the following
+features:
+ Conceptually simple system based on the first law of thermodynamics.
+ Maintenance of complete control of operating parameters (including cell
+temperature).
+ A large dynamic range of heat input and output (0.1 - 100 W).
+ On-line monitoring of all important variables.
+ Multiple redundancy of measurement of critical variables e.g.
+temperature.
+ High accuracy and precision (the greater of 10 mW or 0.1%).
+ Known sources of potential error yield conservative estimates of output
+heat.
+ Steady state operation leading to simple analysis.
+EXPERIMENTAL METHODS
+Two systems of flow calorimeters were designed in accordance with the principles
+outlined above. One system accommodated up to four large electrochemical cells (working
+volume up to 200 cm3 and power input ≥ 100W). The other accommodated three “small” cells
+(working volume 50 cm3 and power input up to ~ 30 W).
+These two systems had several features in common. In both, a sealed electrochemical
+cell was fitted with a helically wound compensation (and calibration) heater and sheathed with
+axially oriented heat exchanging fins. This unit was immersed directly in the calorimeter heat
+transfer fluid inside an isothermal and insulating boundary (the calorimeter). The isothermal
+boundary was itself immersed in a well regulated (± .003°C) bath of the same fluid. In early
+experiments this fluid was silicone oil, chosen for its low heat capacity, low corrosivity, and its
+good electrical insulation properties. In recent experiments the calorimeter fluid was water for which
+the heat capacity is better known and exhibits smaller dependence on temperature.
+3
+The heat transfer fluid was pumped from the bath, past the cell inside the calorimeter
+volume, using FMI (QV-OSS Y) constant displacement pumps. The mass flow rate was determined
+by pumping the flow to an auto siphon device placed on a digital balance. The
+control/measurement computer polled the balance periodically to determine the average mass
+flow rate as δm/δt
+All experiments were performed with thermodynamically closed electrochemical cells at
+D2 partial pressures between ambient and ~10,000 psi. In high pressure cells the charging current
+was sustained by the anodic reaction of ½ D2 + OD- → D2O + e- (in base). At higher anodic
+current densities or low D2 partial pressures, O2 was evolved at the anode. A large area catalyst was
+provided in the head space of the cells to recombine evolved O2 and D2 so that the net reaction in all
+cells after the Pd rod is loaded is D2O → D2O, for which the thermoneutral voltage is zero.
+Constant current or slowly ramped current conditions were used in all cases. Commonly,
+experiments were performed electrically in series in order to test the effects of different variables
+e.g. D2O versus H2O. Under current control, the cathode voltage and cell voltage frequently were
+observed to fluctuate significantly, particularly at high current densities in low pressure cells where
+the presence of large D2 and O2 bubbles disrupted the electrolyte continuity. Three electrode
+potentiostatic control, or two terminal voltage control of a series string, in the presence of a fluctuating
+load (cell resistance) will cause a fluctuation in both the cell voltage and current and make an
+unmeasured contribution to the input power (that may be interpreted incorrectly as excess heat)
+unless the rms levels are monitored. On the other hand, if the cell current is provided from a source
+that is sensibly immune to noise and level fluctuations, then the current would operate on the cell
+voltage (or resistance) as a scalar. As long as the voltage noise or resistance fluctuations are random,
+no unmeasured rms heating can result under constant current control.
+The power input to the calorimeter by the electrochemical current was considered to be the
+product of that current and the voltage at the isothermal boundary. Under experimental
+conditions this input power changed due to voltage or resistance variations in the cell, or at times
+when the current was ramped. This had two undesirable consequences. A change in input power
+changed the cell temperature so that the electrochemical conditions were no longer under control. A
+change in the temperature also moved the calorimeter from its steady state as the calorimeter
+contents took up or released heat. To minimize these effects, a compensation heater was used to
+correct for changes in electrochemical power so that the sum of the heater and electrochemical
+power input to the calorimeter was held constant. A computer controlled, power supply was used to
+drive the compensation heater element operated in galvanostatic mode in order to avoid possible
+unmeasured rms heat input. This heater also was used for calorimeter calibration, where the input
+power was measured as the product of the heater current and voltage at the isothermal boundary.
+Figures 1 and 2 show schematic detail of the small and large calorimeter vessels.
+Different strategies were employed in these two designs to minimize the conductive heat loss
+through the many wires which enter the vessel for electrical sensing and current control. A simple
+labyrinth design was used in the small calorimeter in which the electrical leads are taken from
+the cell by a tortuous path to the outside, and are forced to give up heat in a counterflow of
+incoming fluid. For the mass flow rates typically used in our experiments (1-2 g s-1), the conductive
+power loss was of the order of 1-2% of the total input power calculated as above.
+4
+Figure 1. Small flow calorimeter, detail.
+5
+Figure 2. Large flow calorimeter, improved design.
+6
+Advantage was taken in the large calorimeters of the fact that the incoming fluid was at the
+same temperature as the bath, and that predominant heat transport was upward. All electrical
+leads were taken through the bottom insulating boundary across which ΔΤ (and therefore
+conductive loss) was a minimum. An additional feature of the large calorimeters was the pressure
+pipe which extended from the cell to a pressure transducer above the bath. The pressure pipe also
+contained a PTFE catheter that was used to insert chemical species into operating cells. For
+practical reasons the pressure pipe emerged through the top insulating boundary and contributed
+an additional conductive loss term. For the mass flow rates used, conductive power loss in the
+large calorimeters represented typically 3-5% of the total input power.
+The steady state equation of heat output from the calorimeter can be given as
+(1)
+where Cp is the average value of the heat capacity of the calorimeter fluid in its transit through
+the calorimeter, δm/δt is the fluid mass flow rate, k’ is the effective conductive loss term, Tin is
+the inlet (or bath) temperature and Tout is the average temperature of the emerging fluid.
+Similarly, for the power input to the calorimeter,
+uhhccinput PVIVIP  (2)
+where I is current, V is voltage measured at the calorimeter boundary, and subscripts c and h refer
+to the electrochemical cell and compensation heater. The additional term, Pu, is any unaccounted
+power source, and may be positive, negative or zero.
+Currents were measured as a voltage dropped across a calibrated, series resistor;
+hhrhccrc RVIRVI /;/  (3)
+and the primary temperature measurements were made with platinum resistance temperature
+devices (RTD’s), so that
+   RRRTT / (4)
+where T° is the temperature at which the device resistance is R°, and α is the temperature
+coefficient of resistance of platinum.
+In examining potential sources of error, it is useful to express Pu in terms of the directly
+measured variables. Combining equations we obtain:
+(5)
+This equation has three different classes of variables and constants, with different
+potential sources of error.
+Measured variables: δm/δt, Rout, Rin, Vh, Vhr, Vc, Vcr
+Predetermined constants: Cp, α, R°out, R°in, Rh, Rc
+Calibration constant: k´
+  inoutpoutput TTkmmCP   /
+ 
+c
+crc
+h
+hrh
+in
+in
+out
+out
+pinputoutputu
+R
+VV
+R
+VV
+R
+R
+R
+R
+k
+t
+m
+CPPP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+/1
+7
+Efforts were made to maintain the accuracy of each parameter at better than 0.1%, and
+also to ensure that potential sources of error result in an underestimate, not an overestimate, of Pu.
+Errors in temperature measurement may be attributed to errors in the ratio’s R/R° or to α.
+Resistance measurements were made in a four terminal mode where all RTD’s were multiplexed
+sequentially to a single multimeter calibrated against NIST traceable standards. Since temperature
+was measured from a resistance ratio, absolute calibration was not of primary importance,
+although multimeter drift must be avoided Two RTD’s were used to sense the inlet and outlet
+temperatures; the temperature difference was then calculated from the two independent pairs. The
+inlet sensors were held at the bath temperature, and the bath was held constant with respect to a
+calibrated thermistor. The inlet RTD’s can thus be regarded as secondary resistance standards,
+referenced to the temperature set by the control thermistor. In this way any trend in resistance due
+to change in multimeter calibration could be observed.
+In some experiments the outlet temperature was sensed with an additional two thermistors
+to guard further against range-specific resistance calibration drift.
+The temperature coefficient of resistance, α, is easily calculated from the Calendar -Van-
+Dusen equation, the constants of which for platinum are well known. White not independent of
+temperature, α is effectively constant within a small temperature range. This value was considered
+unlikely to change with time. Inlet and outlet temperatures each were measured with an accuracy
+of ± 0.001Κ.
+Outlet power was determined primarily by the temperature difference and the product Cp
+δm/δt. In all experiments reported here, high purity, air saturated H2O was used as the
+calorimeter fluid, for which the thermal capacity was taken to be 4.188 ± 0.004 J g-1 K-1 in the
+interval 30 ≤ T ≤ 40°C.
+Mass flow rates were measured using a Setra model 5000L digital balance with an
+accuracy of better than 0.01% (200 ± .01g / 240 ± .01 seconds). This accuracy reflects the
+determination of the mass delivered to the balance. Precautions were taken to ensure that fluid
+was not lost following its transit through the cell before flow rate determination. This was
+checked, and assured, by employing a ¼” line with Swagelok® fittings from calorimeter to
+pump, and pump to mass balance. The calorimeter vessel was placed on the negative pressure side
+of the constant displacement pump so that potential leaks from the bath into the calorimeter would
+be of fluid conveyed past the outlet temperature sensors. Beyond this point leaks would have
+allowed air into the system; this would not have produced errors in flow rate determination
+(although this may influence the flow rate).
+A schematic diagram of the placement of the large calorimeters in their constant
+temperature bath is shown from a top view and in profile in Figures 3 and 4; Figure 5 shows the
+hydraulic flow system for two cells in the large bath. The cells were placed on legs to be above
+the bottom of the bath and in the well-mixed water. The water supplied to the bath was purified
+first by ion exchange and then by reverse osmosis. The rate of supply was approximately twice
+that withdrawn by the calorimeter pumps so that level of the bath was maintained by overflow.
+In the large bath, electrochemical cells were connected electrically in series, but the
+calorimeter systems were hydraulically in parallel. Separate pumps were provided for each
+calorimeter and the flows were multiplexed for two cells to a single mass-balance. Mass flow
+rates were measured for one cell during the filling of the auto-siphon vessel (capacity ~ 3500 cc).
+8
+When the computer sensed that the auto-siphon was operating (δm/δt < 0) the output of both
+pumps was sent to waste. After a predetermined time, flow from the previously unmeasured cell
+was sent to the vessel and the cycle repeated. The constant displacement pumps used were
+relatively immune to a flow rate variation with small changes in head. Nevertheless, care was
+taken to ensure that the flow rate during the measurement period was the same as that during the
+eclipse when flow was sent directly to waste. This was done by ensuring that the hydraulic
+resistance and static heads from the pump to the point at which the flow emerges to the siphon
+vessel were the same as those from pump to waste. In a number of experiments the flow rate
+was continuously monitored volumetrically using a rotameter for each cell, to further insure
+against errors.
+Input power was determined for both the cell and the heater as the product of two
+measured voltages normalized by a precalibrated resistance. Voltages were measured using a
+Keithley 195A 5-1/2 digit digital multimeter with 0.01% dc volt accuracy and 0.015% resistance
+accuracy. Resolution was 1 ppm (Ω) and 10 ppm (dcV). Each 5-1/2 digit measurement was
+averaged 32 times before being recorded. Resistance standards were calibrated periodically
+against NIST traceable standards using NIST traceable calibration-instruments yielding an
+accuracy of ~ 0.1 %
+It is important to note that experiments typically were run with a single controlled current
+passing through two or more electrochemical cells in series. All measurements were multiplexed
+to a single multimeter that was periodically interchanged with another precalibrated meter. In
+this way, a series cell effectively acted as a standard for the others; if Pu was observed not to be
+zero in one cell while zero in another, then its origin was unlikely to be an artifact of voltmeter
+miscalibration. Monotonic calibration drift was monitored by multimeter interchange. The
+current was monitored independently in each of the cells in series so that Rc for each cell acted as
+a standard for other series cells. The resistors were interchanged, replaced, and removed and
+recalibrated during periods of excess power production (Pu > 0), reducing the likelihood that errors
+were associated with the measurement of current.
+9
+Figure 3. Large bath for calorimetric experiments, top view.
+10
+Figure 4. Large bath for calorimetric experiments, side view.
+Figure 5. Hydraulic flow system for calorimetric experiments
+11
+The remaining term in equation [5] for discussion, is the “effective” conductive loss term,
+k’. This term is special, and has been the subject of considerable analysis that is not reported
+here. Conductive heat transport occurred because the electrochemical cell, its contents, and the
+contents of the insulating, isothermal boundary of the calorimeter vessel, were at a temperature
+different from that of their surroundings. By submerging the calorimeter vessels in a well-mixed,
+well-controlled and constant temperature bath, the environment of primary significance was that
+of the fluid bath . This fluid entered the vessel; in the small cell by a convolved path, in the large
+cell at the bottom, on the cylindrical axis. Once the flow approached the cell or the conductors
+contacting the cell it was heated. A conductive loss therefore occurred with respect to the bath.
+An added complexity with the large calorimeter was heat transported through the pressure
+pipe that emerged through the top insulating boundary. This pipe contacted the bath fluid but
+terminated in the air above the bath. Depending on the ambient and cell temperatures, heat could
+have been conducted in or out of the calorimeter.
+A number of distributed heat conduction paths were therefore present which we have
+analyzed at three levels of complexity. In a lumped parameter model the cell and heater inside
+the enclosing metal boundary were treated as a point source that was represented by the average
+properties: mass, heat capacity and temperature. This point source was considered to give up heat
+to the flowing fluid and exchange heat conductively with the environment through the pressure
+pipe, and with the bath through the conductive cables. The emerging fluid may exchange heat
+with the bath through the walls and top of the calorimeter vessel.
+In a distributed parameter model, we have determined the heat balance with sources and
+sinks distributed in one dimension along the axis of the calorimeter. We considered separately
+the inlet plenum (elements of flow after the inlet sensor and before the cell), along the length of
+the cell, and in the outlet plenum (up to the outlet sensors at the calorimeter boundary).
+These two approaches made use of the metallic boundary provided by the pressure vessel
+and axial heat fins to approximate a heat source that was isothermal in the radial and axial
+directions, (lumped parameter) or just the radial dimension (distributed parameter), without
+consideration to the distribution of sources inside. A finite element model is being developed to
+more accurately represent the various distributed heat sources: the two dimensional sources at
+the anode and cathode interfaces, the three dimensional source of the electrolyte volume, the three
+dimensional source of the recombiner at the top of the cell, the approximately two dimensional
+source of the helical compensation heater, and the roughly linear sources of current flowing to
+the cell in the conductive cables inside the calorimeter boundary.
+The lumped parameter model has been analyzed for both the steady state and transient
+response of the calorimeter. The distributed parameter model has been developed to obtain a
+steady state solution, while no results have yet been obtained from the finite element model.
+On the basis of the modeling, thus far, we are able to draw a number of useful
+
+conclusions:
+ It is meaningful to define an effective loss term, k’, composed of several
+different heat flows from distributed sources.
+ The value of k’ is negligibly influenced by the distribution of the heat
+source within the pressure vessel.
+12
+ Within the variations of bath and room temperature experienced and
+expected, k’ may be considered to be constant within the limits of
+experimental error.
+ Within the range of mass flow rates used, the calorimeter response could
+be represented by a single exponential response, with time constant
+varying approximately inversely with mass flow rate. Using water as the
+calorimeter fluid at 1 g s-1 the time constant was approximately 16
+minutes.
+The data that we present here are based on a simple lumped parameter model with k’ taken
+to be a constant determined by calibration. In the results presented, no correction was made for
+departures from the steady state condition. However, failure to consider deviations from steady
+state would yield transient errors in Pu, but no error in its average value or in excess energy.
+There was one further point of concern in the determination of ΔΤ and hence k’ and Pout. It
+is important that the temperatures measured accurately represent the average values at the inlet
+and outlet. This was of little concern for the inlet temperatures since the fluid issues from a well-
+mixed tank. Significant errors could result in the determination of ΔΤ, however, if the outlet
+sensors were not placed in a region where the fluid flow was well mixed. Several solutions to
+this problem were employed: porous plugs and packed beds to promote turbulence, fluidized
+beds of glass spheres, and imposition of turbulent flow through a Venturi orifice.
+Calibration was performed first by determining the values of R° in-situ, under flow
+conditions at known bath temperature and zero or low input power. The total input power was
+then stepped to successively higher values using the heater (in the presence of low
+electrochemical power), allowing at least 20 time constants (~ 6 hours) to reach a steady state.
+The quantities δm/δt, Rout, Rin, Vh, Vhr, Vc, Vcr were measured on line and the steady state values
+were fitted to equation [5], assuming Pu = 0, to determined k’. It should be noted that this method
+of calibration determines k’ in terms of the other externally calibrated constants: Cp, Rout and Rin, α,
+Rh and Rc, and the voltage calibration of the multimeter. In this way the cumulative inaccuracy of
+the determination of k’ was greatly reduced. From this time on, only changes in calibrated values
+would have given rise to error.
+As stated above, the calorimeter was run under conditions of constant power. This was
+achieved in a stepwise fashion. First, a maximum desired input power was established. Then the
+heater was allowed to slowly turn off by ramping the electrochemical power while maintaining the
+total power constant. In many experiments, and in all experiments for which the D/Pd ratio was
+less than ~ 0.9 or the duration of electrolysis was ≤ 300 hours, the substitution of electrochemical
+power for heater power yielded no excess power. That is, Pu = 0 ± 50 mW for Ptotal ≤ 18 W.
+Apple Macintosh computers equipped with an ΙΟ-tech IEEE-488 interface, Keithley 706
+scanner, Keithley 195A DMM, Tecrad DMO-350 micro-ohmeter, Setra 5000L balance, black box
+COS/4 serial port multiplexer were used to record the parameters of the experiment. The
+Macintosh interface controlled a Kepco BOP 20-20M power supply to apply cell current and a
+Kepco BOP 50-2M power supply to control compensation heater power. The power supplies
+were controlled using internal IEEE-488 interfaces. In addition to the parameters necessary for
+calorimetric determinations, a number of variables are measured to monitor the physical and
+electrochemical conditions of the experiments. A list of parameters follows:
+13
+Parameters Measured
+Voltages: Cell at calorimeter boundary
+Heater at calorimeter boundary Reference electrode
+Currents: Cell
+Heater
+Temperatures: Bath (RTD)
+Inlet (2 RTD)
+Outlet (2 RTD+ 2 thermistor) Room ((RTD)
+Room (RTD)
+Transducers: Cell pressure
+Volumetric flow (rotameter)
+Gravimetric flow (multiplexed)
+Palladium resistance (multiplexed to Tecrad DMO-350)
+Figure 6. Electrochemical cell and pressure vessel for electrochemical experiments.
+14
+A Tecrad model DMO-350 micro-ohmeter was employed in a multiplexed mode to
+monitor the axial resistance of Pd cathodes and thus determine the D/Pd loading. A Solartron
+model 1250, 1254 or 1260 Frequency Response Analyzer, interfaced to an Apple Macintosh
+microcomputer was used periodically during experiments to determine the Pd/electrolyte
+interfacial impedance and thus assess the electrochemical condition of the interface.
+Results are presented here from a series of five experiments performed in sequence,
+designated P12-P16. This series of near-ambient temperature experiments was chosen to
+demonstrate the features of internal consistency and experiment-to-experiment repeatability, the
+necessity for high loadings and long times, the need for D2O and the use of H2O controls, and
+the effect of current density on loading and excess heat production.
+Αll experiments were performed using 0.3 cm diameter × 5 cm length Engelhard Pd
+cathodes of 99.9% purity. Anodes were coaxial helices of Engelhard CP Platinum STD Grade Pt
+thermocouple wire formed from 100 cm of 0.5mm diameter wire wound on 6 quartz rods. In all
+cases the electrolyte was 1.0 molar in Li, formed by the reaction of 99.8% purity (natural isotopic
+ratio) Aesar Li with H2O or D2O.
+To perform an experiment, cathodes first were machined to the correct diameter with
+grooves to receive the four 0.5 mm Pt wire contacts for current contact and axial resistance
+measurement. Electrodes were then degreased and cleaned and the four wires mechanically
+wrapped then spot welded into place. This assembly was annealed for 2 hours at 850°C in vacuo
+allowed to cool in argon, rinsed in “heavy” or “light” aqua regia (for D2O or H2O experiments),
+rinsed repeatedly in the appropriate water, dried, and carefully mounted inside the pre-prepared
+anode cage avoiding contaminant contact. The assembled structure was placed inside the sheathed
+pressure vessel, freshly prepared electrolyte added, and the vessel sealed (and pressurized with
+D2). The pressure vessel was then installed in the calorimeter, charging current applied and
+monitoring begun.
+For the experiments described here, the large calorimeters were used; initial charging and
+calibration were performed contemporaneously, as described in the previous section.
+Experiment P12, which was the prototype for the sequence of experiments described
+here, was performed alone in the large calorimeter bath. P12 was a heavy water experiment, and
+exhibited output power in apparent excess of the known sources of input power. Pl3 was
+prepared as a light water blank of P12, and replaced P12 in the calorimeter. Pl3 was run,
+initially alone, using the same electronics as had been used for P12. After a period of ~ 600
+hours, P14, a heavy water replicate of P12 was run electrically in series with P13, multiplexed
+to the same electronics.
+Experiments P15 and P16 were started simultaneously, electrically in series, following
+the termination of P13 and P14. P15 and P16 both were heavy water cells. The cathodes in
+experiments P12, P14 and P16 were implanted with helium following the 850°C annealing step,
+and instead of the aqua regia etch, as an alternative electrode pretreatment. Typically 5 × 1016
+atoms of helium were implanted to a depth of approximately 3 μm; 4He was used in P12 and
+P14, 3He was used in P16. The act of implantation also resulted in a layer of metallurgical
+damage or restructuring at the surface, < 1 μm thick.
+15
+RESULTS
+In the space available it is not possible to present the data for the complete duration of the
+experiments reported, or even of all the parameters measured in a single time interval. What is
+presented here primarily are results of excess power, being the difference between the output and
+known sources of input power, determined from equation [5].
+A single episode of excess power is presented each for P12, P14 and P15; these are
+intended to exemplify particular features of the apparent excess power production. In these
+examples, Pl3 and P16 function as blanks, concurrent with Pl4 and P15, and sequential to P12.
+For each of the cells P12 through P16, there were occasions when, for nominally identical
+current ramps, similar average D/Pd ratios were obtained but with no manifestation of excess
+power within the sensitivity of the calorimeter. For the full duration of the P13 experiment, the
+calorimeter was observed in the steady state to be within ± 50 mW of thermal balance.
+Figure 7 shows the electrochemical parameters together with the measured axial
+resistance ratio and the calculated excess power for P12. Zero time on this plot represents a total
+time of charging of 1300 hours. The results presented allow examination of the dynamic
+response of the cathode voltage (measured with respect to a Pt pseudo-reference electrode), the
+resistance ratio, the excess heat and the cathodic current density.
+From 0 to ~280 hours, the calorimeter was operated at a constant input power of 10 W.
+During this time the cell current was held constant at 0.1A (~20 mA cm-2) and 2.0A (~400 mA
+cm-2) and ramped and stepped between these limits. The reference voltage and the Pd resistance
+ratio exhibit a response to the current density. At the initial current density, the resistance ratio
+attained a value of ~1.75, decreasing (corresponding to loading) slightly with time as the
+reference voltages slowly increased, white the calorimeter maintains a thermal balance. As the
+current increased, the reference voltage rose in part due to IR and kinetic effects, but the
+resistance ratio fell to ~1.67 at ~100 mA cm-2 indicating that the electrode was absorbing
+deuterium.
+The increase in current density and absorption of deuterium was accompanied in this case
+by an apparent evolution of excess power. The top curves in Figure 7 show raw data taken from
+the two independent pairs of temperature sensors converted to excess power using equation [5].
+Departures from steady state can be seen at times when the current was abruptly stepped at 60,
+80, 90, 110 and 310 hours. Apart from this effect, the excess power responded essentially
+monotonically with the current density, above a certain threshold value. At each instance of a step
+in the current density, the excess power responded with a time constant indistinguishable from
+that of the calorimeter. That is, the phenomenon that gave rise to this effect itself had a time
+constant of a few tens of minutes or less.
+It should be noted, however, that the resistance ratio did not decrease monotonically with
+increasing current density; a maximum in loading apparently being achieved in this experiment
+at current densities as low as ~200 mA cm-2. At higher current density the loading appears to
+decrease, while the excess power increases.
+During the sustained hold at 2A from ~160 to 280 h, the cell voltage slowly increased
+due to loss of conductive species from the liquid phase in the cell At ~ 280 h the product Ic * Vc
+exceeded 10 W so that the system departed further from its steady state, and the quality of data
+16
+was reduced. At ~303 h the total power was raised to 12 W, and at ~309 h the current was
+reduced to 0.1 A. At this point it was clear from the resistance ratio that the electrode had de-
+loaded. In subsequent experiments it was found not to be possible to re-load the electrode with
+deuterium, or to observe excess heat. Following termination of P12, Pl3 was placed in the
+calorimeter using the same hardware, electronics and flow system. This experiment was intended
+as a blank, and an attempt was made to achieve nearly identical conditions to those of P12,
+excepting only that the electrolyte was prepared from H2O and the cathode was not implanted
+with helium. This experiment was operated for a total of 815 h and exercised over the same
+range of current densities and loadings as P12, during which time the steady state response of the
+calorimeter maintained a thermal balance, and within ± 50 mW no excess power was observed.
+Figure 7. Experiment P12; cell current, reference voltage, resistance ratio and excess power.
+P13 was operated alone in the calorimeter (as had been P12) for ~290 h at which time a
+heavy water replicate of P12 was placed electrically in series, and hydrallically in parallel, in the
+calorimeter. The current was ramped through the two cells in series, twice, with no observation
+of excess heat in P13 or P14, despite the fact that both cells had apparently achieved loadings
+17
+H/Pd and D/Pd, respectively, of > 0.95. Figure 8 shows the results of the third occasion on
+which P13 and P14 were jointly subjected to current ramps. The quality of the calorimetric data
+was reduced because the two experiments were held under constant power control only for
+periods within the time interval shown. At other times the total power was permitted to change as
+the current and cell voltages changed. Total power for P13 varied over the time interval shown
+from 8 to 15W; for P14 the range was 8 to 12.5W. Because of the reduced quality of the raw
+data, the data shown in Figure 8 represent an approximately 1h average of data for both
+independent pairs of temperature sensors. In each case, within the scatter of the data the two
+sensor pairs reported identical steady state responses.
+Although the observed excess power was small, in absolute, percentage and integral
+(energy) terms, there was nevertheless a quantitative difference between the response of the heavy
+water cell, P14, and the light water blank, to the current density stimulus. For both electrodes
+there was a “high frequency” fluctuation of the excess power with periods of ~0.1 - 1h which
+correlated with cell pressure variations, characteristic of partially intermittent operation of the
+catalytic recombiner. Eliminating this feature, the excess power observed for P13 was essentially
+flat and zero while that for P14 departed significantly from zero at current densities above ~200
+mA cm-2, and generally increased with increased current density.
+The current was sourced from the same device, and the electrical and calorimetric
+parameters were measured with the same devices multiplexed between the two experiments,
+making it less likely that the difference in results can be accounted for in terms of an instrumental
+artifact.
+Experiments P13 and P14 were replaced in the large calorimeter with P15 and P16, both
+heavy water cells, nominally identical, and varying only in the electrode final treatment. The
+cathode in P15 was subjected to annealing followed by heavy aqua regia rinse, while the P16
+cathode was implanted with 3He as described above.
+Figure 8. Current density and excess power for experiments Pl3 and P14.
+18
+Figure 9. Current density and mass flow rate for experiments Pl5 and P16.
+Figure 9 shows the profile of current density for P15 and P16, for an interval of time in
+this joint experiment that lasted at a total 1104 hours. Also shown in Figure 9 is the
+gravimetrically determined calorimeter fluid mass flow rate for both cells.
+In part because of the different electrode pretreatments the response of the loading of the
+two cathodes to the ramped current density differs. Figure 10 shows the resistance ratio
+calculated for P15 (heavy line) and P16 (light line); the dashed line interpolates a region where
+data were not available for P16. It is clear that both electrodes absorbed deuterium in response to
+the current ramp. For Pl6 the resistance ratio decreased from ~1.77 (D/Pd ≈ 0.9) at i = 33 mA
+cm-2 to a minimum of ~1.6 (maximum loading D/Pd ≈ 0.97) at a current density i ≈ 500 mA cm-
+2. For P15 the resistance ratio was always lower and decreased in resistance ratio from ~1.69
+(D/Pd ~ 0.94) to a minimum of ~ .555 (maximum loading D/Pd ≈ 0.99) sustained at higher
+currents and for longer times than P16. Because the temperature of the Pd cathode was
+unknown, it was not possible to completely interpret the measured resistance ratio of P15 in
+terms of the loading. Excess power would increase the temperature and hence the resistance of the
+Pd cathode, and cause an underestimate of the loading. It is important to note that both electrodes
+initially were rather well loaded, and became better loaded with increasing current during the
+current ramp.
+Figure 11 shows the temperatures registered by the inlet sensors of P15. Figure 12 shows
+the total measured input power, initially controlled at 10 W and then stepped to 12 W as the cell
+voltage rose at constant current. Also shown is the power in the heater used to compensate for
+changes in the electrochemical input power due to the current ramps or temporal drift. Because
+the temperature of the Pd cathode was unknown, it was not possible to completely interpret the
+measured resistance ratio of P15 in terms of the loading. Excess power would increase the
+temperature and hence the resistance of the Pd cathode, and cause an underestimate of the
+loading. It is important to note that both electrodes initially were rather well loaded, and became
+better loaded with increasing current during the current ramp. It is clear from Figures 9, 11 and
+12 that, within the interval of time shown, the mass flow rate, the inlet temperature and the inlet
+19
+power for P15 all are sensibly constant. From inspection of equations [1] - [5] it is clear that,
+provided that Pu is zero, the outlet temperatures also must be constant.
+Figure 13 shows the measured profile of temperature for the two platinum resistance
+sensors in the outlet plenum of the P15 calorimeter. Two thermistors also were present in the
+outlet flow stream. All four sensors record essentially the same profile of temperatures, and these
+were not constant, varying by as much as 0.6°C with a measurement accuracy of ± 0.001°C
+(reduced for the thermistors) and sensitivity of 0.0001°C. The thermistors had a better precision
+but lower accuracy than the RTD’s.
+Figure 10. Resistance ratio for experiments Pl5 and P16.
+Figure 11. Temperatures in the inlet plenum for experiment P15.
+20
+Figure 12. Total power and compensation heater power for experiment Pl5.
+Figure 13. Temperatures in the outlet plenum for experiment P15.
+One interpretation of the observed temperature variation is that there is an unknown
+power source within the calorimeter of an amount that we can quantify using equation [5]. Figure
+14 shows the “excess power” normalized with respect to the measured electrochemical input
+power (Ic * Vc) and the controlled total power (Ic * Vc + Ih * Vh). A very irregular profile of
+excess power is seen with a threshold at ~ 200 mA cm-2. The high frequency fluctuations of
+period 0.1 - 1 h are present due to inconstant recombiner operation. Superimposed on the ramped
+response to current also are apparently spontaneous fluctuations with substantially greater
+amplitude and period (~ 3-6 h) that were not corrected to variations in pressure or any other of
+the measured parameters of the system. It is worth noting that during this time interval, and
+21
+subjected to the same current, P16 exhibited no departure from the thermal balance that was
+detected with the same instruments as for P15.
+Figure 14. Excess power for experiment P15, expressed as a fraction of the electrochemical and total power
+input.
+
+DISCUSSION AND CONCLUSIONS
+In this paper we have described a calorimetric tool for use in observing the characteristics
+of unexplained thermal processes in the D/Pd system. Representative examples of results have
+
+been given from which a number of observations and conclusions may be made.
+We have observed unexplained excess heat in palladium cathodes when a minimum of
+three criteria were met: an average loading (D/Pd) approaching or exceeding unity; this high
+loading was maintained for considerable periods of time (100’s of hours for 3 mm diameter
+cathodes); the interfacial current density exceeded a certain critical value.
+With appropriate control of the interfacial conditions it has been shown to be possible to
+load both H and D into Pd to molar ratios of approximately unity. Electrode preconditioning
+apparently plays a significant role in the ability to attain and maintain high loading under
+electrochemical conditions, and the appearance of unaccounted heat in deuterium loaded systems.
+Helium implantation provides a suitable means of surface activation to facilitate loading; the
+presence of helium is not obviously implicated in the generation of excess power.
+For the thermodynamically closed and intentionally isothermal systems described here,
+output power was observed to be as much as 28% in excess of the electrochemical input power
+or 24% above the known total input power. When excess power was present, it was more
+typically in the range 5-10%, in a calorimeter that was accurate to ±0.1%.
+In the examples given the largest observation of excess energy corresponded to 1.08 MJ,
+or 45.1 MJ/mole or ~450 eV/atom normalized to the Pd lattice or to the deuterium in the
+palladium at a presumed loading of ~1.
+The experiments reported here demonstrate that internal repeatability is possible when
+the three criteria above are achieved. Apparent excess heat was observed under these conditions
+22
+when the current density reached a critical value, and excess heat was not observed when the
+current density was reduced below the critical value. Furthermore, the threshold current density
+appeared to decrease with time, up to the point that, due to interfacial or external effects, high
+values of loading could no longer be attained or maintained.
+There appeared also to be some degree of experimental reproducibility between cells.
+Experiments P13-P16 were attempts to replicate P12 with only minor variations in electrode and
+electrolyte treatment. All the heavy water experiments (P14, P15, P16) produced excess heat,
+reproducing in general form the observation in P12 (excess heat data for Pl6 are not shown here).
+It is worth noting, however, that excess power in these four experiments was not produced in
+exactly the same amounts, or at exactly the same times, in response to the same stimuli. However,
+we could not reproduce exactly the electrochemical conditions of cathodic overvoltage, the
+loading (resistance ratio), and the interfacial impedance. Clearly there are issues of interfacial
+contamination which arise in experiments with sustained high current electrolysis, that await
+resolution.
+Except for times when the calorimeter was caused to depart significantly from its steady
+state condition, and during periodic fluctuations introduced by nonconstant recombiner
+operation, “negative excess” was never observed. In terms of equation [5], Pu was observed
+always to be positive or zero. Always, where significant quantities of H2O were used in the
+electrolyte, Pu was zero. Also, no excess was observed before a critical “initiation time”, even in
+cells that subsequently yielded values of Pu > 0.
+As demonstrated in the P13/P14 and P15/P16 twin, series experiments, excess power was
+observed asynchronously in series cells. That is, cells subjected to the same current from the
+same source and monitored in a multiplexed manner to the same electronics were observed to yield
+in one cell Pu while in the other Pu > 0. It is very difficult to attribute such an observation to an
+artifact of the common instrumentation.
+The association of apparent excess power with a set of necessary conditions for the D/Pd
+system implies a degree of reproducibility. These conditions are not easy to attain, a fact which
+may explain the irreproducibility of the phenomenon of excess heat. Examined separately the
+three criteria may be taken as normal conditions of reacting systems (chemical or nuclear). The
+criterion of loading is of a thermodynamic driving force; a measure of the activity or chemical
+potential of a possible reactant species. The need to maintain loading for considerable periods of
+time before the onset of excess heat suggests a mass transport constraint, possibly involving
+nucleation and growth of an active region within the volume of the bulk Pd lattice. The final
+requirement of large interfacial current density suggests a kinetic criterion. Because of the
+intimate coupling between electron flux and the creation of adsorbed D, and a very facile equilibrium
+between Dads and Dabs, current density can be viewed as the means by which absorbed D are given
+the energy to undergo reaction.
+As a final note, we are unable to account for the observed excess temperature by any
+artifact known to us and are forced to conclude, tentatively, that the source of the excess power is
+a property of the D/Pd system. Further, we cannot account for the measured excess heat by any
+chemical or mechanical process with which we are familiar.
+23
+ACKNOWLEDGEMENT
+We gratefully acknowledge the financial support and considerable technical assistance of
+the Electric Power Research Institute.
+REFERENCES
+1. M. Fleischmann, S. Pons and M. Hawkins, “Electrochemically Induced Nuclear
+Fusion of Deuterium”, J. Electroanal. Chem., 261 (1989) p. 301 and errata, 203
+(1989), p. 87.
+2. B. Baranowski and R. Wisniewski, Phys. Stat. Sol. 35, 593 (1969).
+3. B. Baranowski, S. M. Filipek, M. Szustakowski, J. Farny and W. Woryna, J. Less-Common
+Metals, 158, 347 (1990).
+4. A. W. Szafranski and B. Baranowski, Phys. Stat. Sol. (a) 9, 435 (1972).
+5. G. Bambakidis, R. J. Smith and D. A. Otterson, Phys. Rev. 177, 1044 (1969).
+6. R. J. Smith and D. A. Otterson, J. Phys. Chem. Solids 31, 187 (1970).

@@ -1,0 +1,91 @@
+Raj, P., et al., Search for Nuclear Fusion in Gas Phase Deuteriding of Titanium Metal, in BARC Studies in
+Cold Fusion, P.K. Iyengar and M. Srinivasan, Editors. 1989, Atomic Energy Commission: Bombay. p. B 1.
+SEARCH FOR NUCLEAR FUSION IN GAS PHASE
+DEUTERIDING OF TITANIUM METAL
+P. Raj*, P. Suryanarayana*, A. Sathyamoorthy*, and T. Datta‡
+* Chemistry Division
+‡ Radiochemistry Division.
+
+Introduction
+The possibility of D-D nuclear fusion in some deuterium-metal systems, under ambient
+conditions, has aroused feverish worldwide interest. Most of the work reported, so far,
+concerns deuterium charging of Pd metal through electrolysis of D2O.
+In the Chemistry Division, we have carried out some experiments on the deuteriding
+behaviour of Ti metal, through gaseous route, in the absorption as well as desorption
+modes, with the view to look for the fusion products, neutrons in the present case. These
+kinds of experiments have been reported by Frascatti Group in Italy1. These authors
+detected neutron emission lasting over a period of several hours.
+Experiments
+The experimental arrangement for deuteriding Ti metal is shown in Fig. 1, which is
+self-explanatory. This set up has been routinely used for high pressure hydriding studies
+on several systems, reported by us2-4. In some of the experiments reported here,
+deuterium pressure was cycled between high and low values by simply changing the
+temperature of the cell housing the sample. Most of the experiments were done in the
+desorption mode. Ti metal pieces (cut from a sheet) were surface cleaned and subjected
+to activation treatment before D2 loading and subsequent desorption treatment etc.
+The neutron counting set up consists of an array of 24 He3 counters arranged in a well
+like geometry. These counters (each 50 cm in length 2.5 cm in diameter and filled with
+He3 at 4 atm.) housed in paraffin moderators, are all connected in parallel to a single pre-
+amplifier. The counting efficiency of this system was found to be ≈10%. The counts are
+recorded in 8192 channel multi-scalers. In the experiments reported here dwell time of 40
+sec. was fixed, so that each point in Fig. 2(a) to (d) represents the number of counts per
+40 sec. The background counts collected for about 10 days, before the start of these
+deuteriding experiments, was found to be quite steady 60 counts/ 40 secs. This
+background count rate continues to be the same well after our experiments.
+Results
+In the first set of experiments, starting from 3rd June 1989, after activating Ti metal
+pieces, D2 gas was contacted with the sample at a pressure ~10 atm. while keeping the
+sample at low temperature (~77K). After a soaking time of ~20 min., sample temperature
+was raised gradually, while simultaneous evacuation was started. Within about 15 min.
+the neutron counter registered an increase in count rate reaching a max. 3900 (as
+compared to background counts of ~60), see Fig. 2(a). On withdrawing the reactor from
+the counting well, a considerable reduction in the counts was observed. On re-introducing
+the reactor after background counts are restored, an additional peak like structure was
+observed. Although the evacuation was continued, no further increase in count rate over
+the background could be observed over the next twenty hours.
+The next experiment on the same charge was carried out by repeating the conditions of
+the first experiment. The results of this experiment, dated 4th June 1989, are shown in
+Fig. 2(b). Again two peak like structures, each lasting for about 30 min. and separated by
+50 min. were seen. However, the intensities of both these structures are greatly reduced,
+as compared to the first experiment (3rd June 1989), the max. counts being ~700.
+In the third experiment, with the same charge of Ti pieces, D2 gas pressure was made to
+cycle between ~50 atm. to ~13 atm. by changing the reactor temperature from room
+temperature to 77 K. In this case large changes in counts, as a function of time were
+noticed. An increasing trend of counts initiated at ~2330 hrs on 4th June 1989 lasted for
+almost 7 hrs. with an estimated integral counts ~6.5×105. Even after this long bursts like
+structures, some additional peaks were observed on 5th June 1989. With no further
+structures observed over the next few hours, desorption was carried out after loading the
+sample with D2 gas with the sample temperature at ~77K. By raising sample temperature
+gradually, while simultaneously evacuating, a much bigger structure lasting for ~2 hrs.
+(from ~1830 to 2030 hrs. on 7th June 1989) was seen Fig. 2(c). An approximate estimate
+of integrated count over this period is 7×105. Further experiments with this charge,
+involving D2 loading followed by prolonged periods of evacuation at temperature up to a
+max. of ~200°C, did not show further structures.
+A second series of similar experiments on a fresh charge of Ti from the same source
+did not exhibit exactly similar behaviour, as found for the first charge. However, one set
+of experiments on 17th June 1989 see Fig. 2(d) involving pressure cycling, followed by
+evacuation, exhibited increase in count rate lasting over a period of ~100 min. In this
+case, the scatter in the counts was found to be rather large and maximum counts up to
+105/ 40 s were observed, as compared to background count of ~60/ 40 sec. This charge
+showed no further increase in count rate even after various treatments.
+Further experiments are planned — (i) to study all possible parameters relating to the
+observed increase in the count rates, (ii) to identify the source of these extra counts, and
+(iii) to investigate the energy and time structure of the radiation responsible for the
+observed peak like structures.
+Acknowledgement
+The authors are indebted to Dr. R.M. Iyer, Director, Chemical group and Dr. J.P.
+Mittal, Head, Chemistry Division for helpful discussions and encouragement. Sincere
+thanks are due to Dr. P.R. Natarajan, Head, Radiochemistry Division; Dr. H.K.
+Sadhukhan, Head, Heavy Water Division; Dr. C.K. Gupta, Head, Metallurgy Division
+and their colleagues for providing neutron counting facility, Deuterium gas and Titanium
+metal, respectively.
+References
+1. A. De Ninno et al, Europhysics Letters 9, 221 (1989).
+2. P. Raj, A. Sathyamoorthy, P. Suryanarayana and R.M. Iyer, J. Less—Common
+Metals 123, 145 (1986).
+3. P. Raj, A. Sathyamoorthy, P. Suryanarayana, A.J. Singh and R.M. Iyer, Less-
+Common Metals 130, 139 (1987).
+4. P. Raj, P. Suryanarayana, A. Sathyamoorthy and R.M. Iyer, Mat. Res. Bull. 24(6),
+717-724 (1989).
+Fig. 1. Schematic diagram of the hydriding/dehydriding unit
+Fig. 2. Desorption mode experiments

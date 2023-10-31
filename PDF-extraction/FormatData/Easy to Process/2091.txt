@@ -1,0 +1,452 @@
+1
+Kim, Y.E. Theory of Low-Energy Deuterium Fusion in Micro/Nano-Scale Metal Grains and Particles. in ICCF-14
+International Conference on Condensed Matter Nuclear Science. 2008. Washington, DC
+Theory of Low-Energy Deuterium Fusion in Micro/Nano-
+Scale Metal Grains and Particles
+Yeong E. Kim
+Purdue Nuclear and Many-Body Theory Group (PNMBTG)
+Department of Physics, Purdue University
+West Lafayette, IN 47907, USA
+
+Abstract
+A consistent conventional theoretical description is presented for anomalous low-
+energy deuterium nuclear fusion in micro/nano-scale metal grains and particles.
+The theory is based on the Bose-Einstein condensate (BEC) state occupied by
+deuterons trapped in a micro/nano-scale metal grain or particle. The theory is
+capable of explaining most of the experimentally observed results and also
+provides theoretical predictions. Experimental tests of theoretical predictions are
+proposed. Scalabilities of the observed effects are discussed based on theoretical
+predictions.
+
+1. Introduction
+The conventional deuterium fusion in free space proceeds via the following nuclear reactions:
+{1} D+D→p(3.02 MeV) + T (1.01 MeV);
+{2} D+D→n(2.45 MeV)+3He(0.82 MeV); and
+{3} D+D→4He+γ(23.8 MeV).
+The cross-sections (or reaction rates) for reactions {1} – {3} have been measured by beam
+experiments at intermediate energies ( ≥10 keV), and are expected to be extremely small at low
+energies (≤ 10 eV) due to the Gamow factor arising from Coulomb barrier between two
+deuterons. The measured cross-sections have branching ratios: (σ{1}, σ{2}, σ{3}) ≈ (1, 1, 10-6).
+From many experimental measurements by Fleischmann and Pons in 1989, and many others
+over 19 years since then [1], including the recent work by Szpak, Mosier-Boss, and Gordon [2]
+and the most recent work by Arata and Zhang [3], the following fact has been established. At
+ambient temperatures or low energies (≤ 10 eV), deuterium fusion in metal proceeds via the
+following reactions:
+{4}D(m) + D(m)→p(m) + T(m) + 4.03 MeV (m);
+{5} D(m) + D(m)→n(m) + 3He(m) + 3.27 MeV (m); and
+{6} D(m) + D(m)→4He(m) + 23.8 MeV (m),
+where m represents a host metal lattice or metal particle. Reaction rate R for {6} is dominant
+over reaction rates for {4} and {5}, i.e., R{6} >> R{4} and R{6} >> R{5}. Additional
+experimental observations include requirements of both higher deuteron loading (D/Pd ≥1) and
+deuterium purity (H/D << 1), the phenomenon of “heat after death”, and enhancement of the
+2
+effect by electromagnetic fields and laser stimulation. In this paper, a consistent conventional
+theoretical description is presented for explaining the above observations of deuterium nuclear
+fusion in micro/nano-scale metal grains and particles. The theory presented in this paper is
+capable of explaining the above observations, and provides theoretical predictions which can be
+tested experimentally for the confirmation of the theory.
+In the following, a detailed description of the theoretical explanation, based on the theory of
+Bose-Einstein condensation nuclear fusion (BECNF) [4-7] and on selection rules recently
+derived for a mixed system of two species [8], will be presented along with suggested
+experimental tests of predictions of the theory and a discussion of the scalability of the fusion
+rates based on the theory.
+2. Theory of Bose-Einstein Condensation Nuclear Fusion (BECNF)
+Bose-Einstein condensation (BEC) mechanism: The concept of the Bose-Einstein
+condensation (BEC) [9] has been known for 84 years (since 1924), and has been used to describe
+all physical scales, including liquid 4He, excitons in semiconductors, pions and kaons in dense
+nuclear matter (neutron stars, supernovae), and elementary particles [10]. It is only 13 years ago
+in 1995 that the BEC phenomenon was observed directly in dilute vapors of alkali atoms, such as
+rubidium [11], lithium [12], and sodium [13] confined in magnetic traps and cooled down to
+nano Kelvin temperatures.
+In the atomic BEC case [11], the BEC state was created by cooling dilute Rb atoms loaded into
+a magnetic confinement potential at 300 K. It was cooled by laser cooling (Doppler cooling) to
+~ 90 μK (4 x 106 atoms) with a density of 2 x 1010 atoms/cm3. Further cooling was
+accomplished by evaporation cooling removing energetic atoms to 170 nK. At 170nK, it consists
+of 2000 atoms at a number density of 2.6 x 1012/cm3 in BEC state (near zero velocity) while
+other 2 x 104 atoms in the trap had a Maxwell-Boltzmann (MB) velocity distribution with a
+exponential tail characteristic of T ≈ 170nK.  The requirement for BEC, λdb > d, is satisfied,
+where λdb is the de Broglie wavelength and d is interatomic spacing distance.
+In our nuclear BEC phenomenon, we have deuteron number density of ~ 6.8 x 1022cm-3 in
+metal, corresponding to an average separation distance of d ≈ 2.45 Å between deuterons.  In
+order to achieve the nuclear BEC state of deuterons in metal, we need to have the average
+deuteron kinetic energy Td smaller than c
+dT = 0.0063 eV, i.e. Td < c
+dT , in order to satisfy the
+requirement λdb > d.
+The MB distribution is originally derived for weakly interacting dilute gas (ideal gas). For
+strongly interacting and dense systems such as mobile deuterons in metal, the MB distribution is
+not applicable and hence average deuteron kinetic energy of kT = 0.026 eV at T = 300 K is not
+applicable for deuterons in metal.
+Mobility of deuterons in a metal is a complex phenomenon and may involve a number of
+different processes [14]: coherent tunneling, incoherent hopping, phonon-assisted processes,
+thermally activated tunneling, and over-barrier jump/fluid like motion at higher temperatures. If
+mobile deuterons in a metal are confined by a confining potential provided by metal atoms and
+electrons, it may be possible that deuteron momentum or velocity distribution in a metal may
+have the average deuteron kinetic energy smaller than c
+d
+T = 0.0063 eV, thus satisfying λdb > d.
+We note that c
+d
+T = 0.0063 eV corresponds to the average deuteron velocity of vc = 0.78 x 105
+3
+cm/sec while the average deuteron kinetic energy of kT = 0.026 eV with T = 300 K corresponds
+to the average deuteron velocity of vk = 1.6 x 105 cm/sec. Boundaries for micro/nano-scale metal
+grains and particles can act as barriers and may slow down mobile deuterons resulting in lower
+average velocity v < vc and smaller average kinetic energy Td < c
+dT near boundaries. Therefore,
+it may be possible that the conditions, Td < c
+dT and λdb > d, are achieved for mobile deuterons in
+localized regions of the metal without cooling as done in the atomic BEC case, and hence, it may
+be possible to observe experimentally the effects of the nuclear BEC.
+Mobility of proton and deuteron in metals: It is well know that the hydrogen ions are highly
+mobile within metal hydrides [14,15]. Hydrogen mobility takes various temperature dependent
+forms. The mobility extends to “fluid like” motion at temperatures comparable to the interstitial
+site or self-trapping, binding energy ~ 0.15 eV. At higher temperatures below the melting point,
+hydrogen ions no longer remain within the potential wells of interstitial sites but undergo free
+motion similar to the motion of atoms in gases [14]. It is expected that the mobility of hydrogen
+ions (or deuterium ions) will increase, as the loading ratio H/metal (or D/metal) of hydrogen
+atoms (or deuterium atoms) increases and becomes larger than one, H/metal ≥ 1 (or D/metal ≥ 1).
+Theoretical formulation for single species case: For applying the concept of the BEC
+mechanism to deuterium fusion in a nano-scale metal particle, we consider N identical charged
+Bose nuclei (deuterons) confined in an ion trap (or a metal grain or particle). Some fraction of
+trapped deuterons are assumed to be mobile as discussed above. For simplicity, we assume an
+isotropic harmonic potential for the ion trap to obtain order of magnitude estimates of fusion
+reaction rates. N-body Schroedinger equation for the system is given by
+ EH (1)
+with the Hamiltonian H for the system given by
+2 2
+2 2
+1 1
+1
+2 2
+N N
+i i
+i i i j i j
+e
+H m r
+m
+
+  
+   
+
+  
+
+r r
+(2)
+where m is the rest mass of the nucleus. The detailed derivations are given elsewhere [5,6,7,16]
+for obtaining the approximate the ground state solution for Eq. (1) and the approximate
+theoretical formula for the deuteron-deuteron fusion rate in an ion trap (nano-scale metal
+particle). The use of an alternative method based on the mean-field theory for bosons (see
+Appendix in [6]) yields the same result.
+Our final theoretical formula for the nuclear fusion rate Rtrap for a single trap containing N
+deuterons is given by
+Rtrap= ΩBNω2 (3)
+with
+3
+2
+4
+3
+r
+N
+m
+c
+
+
+
+
+
+
+
+
+
+
+ (4)
+where r is the radius of trap/atomic cluster, , rr N is the average number of Bose
+nuclei in a trap/cluster, and B is given by B=3 Am/(8παħc), with A= 2SrB/(πħ), rB=ħ2/(2μe2), and
+μ=m/2. S is the S-factor for the nuclear fusion reaction between two deuterons. For D(d,p)T and
+D(d,n)3He reactions, we have S ≈ 55 keV-barn. We expect also S ≈ 55 keV-barn for reaction {6}.
+4
+Only one unknown parameter is the probability of the BEC ground state occupation, Ω. It may
+be proportional to N-1/3, Ω N-1/3, or to N-2, 2N .
+We can rewrite Eq. (3) as
+ 
+2 2
+3 2
+3 3
+4 3 4
+/
+trap
+trap trap
+N N
+R / A
+D D
+   (5)
+where Dtrap is the average diameter of the trap, rDtrap 2 .
+The total fusion rate Rt is given by
+3
+trap
+trap
+D
+traptrapt
+D
+N
+R
+N
+N
+RNR  (6)
+where ND is the total number of deuterons and Ntrap = ND/N is the total number of traps.
+Two species case and selection rule: We consider a mixture of two different species of
+positively charged nuclear particles, labeled 1 and 2, with N1 and N2 particles, respectively, both
+trapped in a micro/nano-scale metal grain or particle. We denote charges and masses as Z1≥ 0,
+Z2≥ 0, and m1, m2, respectively. We use the mean-field theory [7,17] for a system of interacting
+bosons confined in a harmonic potential to derive the following selection rule:
+2
+2
+1
+1
+m
+Z
+m
+Z
+ (7)
+The detailed derivations are given in reference [8]. We now apply the selection rule, Eq. (7). If
+we use m as mass number approximately given in units of the nucleon mass, we have [Z1 (D)/m1
+(D)] = ½, [Z2 (p)/m2 (p)] = 1, [Z2(T)/m2 (T)] = 1/3, [Z2 (n)/m2 (n)] = 0, and [Z2(
+3He)/m2 (3He)] =
+2/3.
+Since [Z1/m1] ≠ [Z2/m2] for reactions {4} and {5} they are forbidden or suppressed, and fusion
+reaction rates for reactions {4 and {5} are expected to be small, while reaction {6} is allowed
+since [Z1/m1] = [Z2/m2], and fusion reaction rate is expected to be large for reaction {6}. In
+summary, we obtain R{6} >> R{4} and R{6} >> R{5}.
+3. Theoretical Implications and Predictions
+Eqs. (3) and (6) provide an important result that nuclear fusion rates Rtrap and Rt do not
+depend on the Gamow factor in contrast to the conventional theory for nuclear fusion in free
+space. This could provide explanations for overcoming the Coulomb barrier and for the claimed
+anomalous effects for low-energy nuclear reactions in metals.
+This is consistent with the conjecture noted by Dirac [18] and used by Bogolubov [19] that
+boson creation and annihilation operators can be treated simply as numbers when the ground
+state occupation number is large. This implies that for large N each charged boson behaves as an
+independent particle in a common average background potential and the Coulomb interaction
+between two charged bosons is suppressed.
+For a single trap (or metal particle) containing N deuterons, the deuteron-deuteron fusion can
+proceed with the following three reaction channels.
+5
+         
+    
+    MeVQsDNnHe
+MeVQsDNpT
+MeVQsDNHeDDsDNBEC
+2732
+0342
+842322
+3
+4
+.'*
+.'*
+.'*'
+
+
+
+
+
+
+where ψBEC is the Bose-Einstein condensate ground state (a coherent quantum state) with N
+deuterons and ψ* are final excited continuum states. Excess energy (Q value) is absorbed by the
+BEC state and shared by (N-2) deuterons and reaction products in the final state.
+We now consider the total momentum conservation. The initial total momentum of the initial
+BEC state with N deuterons (denoted as DN) is given by .0ND
+P
+
+Because of the total
+momentum conservation, the final total momenta for reactions {4}, {5}, and {6} are given by
+   
+   
+   
+2
+2 3 3
+2 4 4
+4 0 4
+5 0 5
+6 0 6
+N
+N
+N
+D p TD pT
+D nD n He He
+DD He He
+P , T T T Q / N
+P , T T T Q / N
+P , T T Q / N
+
+
+
+   
+   
+  
+
+
+
+where T represents the kinetic energy.
+For a micro-scale metal grain confined by grain boundaries of ~ 1μm diameter, we expect to
+have N ≈ 1010 and Q{6}/N ≈ 10-3 ~ 10-4 eV, and hence we expect the excess heat and 4He
+production due to reaction {6} but no nuclear ashes from some of the reactions described below
+in section 4.
+For nano-scale metal particles, the above consideration shows that excess energies (Q) lead to
+a micro/nano-scale fire-work type explosion, creating a crater/cavity and a hot spot with fire-
+work like star tracks. The size of a crater/cavity will depend on number of neighboring Pd
+nanoparticles participating in BEC fusion almost simultaneously. Since sizes of deuteron and Pd
+nucleus are of the order of ~10-4 o
+A (~ 10 fm) while the average distance between two neighboring
+Pd atoms is ~ 2.5
+o
+A , ~ 10 keV deuteron from the BEC deuterium fusion encounters mostly
+electrons and transfers its kinetic energy to electrons. Occasionally, ~ 10 keV deuteron may
+interact with Pd nucleus to initiate nuclear reactions, Pd(d,p)Rh, etc. When the BEC deuterium
+fusion takes place in a Pd nanoparticle, exploding deuterons are expected to damage and leave
+the host Pd nanoparticle, but some of the Pd nanoparticles may remain intact and may participate
+again in the BEC deuterium fusion after absorbing again a sufficient number of deuterons, D/Pd
+≥ 1.
+4. Further Consequences of BEC Mechanism and of Selection Rule
+Effects due to deuterons: Deuterons with Q{6}/N ≈ ~10 keV energy from reaction {6} can
+undergo reactions {1} and {2} producing p(3.02 MeV), T(1.01 MeV), n(2.45 MeV), and
+3He(0.82 MeV), which in turn will proceed with further reactions.
+Tritons produced by reaction {1} (1.01 MeV triton) and by reaction {4} (average kinetic
+energy of Q{4}/N ≈ ~keV) will interact with surrounding deuterons via the following reaction
+{7} T + D → 4He(3.52 MeV) + n (14.07 MeV).
+6
+Because of triton kinetic energies of 1.01 MeV or ~ keV, the reaction rate for {7} could be large
+enough to produce 14.07 MeV neutrons, which may have been recently observed by Forsley and
+Mosier-Boss [20]. We note that 4He produced by reaction {7} has much higher kinetic energy
+(3.52 MeV) compared with deuterons from reaction {6} (Q{6}/N ≈ ~10 keV).
+Effects due to neutrons: Neutrons with 2.45 MeV kinetic energy from reaction {2}, neutrons
+with Q{5}/N ≈ ~ keV kinetic energy from reaction {5}, or neutrons with 14.07 MeV kinetic
+energy from reaction {7} can undergo further reactions, {8} and/or {9} below:
+{8} n + D →T + γ + 6.26 MeV
+{9} Neutron induced transmutation with other nuclei.
+In addition, 14.07 MeV neutrons from reaction {7} may initiate reactions, 12C(n,n')3 4He and
+12C(n,n'α)8Be(8Be→24He), which may have been recently observed by Mosier-Boss et al. [21].
+Since reaction {8} produces more tritiums than neutrons, we expect R(T) > R(n), and also R (T)
+> R(3He).
+High deuterium loading requirement: D/Pd ≥ 1 is required for sustaining deuteron mobility in
+Pd metal. The mobility of deuterons is required for the BEC mechanism.
+Deuterium purity requirement: Because of violation of the selection rule, [Z1(D)/m1(D)] ≠
+[Z2(p)/m2(p)], presence of hydrogens in deuteriums will surpress the formation of the BEC states,
+thus diminishing the fusion rate due to the BEC mechanism. The required H/D ratio is expected
+to be H/D < N-1. For a 5 nm Pd nanoparticle with N ≈ 104, H/D < 10-4, and hence 99.99 %
+deuterium purity is required.
+Heat after death: There have been observations of continued heat generation after the input for
+experiment is switched off. This effect is known as “heat after death”. Because of mobility of
+deuterons in Pd particle traps, a system of ~ 1022 deuterons contained in ~ 1018 Pd particle traps
+(in 3g of Pd particles with average particle diameter of ~ Å50 ) is a dynamical system. BEC
+states are continuously attained in a small fraction of the ~ 1018 Pd particle traps and undergo
+BEC fusion processes, until the formation of the BEC state ceases or becomes negligible.
+Enhancement by electromagnetic fields and laser stimulation: Application of
+electromagnetic fields [2] and laser stimulation [22] have been shown to enhance the excess heat
+production and other anomalous effects. These effects may be due to a decrease of the average
+kinetic energy of mobile deuterons and/or to an increase of mobile deuterons participating in the
+BEC fusion processes.
+Increase of resistance: When the BECNF occurs, more mobile deuterons will be created. This
+in turn will increase the resistance of metal. This effect may have been recently observed by
+Celani et al. in deuterium gas loading experiments with Pd nanoparticles coated on a Pd wire
+[23].
+5. Experimental Tests of Theoretical Predictions
+The first experimental test of the BEC mechanism for deuterium fusion with nano-scale Pd
+particles was carried out with Pd blacks loaded by high-pressure deuterium gas [16]. The result
+of this experiment shows no excess heat production. This may be due to the fact that Pd
+nanoparticles (Pd Blacks) used had too large sizes (80 nm – 180 nm) and were clumped together
+7
+(not isolated). Furthermore, deuterium purity requirement was not satisfied. The recent report of
+deuteron gas-loading experiment by Arata and Zhang [3] show positive results of observing
+excess heat and 4He production using ~ 5 nm Pd particles imbedded in ZrO2 and purified
+deuterium. For experimental tests of the predictions of the theory, it would be advantageous
+scientifically to use samples of Pd nanoparticles deposited on thin films such as Al2O3/NiAl(111)
+[24-26], even though bulk materials such as Pd nanoparticles imbedded in SiO2 aerogels [27] are
+more suitable for practical applications. Other possibilities are to use other metals such as Zr or
+Ti nanoparticles. In all cases, the theory requires that metal nanoparticles and micrograins are to
+be separated from each other by boundaries.
+Tests based on the average size of metal particles: From Eq. (6) with N=ND(π/6) 3
+trapD , we
+obtain 1 6
+t trap trap trapR (D ) D or D ,  where Dtrap is the average trap diameter, assuming 1/3 2N or N , 
+respectively. This can be tested experimentally. This result provides a theoretical justification
+for using 50 Å Pd nanoparticles to maximize the total fusion rates.
+Tests based on the temperature dependence: Since the probability Ω of the BEC ground state
+occupation increases at lower temperatures (Ω ≈ 1 near T ≈ 0), the total fusion rate Rt will
+increase at lower temperatures, Rt(Tlow) > Rt(Thigh). However, Rt is proportional to ND where ND
+is the total number of mobile deuterons. Since ND(Tlow) < ND(Thigh), we expect Rt[ND(Tlow)] <
+Rt[ND(Thigh)]. The above opposite temperature dependences for Rt will complicate analysis of the
+temperature dependence of Rt.
+Tests for reaction products and heat after death: Some examples of this type of tests are (1)
+to look for micro/nano-scale craters/cavities and hot spots with micro/nano-scale fire-work like
+star tracks at Pd nanoparticle sites, before and after death, and (2) to measure neutron energies to
+check the reaction products carries kinetic energies of 2.45 MeV from the secondary reaction {2},
+and Q{5}/N ~keV from reaction {5}.
+Tests for increase of resistance: Resistance of the metal should be measured to test predicted
+increase of resistance during the BECNF process.
+Tests for scalability: One example is a scalability test based on the total number of Ntraps. Since
+we have R N R N for the same R
+t trap trap trap trap
+  , we have theoretical prediction,
+ R 30g Pd particles
+t
+/  R 3g Pd particles
+t
+≈10, etc., which can be tested experimentally.
+
+6. Conclusion and Summary
+Theory of the BEC mechanism described in this paper provides a consistent conventional
+theoretical description of the results of many experimental works started by Fleischmann and
+Pons in 1989 and by many others since then [1], including the recent work of Szpak, Mosier-
+Boss, and Gordon [2] and the most recent work of Arata and Zhang [3]. Theory is based on the
+concept of nuclear Bose-Einstein condensate state for mobile deuterons trapped in a micro/nano-
+scale metal grain or particle, which acts as a confinement or trapping potential, similar to a
+magnetic trap used to observe the atomic BEC phenomenon with atoms in 1995 [11-13]. To
+validate this new concept of the nuclear BEC phenomenon, experimental tests for a set of key
+theoretical predictions are proposed. Scalabilities of the observed effects are also discussed.
+8
+References
+1. P.L. Hagelstein et al., “New Physical Effects in Metal Deuterides”, Proceedings of ICCF-11
+(Marseille, France, 2004), Condensed Matter Nuclear Science, pp. 23-59, World Scientific
+Publishing Co., Singapore (2006) and references therein.
+2. S. Szpak, P.A. Mosier-Boss, and F.E. Gordon, Proceedings of ICCF-11, Condensed Matter
+Nuclear Science, pp. 359-373 World Scientific Publishing Co., Singapore (2006); S. Szpak,
+et al., Proceedings of ICCF-14 (2008); S. Szpak, P.A. Mosier-Boss, and J.J. Smith, Physics
+Letters A 210, 382-390 (1996); S. Szpak, P.A. Mosier-Boss, and R.D. Boss, Fusion
+Technology 33, 38-51 (1998); P.A. Mosier-Boss and S. Szpak, Nuovo Cimento Soc. Ital. Fis.
+A 112, 577 (1999); S. Szpak, P.A. Mosier-Boss, C. Young and F.E. Gordon,
+Naturwissenschaften 92, 394-397 (2005)
+3. Y. Arata and Y.C. Zhang, J. High Temp. Soc 34 (2), 85 (2008)
+4. Y. E. Kim and A.L. Zubarev, Proceedings of ICCF-7, 186 (1998)
+5. Y.E. Kim and A.L. Zubarev, “Nuclear Fusion for Bose Nuclei Confined in Ion Traps”,
+Fusion Technology 37, 151 (2000)
+6. Y.E. Kim and A.L. Zubarev, “Ultra Low-Energy Nuclear Fusion of Bose Nuclei in Nano-
+Scale Ion Traps”, Italian Physical Society Proceedings (ICCF-8) 70, 375 (2000)
+7. Y.E. Kim and A.L. Zubarev, Physical Review A64, 013603 (2001); A66, 053602 (2002)
+8. Y.E. Kim and A.L. Zubarev, Proceedings of ICCF-11, Condensed Matter Nuclear Science,
+pp. 711-717, World Scientific Publishing Co., Singapore (2006)
+9. S.N. Bose, Z. Phys. 26, 178 (1924); A. Einstein, Sitz. Preuss Akad. Wiss. 1924, 3 (1924)
+10. A. Griffin, et al., Bose-Einstein Condensation, Cambridge, New York, NY (1995)
+11. M.H. Anderson, et al., Science 269, 198 (1995)
+12. C.C. Bradley, et al., Phys. Rev. Lett. 75, 1687 (1995)
+13. K.B. Davis, et al., Phys. Rev. Lett. 75, 3969 (1995)
+14. Y. Fukai, The Metal-Hydrogen System, Second Edition, Springer Berlin Heidelberg New
+York (2005)
+15. Q.M. Barer, Diffusion in and through Solids, Cambridge University Press, New York, NY
+(1941)
+16. Y.E. Kim, D.S. Koltick, R. Pringer, J. Myers, and R. Koltick, Proceedings of ICCF-10
+(Massachusetts, USA, 2003), Condensed Matter Nuclear Science, pp. 789-799, World
+Scientific Publishing Co., Singapore (2006)
+17. B.D. Esry, Phys. Rev. A 55, 1147 (1997)
+18. P.A.M. Dirac, The Principles of Quantum Mechanics, second edition, Clarendon Press,
+Oxford 1935, Chapter XI, Section 62.
+19. N. Bogolubov, “On the Theory of Superfluidity”, Journal of Physics 11, 23 (1966)
+20. P.A.Mosier-Boss,et al., Naturwissenschaften, DOI 10.1007/s 00114-008-0449-x,
+Supplemental Material
+21. P.A. Mosier-Boss, et al., Naturwissenschaften, DOI 10.1007/s 00114-008-0449-x
+22. D. Letts and D. Craven, Proceedings of ICCF-11, pp. 159-170 (2006)
+23. F. Celani, et al., Proceedings of ICCF-14 (2008)
+24. K.H. Hansen et al., Phys. Rev. Lett. 83, 4120 (1999)
+25. Sh. Shaikhutdinov, et al., Surf. Sci. 501, 270 (2002)
+26. M. Morkel, G. Rupprechter, and H.-J. Freund, Surf. Sci. 588, L209 (2005)
+27. Y.E. Kim, et al., Proceedings of ICCF-11, Condensed Matter Nuclear Science, pp. 703-710,
+World Science Publishing Co., Singapore (2006)

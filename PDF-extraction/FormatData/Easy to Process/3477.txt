@@ -1,0 +1,257 @@
+Reifenschweiler, O. Some Experiments on the Decrease of Radioactivity of Tritium Sorbed by Titanium. in 5th
+International Conference on Cold Fusion. 1995. Monte-Carlo, Monaco: IMRA Europe, Sophia Antipolis Cedex,
+France.
+
+Some Experiments on the Decrease of the Radioactivity of Tritium
+Sorbed by Titanium
+Otto REIFENSCHWEILER
+Philips Research Laboratories, Eindhoven,
+The Netherlands
+
+Abstract
+A sharp decrease of the radioactivity of tritium was observed when the hydrogen isotope
+is sorbed by small monocrystalline particles of titanium and the preparation is heated to several
+hundred degrees centigrade. In other experiments the concentration of tritium in such
+preparations was varied, showing that the radioactivity of the tritium increased less than
+proportionally to its concentration. A first attempt is presented to explain these remarkable
+effects in terms of a “nuclear pair hypothesis”.
+
+1. Introduction
+In a recent letter [1] the author has given a short description and preliminary
+interpretation of experiments where a sharp decrease of the radioactivity of tritium was observed.
+The present paper describes these and additional experiments in more detail. By this procedure a
+high degree of evidence was obtained for the strange effect of the decrease of the radioactivity of
+tritium. I should like to recall that the experiments have been done many years ago in the course
+of technological projects.
+2. Experimental
+As described in ref. [1] titanium preparations were made by evaporation of the metal in
+argon at a pressure of 1 up to 2 cm Hg. By homogeneous nucleation small monocrystalline
+particles of titanium are obtained which are arranged in chains with many ramifications. By this
+procedure a very loose soot-like deposit is obtained. After pumping out the argon tritium is
+introduced and is sorbed with a time constant of about 10 s.
+Two different measuring procedures are applied to determine the radioactivity of tritium.
+In one part of the experiments, the heating experiments described in this paper, a thin stainless
+steel or nickel window enables measurement of the x-radiation accompanying the β-decay by a
+GM tube (fig.1). In some other experiments the β-emission current is measured directly by a
+vibrating reed electrometer. While the first measuring procedure is applied for thick preparations,
+e.g. on an average about 80 Ti-particles thick, the second one can only be applied for thin
+preparations, about one particle thick. An analysis of the measuring procedures is given in ref.
+[1].
+
+Fig. 1.    Experimental arrangement for measuring the β-radioactivity as a function of temperature via the x-
+radiation by a GM-tube.
+
+3. Heating Experiments
+The heating experiment presented in ref. [1] is described and evaluated in more detail in
+this paper.
+In a preliminary experiment the pressure rise of tritium by heating a TiT0.0035-preparation
+(48 mg Ti, 100 mC T2) twice in a closed system was determined. Fig. 2 shows the result. With a
+first rise of temperature the tritium pressure (graph B) shows no increase at temperatures below
+about 350°C and then increases. With the second rise of temperature the tritium pressure (graph
+C) increases very much earlier at about 250°C. A possible explanation of this important
+phenomenon may be that the release of the tritium at the first rise of temperature is prevented by
+surface contamination [2], above all titanium oxide, which is dissolved in the metal during the
+heating up to 480°C at the first rise of temperature. This preliminary explanation has to be
+carefully investigated applying UHV-technique and definitely determined oxide layers. Such
+
+investigations should support our preliminary conclusion that the pressure rise upon the second
+rise of temperature indicates the release of tritium atoms from their bonds to the titanium lattice.
+In a most important heating experiment [1] an identical preparation is heated in the
+arrangement shown in fig. 1. Fig 2 graph A gives the count rate as a function of temperature. As
+stated in ref. [1] it is very strange that the count rate decreases sharply between 115°C and 160°C
+by 28% followed by a further slower decrease, reaching 60% of the initial value at 275°C and
+then rises to about the initial value at 360°C. With a further increase of temperature the count
+rate decreases fast, which is due to decomposition of the preparation.
+
+Fig. 2.   As a function of temperature, TiT0.0035-Preparation:
+Graph A: Count rate, pumped system.
+Graph B: Tritium pressure at the first rise of temperature, closed system.
+Graph C: Tritium pressure at the second rise of temperature, closed system.
+
+The sharp decrease of the radioactivity above all between 115°C and 160°C, but also the
+further slower decrease between 160°C and 275°C, cannot be explained by decomposition of the
+preparation. This is clearly shown by graph B which represents the increase of the tritium
+pressure and hence the release of tritium upon a first rise of temperature: in such a preparation
+there is no measurable release of tritium below about 350°C, which is confirmed by many
+experiments. But the strongest argument that no tritium is lost at the first decrease of count rate
+between 115°C and 275°C is the fact that the radioactivity increases again between 275°C and
+360°C to the initial value before decomposition of the preparation. Thus we arrive at the
+
+following preliminary conclusion:
+In the temperature region between 115°C and 275°C a new compound of tritium is
+formed with a lower λT and with further increase of temperature this lower emitting compound is
+destroyed.
+The re-increase of the count rate begins at the same temperature as the increase of tritium
+
+pressure at the second rise of temperature. This leads to the preliminary conclusion that the
+binding of the tritium atoms (nuclei) to the titanium lattice is a necessary condition for the
+decrease of the radioactivity. However the tritium atoms released from their bonds to the
+titanium lattice which exhibit normal λ cannot leave the titanium particles, as shown by graph B.
+
+Fig. 3.   Experimental arrangement with two tubes. Tube S contains a TiT0.035-preparation at the beginning of the
+experiment and is heated in an oven. Tube G contains a finely divided Ti-preparation which absorbs the tritium
+released from preparation S.
+
+In a further heating experiment a preparation with a 10 times higher concentration of the
+tritium (48 mg Ti, 1 Ci tritium) is investigated. In this experiment the tritium is desorbed from
+the TiT0.035-preparation during heating on account of the higher concentration. Fig. 3 shows the
+experimental arrangement. The tritium which is released from the preparation in tube S (solid) is
+absorbed by an identical titanium preparation in a second tube G (gas) maintained at room
+temperature and the radioactivity is measured by a second GM tube. Fig. 4a shows the result.
+Graph S gives the count rate of tube S which is heated and graph g that of the second tube G
+remaining at room temperature which determines the amount of the released tritium gas. The
+count rate of tube S is constant up to about 210°C and then decreases steeply. This led to the
+
+preliminary conclusion that the tritium is desorbed from preparation S during heating.
+To proceed to a more complete evaluation of this experiment we normalize the count rate
+of tube G to the same sensitivity as count rate S (fig. 4b). The count rate G gives the radioactivity
+of the tritium gas released from tube S and S+G is a measure of the total radioactivity. As can be
+seen a similar decrease and re-increase of the total radioactivity takes place as in fig. 2, and the
+minimum of the radioactivity is attained at the same temperature of 275°C. If we attribute the
+decrease of the radioactivity only to the solid preparation of tube S we obtain graph S'.
+
+Fig. 4a. Count rate as a function of temperature
+S: for tube S
+g: for tube G
+
+Fig. 4b. Radioactivity as a function of temperature
+S: for tube S
+G: for tube G
+S+G: total radioactivity
+S’: remaining radioactivity in the preparation of tube S
+Most interesting is the evaluation of the decrease of the radioactivity above 210°C.
+Between 210°C and 230°C the decrease of the radioactivity is 12.5 times higher than the amount
+of the released tritium and between 210°C and 242°C the corresponding value is 10.5 times
+higher. Thus the strong decrease of the radioactivity S above 210°C cannot be caused by the
+release of tritium from the preparation. This is a further strong argument for the decrease of the
+radioactivity during heating of our preparation above 210°C. That is just the beginning of the
+pure α-phase [3]. Then monocrystallinity of the small particles is regained which was disturbed
+by extremely small hydrid particles precipitated in the small TiT-α phase particles.
+It can be shown that the course of a = f(T) for the two heating experiments done under
+quite different conditions is equivalent. By evaluation of our first heating experiment we arrived
+
+at the preliminary conclusion that T-atoms (nuclei) must be bound to the titanium lattice to get a
+decrease of the radioactivity. In the first experiment (fig.2) the tritium atoms released from their
+bonds to the titanium lattice cannot leave the small titanium particles probably on account of
+surface contamination, above all oxidation. They have normal λ, and the re-increase of the
+radioactivity above 275°C is due to these liberated tritium atoms remaining in the preparation.
+With the second experiment (fig 4) the tritium atoms released from their bonds to the titanium
+lattice leave the small titanium particles on account of the higher concentration. The total
+radioactivity re-increases in the same manner as with the first experiment. The only difference is
+that with the first experiment the tritium atoms which regain normal λ remain in the preparation
+and with the second experiment they leave the small titanium particles as a gas on account of the
+higher concentration.
+It is most important to apply an oxide layer to the titanium particles or another means to
+prevent release of tritium from the Ti-particles in a heating experiment of the kind described in
+ref. [1] and fig.2 of this paper when working with UHV technique. It may be possible to
+distinguish between bulk absorption and chemisorption at the surface of the Ti-particles by
+performing experiments with a different degree of surface oxidation. It is recommended to apply
+in all experiments a second tube or another means to determine a possible release of tritium gas
+from the preparation.
+Two other heating experiments, where the surface of the TiTc-particles is oxidized by
+exposing the preparations to ambient air before heating, also distinctly show the effect. However
+the diminution of the radioactivity was not so strong as with the “clean” preparations (fig. 5).
+Especially interesting is the experiment with a TiT0.065-preparation, with a tritium concentration
+nearly twice as high as that of the experiment where the tritium was desorbed during heating. In
+this experiment the tritium remained in the preparation until the re-increase of the radioactivity
+occurred. Obviously the release of tritium was prevented by a strong oxide layer on the surface
+of the titanium particles. It seems furthermore that the oxidized surface layer (about 4 nm) of the
+small Ti-particles does not participate in the decrease of λT .
+
+Fig.5.    Count rate as a function of temperature for oxidized preparations.
+
+The release of the tritium atoms from their bonds to the titanium lattice can be prevented
+by maintaining an equilibrium pressure of tritium above the preparation. With this mode of
+operation we may expect a further decrease of the radioactivity. Such experiments provide
+
+confirmation or our preliminary conclusion that the binding of the tritium atoms to the titanium
+lattice is a necessary condition for the decrease of the radioactivity.
+Up till now in all heating experiments the formation of the lower emitting compound
+occurred in the α-phase of the titanium-tritium system, thus with very low concentrations. It is
+extremely interesting to perform such experiments with higher tritium concentration, with the
+hydride phase TiTc.
+For a theoretical interpretation of the effect it may be important that the tritium atoms
+(nuclei) are bound in harmonic oscillator potential wells.
+In a recent opposing note E. Wicke [4] argued that the decrease of the radioactivity a in
+fig. 2 is caused by migration of the tritium atoms from chemisorption at the surface to bulk
+absorption when the radioactivity decreased and conversely that it returns to the surface upon the
+re-increase of the radioactivity. However the effect proposed in ref. [4] cannot explain the course
+of a = f(T) presented in figs. 2 of this paper and of ref. [1]. On average about 80 Ti-particles are
+piled up in our titanium layer and the β-electrons are either completely stopped in the layer, or
+those which leave the layer enter it at another part of the tube wall. Thus the Ti layer and the
+upper part of the tube wall supporting the layer are a homogeneous source of x-radiation whose
+intensity is proportional to the β-radioactivity of the preparation. Furthermore Wicke’s argument
+cannot apply to the second heating experiment where the concentration of tritium strongly
+decreased during re-increase of the total radioactivity. A contra-note will be submitted for
+publication in the near future.
+4. TiTx-Experiments
+
+By our heating experiments we arrive at the conclusion that by heating TiTc-preparations
+(c=0.0035; 0.035 and 0.065) a new compound of the tritium in the small titanium particles with a
+lower λT is formed. However there is no physical effect known that can account for the observed
+decrease of radioactivity.
+It has been speculated that the decrease of λT in the small titanium particles may have
+something to do with the different phases of the TiTc-system (a suspicion which has so far not
+been confirmed). Therefore experiments were undertaken to measure the radioactivity as a
+function of the concentration in such systems. The concentration was taken as independent
+variable x and the relating experiments are therefore indicated as TiTx-experiments. In these
+experiments small accurately determined quantities of tritium were added successively to a thin
+finely divided titanium preparation and the increase of the emission current ∆i was measured by
+a vibrating reed electrometer. The result of the most important experiment is shown in fig. 3 of
+ref. [1]. With increasing x ∆a/∆x first decreased reaching a minimum at x ≈ 3×10-4 and then
+increased again to the initial value at x ≈ 5×10-4.From this and further TiTx-experiments a
+“nuclear pair hypothesis” was derived which reads explicitly:
+Two tritium nuclei (identical nuclei with half integer spin) under certain conditions (in
+our case by embedding in small particles of titanium) arrange themselves in pairs with nuclear
+spin zero. Such a nuclear pair acts for the decay to a certain extent as the parent nucleus, so that
+the radioactive decay changes to a certain extent into a higher forbidden one.
+The author would like to emphasize that the “nuclear pair hypothesis” is a hypothesis.
+This implies that it is a first attempt to explain the strange effect of the decrease of λT. It is to be
+proved or disproved by further experiments. Furthermore nothing has yet been said about the
+nature of the hypothetical nuclear pairs.
+5. Concluding Remarks
+There is a strong suspicion that the two different effects, cold DD-fusion and decrease of
+tritium radioactivity are caused by the same or a related fundamental principle: hydrogen
+isotopes, D or T, are sorbed in suitable metals and nuclear properties are changed in a quite
+incomprehensible manner. It should be investigated if cold DD-fusion happens in preparations as
+used in our experiments at elevated temperatures. If so thermodynamic analysis may lead to a
+deeper understanding of the effect. The fact that sometimes cold fusion experiments with a
+positive result are not reproducible points to the existence of a hidden necessary condition. For
+the effect of λ-decrease of tritium such a condition may be monocrystallinity or another may be
+smallness of the metal particles. Both can be investigated experimentally. Also compact layers
+have to be investigated.
+It may be interesting that in the experiment of M. Fleischmann and S. Pons [5] where
+excess enthalpy production was observed with deuterium absorbed in palladium analogous
+conditions for the formation of small PdD0.6-particles (hydride phase) are present as for the
+formation of our monocrystalline particles: Increasing the concentration of deuterium above the
+end of the α-phase (PdD0.01) one gets supersaturation of the α-phase, which results
+inhomogeneous nucleation. This brings about formation of small monocrystalline particles of Pd-
+hydride. To get homogeneous nucleation the Pd-metal has to be very pure, a condition which is
+also necessary for the production of excess enthalpy as reported by the authors of ref. [5].
+Otherwise one gets inhomogeneous nucleation with the formation of bigger and non-
+monocrystalline hydride particles. It is suggested that the microstructure and possible
+monocrystallinity of the palladium hydride suspended in the Pd-matrix should be investigated by
+metallographic techniques at different states of saturation.
+With both effects, cold DD-fusion and decrease of tritium radioactivity, identical
+particles interact. The cold DD-fusion gives the possibility to check if such interactions are only
+possible between identical particles (indicated as “homo-interactions”) or also between non-
+identical ones (indicated as “hetero-interactions”). If one gets neutron production in a cold fusion
+experiment by DD-reaction one has to repeat the experiment with a mixture of e.g. 50%
+deuterium and 50% tritium. If the reaction occurs between non-identical particles one has then to
+observe a high intensivity of 14 MeV neutrons from the DT-reaction. The result of such an
+experiment is very important for the theoretical interpretation of the cold fusion effect. If the
+reaction happens only between identical particles many theories are ruled out.
+Acknowledgments
+I am grateful to Professors H. B. G. Casimir, M. J. Steenland and M. J. A. de Voigt for
+their interest and encouragement and useful comments. Special thanks are due to Dr. J. F. van de
+Vate, who collaborated with me on the heating experiments during a stay in my laboratory as a
+part of his scientific education.
+References
+
+1. O.Reifenschweiler, Phys. Lett. A., 184, 149 (1994).
+2. H. Peisl in G. Alefeld and J. Völkl, editors, Hydrogen in Metals, Topics in Applied
+Physics Vol. 1(Springer, Berlin, Heidelberg, New York) 28, 63 (1978).
+3. N.A.Galaktinova, Hydrogen-Metal Systems Databook, Ordentlich Holon (1980).
+4. E.Wicke, Z. Naturforsch. 49a, 1259 (1994).
+5. M. Fleischmann and S. Pons, Phys. Lett. A, 176, 118 (1993).
+

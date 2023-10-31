@@ -1,0 +1,1435 @@
+(12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT)
+(19) World Intellectual Property Organization
+International Bureau
+(43) International Publication Date
+27 May 2010 (27.05.2010)
+1111111111101101010111110101111100111111H101011111101110110111111
+(10) International Publication Number
+WO 2010/058288 Al
+PCT
+(51) International Patent Classification:
+G21B 3/00 (2006.01)
+(21) International Application Number:
+PCT/IB2009/007549
+(22) International Filing Date:
+24 November 2009 (24.11.2009)
+(25) Filing Language: 	 Italian
+(26) Publication Language: 	 English
+(30) Priority Data:
+PI2008A000119 24 November 2008 (24.11.2008) 	IT
+(71) Applicants: BERGOMI, Luigi [IT/IT]; Strada Petriccio-
+Belriguardo, 112, 1-53100 Siena (IT). GHIDINI, Tiziano
+[IT/IT]; Via Verdi, 33, 1-25057 Sale Marasino (IT).
+(72) Inventor; and
+(71) Applicant : PIANTELLI, Silvia; Strada Petriccio-Belri-
+guardo, 120, 1-53100 Siena (SI) (IT).
+(72) Inventor 	only): PIANTELLI, Francesco; Strada
+Petriccio-Belriguardo, 112, 1-53100 Siena (SI) (IT).
+_ (74) Agent: CELESTINO, Marco; ABM Agenzia Brevetti &
+Marchi, Viale Giovanni Pisano, 31, 1-56123 Pisa (IT).
+(81) Designated States (unless otherwise indicated, for every
+kind of national protection available): AE, AG, AL, AM,
+AO, AT, AU, AZ, BA, BB, BG, BH, BR, BW, BY, BZ,
+CA, CH, CL, CN, CO, CR, CU, CZ, DE, DK, DM, DO,
+DZ, EC, EE, EG, ES, FI, GB, GD, GE, GH, GM, GT,
+HN, HR, HU, ID, IL, IN, IS, JP, KE, KG, KM, KN, KP,
+KR, KZ, LA, LC, LK, LR, LS, LT, LU, LY, MA, MD,
+ME, MG, MK, MN, MW, MX, MY, MZ, NA, NG, NI,
+NO, NZ, OM, PE, PG, PH, PL, PT, RO, RS, RU, SC, SD,
+SE, SG, SK, SL, SM, ST, SV, SY, TJ, TM, TN, TR, TT,
+TZ, UA, UG, US, UZ, VC, VN, ZA, ZM, ZW.
+(84) Designated States (unless otherwise indicated, for every
+kind of regional protection available): ARIPO (BW, GH,
+GM, KE, LS, MW, MZ, NA, SD, SL, SZ, TZ, UG, ZM,
+ZW), Eurasian (AM, AZ, BY, KG, KZ, MD, RU, TJ,
+TM), European (AT, BE, BG, CH, CY, CZ, DE, DK, EE,
+ES, FI, FR, GB, GR, HR, HU, 1E, IS, IT, LT, LU, LV,
+MC, MK, MT, NL, NO, PL, PT, RO, SE, SI, SK, SM,
+TR), OAPI (BF, BJ, CF, CG, CI, CM, GA, GN, GQ, GW,
+ML, MR, NE, SN, TD, TG).
+Published:
+with international search report (Art. 21(3))
+before the expiration of the time limit for amending the
+claims and to be republished in the event of receipt of
+amendments (Rule 48.2(h))
+— (54) Title: METHOD FOR PRODUCING ENERGY AND APPARATUS THEREFOR
+
+(57) Abstract: A method and a generator to produce energy from nuclear reactions between hydrogen and a metal, comprising the
+steps of a) production of a determined quantity of micro/nanometric clusters of a transition metal, b) bringing hydrogen into con-
+tact with said clusters and controlling its pressure and speed, preferably after applying vacuum cycles of at least 10' bar between
+35° and 500°C for degassing the clusters; c) creating an active core for the reactions by heating the clusters up to a temperature
+that is higher than the Debye temperature TD of the metal, preferably a temperature close to a temperature at which a sliding of
+reticular planes occurs, in order to adsorb in the clusters the hydrogen as H- ions; d) triggering the reactions by a mechanical, ther-
+mal, ultrasonic, electric or magnetic impulse on the active core, causing the atoms of the metal to capture the hydrogen ions, with
+liberation of heat, preferably in the presence of a gradient of temperature on the active core; e)removing the heat maintaining the
+temperature above TD, preferably in the presence of a magnetic and/or electric field of predetermined intensity. The active core can
+comprise a sintered material of micro/nanometric clusters, or a clusters powder collected in a container, or a deposit of clusters
+onto a substrate of predetermined volume and shape, with at least 109  clusters per square centimetre of surface, obtainable by
+means of methods such as sputtering, spraying evaporation and condensation of metal, epitaxial deposition, by heating up to ap-
+proaching the melting point and then slow cooling, such methods followed by quick cooling for freezing the cluster structure. W
+O
+20
+10
+/0
+58
+2
+8
+8
+A
+l
+WO 2010/058288 	 PCT/1B2009/007549
+- 1 -
+TITLE
+METHOD FOR PRODUCING ENERGY AND APPARATUS THEREFOR
+DESCRIPTION
+Field of the invention
+
+5 	The present invention relates to a process for producing energy by nuclear
+reactions between a metal and hydrogen that is adsorbed on the crystalline
+structure of the metal. Furthermore, the invention relates to an energy generator
+that carries out such reactions.
+Description of the prior art
+10 	A method for producing heat by nuclear reactions caused by hydrogen that
+is adsorbed on a Nickel active core has been described in W095/20316, in the
+name of Piantelli et. al.. Improvements of the process are described in Focardi,
+Gabbani, Montalbano, Piantelli, Veronesi, "Large excess heat production in Ni-H
+systems", in II Nuovo Cimento, vol. IIIA, N.11, november 1998, and bibliography
+15 	therein.
+A problem that was observed during the experiments was the preparation
+of the cores on which hydrogen had to be adsorbed and the reactions had to be
+carried out; such cores were made of Nickel and had the shape of small bars.
+One of the various critical aspects of the process was the choice of a
+20 suitable method for adsorbing hydrogen and the quality of the hydrogen matter,
+as well as the repeatability of the triggering conditions of the process.
+Other critical aspects were how to clean the small bar before the
+adsorption of the hydrogen, as well as how to optimize the optimal bar surface
+conditions and the method for triggering and shutting down the reactions.
+25 	Due to such problems, the set up of the process and its industrial
+exploitation turned out to be somewhat difficult.
+A further critical aspect is the core sizing and design to attain a desired
+power.
+In DE4024515 a process is described for obtaining energy from the
+30 nuclear fusion of hydrogen isotopes, in which the atoms are brought into contact
+with clusters that contains from three to one hundred thousand atoms of a
+WO 2010/058288 	 PCT/1B2009/007549
+- 2 -
+transition metal, and in which the clusters are obtained by cooling finely
+subdivided metal particles.
+Summary of the invention
+It is therefore a feature of the present invention to provide a method for
+5 producing energy by nuclear reactions of hydrogen that is adsorbed in a
+crystalline structure of a metal, which ensures repeatability of the triggering
+conditions of the reactions.
+It is, furthermore, a feature of the present invention to provide such a
+method for industrially making the precursors of the active cores, and for
+10 	industrially adsorbing hydrogen in them.
+It is another feature of the present invention to provide an energy
+generator that effects the above described nuclear reactions, whose production
+rate and size are also such that an industrial production is allowed.
+It is similarly a feature of the present invention to provide such a generator,
+is which allows easily adjusting the output power.
+It is a further feature of the present invention to provide such a generator,
+which can be easily shut down.
+These and other features are accomplished by a method for producing
+energy by nuclear reactions between hydrogen and a metal, said method
+20 	providing the steps of:
+— prearranging a determined quantity of crystals of a transition metal, said
+crystals arranged as micro/nanometric clusters that have a predetermined
+crystalline structure, each of said clusters having a number of atoms of said
+transition metal which is less than a predetermined number of atoms;
+25 — 	bringing hydrogen into contact with said clusters;
+— heating said determined quantity of clusters up to an adsorption
+temperature larger than a predetermined critical temperature, that is adapted to
+cause an adsorption into said clusters of said hydrogen as H- ions, said
+hydrogen as H- ions remaining available for said nuclear reactions within said
+30 active core after said heating step;
+— triggering said nuclear reactions between said hydrogen as H- ions and
+said metal within said clusters by an impulsive action exerted on said active core
+WO 2010/058288 	 PCT/1B2009/007549
+- 3 -
+that causes said H- ions to be captured into respective atoms of said clusters,
+said succession of reactions causing a production of heat;
+— 	removing said heat from said active core maintaining the temperature of
+said active core above said critical temperature, said step of removing said heat
+5 carried out according to a predetermined power.
+Advantageously, said step of prearranging is carried out in such a way that
+said determined quantity of crystals of said transition metal in the form of
+micro/nanometric clusters is proportional to said power.
+The number of atoms that form each cluster is the variable through which
+10 the predetermined power can be obtained from an active core that comprises a
+predetermined amount of metal. In fact, each cluster is a site where a reaction
+takes place, therefore the power that can be obtained is substantially
+independent from the clusters size, i.e. from the number of atoms that form the
+cluster.
+15 	In particular, the number of atoms of the clusters is selected from a group
+of numbers that are known for giving rise to structures that are more stable than
+other aggregates that comprise a different number of atoms. Such stability is a
+condition to attain a high reactivity of the clusters with respect to hydrogen to
+give H- ions. For instance, a stability function has been identified for Nickel,
+20 which depends upon the number of atoms that form the clusters, obtaining
+specific stability peaks that correspond to that particular numbers.
+The hydrogen that is used in the method can be natural hydrogen, i.e., in
+particular, hydrogen that contains deuterium with an isotopic abundance
+substantially equal to 0,015%. Alternatively, such hydrogen can be hydrogen
+25 with a deuterium content which is distinct from that above indicated, and/or
+hydrogen with a significant tritium content.
+Preferably, the hydrogen in use is molecular hydrogen H2; alternatively,
+the hydrogen is preliminarily ionized as H-, or it can be a mixture that contains
+H-  and H2.
+30 	 The transition metal can be selected from the group comprised of: Sc, Ti,
+V, Cr, Mn, Fe, Co, Ni, Zn, Y, Zr, Nb, Pd, Mo, Tc, Ru, Rh, Ag, Cd, Lu, Hf, Ta, W,
+Re, Os, Ir, Pt, Au, lanthanoids, actinoids. Such metals belong to one of the four
+transition groups , i.e.:
+— 	metals that have a partially filled 3d-shell, e.g. Nickel;
+WO 2010/058288 	 PCT/1B2009/007549
+-4-
+— metals that have a partially filled 4d-shell, e.g. Rhodium;
+- metals that have a partially filled 5d-shell, i.e. the "rare earths" or
+lanthanoids, e.g. Cerium;
+— metals that have a partially filled 5d-shell, i.e. the actinonoids, e.g.
+5 Thorium.
+The metal in use can also be an alloy of two or more than two of the above
+listed metals.
+Among the listed transition metals, or their alloys, the ones are preferred
+those that crystallize with a crystalline structure selected from the group
+10 comprised of:
+— face-centred cubic crystalline structure;
+— body-centred cubic crystalline structure;
+— compact hexagonal structure.
+Advantageously, metals are used that have a crystalline open face
+is 	structure, in order to assist the H- ions adsorption into the clusters.
+Preferably, said transition metal is Nickel. In particular, said Nickel is
+selected from the group comprised of:
+— natural Nickel, i.e. a mixture of isotopes like Nickel 58, Nickel 60, Nickel
+61, Nickel 62, Nickel 64;
+20 - 	a Nickel that contains only one isotope, said isotope selected from the
+group comprised of:
+- Nickel 58;
+- Nickel 60
+- Nickel 61;
+25
+-
+Nickel 62;
+- Nickel 64;
+- a formulation comprising at least two of such isotopes at a desired
+proportion.
+The H- ions can be obtained by treating, under particular operative
+30 conditions, hydrogen H2 molecules that have been previously adsorbed on said
+transition metal surface, where the semi-free valence electrons form a plasma.
+In particular, a heating is needed to cause lattice vibrations, i.e. phonons, whose
+energy is higher than a first activation energy threshold, through non-linear and
+anharmonic phenomena. In such conditions, the following events can occur:
+WO 2010/058288 	 PCT/1B2009/007549
+-5-
+- a dissociation of the hydrogen molecules that is adsorbed on the surface;
+- an interaction with valence electrons of the metal, and formation of H- ions;
+- an adsorption of the H- ions into the clusters, in particular the clusters that
+form the two or three crystal layers that are most close to the surface. The H-
+
+5 	ions can just physically interact with the metal, or can chemically bond with it, in
+which case hydrides can be formed.
+The H- ions can also be adsorbed into the lattice interstices, but
+- adsorption at the grain edges, by trapping the ions into the lattice defects;
+- replacement of an atom of the metal of a clusters
+io may also occur.
+After such adsorption step, the H- ions interact with the atoms of the
+clusters, provided that a second activation threshold is exceeded, which is
+higher than the first threshold. By exceeding this second threshold, in
+accordance with the Pauli exclusion principle and with the Heisenberg
+15 uncertainty principle, the conditions are created for replacing electrons of metal
+atoms with H- ions, and, accordingly, for forming metal-hydrogen complex
+atoms. This event can take place due to the fermion nature of H- ion; however,
+since H- ions have a mass 1838 times larger than an electron mass, they tend
+towards deeper layers, and cause an emission of Auger electrons and of X rays.
+20 Subsequently, since the H- ion Bohr radius is comparable with the metal core
+radius, the H- ions can be captured by the metal core, causing a structural
+reorganization and freeing energy by mass defect; the H- ions can now be
+expelled as protons, and can generate nuclear reactions with the neighbouring
+cores.
+25 	 More in detail, the complex atom that has formed by the metal atom
+capturing the H- ion, in the full respect of the energy conservation principle, of
+the Pauli exclusion principle, and of the Heisenberg uncertainty principle, is
+forced towards an excited status, therefore it reorganizes itself by the migration
+of the H- ion towards deeper orbitals or levels, i.e. towards a minimum energy
+30 state, thus emitting Auger electrons and X rays during the level changes. The H-
+ion falls into a potential hole and concentrates the energy which was previously
+distributed upon a volume whose radius is about 1012  m into a smaller volume
+whose radius is about 5x10-15  m. At the end of the process, the H- ion is at a
+distance from the core that is comparable with the nuclear radius; in fact in the
+WO 2010/058288 	 PCT/1B2009/007549
+- 6 -
+fundamental status of the complex atom that is formed by adding the H- ion,
+due to its mass that is far greater the mass of the electron, the H- ion is forced
+to stay at such deep level at a distance from the core that is comparable with
+the nuclear radius, in accordance with Bohr radius calculation. As above stated,
+5 owing to the short distance from the core, a process is triggered in which the H-
+ion is captured by the core, with a structural reorganization and energy release
+by mass defect, similarly to what happens in the case of electron capture with
+structural reorganization and energy release by mass defect or in case of loss of
+two electrons, due to their intrinsic instability, during the fall process towards the
+10 lowest layers, and eventually an expulsion of the the H- ion takes place as a
+proton, as experimentally detected in the cloud chamber, and nuclear reactions
+can occur with other neighbouring cores, said reactions detected as
+transmutations on the active core after the production of energy.
+According to the above, the actual process cannot be considered as a
+15 fusion process of hydrogen atoms, in particular of particular hydrogen isotopes
+atoms; instead, the process has to be understood as an interaction of a
+transition metal and hydrogen in general, in its particular form of H- ion.
+Advantageously, said predetermined number of said transition metal
+atoms of said clusters is such that a portion of material of said transition metal in
+20 the form of clusters or without clusters shows a transition of a physical property
+of said metal, said property selected from the group comprised of:
+- thermal conductivity;
+- electric conductivity;
+- refraction index.
+25 	The micro/nanometric clusters structure is a requirement for producing H-
+ions and for the above cited orbital and nuclear capture processes. For each
+transition metal, a critical number of atoms can be identified below which a level
+discrete structure (electronic density, functional of the electronic density and
+Kohn-Sham effective potential) and Pauli antisymmetry, tend to prevail over a
+30 band structure according to Thomas-Fermi approach. The discrete levels
+structure is at the origin of the main properties of the clusters, some of which
+have been cited above. Such features can be advantageously used for
+aqnalysing the nature of the surface, i.e. for establishing whether clusters are
+present or not.
+WO 2010/058288 	 PCT/1B2009/007549
+- 7 -
+In particular said step of preparing a determined quantity of
+micro/nanometric clusters comprises a step of depositing a predetermined
+amount of said transition metal in the form of micro/nanometric clusters on a
+surface of a substrate, i.e. a solid body that has a predetermined volume and a
+5 predetermined shape, wherein said substrate surface contains at least 109
+clusters per square centimetre.
+The step of prearranging a determined quantity of clusters can also
+provide a step of sintering said determined quantity of micro/nanometric
+clusters, said sintering preserving the crystalline structure and preserving
+10 	substantially the size of said clusters.
+The step of preparing the determined quantity of clusters can provide
+collecting a powder of clusters into a container, i.e. collecting a determined
+quantity of clusters or aggregation of loose clusters.
+Preferably, said substrate contains in its surface at least 1010  clusters per
+15 square centimetre, in particular at least 1011  clusters per square centimetre,
+more in particular at least 1012  clusters per square centimetre.
+Preferably, said clusters form on said substrate a thin layer of said metal,
+whose thickness is lower than 1 micron; in particular such thickness is of the
+same magnitude of the lattice of the crystalline structure of the transition metal.
+20  In fact, the core activation by adsorption of the H- ions into the clusters concerns
+only a few surface crystal layers.
+In particular said step of depositing said transition metal is effected by a
+process of physical deposition of vapours of said metal.
+Said process of depositing can be a process of sputtering, in which the
+25 substrate receives under vacuum a determined amount of the metal in the form
+of atoms that are emitted by a body that is bombarded by a beam of particles.
+Alternatively, the process of depositing can comprise an evaporation step
+or a thermal sublimation step and a subsequent condensation step in which the
+metal condensates onto said substrate.
+30 	Alternatively, the process of depositing can be performed by means of an
+epitaxial deposition, in which the deposit attains a crystalline structure that is
+similar to the structure of the substrate, thus allowing the control of such
+parameters.
+The transition metal can be deposited also by a process of spraying.
+WO 2010/058288 	 PCT/1B2009/007549
+- 8 -
+Alternatively, the step of depositing the transition metal can provide a step
+of heating the metal up to a temperature that is close to the melting point of the
+metal, followed by a step of slow cooling. Preferably, the slow cooling proceeds
+up to an average core temperature of about 600°C.
+s 	The step of depositing the metal is followed by a step of quickly cooling the
+substrate and the transition metal as deposited, in order to cause a "freezing" of
+the metal in the form of clusters that have a predetermined crystalline structure.
+In particular said quickly cooling occurs by causing a current of hydrogen
+to flow in a vicinity of said transition metal as deposited on said substrate, said
+10 current having a predetermined temperature that is lower than the temperature
+of said substrate.
+Advantageously, said step of bringing hydrogen into contact with said
+clusters is preceded by a step of cleaning said substrate. In particular, said step
+of cleaning is made by applying a vacuum of at least 10' bar at a temperature
+15 set between 350°C and 500°C for a predetermined time.
+Advantageously, said vacuum is applied according to a predetermined
+number, preferably not less than 10, of vacuum cycles and subsequent
+restoration of a substantially atmospheric pressure of hydrogen. This way, it is
+possible to quantitatively remove the gas adsorbed within the metal, in particular
+20 the gas which is adsorbed in the metal of the active core. In fact, such gas
+drastically reduces the interaction between the plasma of valence electrons and
+the hydrogen ions, and can limit or avoid the adsorption of the hydrogen in the
+clusters, even if an initial adsorption has occurred on the metal surface. If the
+substrate and the deposited metal are exposed to a temperature that is
+25 significantly above 500°C, the cluster structure can be irremediably damaged.
+Advantageously, during said step of bringing hydrogen into contact with
+said clusters, said hydrogen has a partial pressure set between 0,001 millibar
+and 10 bar, in particular set between 1 millibar and 2 bar, in order to ensure an
+optimal number of hits between the surface of said clusters and the hydrogen
+30 molecules: in fact, an excessive pressure increases the frequency of the hits,
+such that it can cause surface desorption, as well as other parasitic phenomena.
+Advantageously, during said step of bringing hydrogen into contact with
+said clusters, the hydrogen flows with a speed less than 3 m/s. Said hydrogen
+flows preferably according to a direction that is substantially parallel to the
+WO 2010/058288 	 PCT/1B2009/007549
+- 9 -
+surface of said clusters. In such condition, the hits between the hydrogen
+molecules and the metal substrate occur according to small impact angles,
+which assist the adsorption on the surface of the clusters and prevents re-
+emission phenomena in the subsequent steps of H- ions formation.
+5 	Advantageously, said step of creating an active core by hydrogen
+adsorption into said clusters is carried out at a temperature that is close to a
+temperature at which a sliding of the reticular planes of the transition metal, said
+temperature at which a sliding occurs is set between the respective
+temperatures that correspond to the absorption peaks a and 13.
+10 	Advantageously, the concentration of H- ions with respect to the transition
+metal atoms of said clusters is larger than 0,01, to improve the efficiency of the
+energy production process. In particular, this concentration is larger than 0,08.
+Advantageously, after said step of creating an active core by adsorbing
+hydrogen into said clusters a step is provided of cooling said active core down to
+is the room temperature, and said step of triggering a succession of nuclear
+reactions provides a quick rise of the temperature of said active core from said
+room temperature to said temperature which is higher than said predetermined
+critical temperature. In particular, said quick temperature rise takes place in a
+time that is shorter than five minutes.
+20 	The critical temperature is normally set between 100 and 450°C, more
+often between 200 and 450°C. More in detail, the critical temperature is larger
+than the Debye temperature of said metal.
+In particular, said step of triggering said nuclear reactions provides an
+impulsive triggering action selected from the group comprised of:
+25 — 	a thermal shock, in particular caused by a flow of a gas, in particular of
+hydrogen, which has a predetermined temperature that is lower than the active
+core temperature;
+— a mechanical impulse, in particular a mechanical impulse whose duration
+is less than 1/10 of second;
+30 — 	an ultrasonic impulse, in particular an ultrasonic impulse whose frequency
+is set between 20 and 40 kHz;
+— a laser ray that is impulsively cast onto said active core;
+WO 2010/058288 	 PCT/1B2009/007549
+-10-
+— an impulsive application of a package of electromagnetic fields, in
+particular said fields selected from the group comprised of: a radiofrequency
+pulse whose frequency is larger than 1 kHz; X rays; y rays;
+— an electrostriction impulse that is generated by an impulsive electric
+
+5 	current that flows through an electrostrictive portion of said active core;
+— an impulsive application of a beam of elementary particles; in particular,
+such elementary particles selected from the group comprised of electrons,
+protons and neutrons;
+— an impulsive application of a beam of ions of elements, in particular of ions
+10 of one or more transition metals, said elements selected from a group that
+excludes 0; Ar; Ne; Kr; Rn; N; Xe.
+— an electric voltage impulse that is applied between two points of a
+piezoelectric portion of said active core;
+— an impulsive magnetostriction that is generated by a magnetic field pulse
+15 	along said active core which has a magnetostrictive portion.
+Such impulsive triggering action generates lattice vibrations, i.e. phonons,
+whose amplitude is such that the H- ions can exceed the second activation
+threshold thus creating the conditions that are required for replacing electrons of
+atoms of the metal, to form temporary metal-hydrogen complex ions.
+20 Preferably, said step of triggering said nuclear reactions is associated with
+a step of creating a gradient, i.e. a temperature difference, between two points
+of said active core. This gradient is preferably set between 100°C and 300°C.
+This enhances the conditions for anharmonic lattice motions, which is at the
+basis of the mechanism by which H- ions are produced.
+25 	Advantageously, a step is provided of modulating said energy that is
+delivered by said nuclear reactions.
+In particular, said step of modulating comprises removing and/or adding
+active cores or active core portions from/to a generation chamber which
+contains one or more active cores during said step of removing said heat.
+30 Said step of modulating comprises a step of approaching/spacing apart
+sheets of said transition metal which form said active core in the presence of an
+hydrogen flow.
+The step of modulating can furthermore be actuated by absorption protons
+and alpha particles in lamina-shaped absorbers that are arranged between
+WO 2010/058288 	 PCT/1B2009/007549
+- 11 -
+sheets of said transition metal which form said active core. The density of such
+emissions is an essential feature for adjusting said power.
+Advantageously, a step is provided of shutting down said nuclear reactions
+in the active core, that comprises an action selected from the group comprised
+5 	of:
+- a further mechanical impulse;
+- cooling said active core below a predetermined temperature, in particular
+below said predetermined critical temperature;
+- a gas flow, in particular an Argon flow, on said active core.
+10 	In particular, said step of shutting down said nuclear reactions can
+comprise lowering the heat exchange fluid inlet temperature below said critical
+temperature.
+Advantageously, said succession of reactions with production of heat is
+carried out in the presence of a predetermined sector selected from the group
+15 	comprised of:
+— a magnetic induction field whose intensity is set between 1 Gauss and
+70000 Gauss;
+- an electric field whose intensity is set between 1 V/m and 300000 V/m.
+The objects of the invention are also achieved by an energy generator that
+20 is obtained from a succession of nuclear reactions between hydrogen and a
+metal, wherein said metal is a transition metal, said generator comprising:
+- an active core that comprises a predetermined amount of said transition
+metal;
+- a generation chamber that in use contains said active core;
+25
+-
+a means for heating said active core within said generation chamber up to
+a temperature that is higher than a predetermined critical temperature;
+— a means for triggering said nuclear reaction between said transition metal
+and said hydrogen;
+— a means for removing from said generation chamber the heat that is
+30 developed during said reaction in said active core according to a determined
+power;
+the main feature of said generator is that:
+— said active core comprises a determined quantity of crystals of said
+transition metal, said crystals being micro/nanometric clusters that have a
+WO 2010/058288 	 PCT/1B2009/007549
+- 12 -
+predetermined crystalline structure according to said transition metal, each of
+said clusters having a number of atoms of said transition metal that is less than
+a predetermined number of atoms.
+Advantageously, said determined quantity of crystals of said transition
+
+5 	metal in the form of micro/nanometric clusters is proportional to said power.
+Advantageously, said clusters contain hydrogen that is adsorbed as H-
+ions.
+Preferably, said means for heating said active core comprises an electric
+resistance in which, in use an electric current flows.
+10 	In particular, said active core comprises a substrate, i.e. a solid body that
+has a predetermined volume and a predetermined shape, on whose surface
+said determined quantity of micro/nanometric clusters of said transition metal is
+deposited, for at least 109  clusters per square centimetre, preferably at least
+1010  clusters per square centimetre, in particular at least 1011  clusters per square
+15 	centimetre, more in particular at least 1012  clusters per square centimetre.
+Advantageously, said active core has an extended surface, i.e. a surface
+whose area is larger than the area of a convex envelope of said active core, in
+particular an area A and a volume V occupied by said active core with respect to
+a condition selected from the group comprised of:
+20 	- 	NV > 12/L, in particular AN > 100/L;
+— AN > 500 m2/m3,
+where L is a size of encumbrance of said active core, said extended surface in
+particular obtained using as substrate a body that is permeable to said
+hydrogen, said body preferably selected from the group comprised of:
+25 - a package of sheets of said transition metal, each sheet having at least
+one face available for adsorbing said hydrogen, in particular a face that
+comprises an extended surface;
+— an aggregate obtained by sintering particles of whichever shape, in
+particular balls, cylinders, prisms, bars, laminas, normally said particles having
+30 nano- or micrometric granulometry, said particles defining porosities of said
+active core;
+— an aggregate obtained by sintering micro/nanometric clusters of said
+transition metal;
+WO 2010/058288 	 PCT/1B2009/007549
+-13-
+— a powder of clusters collected within a container, said convex envelope
+limited by a container of said powder, for example a container made of ceramic.
+Preferably, said transition metal is selected from the group comprised of:
+Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Zn, Y, Zr, Nb, Pd, Mo, Tc, Ru, Rh, Ag, Cd, Lu, Hf,
+5 Ta, W, Re, Os, Ir, Pt, Au, lanthanoids, actinoids, an alloy of two or more than
+two of the above listed metals; in particular said Nickel is selected from the
+group comprised of:
+— natural Nickel, i.e. a mixture of isotopes like Nickel 58, Nickel 60, Nickel
+61, Nickel 62, Nickel 64;
+to — 	a Nickel that contains only one isotope, said isotope selected from the
+group comprised of:
+- Nickel 58;
+- Nickel 60
+- Nickel 61;
+15
+-
+Nickel 62;
+- Nickel 64;
+- a formulation comprising at least two of such isotopes at a desired
+proportion.
+Said means for triggering can be:
+20 - 	a means for creating a thermal shock in said active core, in particular by
+means of a flow of hydrogen that is kept at a predetermined temperature lower
+than the temperature of the active core;
+— a means for creating a mechanical impulse, in particular an impulse that
+lasts less than 1/10 of second;
+25
+-
+a means for creating an ultrasonic impulse;
+- a means for casting a laser ray impulse onto said active core;
+- a means for impulsively applying a package of electromagnetic fields, in
+particular said fields selected from the group comprised of: a radiofrequency
+pulse whose frequency is larger than 1 kHz; X rays; y rays;
+30 - 	a means for creating an impulsive electric current through an
+electrostrictive portion of said active core,
+— a means for applying an electric voltage impulse between two points of a
+piezoelectric portion of said active core;
+WO 2010/058288 	 PCT/1B2009/007549
+-14-
+- a means for impulsively applying a beam of elementary particles in
+particular said particles selected among: electrons; protons; neutrons;
+— a means for impulsively applying a beam of ions of elements, in particular
+of ions of one or more transition metals, said elements selected from a group
+5 that excludes 0; Ar; Ne; Kr; Rn; N; Xe.
+— a means for applying a magnetic field impulse along said active core that
+has a magnetostrictive portion.
+Preferably, a means is associated with said means for triggering that is
+adapted to create a gradient, i.e. a temperature difference between two points
+10 of said active core, in particular said temperature difference set between 100°C
+and 300°C.
+Preferably, said active core is arranged in use at a distance less than 2
+mm from an inner wall of said generation chamber. This way, the production of
+H- ions is enhanced, since this distance is comparable with the mean free path
+15 of the hydrogen molecules at the working temperature and the working
+pressure.
+Advantageously, said generator comprises a means for modulating said
+energy that is released by said nuclear reactions.
+Said means for modulating can comprise a means for removing/adding
+20 active cores or active core portions from/into said generation chamber.
+In particular, said active core comprises a set of thin sheets, preferably
+said thin sheets having a thickness that is less than one micron, that are
+arranged facing one another and said means for modulating comprises a
+structure that is adapted to approach and/or to space apart said sheets while a
+25 	hydrogen flow is modulated that flows in a vicinity of said core.
+Still in the case of an active core which comprises sheets that are arranged
+adjacent to one another, said means for modulating can comprise lamina-
+shaped absorbers that are arranged between the sheets of said transition metal
+which form said active core, said absorbers adapted to absorb protons and
+30 	alpha particles that are emitted by the active core during the reactions.
+Advantageously, said generator comprises furthermore a means for
+shutting down said reaction in the active core.
+In particular, said means for shutting down are selected from the group
+comprised of:
+WO 2010/058288 	 PCT/1B2009/007549
+-15-
+— a means for creating a further mechanical impulse;
+— a means for cooling said core below a predetermined temperature value, in
+particular below said predetermined critical temperature;
+— a means for conveying a gas, in particular Argon, on said active core.
+5 In particular, said active core comprises a set of thin sheets, preferably
+said sheets having a thickness that is less than one micron, said sheets
+arranged facing one another and said means for modulating provided by said
+structure and by said absorbers.
+Advantageously, said generator comprises a means for creating a
+
+10 	predetermined field at said active core, said field selected from the group
+comprised of:
+— a magnetic induction field whose intensity is set between 1 Gauss and
+70000 Gauss;
+— an electric field whose intensity is set between 1 V/m and 300000 V/m.
+15 	Advantageously, said generator comprises a section for producing a
+determined quantity of clusters on a solid substrate, said section comprising:
+— a clusters preparation chamber;
+— a means for loading said substrate in said clusters preparation chamber;
+— a means for creating and maintaining vacuum conditions about said
+20 substrate within said clusters preparation chamber, in particular a means for
+creating and maintaining a residual pressure equal or less than 10-9  bar;
+— a means for heating and keeping said substrate at a high temperature in
+said clusters preparation chamber, in particular a means for bringing and
+keeping said substrate at a temperature set between 350°C and 500°C when
+25 	the residual pressure is equal or less than 10-9  bar;
+— a means for depositing said transition metal on said substrate, preferably
+by a technique selected from the group comprised of:
+— a sputtering technique;
+— a spraying technique;
+30 	- 	a technique comprising evaporation and then condensation of said
+predetermined amount of said metal on said substrate;
+— an epitaxial deposition technique;
+WO 2010/058288 	 PCT/1B2009/007549
+-16-
+- a technique comprising heating the metal up to a temperature that is
+close to the melting point of the metal, said heating followed by a
+slow cooling;
+— a means for quickly cooling said substrate and said transition metal, such
+
+5 	that said transition metal is frozen as clusters that have said crystalline
+structure.
+Advantageously, said section for producing a determined quantity of
+clusters comprises a means for detecting a transition of a physical property
+during said step of depositing, in particular of a physical property selected from
+to the group comprised of:
+— thermal conductivity;
+— electric conductivity;
+— refraction index.
+said transition occurring when said predetermined number of atoms of said
+15 	transition metal in a growing cluster is exceeded.
+Advantageously, said section for producing a determined quantity of
+clusters comprises a means for detecting a clusters surface density, i.e. a mean
+number of clusters in one square centimetre of said surface during said step of
+depositing.
+20 	Preferably, said section for producing a determined quantity of clusters
+comprises a concentration control means for controlling the H- ions
+concentration with respect to the transition metal atoms of said clusters.
+Preferably, said section for producing a determined quantity of clusters
+comprises a thickness control means for controlling the thickness of a layer of
+25 said clusters, in order to ensure that said thickness is set between 1 nanometre
+and 1 micron.
+Advantageously, said generator comprises a section for producing an
+active core, said section for producing an active core comprising:
+— a hydrogen treatment chamber that is distinct from said generation
+30 chamber;
+— a means for loading said determined quantity of clusters in said treatment
+chamber;
+WO 2010/058288 	 PCT/1B2009/007549
+-17-
+— a means for heating said determined quantity of clusters in said hydrogen
+treatment chamber up to a temperature that is higher than a predetermined
+critical temperature;
+— a means for causing said hydrogen to flow within said hydrogen treatment
+5 chamber, said hydrogen having a predetermined partial pressure, in particular a
+partial pressure set between 0,001 millibar and 10 bar, more in particular
+between 1 millibar and 2 bar;
+— means for transferring said active core from said hydrogen treatment
+chamber into said generation chamber.
+10 	Preferably, said means for causing said hydrogen to flow are such that
+said hydrogen flows according to a direction that is substantially parallel to an
+exposed surface of said substrate, In particular, said hydrogen having a speed
+that is less than 3 m/s.
+Advantageously, said section for producing an active core comprises a
+15 means for cooling down to room temperature said prepared active core, and
+said means for heating said active core within said generation chamber are
+adapted to heat said active core up to said predetermined temperature which is
+set between 100 and 450°C in a time less than five minutes.
+In particular, said quickly cooling in said clusters preparation chamber
+20 and/or said cooling down to room temperature in said hydrogen treatment
+chamber is/are obtained by means of said hydrogen flow on said active core,
+said flow having a predetermined temperature that is lower than the temperature
+of said active core.
+The objects of the invention are also achieved by an apparatus for
+25 producing energy that comprises:
+— a means for generating a substance in the vapour or gas state at a first
+predetermined pressure, said means for generating associated with a heat
+source;
+— a means for expanding said substance from said first pressure to a second
+30 predetermined pressure producing useful work;
+- a means for cooling said substance down to a predetermined temperature,
+in particular said predetermined temperature is less than the evaporation
+temperature of said substance in the vapour state;
+WO 2010/058288 	 PCT/1B2009/007549
+-18-
+— a means for compressing said cooled substance back to said first
+pressure;
+wherein said means are crossed in turn by a substantially fixed amount of said
+substance, said means for compressing feeding said means for generating;
+5 the main feature of this apparatus is that said heat source comprises an energy
+generator according to the invention as defined means above.
+In particular, the above apparatus uses a closed Rankine cycle;
+advantageously, the thermodynamic fluid is an organic fluid that has a critical
+temperature and a critical pressure that are at least high as in the case of
+10
+
+toluene, or of an ORC fluid, in particular of a fluid that is based on 1,1,1,3,3
+pentafluoropropane, also known as HFC 245fa or simply as 245fa.
+Brief description of the drawings
+The invention will be made clearer with the following description of an
+exemplary embodiment thereof, exemplifying but not !imitative, with reference to
+15 the attached drawings in which:
+— figure 1 is a block diagram of an embodiment of the method according to
+the invention;
+— figure 2 is a diagrammatical view of a crystal layer that is formed by
+clusters deposited on the surface of a substrate;
+20 - 	figure 3 is a diagrammatical view of the interactions between hydrogen and
+the clusters in a local enlarged view of Fig. 2;
+— figure 4 indicates the transition metals that are most adapted to be used in
+the method according to the invention;
+— figure 5 diagrammatically represents the orbital capture of a negative
+25 hydrogen ion by a transition metal atom;
+— figures 6, 7, 8 are diagrammatical representations of a face-centred cubic
+crystalline structure;
+— figure 9 diagrammatically represents a body-centred cubic crystalline
+structure;
+30 - 	figure 10 diagrammatically represents a crystalline compact hexagonal
+structure;
+— figure 11 is a diagrammatical view of the distribution of hydrogen atoms in
+such a crystalline structure;
+WO 2010/058288 	 PCT/1B2009/007549
+-19-
+— figure 12 is a block diagram of the parts of the step of prearranging
+clusters of Fig. 1, to obtain a clusters surface structure;
+— figure 13 shows a typical temperature profile of what is shown in Fig. 12;
+— figure 14 is a block diagram of the parts of the step of prearranging
+5 clusters and of the step of hydrogen treatment of said clusters to obtain an
+active core;
+— figure 15 shows a typical thermal profile of a process that comprises the
+steps shown in Fig. 14;
+— figure 16 shows a reactor that is adapted to produce energy, according to
+10 the present invention, by an impulsively triggered nuclear reaction of hydrogen
+adsorbed on a transition metal;
+— figure 17 diagrammatically shows a device for preparing an active core
+according to the invention;
+— figure 18 diagrammatically shows a generator that comprises the reactor of
+15 	Fig. 16 and the device of Fig. 17;
+— figures 19 to 23 show alternate exemplary embodiments of the active core
+according to the invention;
+— figure 24 shows a temperature gradient through an active core.
+Description of preferred exemplary embodiments.
+20 	With reference to Figs. 1, 2 and 3, an exemplary embodiment 100 of the
+method according to the invention is described, for producing energy by a
+succession of nuclear reactions between hydrogen 31 and a transition metal 19.
+According to this exemplary embodiment, the method provides a step 110 of
+prearranging clusters 21, for example a layer of clusters 20 on a substrate 22,
+25 this layer 20 defined by a surface 23. A crystal layer 20 of thickness d,
+preferably set between 1 nanometre and 1 micron is diagrammatically shown.
+The metal is deposited with a process adapted to ensure that the crystals as
+deposited have normally a number of atoms of the transition metal less than a
+predetermined critical number, beyond which the crystal matter looses the
+30 character of clusters. In the case of prearranging the clusters on a substrate, the
+process of depositing is adapted to ensure that 1 square centimetre of surface
+23 defines on average at least 109  clusters 21.
+WO 2010/058288 	 PCT/1B2009/007549
+- 20 -
+The method provides then a treatment step 120 of the clusters with
+hydrogen 31, in which hydrogen 31 is brought into contact with surface 23 of the
+clusters 21, in order to obtain a population of molecules 33 of hydrogen that is
+adsorbed on surface 23, as shown in Fig. 3. The bonds between the atoms of
+5 the hydrogen molecules are weakened, up to having a homolytic or heterolytic
+scission of the molecules 33, obtaining, respectively, a couple of hydrogen
+atoms 34 or a couple consisting of a hydrogen negative H-  ion 35 and a
+hydrogen positive H+  ion 36, from each diatomic molecule 33 of hydrogen. A
+contribution to this process of weakening the bond and of making, in particular
+10 H- ions 35, is given by a heating step 130 of surface 23 of the clusters up to a
+temperature T1 larger than a predetermined critical temperature TD, as shown in
+Fig. 15; this heating causes furthermore, an adsorption of the hydrogen in the
+form of H- ions 37 into clusters 21 (Fig. 3).
+The clusters 21 with the adsorbed hydrogen 37 in this form represent an
+15 active core that is available for nuclear reactions, which can be started place by
+a triggering step 140; such step consists of supplying an impulse of energy 26
+that causes the capture 150 by an atom 38 of the clusters of the H- ions 37
+adsorbed within the clusters, with a consequent exchange of an electron 42, as
+diagrammatically shown in Fig. 5, such that the succession of reactions causes
+20 a release of energy 43 to which a step 160 of production of heat 27 is
+associated, which requires a step of removal 170 of this heat towards an use,
+not shown.
+During the step 110 of prearranging clusters 21, the predetermined
+number of atoms of the transition metal of the clusters is controlled by observing
+25 a physical property of the transition metal, chosen for example between thermal
+conductivity, electric conductivity, refraction index. These physical quantities
+have a net transition, when the number of atoms of a crystal aggregate exceeds
+a critical number above which the aggregate looses the properties of a cluster.
+For each transition metal, in fact is a number of atoms detectable below which a
+30 discrete level structure according to Kohn-Sham tends to prevail over a band
+structure according to Thomas-Fermi, which is responsible of the main features
+that define the many features of the clusters, some of which properties are used
+for determining the nature of surface 23 during the step 110 of prearranging the
+clusters.
+WO 2010/058288 	 PCT/1B2009/007549
+- 21 -
+In Fig. 4 in the periodic table of the chemical elements the position is
+indicated of the transition metals that are adapted for the process. They are in
+detail, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Zn, Y, Zr, Nb, Pd, Mo, Tc, Ru, Rh, Ag, Cd,
+Lu, Hf, Ta, W, Re, Os, Ir, Pt, Au, lanthanoids, actinoids, an alloy of two or more
+5 than two of the above listed metals. They belong to one of the four transition
+metals groups, i.e.:
+— metals that have a partially filled 3d-shell, e.g. Nickel;
+— metals that have a partially filled 4d-shell, e.g. Rhodium;
+— metals that have a partially filled 5d-shell, i.e. the "rare earths" or
+10 	lanthanoids, e.g. Cerium;
+— metals that have a partially filled 5d-shell, i.e. the actinonoids, e.g.
+Thorium. The particular electronic conformation of the transition metals allows in
+fact that the conditions of anharmonicity are created such that the wave vectors
+sum with each other of the phonons, which interfere at the surface of the metal
+15 that is also a surface of discontinuity, and a reticular fluctuation is generated
+that is both in spatial phase and in time phase within the clusters, and such that
+an energy "gap" is exceeded that is necessary to start a chain of processes
+whose final act is the orbital capture of the H-  ion 37, as diagrammatically
+shown in Fig. 5. In order to achieve a result that is industrially acceptable, it is
+20 necessary to reach a temperature higher than the Debye temperature TD, for
+example the temperature T1  as shown in fig. 15, which shows a typical
+temperature trend from heating step 130 to heat removal step 170, during which
+a balance value is obtained of the temperature Teq  at the active core 1. The
+triggering step is assisted by the presence of a thermal gradient AT along the
+25 metal surface of the active core 1, as shown for example in Fig. 24.
+The clusters 21 (Figs. 2 and 3) have a crystalline structure 19 that is typical
+of the chosen transition metals or alloy of transition metals. In Figs. from 6 to 10
+crystal reticules with open faces are shown, which assist the process for
+adsorption of the hydrogen, in the form of H- ion 37 (Fig. 3), into a cluster 21,
+30 characterised by such structural arrangement. They comprise:
+— face-centred cubic crystalline structure, fcc (110) (Figs. 6, 7 and 8);
+— body-centred cubic crystalline structure, bcc (111) (Fig. 9);
+— compact hexagonal structure, hcp (1010) (Fig. 10).
+WO 2010/058288 	 PCT/1B2009/007549
+- 22 -
+For example, the Nickel can crystallize according to the face-centred cubic
+structure shown in the perspective view of Fig. 6, where six atoms 2 are shown
+arranged according to a diagonal plane.
+In Fig. 7 a top plan view is shown of a three-dimensional model comprising
+5 a plurality of atoms arranged according to the structure of Fig. 6, whereas Fig. 8
+is a further perspective view of a model that shows, between the atoms of the
+upper level, six atoms 2 that are arranged on two different rows separate from a
+space 60. As shown in Fig. 11, in this space 60 the hydrogen atoms 37 are
+arranged in the form of adsorbed H- ions in the above described crystalline
+10 structure. This occurs also for transition metals that crystallize in a body-centred
+cubic crystalline structure, as shown in the perspective view of Fig. 9, where the
+five atoms 2 are shown arranged at the vertices and at the centre of a diagonal
+plane of a cube, and also for metals that crystallize in the structure of Fig. 10.
+The step of prearranging clusters 110, in case of an active core that is
+15 obtained by depositing a predetermined amount of said transition metal in the
+form of micro/nanometric clusters on a surface of a substrate, is shown with
+higher detail in the block diagram of Fig. 12 and in the temperature profile of Fig.
+13. In particular, after a step 111 of loading a substrate in a preparation
+chamber, a step 113 is provided of depositing the transition metal on the
+20 substrate preferably by means of sputtering, or spraying, or epitaxial deposition;
+the deposited metal is then heated further up to a temperature close to the
+melting temperature Tf (Fig. 13), in order to bring it to an incipient fusion, and
+then follows a slow cooling, step 118, in particular up to an average core
+temperature of about 600°C, after which a quick cooling 119 is operated up to
+25 room temperature. This has the object of "freezing" the cluster structure that had
+been obtained at high temperature, which would otherwise evolve towards
+balance, without stopping at a cluster size, if the slow cooling 118 would be
+continued.
+In Fig. 14 a block diagram is shown an alternative step of prearranging
+30 clusters 110, in which the depositing step 113 is followed by a step 114 of
+cleaning the substrate, which is carried out preferably by means of repeatedly
+creating and removing a vacuum of at least 10-9  bar at a temperature of at least
+350°C. Such operative conditions, in particular the ultra high vacuum, have the
+object for quantitatively removing any gas that is adsorbed on or adsorbed in the
+WO 2010/058288 	 PCT/1B2009/007549
+- 23 -
+substrate, which would reduce drastically the interactions between the valence
+electron plasma of surface 23 and the hydrogen ions H-, avoiding the adsorption
+of the hydrogen 31 in the clusters 21 even if a physical surface adsorption has
+been achieved. Then a treatment step 120 follows of the clusters 21 with a flow
+5 of cold hydrogen, which causes also the quick cooling step 119. As shown in the
+diagram of Fig. 15, in a period of the cooling step 119 the temperature of the
+active core is higher than the critical temperature TD, which allows an adsorption
+of the hydrogen negative ions 37 in the clusters 21 (Fig. 3), such that at the end
+of step 110, after the quick cooling step 119, an active core is obtained that is
+10 adapted to be triggered, without that a specific treatment with hydrogen and a
+specific heating step 130 are necessary (v. Fig. 1).
+In any case, the step 120 of feeding hydrogen is carried out in order to
+provide a relative pressure between 0,001 millibar and 10 bar, preferably
+between 1 millibar and 2 bar, to ensure an optimal number of hits of the
+15  hydrogen molecules 31 against surface 23, avoiding in particular surface
+desorption and other undesired phenomena caused by excessive pressure;
+furthermore, the speed 32 of the hydrogen molecules 31 (Fig. 3) is less than 3
+m/s, and has a direction substantially parallel to surface 23, in order to obtain
+small angles of impact 39 that assist the adsorption and avoid back emission
+20 phenomena.
+In Fig. 15, furthermore, the temperature is shown beyond which the planes
+reticular start sliding, which is set between the temperatures corresponding to
+the absorption peaks a and 13, above which the adsorption of the H- ions 37 in
+the clusters 21 is most likely.
+25 	Figure 15 refers also to the case in which, after the step of adsorption of
+hydrogen, that is effected at a temperature that is higher than critical
+temperature TD, a cooling step 119 is carried out at room temperature of the
+active core. The step of triggering 140 follows then a specific heating step 130
+starting from the room temperature up to the predetermined temperature T1 that
+30 is larger than the Debye temperature of the metal TD, in a time t* that is as short
+as possible, preferably less than 5 minutes, in order not to affect the structure of
+the clusters and/or to cause desorbing phenomena before triggering step 140.
+The critical temperature TD is normally set between 100 and 450°C, more
+preferably between 200 and 450°C; hereafter the Debye temperature is
+WO 2010/058288 	 PCT/1B2009/007549
+- 24 -
+indicated for some of the metals above indicated: Al 426K; Cd 186K; Cr 610K;
+Cu 344.5K; Au 165K; a-Fe 464K; Pb 96K; a-Mn 476K; Pt 240K; Si 640K; Ag
+225K; Ta 240K; Sn 195K; Ti 420K; W 405K; Zn 300K.
+Such impulsive triggering action generates lattice vibrations, or phonons,
+5 having an amplitude such that the H- ions can pass the second activation
+threshold and achieve the conditions necessary for replacing electrons of atoms
+of the metal, creating metal-hydrogen complex ions (Fig. 5).
+The orbital capture of the H- ions 37 is assisted by a gradient of
+temperature between two points of the active core, in particular set between
+10 100°C and 300°C, which has a trend like the example shown in Fig. 24.
+In Fig. 16 an energy generator 50 is shown according to the invention,
+comprising an active core 1 housed in a generation chamber 53. The active
+core can be heated by an electric winding 56 that can be connected to a source
+of electromotive force, not shown. A cylindrical wall 55 separates generation
+is chamber 53 from an annular chamber 54, which is defined by a cylindrical
+external wall 51 and have an inlet 64 and an outlet 65 for a heat exchange fluid,
+which is used for removing the heat that is developed during the nuclear
+reactions. The ends of central portion 51 are closed in a releasable way
+respectively by a portion 52 and a portion 59, which are adapted also for
+20 supporting the ends in an operative position.
+Generator 50, furthermore, comprises a means 61, 62, 67 for triggering
+the nuclear reaction, consisting of:
+
+— 	a means for producing an impulsive electric current through an
+electrostrictive portion of the active core;
+25 - 	a means for casting a laser impulse on the active core.
+In Figs. from 19 to 23 three different embodiments are shown of an active
+core having an extended surface, using as substrate a body that is permeable to
+hydrogen, for example a package 81 of sheets 82 of the transition metal,
+wherein a surface 83 can be in turn a porous surface; alternatively, the active
+30 core can also be a plurality of particles of whichever shape, preferably with
+nano- or micro- granulometry, in particular micro/nanometric clusters. Such
+particles can be sintered as shown in Fig. 20 to form a body 85 having a desired
+geometry, or they can be loose, enclosed in a container 84, preferably of
+ceramic. Another possibility, shown in Fig. 22, consists of a tube bundle 86
+WO 2010/058288 	 PCT/1B2009/007549
+- 25 -
+where tubes 87 act as substrate for a layer 88 of transition metal that is
+deposited in the form of clusters at least on a surface portion of each tube 87.
+The device of Fig. 17 has an elongated casing 10, which is associated with
+a means for making and maintaining vacuum conditions inside, not shown. In
+5 particular the residual pressure during the step of cleaning the substrate is kept
+identical or less than 10-9  absolute bar, for removing impurities, in particular gas
+that is not hydrogen. Furthermore, a means is provided, not shown in the
+figures, for moving substrate 3 within casing 10, in turn on at least three stations
+11, 12 and 13. Station 11 is a chamber for preparation of the clusters where the
+10 surface of the substrate 3 is coated with a layer of a transition metal in the form
+of clusters by a process of sputtering. In chamber 11 a means is provided, not
+depicted, for bringing and maintaining the substrate at a temperature identical
+or higher than 350°C. In station 12 a cooling step 119 is carried out (Figs. 14
+and 15) of the deposited metal on the substrate, by feeding cold hydrogen and
+15 at a pressure preferably set between 1 millibar and 2 relative bar, so that they
+can be adsorbed on the metal. In station 13 instead a controlling step is carried
+out of the crystalline structure, for example by computing a physical property,
+such as thermal conductivity, electric conductivity, or refraction index, in order to
+establish the nature of clusters of the crystals deposited on the substrate 3;
+20 preferably, furthermore, a thickness control is carried out of the crystal layer and
+of the cluster surface density.
+Figure 18 represents diagrammatically a device 80 that comprises a single
+closed casing 90, in which a section for preparing an active core 1 of the type
+shown in Fig. 17 and a reactor 50 are enclosed, thus preserving the core from
+25 contamination, in particular from gas that is distinct from hydrogen during the
+time between the step of depositing the clusters and the step of triggering the
+reactions.
+The foregoing description of a specific embodiment will so fully reveal the
+invention according to the conceptual point of view, so that others, by applying
+30 current knowledge, will be able to modify and/or adapt for various applications
+such an embodiment without further research and without parting from the
+invention, and it is therefore to be understood that such adaptations and
+modifications will have to be considered as equivalent to the specific
+embodiment. The means and the materials to realise the different functions
+WO 2010/058288 	 PCT/1B2009/007549
+- 26 -
+described herein could have a different nature without, for this reason, departing
+from the field of the invention. It is to be understood that the phraseology or
+terminology employed herein is for the purpose of description and not of
+limitation.
+WO 2010/058288 	 PCT/1B2009/007549
+- 27 -
+CLAIMS
+1. A method for producing energy by nuclear reactions between hydrogen
+and a metal, said method providing the steps of:
+— prearranging a determined quantity of crystals of a transition metal,
+5 said crystals arranged as micro/nanometric clusters having a
+predetermined crystalline structure, each of said clusters having a number
+of atoms of said transition metal less than a predetermined number of
+atoms;
+— bringing hydrogen into contact with said clusters;
+
+10 	- 	heating said determined quantity of clusters up to an adsorption
+temperature larger than a predetermined critical temperature, and causing
+an adsorption into said clusters of hydrogen as H- ions, after said heating
+step said hydrogen as H- ions remaining available for said nuclear
+reactions within said active core;
+15 	- 	triggering said nuclear reactions between said hydrogen as H- ions
+and said metal within said clusters by an impulsive action on said active
+core that causes said H- ions to be captured into respective atoms of said
+clusters, said succession of reactions causing a production of heat;
+— removing heat according to a determined power from said active core
+20 	 and maintaining the temperature of said active core above said critical
+temperature.
+2. A method according to claim 1, wherein said step of prearranging is carried
+out in such a way that said determined quantity of crystals of said transition
+metal in the form of micro/nanometric clusters is proportional to said
+25 	 power.
+3. A method according to claim 1, wherein said step of prearranging a
+determined quantity of micro/nanometric clusters comprises a step
+selected from the group comprised of:
+— depositing a predetermined amount of said transition metal in the
+30 form of micro/nanometric clusters on a surface of a substrate, i.e. a solid
+body that has an a predetermined volume and shape, wherein said
+substrate contains on its surface a number of clusters that is larger than a
+minimum number, in particular said minimum number at least 109  clusters
+10
+per square centimetre, preferably at least 10 clusters per square
+WO 2010/058288 	 PCT/1B2009/007549
+- 28 -
+5
+centimetre, more in particular at least 10
+11
+clusters per square centimetre,
+much more in particular at least 10
+12
+clusters per square centimetre;
+— aggregating said determined quantity of micro/nanometric clusters by
+sintering, said sintering preserving the crystalline structure of said clusters,
+said sintering preserving substantially the size of said clusters;
+— collecting into a container a powder that is made of said clusters, i.e.
+a determined quantity of clusters or aggregation of loose clusters.
+4. A method according to claim 3, wherein said step of depositing said
+transition metal is effected by a process of physical deposition on said
+10 	substrate of a metal vapour that is made of said metal.
+5. A method according to claim 3, wherein said step of depositing said
+transition metal is effected by a process selected from the group
+comprised of:
+— sputtering;
+15 	- 	a process comprising evaporation or sublimation and then
+condensation on said substrate of said predetermined amount of said
+metal;
+— epitaxial deposition;
+— spraying;
+20 	- 	heating up to approaching the melting point followed by slow cooling,
+in particular up to an average core temperature of about 600°C,
+6. A method according to claim 3, wherein after said step of depositing a
+predetermined amount of said transition metal a step is provided of quickly
+cooling said substrate and said deposited metal, in order to cause a
+25 "freezing" of said transition metal according to clusters having said
+crystalline structure, said step of quickly cooling selected from the group
+comprised of: tempering; causing a current of hydrogen to flow near said
+transition metal as deposited on said substrate, said hydrogen having a
+predetermined temperature that is lower than the temperature of said
+30 	 substrate.
+7. A method according to claim 1, wherein said step of bringing hydrogen into
+contact with said clusters is preceded by a step of cleaning said substrate,
+in particular by applying a vacuum of at least 10
+9
+bar at a temperature set
+between 350°C and 500°C for a predetermined time, in particular said
+WO 2010/058288 	 PCT/1B2009/007549
+- 29 -
+vacuum applied according to at least 10 vacuum application cycles and
+following reinstatement of substantially atmospheric pressure of hydrogen.
+8. 	A method according to claim 1, wherein during said step of bringing
+hydrogen into contact with said clusters said hydrogen satisfies at least
+
+5 	 one of the following conditions:
+— it has a partial pressure set between 0,001 millibar and 10 bar, in
+particular between 1 millibar and 2 bar;
+— it flows with a speed less than 3 m/s, in particular according to a
+direction substantially parallel to said surface of said clusters.
+to 9. A method according to claim 1, wherein said adsorption temperature is
+close to a temperature of sliding the reticular planes of the transition metal,
+in particular a temperature set between the temperature corresponding to
+absorption peaks a and p.
+10. A method according to claim 1, wherein after said heating step said
+15 determined quantity of clusters a step is provided of cooling said active
+core up to room temperature, and said step of triggering said nuclear
+reactions provides a quick rise of said temperature of said active core from
+said room temperature to said adsorption temperature, in particular said
+quick rise is carried out in a time that is shorter than five minutes.
+20 11. A method according to claim 1, wherein said step of triggering said nuclear
+reactions is associated with a step of creating a gradient, i.e. a
+temperature difference, between two points of said active core, said
+gradient in particular set between 100°C and 300°C, in order to enhance
+the anharmonicity of the reticular oscillations and to assist the production
+25 	of the H- ions
+12. A method according to claim 1, wherein said clusters have a face-centred
+cubic crystalline structure, fcc (110).
+13. A method according to claim 1, wherein said reactions with production of
+heat occur in the presence of a magnetic and/or electric field selected from
+30 	 the group comprised of:
+— a magnetic induction field of intensity set between 1 Gauss and
+70000 Gauss;
+— an electric field of intensity set between 1 V/m and 300000 V/m.
+WO 2010/058288 	 PCT/1B2009/007549
+-30 -
+14. A energy generator that is obtained from a succession of nuclear reactions
+between hydrogen and a metal, wherein said metal is a transition metal,
+said generator comprising:
+— an active core that comprises a predetermined amount of said
+5 	 transition metal;
+- a generation chamber that in use contains said active core;
+- a means for heating said active core within said generation chamber
+up to a temperature that is higher than a predetermined critical
+temperature;
+lo 	— 	a means for triggering said nuclear reactions between said transition
+metal and said hydrogen;
+— a means for removing from said generation chamber the heat that is
+developed during said reactions within said active core according to a
+determined power,
+15 	 characterised in that said active core comprises a determined quantity of
+crystals of said transition metal, said crystals being micro/nanometric
+clusters that have a determined structure, said clusters comprising on
+average a number of atoms of said transition metal that is less than a
+predetermined number of atoms.
+20 15. A method according to claim 1, wherein said determined quantity of
+crystals of said transition metal in the form of micro/nanometric clusters is
+proportional to said power.
+Triggering
+140
+Heat production
+160
+Heating
+130
+Heat
+19
+Hydrogen
+31
+Hydrogen treatment
+120
+Active core
+Impulse of
+energy
+26
+Capture of H" ions and
+nuclear reactions 150
+owlTransition metal Cluster prearranging
+110
+Heat removal
+170
+Produced heat
+27
+WO 2010/058288
+
+PCT/IB2009/007549
+1/8
+Fig. 1
+
+;
+Sub trate
+22
+
+100
+Exhaust core
+31 HH 23
+31
+eel
+eel
+2
+37
+Sc Zn Ni Co Fe Mn V Ti Cr
+Q ,-
+Lu Hf Te Re Os Ir Pt Au
+104 r
+Fig. 4
+ro
+Zr Nb Mo Tc Ru Rh Ag Cd
+16
+WO 2010/058288 PCT/IB2009/007549
+2/8
+21
+Fig. 2 	23
+41
+
+is
+
+O
+Ce Pr Nd Pm Sm Eu Gd Tb Dy Ho Er Tm Yb Lu
+Th Pa U Np Pu Am Cm Bk Cf Es Fm Md No Lr
+WO 2010/058288 PCT/IB2009/007549
+3/8
+43
+42
+38
+38
+Me
+(b) (c)
+E . 7
+(60
+Fig,8 60 Fig,9
+Me
+Transition metal
+Depositing
+113
+WO 2010/058288
+
+PCT/IB2009/007549
+418
+Fig. 10
+
+Fig. 11
+Fig. 12
+Substrate
+
+Substrate loading
+111
+Quick
+cooling 	119
+Surface cluster structure
+WO 2010/058288 	 PCT/1B2009/007549
+518 Fig. 13
+T,°C
+Ti 118
+600 119
+r 	350--
+Ta
+el.
+t
+Fig. 14  110
+/
+113
+Subtrate
+22
+Transition metal
+Substrate loading
+111
+Depositing
+113
+19
+Cleaning
+Gas
+114
+Hydrogen Hydrogen
+treatment 120
+31
+Quick
+coo ing 	119
+1
+Active core
+■ %  	 1 .1 L, 	N
+irmiiiirmwrwrrrnivmmTru
+
+-.C•X•11.11.11•N•11.1r..•lt.11-.11.N•N•11• N•i•N•i•R•I•Nr.i•••••••11•N.:■El=
+.'• r-----
+4
+WO 2010/058288 	 PCT/1B2009/007549
+618
+10
+WO 2010/058288 	 PCT/1B2009/007549
+80 50
+/
+7/8
+
+1
+Fig. 18
+2 	 7 	 f
+13
+Mil 	Hill 	Hill
+83 Fig. 19
+90
+■,,.. 	 .. ..,\..... ........
+■...-
+---■., .
+,..,, .
+82
+PCT/IB2009/007549 WO 2010/058288
+86
+818
+62
+T
+61
+64
+Fig. 24
+67
+[IL
+III•11•N•K•ff 111•111•N 	II II JUN 	ME•  111•••11t 111•11I 	111•• 	AL 11.N.•1
+AT
+11■1 I cnvim I RJIIPIL. 	cruriLai ricrurs I
+International application No
+PCT/IB2009/007549
+A. CLASSIFICATION
+G21B3/00
+OF SUBJECT MATTER
+INV.
+ADD.
+According to International Patent Classification (IPC) or to both national classification and IPC
+B. FIELDS SEARCHED
+Minimum documentation searched (classification system followed by classification symbols)
+G21B
+Documentation searched other than minimum documentation to the extent that such documents are included in the fields searched
+Electronic data base consulted during the international search (name of data base and, where practical, search terms used)
+EPO -Internal, WPI Data, 	INSPEC
+C. DOCUMENTS CONSIDERED TO BE RELEVANT
+Category' Citation of document, with indication, where appropriate, of the relevant passages Relevant to claim No.
+Y
+Y
+WO 95/20816 Al (FOCARDI SERGIO [IT]; HABEL
+ROBERTO [IT]; 	PIANTELLI FRANCESCO [IT])
+3 August 1995 (1995-08-03)
+cited in the application
+the whole document
+DE 40 24 515 Al (PHILBERTH KARL [DE];
+PHILBERTH BERNHARD [DE])
+20 February 1992 (1992-02-20)
+column 2, 	line 32 - line 56
+column 3, 	line 68 - column 4, 	line 10
+column 4, 	line 58 - line 65
+column 5, 	line 7 - line 36
+claims 	2,3,6,17,20
+1-3,5-8,
+13-15
+1-3,5-8,
+13-15
+documents are listed in the continuation of Box C. annex. X 	Further X 	See patent family
+' 	Special categories of cited documents :
+"T" later document published after the international filing date
+A" document defining the general state of the art which is not
+or priority date and not in conflict with the application but
+to understand the principle or theory underlying the considered to be of particular relevance 	 invention
+"E" earlier document but published on or after the international 	 "X" document of particular relevance; the claimed invention
+filing date 	 cannot be considered novel or cannot be considered to
+"L" document which may throw doubts on priority claim(s) or 	 involve an inventive step when the document is taken alone
+which is cited to establish the publication date of another "Y" document of particular relevance: the claimed invention
+citation or other special reason (as specified) 	 cannot be considered to involve an inventive step when the
+"0" document referring to an oral disclosure, use, exhibition or 	 document is combined with one or more other such docu-
+other means 	 ments, such combination being obvious to a person skilled
+"P" document published prior to the international filing date but 	 in the art.
+later than the priority date claimed 	 "&" document member of the same patent family
+Date of the actual completion of the international search
+13 April 	2010
+Date of mailing of the international search report
+22/04/2010
+Name and mailing address of the ISA/
+European Patent Office, P.B. 5818 Patentlaan 2
+NL - 2280 HV Rijswijk
+Tel. (+31-70) 340-2040,
+Fax: (+31-70) 340-3016
+Authorized officer
+Capostagno, 	Eros
+Form POT/ISA/210 (second sheet) (April 2005)
+page 1 of 2
+11111 Gr111/1 I IIJIIML. JG/41-11,1-1 ncrlari I
+International application No
+PCT/IB2009/007549
+C(Continuation), 	DOCUMENTS CONSIDERED TO BE RELEVANT
+Category* Citation of document, with indication, where appropriate, of the relevant passages Relevant to claim No .
+A
+A
+A
+A
+AZONANO TECHNOLOGY: 	"Fuel Cell, 	Energy
+Storage and Solar Energy Applications for
+Nanomaterials and Nanoparticles"
+INTERNET ARTICLE, 	[Online]
+2 August 2005 (2005-08-02), pages 1-7,
+XP002551718
+Retrieved from the Internet:
+URL:HTTP://WWW.AZONANO.COM/DETAILS.ASP?ART
+ICLEID=1339>
+[retrieved on 2009-10-20]
+page 3, 	last paragraph - page 4, paragraph
+1
+JASON STAIRS: 	"CLUSTER"
+NANOWORD NET, 	[Online]
+25 February 2007 (2007-02-25), XP002551719
+Retrieved from the Internet:
+URL:http://web.archive.org/web/20070225054
+718/http://www.nanoword.net/library/defgen
+/generate.php?termid=146>
+[retrieved on 2009-10-20]
+the whole document
+PHILLIPS J C: 	"Heuristic model 	for
+hydrogen chemisorption on transition metal
+clusters"
+JOURNAL OF CHEMICAL PHYSICS,
+vol. 	84, 	no. 	3,
+1 February 1986 (1986-02-01), pages
+1951-1952, 	XP008113612
+AMERICAN INSTITUTE OF PHYSICS, NEW YORK,
+NY, 	US
+ISSN: 	0021-9606
+the whole document
+WO 96/35215 Al (MASSACHUSETTS INST
+TECHNOLOGY [US])
+7 November 1996 (1996-11-07)
+page 4, 	line 15 - line 23
+page 24, 	line 24 - line 29
+1,14
+1,14
+1,14
+1,14
+Form PCT/ISA210 (continuation of second sheet) (April 2005)
+page 2 of 2
+INTERNATIONAL SEARCH REPORT
+Information on patent family members
+International application No
+PCT/I82009/007549
+Patent document
+cited in search report
+Publication
+date
+Patent family
+member(s)
+Publication
+date
+WO 9520816 Al 	03-08-1995 AT 180918 T 15-06-1999
+AU 691242 B2 14-05-1998
+AU 1589095 A 15-08-1995
+BG 100797 A 30-09-1997
+BR 9506650 A 02-09-1997
+CA 2182102 Al 03-08-1995
+CN 1139990 A 08-01-1997
+CZ 9602226 A3 16-07-1997
+DE 69510056 D1 08-07-1999
+DE 69510056 T2 03-02-2000
+EP 0767962 Al 16-04-1997
+ES 2133732 T3 16-09-1999
+Fl 963010 A 29-07-1996
+HU 76408 A2 28-08-1997
+IT SI940001 Al 27-07-1995
+JP 9508212 T 19-08-1997
+NZ 279311 A 25-03-1998
+PL 315654 Al 25-11-1996
+RU 2155392 C2 27-08-2000
+SK 97896 A3 09-07-1997
+DE 4024515 Al 	20-02-1992 JP 6324167 A 25-11-1994
+WO 9635215 Al 	07-11-1996 AU 2465595 A 21-11-1996
+Form PCT/ISA/210 (paten) family annex) (April 2005)

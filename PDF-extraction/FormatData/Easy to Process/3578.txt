@@ -1,0 +1,483 @@
+1
+
+More about why cold fusion will lower the
+cost of energy
+
+LENR Short Course 2022, ICCF24
+Jed Rothwell
+LENR-CANR.org
+
+Keywords: cold fusion, economics, future, energy cost, decentralized energy
+
+Abstract
+Cold fusion will lower the cost of energy because:
+The fuel costs far less than any other. 1
+Generators will be optimized for low cost.
+It can be decentralized with no distribution grid.
+With a decentralized system, consumers will purchase their own home generator instead of
+using electric power company equipment. Subtracting the cost of power company equipment and
+fuel, and adding in the cost of the home generator, cold fusion should reduce the cost of energy
+by a factor of 21.
+Ultimately, the cost of generators is likely to fall by a factor of ~200, from $2,000/kW to
+$10/kW, which is the cost difference between a power company generator and a mass produced
+automobile engine. I wrote a paper about this in 2016. [1] This is an expanded look at the
+subject.
+
+Introduction
+
+Let us start with some assumptions. With enough R&D, cold fusion will become –
+• Controllable
+• With high enough power density for reasonably compact heat engines.
+• With reasonably good Carnot efficiency.
+That much seems certain. The following is likely:
+• Cells will be fully controlled.
+
+1 D-D fusion with heavy water costing $1,000/kg is roughly 2,100 times cheaper than gasoline. H-H fusion with
+ordinary water is millions of times cheaper. Most of the cost of heavy water is for the energy it takes to separate it
+from ordinary water, so with cold fusion it would cost much less than $1,000.
+2
+
+• Cells will be inexpensive. Unless palladium is needed, the materials are inexpensive.
+They do not require high precision manufacturing. They should be no more expensive per
+watt of capacity than batteries.
+• Cells will be safe. Tritium will either be absent or fully contained the way it is contained
+in wristwatches and hallway exit signs today. Cold fusion cells will be fully sealed, even
+more than today’s batteries, to avoid contamination, and because there is no need to open
+them to replenish the hydrogen or deuterium. Enough hydrogen will be added during
+manufacturing to last for the life of the device.
+• The COP (coefficient of production) will be high, or infinite. It is already infinite with
+some gas loading methods.
+The COP is the ratio of input power to output power. 2 This is a big problem with
+experimental devices today. Electrochemical cells sometimes need much more input power than
+they produce as excess heat. On the other hand, some gas loaded systems produce excess heat
+with no input power. The COP is infinite. I assume input power will be reduced to a minimum or
+eliminated.
+Cold fusion energy density is millions of times greater than any chemical reaction because it
+is nuclear fusion. This was confirmed by measuring the ratio of helium to heat, 24 MeV per
+helium atom, the same as one of the D-D fusion paths. [2] Each gram of deuterium releases
+345,000 megajoules. [3]
+Needless to say, cold fusion cells are far from commercialization today. They cannot be
+controlled. They are very difficult to replicate. Most produce only a fraction of a watt, although a
+few have produced 50 to 100 W. How will we make them into a practical source of energy? As I
+see it, here is what must happen. First, it must become generally known that cold fusion is real
+and that it will probably replace other sources of energy. Once that happens, large industrial
+corporations will invest huge sums in R&D. Perhaps this will cost $10 million per day for 5
+years, ~$18 billion total. This will include money spent on peripheral technologies needed to
+implement cold fusion, such as improved thermoelectric devices. Corporations have spent about
+$19 billion on self-driving automobiles so far, so this is not an unreasonable sum.
+Will this R&D succeed? Probably. In modern history we have made astounding progress in
+science and technology. Consider other inventions such as internal combustion engines,
+transistors, masers, and lasers. The initial laboratory prototypes took years to produce, and they
+were unreliable. The first maser prototype took three years to make. [4] Today we manufacture
+millions of them, and all are extremely reliable.
+Can cold fusion produce high temperatures and steady power? Can it produce power density
+high enough for practical use? Yes, we know it can, because it has already done so in a few
+
+2 The term COP is borrowed from heat pump technology, where it means the ratio of input electric power to the heat
+transferred by the compressor. A heat pump does not create energy, whereas cold fusion does, so arguably this term
+is inaccurate.
+3
+
+experiments. One produced 100 W continuously for 30 days. [5] If something can happen once
+in a laboratory, we can learn to make it happen millions of times a day in the real world.
+Finally, will corporations spend $18 billion on cold fusion? Yes, they will, because if they do
+not, their competition will put them out of business. That is the same reason automobile
+companies are spending billions to develop self-driving cars.
+The other reason companies will spend $18 billion is that revenues to first movers will be
+roughly $10 trillion over 30 years. Here is the basis for this estimate. I expect that when the
+market matures, we will spend $340 billion per year on cold fusion generators, water heaters and
+other equipment. This value is discussed below. That $340 billion will go to the industrial
+companies that make the equipment. Most will go to the first movers, because once you take the
+lead in something like this, you keep it for a long time, the way Ford and GM dominated the
+automobile business for decades, and IBM dominated computers. $340 billion for thirty years is
+$10.2 trillion.
+The $10.2 trillion will come out of the pockets of energy companies. GE will divert a fraction
+of ExxonMobil’s revenue to itself, the way automobile companies transferred revenue from
+railroads to themselves in the 1920s, when many people began driving cars instead of taking
+trains.
+End users worldwide now pay $7.3 trillion for fossil fuel and electricity (Figure 1). $340
+billion is 21 times less. Such a drastic cost reduction is irresistible. People will stop buying
+gasoline and electricity. Energy companies will go bankrupt.
+
+Figure 1. Global end-use spending on energy, 2000-2020, IEA, Paris https://www.iea.org/data-and-statistics/charts/global-end-
+use-spending-on-energy-2000-2020. The cost of coal and natural gas used in the Power sector is included in that sector. The Gas
+and Coal shown below that are used in other sectors. 2019 totals are: Oil $3.7 trillion, Power sector $2.8 trillion, Gas $0.6
+trillion, Coal $0.2 trillion, grand total $7.3 trillion.
+4
+
+After 20 years, patents will expire, competition will increase, and cold fusion will become a
+commodity. Profits will be lower. Still, over 30 years the first movers will make trillions of
+dollars in revenue.
+“Becoming a commodity” means competition drives down the cost until it approaches the
+cost of production. We can estimate the cost of production from the materials, the degree of
+precision manufacturing, and so on. No doubt the first cold fusion generators will sell at a large
+premium. But the cost of production will be low. A cold fusion cell should cost roughly as much
+as a large battery. The heat engines will cost about as much as today’s models. From this, we can
+predict cold fusion generators will eventually be much cheaper than power company generators.
+Here is the basis for the estimated cost. Figure 2 shows an electric power bill. In many cities the
+bill now shows two main items: supply, and delivery.
+1. SUPPLY. This is the cost of the generator and the fuel. It is around two-thirds of the total
+bill, where the generator and fuel are each about one third.
+2. DELIVERY. The cost of delivering the power over the grid. This is usually around one
+third of bill.
+The balance is somewhat different in this sample bill, with 40% going to the grid Delivery
+portion.
+
+Figure 2. A sample electric bill from New Jersey. Supply is 60% of the cost, which is probably about 30% for the generators and
+30% for fuel. Delivery is 40%. Bills are split into Supply and Delivery because in New Jersey and other states, customers can
+choose which company will supply electricity, but there is only one distribution grid. As noted on this bill, customers can select
+another company for Supply.
+5
+
+Cold fusion does not need fuel, or the grid, which leaves only the cost of the generator. How
+much will a cold fusion generator cost? To estimate that, let us look at a 58 MW LM6000 gas
+turbine generator from GE (Figure 3). It costs about $50 million, around $960/kW of capacity.
+The “overnight cost” comes to $1,376 per kilowatt. This is a masterpiece of 21st century
+technology. It is remarkably efficient. It has to be, because otherwise the fuel would end up
+costing much more over the life of the generator. This generator is optimized for efficiency.
+
+Figure 3. General Electric LM6000-PF gas turbine generator (GE Power Generation)
+Figure 4 shows a Chevrolet automobile engine, 145 kW. It is abominably inefficient (Figure
+5). However, it costs only $1,460, with Free Shipping. That comes to $10 per kilowatt. That is
+130 times cheaper than the GE generator. It is 600 times cheaper than some other power
+company generators. It is cheaper because it is mass produced and because it is optimized for
+low cost. Since cold fusion energy costs nothing, we will optimize the equipment for low cost. It
+will eventually be about 200 times cheaper than today’s power company generator.
+
+Figure 4. Chevrolet Goodwrench 350ci engine (www.jegs.com)
+
+6
+
+Figure 5. Estimated U.S. Energy Consumption in 2021, Lawrence Livermore National Lab.
+(https://flowcharts.llnl.gov/sites/flowcharts/files/2022-04/Energy_2021_United-States_0.png) Most petroleum is used in
+automobile engines in the transportation sector. 21% converts to Energy Services and 79% is wasted. Other sectors convert 35%
+to 66% to Energy Services.
+Granted, an automobile engine is not a generator. You have to add an alternator to make it
+into a generator, but this does not cost much. You also need a cold fusion cell. As noted, this
+should cost roughly as much as a battery. There are other differences between a mass produced
+heat engine and the GE generator, such as the duty cycle, and the longevity of equipment. I
+discussed these in the previous paper. [1]
+Cold fusion energy is free, but so is wind and sunlight. Why should cold fusion be cheaper
+than wind or solar? The equipment will be optimized for low cost, but so are wind and solar.
+However, these sources have problems that will never allow them to be as cheap as cold fusion,
+including:
+• Low power density.
+• Intermittency.
+• Limited availability (you need a lot of sunlight or wind).
+Source: LLNL March, 2022. Data is based on DOE/EIA MER (2021). If this information or a reproduction of it is used,
+credit must be given to the Lawrence Livermore National laboratory and the Department of energy, under whose auspices
+the work was performed. Distributed electricity represents only retail electricity sales and does not include self-generation.
+EIA reports conception of renewable resources (i.e., Hydro, wind, geothermal and solar) for electricity in BTU-equivalent
+values by assuming a typical fossil fuel plant heat rate. The efficiency of electricity production is calculated as the total retail
+electricity delivered divided by the primary energy input into electricity generation. End use efficiency is estimated as 65%
+for the residential sector, 65% for the commercial sector, 21% for the transportation sector and 49% for the industrial sector,
+which was updated in 2017 to reflect DOE's analysis of manufacturing. Totals may not equal the sum of components due to
+independent rounding. LLNL-MI-410527
+
+7
+
+• Wind needs a distribution grid, because it only works with gigantic machines, most of
+them far from major cities.
+• Solar needs a grid because power density is low.
+Solar power density is so low that in many parts of the U.S. such as the Midwest, even if you
+cover a large roof with panels (Figure 6, left), they produce only about 612 kWh per month. The
+average US house consumes 911 kWh per month, so you need supplemental electricity from the
+grid. You have to pay for the grid even when you have solar.
+Figure 6 (right) shows a 20 kW deluxe standby generator (Generac, Guardian model). It will
+produce up to 14,600 kWh a month. It is much smaller than the solar array. It is also far smaller
+than your share of power company equipment, because that includes the generator, high-voltage
+power lines, the poles, wires, the round transformers in your neighborhood, plus the coal mines,
+the railroads that bring the coal, natural gas pipelines, and so on. You do not see all those things,
+so you do not realize how big they are, or how expensive.
+
+Figure 6. Left: solar panels on roof. Right: a 21 kW standby generator (Generac, Guardian model)
+The Generac generator is 122 cm × 63.5 cm × 74 cm, or 109 L. A 20 kW cold fusion home
+generator heat engine will be about this big. This generator has an internal combustion piston
+engine. A first generation cold fusion version would probably be a steam piston engine with a
+boiler powered by cold fusion.
+Rough estimate of cost of a 20 kW cold fusion generator
+The 21 kW natural gas fired standby generator in Figure 6 costs $6,400 retail at Lowe’s. A
+standby generator is more expensive than an ordinary gasoline generator because it includes
+control electronics and equipment to switch off the power company electricity and turn on the
+generator in the event of a power failure. An ordinary 21 kW gasoline generator costs about
+$4,200. Costs per kilowatt range from $113/kW to $305/kW (Table 1). The “overnight” cost of
+power company generators per kilowatt of capacity ranges from $676/kW for natural gas
+generators up to $6,599 for advanced coal plants (Table 2). (EIA definition: “The term
+‘overnight’ refers to the cost of the project as if no interest were incurred during its
+construction.”)
+8
+
+Some generator equipment is expensive to purchase, but inexpensive to operate. This is
+especially true of solar photovoltaic, because the fuel cost is zero. The cheapest natural gas
+generator is a combustion turbine – industrial frame, but combined cycle units are more efficient,
+so they are cheaper over the life of the equipment. The unsubsidized, levelized cost of a
+megawatt hour of electricity from various generators is shown in Table 3.
+Table 1. Generator cost per kilowatt of capacity for home generators (Lowe’s retail)
+Generator size Cost per kilowatt
+5300 W $113
+3500 W $151
+800 W $230
+21,000 W deluxe standby $305
+
+Table 2. Power company generator cost per kilowatt of capacity (“overnight” cost). (Energy
+Information Agency) [6]
+Generator type Cost per kilowatt
+Natural gas. Combustion turbine—industrial frame $713
+Wind (Great Plains) $1,265
+Solar photovoltaic—tracking $1,313
+Natural gas. Combined-cycle with 90% CCS $2,481
+Coal. Ultra-Supercritical coal (USC) (cheapest) $3,676
+Coal. USC with 90% CCS (most expensive) $5,876
+
+Table 3. Unsubsidized, levelized cost of a megawatt hour of electricity from various generators.
+(Lazard) [7]
+Generator type Lowest cost Highest cost
+Solar photovoltaic, Thin Film Utility Scale $28 $37
+Wind, Onshore $26 $50
+Natural gas, Combined cycle $45 $74
+Coal $65 $152
+Natural gas, Peaking $151 $196
+
+Assuming the cold fusion cell itself is not expensive, with today’s equipment a home
+generator would be 5 or 10 times cheaper than a power company generator.
+Mass production will bring down the cost. We should manufacture 170 million devices per
+year, about twice as many as the number of automobiles we make. This would meet worldwide
+demand for energy, except for the transportation sector. 3 Most devices would be generators, but
+
+3 Cold fusion would greatly reduce primary energy consumption and costs in the transportation sector. Details are
+not covered in this paper because transportation has a very different profile from other energy applications.
+9
+
+some would be things like water heaters and pumps. The average size would be 20 kW. This is
+how much an average First World house needs, estimated by online programs to configure
+‘whole home’ standby power generators. Some would be smaller for portable power, while
+others would be much larger, to power factories and the like.
+20 kW generators now cost $4,200, but manufactured in large numbers I expect the price will
+fall to around $2,000 including the cold fusion cell. (This is still well above the cost per kilowatt
+of an automobile engine, alternator and battery.) Suppose we make 170 million per year.
+Suppose they last fifteen years, which is about how long internal combustion engines or
+refrigerator compressor motors last. The cost would be $340 billion, which is 9% of what we
+now pay for automobiles, or 5% of what we now pay for energy. 4
+Worldwide capacity would be 51,000 GW of electricity. Since cold fusion generators will be
+about 33% efficient, worldwide primary energy capacity would be 153,000 GWt (gigawatts
+thermal). 5 That is 7 times more generating capacity and 9 times more primary energy capacity
+than we have today. That does not mean we would consume 7 times more electricity. It means
+we would have that much on tap, to use if we want. People do not run small generators or space
+heaters at full capacity 24 hours a day. The point of making far more capacity than we now have,
+or than we would actually use at any given moment, is to give everyone access to all the energy
+they want without the expense of a distribution grid.
+$340 billion per year is what it would cost at first, but costs would gradually fall. Think about
+the development of personal computers in the 1980s. They began with the microprocessor chip.
+That is the heart of a computer, but it also needs RAM, a keyboard, a screen, a hard disk, and a
+printer. When personal computers were introduced, these things were expensive. They were
+manufactured in small numbers for the minicomputer market. There was no such thing as a small
+hard disk for the home market.
+Personal computers began selling in the thousands, and then millions. Engineers worked
+frantically to make small, cheap hard disks and printers. Prices fell rapidly. When the cost of
+core technology falls – the microprocessor in this case – it creates an opportunity to invent low
+cost peripherals. There would be no point to developing a $300 printer in 1975. You could not
+sell more than a few hundred. But, when the market for printers explodes and millions are sold, it
+is worth developing a new type of cheap, small printer.
+The first implementation of a 20 kW cold fusion generator would use a conventional
+mechanical heat engine. It would be better to develop thermoelectric devices, because they have
+no moving parts, and they last longer, around 30 years. These are far more expensive per
+
+4 Global automobile sales 2022, $3.8 trillion. (https://www.ibisworld.com/global/market-size/global-car-automobile-
+sales/ and Stastica).
+5 170 million generators × 15 years = 2.550 billion generators. 2.550 billion generators × 20 kW = 51,000 GWe
+capacity; ~153,000 GWt. World generator capacity is now 7,172 GW. World primary energy is 557.10
+exajoules/year according to BP. 153,000 GWt run full time, 8760 hours per year = 1.3 trillion GWh per year, or
+4,825.01 exajoules. Again, no one would run generators and other equipment at full capacity every hour of the year.
+https://www.americangeosciences.org/critical-issues/faq/how-much-energy-does-person-use-year
+10
+
+kilowatt today, but with R&D they can probably be made cheaper, the way photovoltaic cells
+were.
+Estimated savings per household
+I expect all home cold fusion generators will be cogenerators, also known as combined heat
+and power generators. The waste heat from a cogenerator is used for space-heating in winter,
+eliminating the need for a home furnace. A small generator is inefficient, requiring 60 kWt to
+generate the 20 kWe needed for the average house, with 40 kW of waste heat. The average house
+space heating furnace produces 18 kW (60,000 BTU), so there would be more than enough waste
+heat. A cogenerator is simple. It resembles the cabin heater in an automobile. This heats the
+cabin with waste heat from the engine by directing fresh air through a heat exchanger connected
+to the engine radiator. This is why you get no heat until the engine warms up. A home
+cogenerator would bring some waste heat into the house in winter, or vent all heat outside in
+summer.
+Cogenerator waste heat might also be used to heat water.
+For several years, cold fusion cogenerators will probably sell at a premium, perhaps much
+more than a middle class family can afford. They might cost $50,000. They would resemble
+modern electric cars such as the Tesla, which began as luxury items and are now falling to a
+price that middle class people can afford. When electric cars become commodities, they should
+be cheaper than gasoline models, because they are simpler with fewer parts, and they are easier
+to assemble. Cold fusion cogenerators may eventually be cheaper than the furnaces they replace,
+but not at first.
+Here is an estimate of the price at which it would be economical to replace a conventional
+gas-fired furnace with a cold fusion cogenerator. The cost of today's energy sources and
+equipment in the U.S. are as follows:
+
+EQUIPMENT FOR HEATING, VENTILATION AND COOLING (HVAC)
+A gas fired home furnace costs $2,200 for a small house, and up to $4,000 for a large house.
+The average is $3,900 including installation.
+The average water heater costs $1,200
+The average central air conditioner costs $5,651, but an early model cogenerator would
+probably not replace it. A cogenerator would power a conventional electric air conditioner, so the
+cost would not change. Decades from now thermal air conditioners powered directly by cold
+fusion or by cogenerator waste heat may become cheaper than electric models.
+Equipment total: $5,100. Most HVAC equipment lasts about 15 years, so the cost is
+$340/year
+
+11
+
+ENERGY
+Average residential energy costs are:
+$115/month electricity, $1,380/year
+Natural gas costs ~$100/month gas, $1,200/year. Much of this is used for space heating.
+Electricity and gas total: $2,580/year. (Incidentally, this is close to what we pay at our house
+in Atlanta, Georgia. Electricity $1,164, natural gas $1,333.)
+A cold fusion cogenerator would eliminate the electric bill, and greatly reduce the natural gas
+bill, because most natural gas is used for space heating.
+Today's cost of energy plus equipment: $2,920/year, $43,800 over the 15-year life of the
+generator.
+
+When the cost of a cogenerator falls substantially below $43,800, most people will buy a
+cogenerator when their old furnace wears out. The electric power and gas companies will
+gradually go bankrupt. They cannot afford to lose most of their customers. Their generators and
+network are not designed for a much smaller customer base. When the power and gas companies
+go out of business, remaining holdout families will be forced to buy a cogenerator. The transition
+will be complete.
+Low and medium power devices
+One of the reasons cold fusion R&D may cost $18 billion is that we need to invent many new
+things to take advantage of cold fusion. To make full use of personal computers, we needed new
+kinds of hard disks and printers. To make full use of cold fusion we will need many new
+inventions, especially better, cheaper heat engines. The companies that invent cold fusion cells
+will not be the only ones who make money. Whoever comes up with a better heat engine will
+also make large profits.
+I assume that thermoelectric heat engines will be used with small devices, such as
+wristwatches and cell phones. To illustrate the challenges of developing cold fusion – challenges
+other than cold fusion itself – here is a problem with small devices.
+Any small heat engine is inefficient. Present day thermoelectric devices are particularly
+inefficient. This makes them too hot for cell phones and laptop computers. They generate too
+much waste heat. Commercial thermoelectric devices today are only 15% efficient. Laboratory
+devices are up to 40% efficient. A cell phone draws 3 W when it is online. At 15% it would
+produce 20 W of waste heat. That is too hot to keep in your pocket. 40% efficiency would
+produce 7.5 W, which is probably cool enough.
+But there is another problem. Like all heat engines, thermoelectric Carnot efficiency is better
+at higher temperatures. You can only get 15% today, or 40% in the future, when the hot side
+12
+
+temperature is 1230 K (928°C). That would be fine for something like a home generator, but
+how could you put such a hot object in your pocket?
+Perhaps something like the following would work. Imagine a gas loaded cold fusion cathode
+the size of an incandescent lightbulb tungsten filament that is kept at 930°C. It is encased in
+ceramic which is surrounded by thermoelectric devices. The heat is radiated evenly from the
+surface of the phone. At 7.5 W it would be a moderate temperature. But, if you drop the phone,
+or run over it with a car, the ceramic may crack open and expose the incandescent core. I
+suppose the reaction would stop and it would rapidly cool, but it might be dangerous. For that
+matter, a conventional cell phone battery can be dangerous. Run over one with a car and it might
+discharge quickly, and ignite or explode.
+I do not know whether a hot ceramic core would work, but I expect someone will come up
+with a solution.
+Cardiac pacemakers and other low power devices
+One of the best potential uses of cold fusion would be for a cardiac pacemaker. A cold fusion
+thermoelectric pacemaker that lasts for 50 years would be a great benefit to patients, because
+today’s battery-powered ones have to be replaced from time to time.
+An incandescent core might be acceptable in a cell phone, but you would not put one in a
+pacemaker battery. No one would implant that in a patient’s chest. Fortunately, that will not be
+necessary. It turns out that for very low power levels, inefficient heat engines are fine. As long as
+the COP is very high, or infinitely high with no input power, cold fusion will work.
+Figure 8 shows a thermoelectric nuclear-powered pacemaker from the 1970s. It was powered
+by plutonium-238, which produces heat without significant radiation (5 to 15 mrem per hour
+gamma rays and neutrons). This device produced 0.13 W of heat, which converted to about
+50 µW of electricity. Conversion efficiency was 0.04%. That was acceptable. The 0.13 W of
+waste heat did not cause a problem in the patients’ chests.
+
+Figure 7. A plutonium powered pacemaker. The plutonium has been removed; it fit into the slot on the top left. See technical
+details at: https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html
+13
+
+Incidentally, some of these pacemakers were still implanted and functioning after 30 years,
+which shows that a nuclear powered pacemaker is robust and can last a long time.
+There is one marvelous possibility on the horizon. Frank Gordon and Harper Whitehouse
+have developed and experimentally demonstrated a device they call a Lattice Energy Converter
+(LEC) which produces both a voltage and a current through a load. [8] Several people have
+independently replicated these results. Whitehouse claims to have a device that is still operating
+after 7 years. The LEC has two outstanding features:
+1. It does not need input power; the COP is infinite. It self-initiates (spontaneously starts up
+on its own), and self-sustains.
+2. It outputs mainly electricity, so it does not need a heat engine.
+Power is very low, at the microwatt level, about the same as a wristwatch battery. Some
+people still wonder whether this is some sort of chemical battery. Gordon and several people
+who replicated the device point out that it is producing ionizing radiation in conditions where
+this should not happen without a nuclear process.
+Gordon thinks that for general use, power output needs to be increased by nine orders of
+magnitude to the kilowatt level. That sounds unlikely, but laboratory science often accomplishes
+such things. The first fission reactor, the Chicago Pile 1, produced 0.5 W. The first power reactor
+a few years later produced 236 MW (8 orders of magnitude). At ICCF24, Gordon described
+many promising methods that might increase power by 1 or more order of magnitude, such as
+raising the operating temperature, or increasing surface area by a factor of 10. If power can be
+raised to 1 W, this will make it easier to measure the output, and allow a test showing that it lasts
+far longer than a 1 W battery or any other chemical device. This would also make it easier to
+look for helium when deuterium gas is used, to see if this is D-D fusion.
+A LEC outputting 1 to 3 W would also have important practical uses, such as lighting an
+LED lamp or charging a cell phone. This would be a great benefit in the Third World.
+Energy may become thousands of times cheaper
+The notion that energy might be made thousands of times cheaper may seem ridiculous to
+some people. These people have not read history. The cost of food and many other things has
+fallen dramatically since the Industrial Revolution began. In particular, intangible things such as
+travel, lighting, and information are cheaper. Energy is an intangible.
+The cost of lighting from 1800 to 2000 fell by a factor of 3,300, while efficiency increased
+700 times. [9]
+Over the last 50 years, the cost of information, data storage, and computation fell more than
+any other commodity in human history. From 1962 to 2000 the cost of computer memory fell by
+8 orders of magnitude (Figure 9). I personally own more terabytes of disk storage than existed in
+the entire world in 1964. 6 [10] Disks are cheaper partly because they became much smaller.
+
+6 I have 13 TB of storage including backups. Sanders [8] estimated there were approximately 15,000 computers in
+
+1964 just before the introduction of the IBM 360. Looking at the specifications for the most common type, the IBM
+14
+
+Cold fusion will also be cheaper partly because the equipment will be smaller. It will not need
+the high voltage power lines, poles and transformers, or the coal mines and railroads, gas
+pipelines, and the rest of the unseen infrastructure we must have for today’s energy sources.
+
+Figure 8. J. C. McCallum, National University of Singapore, Graph of Memory Prices Decreasing with time (1957 – 2015).
+https://www.researchgate.net/publication/227349575_Seven_Centuries_of_Energy_Services_The_Price_and_Use_of_Light_in_t
+he_United_Kingdom_1300-2000
+
+References
+1. Rothwell, J. Cold Fusion Will Lower the Cost of both Energy and Equipment. in ICCF20
+International Conference on Condensed Matter Nuclear Science. 2016. Sendai, Japan.
+2. Hagelstein, P.L., et al. New Physical Effects in Metal Deuterides. in Eleventh
+International Conference on Condensed Matter Nuclear Science. 2004. Marseille,
+France.
+3. Borowski, S.K., Comparison of Fusion/Antiproton Propulsion Systems for Interplanetary
+Travel. 1996, NASA.
+4. Townes, C.H., How the Laser Happened - Adventures of a scientist. 1999: Oxford
+University Press.
+
+Model 1400 and the model 1301 disk storage unit, and adding in the well-known supercomputers at that time, I
+estimate there were ~1.7 TB of disk storage in the world. If every one of the Model 1400 computers had the
+maximum number of disk drives it could support (250 MB), there would be 3.75 TB total. Actually, many were
+equipped with tape drives only.
+15
+
+5. Roulette, T., J. Roulette, and S. Pons. Results of ICARUS 9 Experiments Run at IMRA
+Europe. in Sixth International Conference on Cold Fusion, Progress in New Hydrogen
+Energy. 1996. Lake Toya, Hokkaido, Japan: New Energy and Industrial Technology
+Development Organization, Tokyo Institute of Technology, Tokyo, Japan.
+6. Capital Cost and Performance Characteristic Estimates for Utility Scale Electric Power
+Generating Technologies. 2020, Energy Information Administration, U.S. Department Of
+Energy https://www.eia.gov/analysis/studies/powerplants/capitalcost/.
+7. Levelized Cost of Energy Comparison—Unsubsidized Analysis 2021, Lazard
+https://www.lazard.com/media/451905/lazards-levelized-cost-of-energy-version-150-
+vf.pdf.
+8. Gordon, F. and H.J. Whitehouse, Lattice Energy Converter. J. Condensed Matter Nucl.
+Sci., 2022. 35: p. 30-48.
+9. Fouquet, R. and P.J.G. Pearson, Seven Centuries of Energy Services: The Price and Use
+of Light in the United Kingdom (1300-2000). The Energy Journal, 2006. 27(1): p. 138-
+178.
+
+10. Sanders, D., Computers in Business, an Introduction. 2 ed. 1972: McGraw-Hill.
+

@@ -1,0 +1,168 @@
+1
+Kainthla, R.C., et al., Sporadic observation of the Fleischmann-Pons heat effect. Electrochim.
+Acta, 1989. 34: p. 1315.
+SPORADIC OBSERVATION OF THE FLEISCHMANN-
+PONS HEAT EFFECT
+R. C. Kainthla, O. Velev, L. Kaba, G. H. Lin, N. J. C. Packham, M. Szklarczyk, J. Wass and J.
+O'M. Bockris
+Surface Electrochemistry Laboratory
+Department of Chemistry
+Texas A&M University
+College Station, Texas 77843-3255, U.S.A.
+(Received 16.6.89.)
+
+Abstract - An examination has been made of the heat production at ten palladium
+electrodes, each prepared in a different way. Seven of these produced heat during
+D2 evolution in a D2-O2 electrolysis cell (no recombination attempted) which
+coincided precisely with the prediction of classical electrochemical theory, and
+thus eliminated the suspicion of heat through unintended D2-O2 recombination.
+Three electrodes clearly produced an excess heat of ~2-5 watts-cm-3. The heat was
+observed for periods of 10-33 hrs. In one electrode the excess heat production
+“shut off” (after 33 hrs) with no apparent cause: it did not return in five days of
+further electrolysis.
+Fleischmann and Pons [1] reported the production of heat during the electrolysis of D2O at a
+Pd cathode and Pt anode in excess of that predicted by the electrochemical theory for the heat
+production in cells. Some of the measurements even indicated that the total energy out of the cell
+as heat was greater than that going in as electricity. The paper attracted attention because it was
+suggested that the excess heat was due to D-D fusion occurring in Pd at high overpotential. A
+principal difficulty, since the announcement in March 1989, has been that many
+electrochemically inexperienced investigators have tried, but failed, to reproduce the alleged heat
+(however, cf. Huggins [2], Landau [3], McKubre [4], Appleby and Srinivasan [5], Wadsworth
+[6]).
+In this note, we report the observation of this excess heat effect in three electrodes out of ten
+prepared and examined.
+The calorimeter used in the study was of the heat transfer type. The cell is a glass cylinder 10
+cm. high and 5 cm in diameter. The cap is made of 1 cm thick Teflon with holes for the
+electrodes, the Joule heater and the temperature probe. The cell is placed inside another glass
+cylinder 12 cm. high and 7 cm. in diameter. For good heat transfer the space between the
+cylinders is filled with ethylene glycol. The assembly is immersed in a constant temperature bath
+(0.01°C accuracy) and the temperature difference between the bath and the cell is monitored with
+thermistor thermometers (Omega 700 series thermistors with 0.01°C resolution).
+The calorimeter was calibrated by passing different amount of direct current through the
+electric heater (resistance 275 Ω) in the solution of 0.1 M LiOD (made by dissolution of Li in
+D2O) and noting the potential drop across it. For each value of the electrical power put in, steady
+state temperature difference (monitored on a y-t recorder) was noted and plotted to yield a
+2
+calibration curve as shown in Fig. 1. This curve was repeatedly reestablished by several of the
+authors of this paper and found to be stable to within ±0.05 watts.
+The 99.9% pure Pd rods, cast in a ZrO2 crucible and drop hammered during production by
+Hoover and Strong, Richmond, VA, were obtained from Texas Coin Exchange. They were cut
+into 2.5 - 4.0 cm lengths. Nickel wire (0.38 mm diameter) was spot welded to the electrode to
+make connection to the power supply. The electrodes were charged in glass test-tubes for 18 - 30
+days at current density 60 mA-cm-2. During charging Ni mesh was used as an anode while in the
+calorimeter Pt wire spiral was used. The electrodes had been pre-treated in various ways as
+shown in Table 1.
+Fig. 1. Temperature difference between the cell and the constant temperature bath as a function of input
+power into the cell #2A with electrode B8. ■ - with electrical joule heater; + - charged Pd electrode in 0.1 M
+LiOD solution, when excess heat was produced; * - charged Pd electrode in 0.1 M LiOD solution, when excess
+heat ceased.
+TABLE 1. Pre-treatments and charging solution composition for different Pd electrodes (Sample B 0.3 cm
+diameter: Sample A 0.1 cm diameter)
+Sample Pre-treatment Charging Solution Excess
+Heat
+B1 No treatment 0.1M LiOD No
+B2 No treatment 0.1M LiOD + 0.001M NaCN No
+B3 Annealed at 800°C for 6 hrs 0.1M LiOD No
+B4 Annealed at 800°C for 6 hrs 0.1M LiOD + 0.001M NaCN No
+B5 Acid etch 0.1M LiOD No
+B6 Acid etch 0.1M LiOD + 0.001M NaCN No
+B7 Electrochemical oxide removal 0.1M LiOD No
+B8 Electrochemical oxide removal 0.1M LiOD + 0.001M NaCN Yes
+B9 No treatment, charged in U tube 0.1M LiOD Yes
+A9 No treatment, charged in U tube 0.1M LiOD Yes
+3
+The electrodes were moved from the charging cells to the calorimeter in a minimum amount of
+time and the current density Increased to >300 mA-cm-2. After attainment of steady state, the
+temperature difference was noted and the current density was varied from 100-500 mA-cm-2. The
+temperature difference was plotted as a function of the rate of heat dissipation in the cell,
+calculated according to the equation:
+West = (E-1.54)×I (1)
+where: E - cell voltage, [V], I - current, [A], 1.54 - the thermoneutral potential for heavy water.
+This formula is valid when no recombination reaction takes place in the cell and the only
+chemical transformation is the splitting of D2O. In a separate experiment the total volume of the
+gases evolved was measured at several current densities and observed to correspond to 100%
+(within ± 1%) current efficiency for gas evolution i.e., no recombination of D2 and O2. During
+the calorimetric measurements the experiments were watched continuously. D2O was added to
+the cell to maintain the solution level constant and no part of the Pd electrode was allowed to be
+outside the solution. The Pt wire from the counterelectrode was encased in Teflon sleeve.
+In most of the cases, including Pt in LiOD solution, the points corresponding to West and ΔT
+were exactly on the calibration graph. However, for samples B9 and B8 the points were
+decisively (up to 1.1 watts) above heat production values indicated by the calibration curve
+showing that the rate of heat production was above that estimated from equation (1). The results
+are given in Fig. 1 for sample B8, for different amount of input power. Figure 2 shows the excess
+heat as a function of the current density. Table 2 gives the summary of the results obtained.
+Fig. 2. Excess heat as a function of current density for electrode B8.
+4
+TABLE 2. Heat output from sample B8
+i [mA/cm2] West
+(watts)
+Wexp
+(watts)
+Wexp - West
+(watts)
+ΔW/West [%]
+468 8.91 9.99 1.08 12
+425 7.61 8.66 1.05 14
+383 6.40 7.35 0.86 13
+340 5.14 5.96 0.82 16
+298 4.13 4.82 0.69 18
+255 3.15 3.71 0.56 18
+213 2.28 2.72 0.44 19
+170 1.57 1.92 0.35 22
+128 0.98 1.22 0.24 25
+85 0.52 0.66 0.14 27
+42 0.18 0.24 0.06 33
+The cell produced excess heat for a time period of ~33 hrs at which time the current through
+the cell was stopped for ~5 min. When the current was switched on again no excess heat was
+observed (West - ΔT points were again exactly on the calibration line). The cell was kept running
+for five days, but the excess heat could not be re-obtained.
+Figure 3 shows the calorimetric results for sample B9. There are some distinct differences
+between the sample B8 and B9. Thus, in the case of B8, the excess heat was observed as soon as
+the current was switched on. However, in the case of B9, as the current was increased from 0.05
+A to 1 A and then back to 0.05 A, the points were very close to the calibration curve. But, in the
+third cycle, the points moved distinctly above the line and stayed above it. The absolute value of
+the excess heat for this sample was about half the value obtained for sample B8.
+In addition to the above two samples, another Pd electrode of 0.1 cm diameter was tested in a
+micro-calorimeter (in Center for Electrochemical Systems and Hydrogen Research) and observed
+to produce excess heat (Fig. 4).
+Thus, out of ten electrodes examined for at least 10 days for possible excess heat production,
+we have observed heat production in excess of that expected from electrochemical theory in
+three cases, i.e., for electrodes B8, B9 and A9.
+5
+Fig. 3. Temperature difference between the cell and the constant temperature bath as a function of input
+power into the cell #1 with electrode B9. — - with electrical joule heater; + - charged Pd electrode in 0.1 M
+LiOD solution immediately after transfer from the charging cell to the calorimeter; * and □ -after cycling the
+electrode from 0.1 A to 1.0 A and back to 0.15 A.
+Fig. 4. Power output from the microcalorimeter with 0.1 cm diameter and 1 cm long Pd electrode in 0.1M
+LiOD solution. ■ - power input according to eq 1; + - measured output power.
+
+The following tentative conclusions can be made:
+1) The excess heat observed is around 5 watts cm-3 at 400 mA-cm-2. Evidence for the absence
+of untoward heat production (e.g., from recombination) was given strongly by the persistent
+falling of points, from many electrodes, precisely on the calibration curve of Fig. 1 (zero excess
+heat). This agreement also served to verify the eq. (E-1.54)×I for the normal production of heat
+from D2O electrolysis cell.
+6
+2) The absolute excess heat produced with electrodes as small as 1 cm in length and l mm in
+diameter at 100 mA-cm-2 may therefore be as small as 0.04 watts - many calorimeters at present
+being used would not have sufficient sensitivity.
+3) The effect lasts for times of more than 30 hrs. However, it can suddenly cease and does not
+recover.
+There is insufficient evidence to know if there is a connection between the excess heat
+observed here and the emission of neutrons and tritium observed at this University on other
+(mostly 0.1 cm. diameter) electrodes [7].
+Acknowledgements
+The financial support of the project by the Electric Power Research Institute, the Welch
+Foundation and Texas A&M University is gratefully acknowledged. Thanks are due to Dr. S.
+Srinivasan for allowing the use of micro-calorimeter and Dr. Y. Kim for measuring the heat. The
+authors express their thanks to all the workers in the surface electrochemistry laboratory for their
+help in attending to the experiments during the night hours.
+REFERENCES
+1. M. Fleischmann and S. Pons, J. Electroanal. Chem., 261. 301 (1989).
+2. R. Huggins and M. Scherber, DOE Cold Fusion Workshop, Santa Fe, NM, May 25-28, 1989.
+3. U. Landau, Electrochemical Society Meeting, Los Angeles, May (1989).
+4. M. McKubre, private communication, June 7, 1989.
+5. A. J. Appleby and S. Srinivasan, DOE Cold Fusion Workshop, Santa Fe, NM, May 25-28,
+1989.
+6. W. Wadsworth, private communication, June 5, 1989.
+7. N. J. C. Packham, K. L. Wolf, M. E. McLain, and J. O'M. Bockris, to be published.

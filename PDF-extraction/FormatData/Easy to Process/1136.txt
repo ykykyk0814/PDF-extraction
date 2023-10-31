@@ -1,0 +1,503 @@
+Dufour, J., et al., Hydrogen triggered exothermic reaction in uranium metal. Phys. Lett.
+A, 2000. 270: p. 254.
+Hydrogen triggered exothermal reaction in uranium
+metal
+J. Dufour, D. Murat, X. Dufour, J. Foos
+CNAM, Laboratoire des sciences nucléaires, 2 rue Conte, 75003 Paris, France
+Received 3 November 1999; accepted 28 April 2000
+Communicated by J.P. Vigier
+
+Abstract
+An exothermal reaction has been observed when submitting metallic uranium to the
+combined action of a magnetic field and an electrical current. The set-up used to study
+the phenomenon is described and results are given. A tentative explanation is given,
+based on the possible existence of a still hypothetical proton/electron resonance.
+Keywords: Uranium; Magnetic field; Electrical current; Exothermal nuclear reaction;
+Proton/electron resonance
+
+1. Introduction
+We report here results obtained by submitting uranium metal to the combined action of
+a pulsed electrical current and a magnetic field. We have observed what seems to be an
+exothermal reaction occurring in the uranium. The magnitude of the exothermicity
+observed is too high to be explained by any known chemical reaction. We thus present a
+tentative explanation based on a hypothetical - and purely electromagnetic - resonance
+proton/electron that could “catalyze” certain nuclear reactions of the uranium nuclides.
+The protons involved are initially present in the uranium metal we use. The manufacturer
+indicate an hydrogen content from 3 to 10 ppm weight (metal obtained by magnesium
+reduction of the oxide). This hydrogen content is a common value for uranium prepared
+using this method [1]. This tentative explanation is substantiated by the first indications
+given by the mass spectrometry analysis of the uranium samples obtained in the
+preliminary experiments.
+2. Experimental strategy
+Preliminary simplified calorimetric experiments (experiment placed in a box
+exchanging heat with the air of the laboratory kept at 25°C, heat flux measured by the
+temperature of the uranium metal), had given indications of an exothermal reaction
+occurring in the metal. When certain types of currents (pulsed currents) were passed
+through it and a magnetic field was simultaneously applied, more thermal energy was
+recovered than electrical energy was put in. The analysis of the treated uranium samples
+compared to the virgin ones showed the apparition of a significant amount of lead.
+Moreover, by monitoring the gamma activity of the samples during and after treatment,
+we observed no important variation of this activity [2].
+Given these preliminary results, we thought it was worth looking more in details into
+this reaction. The strategy we decided to follow has two steps:
+ first: improve the calorimetry and master the conditions under which the
+phenomenon occurs
+ second: analyze the treated uranium samples by mass spectrometry (including
+isotopic ratios) to confirm the apparition of lead we observed in the preliminary
+experiments, monitor the gamma activity of these samples and test various other
+metals to compare their behavior to that of uranium.
+In parallel, we have tried to find a plausible, but still hypothetical, explanation for the
+phenomenon.
+We have now achieved the first step. We are going to describe the experimental set-up
+and report the results it yields. We shall also present the hypothetical explanation we
+propose.
+Before that, a brief summary of the preliminary experiments will be given.
+3. Summary of the main results of the preliminary experiments
+3.1. Thermal effect
+Uranium samples (turnings of natural uranium metal) were pressed in a small reactor
+between two steel electrodes (12 to 16 mm diameter, 10 mm long), themselves placed
+between two permanent magnets of comparable diameter (remanence around 1 T). The
+reactor was placed in a tight aluminum box, kept under argon atmosphere and could be
+heated to the required temperature by a resistor. The heat flux was monitored by the
+measurement of the reactor temperature. Three preliminary experiments yielded the
+results summarized in Table 1 when a pulsed current was passed through the uranium.
+Table 1
+Results of preliminary experiments
+Experiment A B C
+Mean power due to the reaction (W) 3.8 0.8 1.2
+Total energy of reaction during the experiment (kJ) 56.2 129.6 184.4
+Reactor temperature (°C) 160-210°C 200°C 170°C
+Uranium weight (mg) 545 540 553
+Energy of reaction from 24.5 57.1 19.5
+U processed (MJ/mole U)
+Pulsed current intensity (A) 16 to 0
+(U oxidation)
+15 13
+Table 2
+Results
+Experiment Ref. Ref. A B C
+Pb content (ppm) 2.1 2.7 156 209 440
+Energy of reaction per atom - - 1.8 3 2
+Pb produced (MeV/ Pb atom)
+3.2. Mass spectrometry analysis
+Uranium samples were dissolved in two steps: uranium react with hydrochloric acid
+rapidly to form uranium (IV) chloride and a black precipitate of hydrated uranium (III-
+IV) oxide. Hydrogen peroxide is then added to the solution for a complete dissolution of
+the precipitate to obtain a clear uranyl chloride solution [3].
+The samples were analyzed by ICP-MS. Reference samples exhibit very low lead
+quantity, whereas samples that had been treated with pulsed current under a magnetic
+field (sample A, B and C) exhibit a much higher lead quantity. Combining these results
+with those obtained in the calorimetric measurements yields the Table 2.
+It is clear from Tables 1 and 2 that no chemical reaction involving the uranium can
+explain the observed difference between the energy input and the energy output and that
+this difference per atom of lead produced point towards a nuclear reaction involving the
+uranium nuclei.
+3.3. Gamma photons registration
+Gamma photons emitted by the uranium samples during and after treatment were
+registered (Ortec germanium detector). We only observed small variations of the samples
+total activity (up to plus or minus 10% of the initial total activity). Most of the variations
+are observed on the peaks of the first daughter of the 238U: 234Th. These variations are
+well above background fluctuations. They are nevertheless hardly compatible with an
+acceleration of the well known deactivation route leading from 238U to 206Pb, acceleration
+which could explain the calorimetric results and the lead level we observe (the gamma
+activity would tremendously increase). This point will be dealt with later.
+4. Principle of the improved calorimetric measurements now in use
+The observation of the phenomenon was done in the following conditions:
+ uranium metal at relatively high temperature – 200°C – without oxidation
+ experiment of several days
+ a sufficient amount of uranium – more than 500 mg – in order to allow
+subsequent analysis of the sample by mass spectrometry
+ the passage of a high electrical current: 15 A
+ the presence of a high magnetic field: 1 tesla
+This precludes the use of classical calorimetric methods as for instance currently
+available Calvet or Seebeck calorimeters (whether the total heat flux is measured by
+thermocouples or by the Seebeck effect of a semiconductor). The experiment indeed
+requires a minimum volume of 500 cm3 and we do not have such equipment in the lab.
+We have thus been compelled to develop an alternative approach, adapted to the required
+conditions for the phenomenon to be observed and presenting a sufficient degree of
+reliability. The principle of the calorimetric measurement is to compare the thermal effect
+of a pulsed current versus the thermal effect of a direct current. Fig. 1 is a description of
+the overall experimental set-up.
+Fig. 1. Description of the experimental set up.
+4.1. Principle and description of the electrical measurements
+We need to measure the electrical power P that is dissipated in our experimental
+device.
+    
+T
+IUttitu
+T
+P
+0
+d
+1
+,
+where U and I are the root-mean-square (rms) values of the tension and the intensity.
+IUP  if there is only pure resistance in our experimental device. IU  appears
+to be an upper limit of the dissipated power. We decided to neglect any possible non-
+resistive component of our experimental device. Thus, the dissipated power we consider
+is a maximum value of the real dissipated power.
+Fig. 2. Shape of the pulsed current.
+The AOIP SA multi-channel data acquisition system we use is designed to measure the
+tension (or the intensity) of a direct current. With a pulsed current (Fig. 2) the given value
+is the mean one:
+ 
+T
+ttu
+T
+U
+0
+d
+1
+where T is the integration time (T = 140 ms i.e. about 700 signal periods).
+h
+h
+h U
+TT
+T
+U 
+
+
+1
+, (1)
+ 
+
+
+
+TT
+h
+h
+ttu
+TT
+U
+0
+2
+1
+d
+1
+h
+h
+h U
+TT
+T
+
+
+
+1
+, (2)
+From Eqs. (1) and (2) we have
+U
+T
+TT
+U
+h
+h 
+
+ (3)
+and
+I
+T
+TT
+I
+h
+h 
+
+ (4)
+Thus
+IU
+T
+TT
+P
+h
+h 
+
+ (5)
+f=(Th+T1)/Th is a factor, which depends on the shape of the pulsed current. In order to
+access this shape factor, we measure the thermal flux out of a thin film non-inductive
+resistor in line with the experimental device. The resistor was put in a cubic aluminum
+box. On each side of the box there is a thermoelectric generator that utilizes Seebeck
+effect. The six thermoelectric generators are in line and we measure the voltage VSeebeck.
+This simple calorimeter is calibrated with direct current, we obtain a correlation
+  BIUAV
+DCrSeebeck  . Then we infer the shape factor f from the response of this
+calorimeter, from the measured rU the resistor voltage and from I when we use a pulsed
+current.
+4.2. Description of the experimental device
+A DC electrical generator delivers electrical power into a reactor containing the
+uranium metal. The electrical power is delivered either in the form of constant direct
+current, through connection OB or in the form of pulsed current through connection OA.
+The pulsed current is shaped by the action of a transistor (International Rectifier Power
+MOFSET type IRL 3803), which is triggered by a function generator (Metrix GX 245)
+(Fig. 1).
+Natural uranium metal turnings (3 mm width, 0.1 to 0.3 mm thick and cut into pieces
+of about 10 mm length) are placed between two cylindrical iron electrodes (16 mm
+diameter), according to Fig. 3. The first electrode is 9 mm long and the second 22 mm
+(central electrode, with a 10 mm hole in its center). A third electrode, identical to the first
+one is placed in contact with the central electrode. Two wires are fixed by solder on
+electrodes 1 and 3, allowing electrical current to be passed through electrode 1, the
+uranium turnings, the central electrode and electrode 3. Three wires allow the measure of
+UU and URE. Two identical magnets (10 mm length, 15 mm diameter are placed in
+contact with electrodes 1 and 3 in such a way that they generate, through the uranium and
+the electrodes, a magnetic field parallel to the axis of the electrodes. They are made from
+cobalt/samarium, have a magnetic remanence of 1 T and can withstand 300°C without
+loosing their magnetism. Three temperature sensors (Pt 100) are placed in the central
+electrode: two at each ends, in two 3 mm diameter holes bored at 4 mm from the two
+edges of this electrode, and one in the central, 10 mm diameter hole and measure
+respectively TU (temperature of the uranium side), TRE (temperature of the reference
+resistor side) and Treg (regulation of the temperature level of the experiment).
+Fig. 3. Reactor.
+The three electrodes and the two magnets are enclosed in two identical aluminum
+cylinders acting as a regulated heater (see Fig. 4). Each cylinder is 50 mm diameter and
+40 mm long. A hole in the cylinders allows the exit of the wires connected to the
+electrodes. Four heating cartridges 76 mm long and 6.3 mm diameter (RS component) are
+introduced in four holes bored through the aluminum cylinders and heat them in a
+regulated way (Auto-tune temperature controller CAL 9400, delivering electrical power
+to the heating cartridges from a DC generator on a zero/full power basis). The two
+aluminum cylinders are pressed against the ends of both magnets by the action of four
+bolts, parallel to the four heating cartridges (and not represented in Fig. 4).
+The whole assembly is finally placed in a vacuum tight aluminum box, equipped with
+the required passages for the wires conducting the current to the reactor and those
+connecting the various sensors to the AOIP SA multi-channel data acquisition system that
+monitors the experiment. The box is kept under vacuum (5 to 10 Pa) by the action of a
+vacuum pump. Under these conditions, the oxidation of the uranium sample is controlled
+at a very low rate for periods of several days and temperatures of the heater up to 200°C.
+The differential power measurement device functions as follows:
+ the temperature of the heater is set at a given value Treg (generally around 200°C).
+Preliminary measurements have shown that REU TTT  varies slowly when
+increasing Treg from ambient to 170°C and remains constant above 170°C up to
+220°C. Let  0T be the value of ΔT when the heater has reached its preset value
+Treg. The mean power dissipated by the heater to maintain Treg at 200°C is
+typically around 60 W.
+ a direct current is then passed through the three electrodes. The resistance RU of
+the contacts steel / uranium turnings / steel is typically between 5 and 15 mΩ and
+the corresponding resistance RRE of the reference contact resistance steel / steel
+between 2 and 5 mΩ. The Joule power IUfIUW UU  on the uranium
+side is thus higher than the Joule power IUfIUW RERERE  0 on the
+reference side and ΔT increases. The intensity of the direct (or pulsed) current we
+use is limited to 15 A. The power injected in the electrode system is thus limited
+to less than 6 W, which is a small fraction of the power required to maintain the
+heater at 200°C. The joule effect is thus a perturbation of the total heating and the
+relative temperature difference  0TT  is a linear function of the difference
+REU WWP  :
+  PKTT  0 (6)
+K is essentially determined by the geometry of the electrodes and by their thermal
+conduction properties (the experiment being under vacuum, the main heat transfer
+mechanism is conduction). This relation has been checked experimentally to be very
+accurate.
+If an exothermal reaction, yielding a power PE, takes place in the uranium, relation (6)
+is no longer valid and is replaced by:
+   EPPKTT  0 . (7)
+We measure K when passing direct currents of various intensities in the electrodes. In all
+our experiments, we have observed that when plotting ΔP versus  0TT  we obtain a
+very good linear relation:
+  0
+1 TTKP   . (8)
+If we switch to pulsed currents (without changing the experimental set-up) the points
+obtained are systematically on the right side of this straight line as explain on the scheme
+Fig. 5. We can calculate PE from the measurements of WU, WRE and  0TT  when
+passing the pulsed current and the correlation obtained when passing the direct current:
+   pulseE PTTKP  
+0
+1 . (9)
+Remark. Two second order corrections have to be taken into account to get precise
+measurements:
+ Due to small modifications in the heating power of the cartridges, we observe a
+small and continuous drift of  0T during the course of an experiment (0.03 to
+0.07 K/day). We measure this drift and accordingly correct the temperature
+differences.
+ Both resistance RU and RRE vary slowly with time. When this variation is too fast,
+ 0TT  is somewhat lagging behind ΔP, resulting when ΔP increases during
+the calibration with direct current, in an under estimation of the power injected
+given by (8). In order to be on the safe side, we eliminate these points from
+correlation (8), which represent 5 to 10% of the points.
+Fig. 4. Reactor heating system.
+Fig. 5. P versus ΔT-(ΔT)0.
+5. Experimental results
+We report here the results of an experiment run with uranium. 788 mg of uranium
+turnings were placed in the reactor and the experiment was run according to the following
+protocol.
+5.1. Experimental protocol
+The following operations are run in sequence.
+ Measurement of  0T . The heater is heated at four temperatures (TReg = 170, 190,
+200 and 210°C), to check the absence of variation of  0T with TReg.  0T is
+taken at the temperature of the experiment (around 200°C). Duration 24 h. The
+temperature of the reactor is then set at TReg = 200°C.
+ Calibration of the shape factor measurement device. A direct current (three
+intensities: 5, 10 and 15 A) is passed through the experimental set-up (Fig. 2,
+contact OB closed). Duration 36 h. This yields a relation (10) between  
+DCr IU 
+and VSeebeck. A linear relation gives a correlation coefficient higher than 99%.
+  BIUAV
+DCrSeebeck  (10)
+ Establishment of the relation between ΔP and  0TT  when a direct current is
+passed through the metal under test (baseline of the experiment). This is done at
+the same time as the calibration of the shape factor measurement device and
+yields relation (3). A linear relation gives a correlation coefficient higher than
+99%.
+ Determination of the drift of  0T with time. The DC current is cut and  0T is
+measured at TReg = 200°C
+ Effect of the pulsed current on the metal under test. The contact OB is switch to
+OA and kept in this position for several days.
+ Determination of the drift of  0T with time. The pulsed current is cut and  0T
+is measured at TReg = 200°C.
+ Back-checking of relation (3) and (10). The direct current is switched on again
+(contact OB closed) and various intensities are passed through the experimental
+device to yield an f factor calibration curve and a baseline of the experiment
+extending on both sides of the results obtained with the pulsed current (see below).
+ Determination of the drift of  0T with time. The DC current is cut-off and
+ 0T is measured at TReg = 200°C.
+5.2. Presentation of the results
+Fig. 6 shows how the measured ΔP varies as a function of the  0TT  measured.
+For direct current, the experimental points fall (with a correlation coefficient better than
+0.99) on a straight line. The corresponding coefficient K-1 of relation (3) is 989 mWK-1.
+The situation is different when pulsed current is passed through the uranium. All points
+fall on the right side of correlation (3), indicating that the power PE of an exothermal
+reaction occurring in the uranium is added to the power generated by the Joule effect in
+it.
+We can then use relation (9) to calculate PE and consider its evolution with time. Fig. 7
+shows this evolution. It can be seen from this graph that:
+ PE is about zero (mean value – 10 mW, standard deviation 15 mW), when a direct
+current is passed through the uranium (before and after the pulsed current is
+passed through it).
+ PE is continuously increasing from some 50 mW to nearly 900 mW, when a
+pulsed current is passed through the uranium sample.
+Fig. 6. Experimental results (P versus ΔT - (ΔT)0).
+Fig. 7. Experimental results (PE and RU versus time).
+5.3. Discussion of the results
+We now discuss some possible trivial explanations of these results:
+ Effect of the shape factor f. We find for relation (10) the following coefficients: A
+= 110.5 mV/W and B = 21.9 mV. From these values, we can calculate the shape
+factor as
+ 
+ 
+)10(fromSeebeck
+measuredSeebeck
+V
+V
+f  .
+Over the whole duration of the experiment, the following mean values were
+obtained f = 1.00 (standard deviation 0.004) for the periods when direct current
+was passed and f = 1.30 (standard deviation 0.009) when pulsed current was
+passed. From these figures, we can conclude that the properties of the transistor
+that shapes the pulsed current have not varied significantly during the experiment.
+Moreover, the shape factor f is very close to the theoretical one (1.29) calculated
+from the T1 and Th used in this experiment. The variations of f are thus second
+order, whereas the ratio PE(WU+WRE) is continuously increasing from 0 to 28%
+during the experiment (as can be seen in Fig. 8). This second order variation
+cannot thus account for this result.
+ effect of the variations of the resistance of the uranium. As can be seen in Fig. 7,
+the resistance of the uranium has varied during the experiment. Periods of
+stability of this parameter are found for instance between day 3 and day 4, when
+PE continuously increased. This increase cannot thus be attributed to the lagging
+of  0TT  behind ΔP. In the period day 2 to day 3, the resistance of the
+uranium has increased twice abruptly. It can be seen in Fig. 7 that PE has also
+increased sharply but has come back to the general trend of PE after the
+subsequent decrease of the resistance.
+From these considerations, we conclude that no trivial explanation can account for the
+observed value of PE. This value is of an order of magnitude comparable to what we
+observed in our preliminary experiments and justifies the strategy we have chosen.
+Fig. 8. Experimental results (PE/(WU + WRE) versus time).
+6. A possible and hypothetical explanation of these results
+We give here a possible but still hypothetical explanation of the phenomenon we
+observe and this for two reasons:
+ we use this explanation as a guideline for our experiments.
+ it might thus help the reader to understand our approach.
+We assume the possibility of the existence of a resonance between a proton and an
+electron, yielding a particle of almost nuclear dimensions (a few fm) and we examine the
+possible consequences of the existence of such a particle.
+The hydrogen atom is one of the best known objects of physics and its properties can
+be completely calculated up to the third order interactions (hydrogen hyperfine structure).
+This last interaction results from the effect of potentials, which are very strong at very
+short distances of the electron from the proton, but are only third order when averaged on
+the whole volume of the atom (magnetic interactions between the proton and the electron,
+described by the hyperfine structure Hamiltonian).
+The question has been raised [4,5] whether this interaction could yield a much smaller
+object than the known hydrogen atom. In such an object, it would of course be first order
+on the whole interaction volume.
+A quantum electrodynamics calculation was performed on the proton/electron system
+[6,7], pointing to the possibility of the existence of a resonance (life time of a few
+seconds, dimensions of a few fm and an endothermic energy of formation of a few eV).
+This resonance has been proposed to explain some hypothetical nuclear reactions [8,9].
+We assume the existence of this resonance (which for simplicity of language we
+propose to call hydrex: H
+~1
+1 . We guess some of its properties and use them to improve its
+synthesis and explain how it could act on nuclei to “catalyze” certain classes of nuclear
+reactions.
+6.1. Main properties of hydrex that can reasonably be imagined
+ The magnetic moment of the electron should have the same direction as the
+nuclear moment of the proton (probably parallel in the ground state and
+antiparallel in excited states).
+ Hydrex can be polarized in the high electrical field of a big nucleus (it could even
+be a small permanent electrical dipole).
+6.2. How do we try to improve the synthesis of hydrex
+We start from protons enclosed in a dense medium (metallic hydrides where they have
+a high mobility) and favor their collisions with the conduction electrons by passing an
+electrical current through the hydride. As we think that these collisions are more efficient
+to form hydrex if the magnetic moments of the two particles have the same direction
+(whether they are parallel or antiparallel) we apply to the metallic hydride a magnetic
+field (of intensity as high as possible) having the same direction as the current. Note that
+contrary to the situation in vacuum, the protons and the electrons are submitted to
+potentials due to the lattice that could also favor the formation of hydrex.
+6.3. How hydrex, when formed, could “catalyze” certain nuclear reactions
+Hydrex as we imagine it, is an electric dipole with almost nuclear dimensions. It can
+thus be attracted by a uranium nucleus. Perhaps, one uranium nucleus and several hydrex
+could form a cluster, with a lifetime on the order of seconds, which is considerably higher
+than typical nuclear time (10-22 s). Thus, in this nuclear cluster, unusual nuclear reactions
+could take place. Let us now examine two of them:
+ Hydrex assisted α emission: the presence of several polarized hydrex in contact
+with an uranium nucleus can modify its Coulomb barrier. Simple calculations,
+using a layer model, have shown that the initial barrier (height 32 MeV, thickness
+some 50 fm) could be split into two barriers: a first one close to the uranium
+nucleus with same height, but much thinner (some 5 fm), followed, after a
+potential well, by a second one of smaller height (15 to 17 MeV) and thickness 35
+fm (the level of the potential well depends on the number of hydrex in the cluster).
+Since the works of Gamow, Gurney and Condon in 1928, it has been well known
+that the probability of alpha emission of a nucleus can vary considerably with
+small variations of the height and thickness of the Coulomb barrier [10]. We thus
+think that the rate of alpha emission of the 238U can be considerably increased in
+our experiment due to the formation of the hydrex/uranium clusters [2].
+ ω emission of the uranium: this is a reaction with no classical equivalent, that
+could explain the absence of tremendous increase of the β- emission that should
+be observed after an increase of the rate of the α emission. The first daughter of
+238U is 234Th, which decays into 234Pa through β- emission (1/2 life time 24 days).
+In the hydrex/uranium cluster, 2 neutrons of the uranium could react with 2
+hydrex, to yield 232Th and 4He according to the reaction:
+MeV17.3HeThH
+~
+2Th 4
+2
+232
+90
+ω1
+1
+234
+90 
+(ω emission)
+The combination of these 2 types of reactions could give a route from uranium to lead
+without β- emission.
+
+7. Perspectives and conclusion
+The improved calorimetric device that we have developed confirms our preliminary
+experiments. The level of the power liberated in the uranium by the exothermal reaction
+that we measure with the new device compares well with what we found previously: 0.9
+W versus 3.8, 0.8 and 1.2 W. Moreover, the oxidation of the uranium can be controlled,
+provided the vacuum of the experiment is of good quality.
+We thus have planned a series of experiments to:
+ measure the lead content of the uranium after treatment (including isotopic ratio)
+and compare this level with the energy liberated by the exothermic reaction.
+ test other metals to see if similar phenomenon are observed with them.
+References
+1. P. Pascal, in: Nouveau traité de chimie minérale, Tome XV, Masson, Paris,
+France, p. 159.
+2. J.J. Dufour, J.H. Foos, X.J.C. Dufour, ICCF7 Proa, ENECO, Salt Lake City, USA,
+pp. 113-118.
+3. R.P. Larsen, Anal. Chem. 31 (1959) 545.
+4. A.O. Barut, J. Kraus, J. Math. Phys. 17 (1976) 506.
+5. A.O. Barut, G. Craig, Physica A 197 (1993) 275.
+6. J.R. Spence, J.P. Vary, Phys. Lett. B 254 (1991) 1.
+7. J.R. Spence, J.P. Vary, Phys. Lett. B 271 (1991) 27.
+8. F.J. Mayer, J.R. Reitz, Fusion Technology 20 (1991) 367.
+9. R. Antanasijevic, I. Lakicevic, Z. Marie, D. Zevic, A. Zaric, J.P. Vigier, Phys.
+Lett. A 180 (1993) 25.
+10. J. Foos, in: Manuel de radioactivité à l’usage des utilisateurs, Formascience,
+Orsay, France, pp. 25-33.

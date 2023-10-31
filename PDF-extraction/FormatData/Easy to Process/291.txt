@@ -1,0 +1,1500 @@
+
+AEROSPACE REPORT NO.
+ATR-2017-01760
+
+Investigation of the Nickel-Hydrogen Anomalous Heat Effect
+May 15, 2017
+Edward J. Beiting
+Propulsion Science Department
+Space Materials Laboratory
+
+Prepared for:
+Senior Vice President, Engineering and Technology Group
+Authorized by: Engineering and Technology Group
+
+PUBLIC RELEASE IS AUTHORIZED.
+
+i
+Acknowledgements
+This work benefited from many interactions with Dr. Brian Ahern of Vibronic Energy Technologies.
+Dr. Martin Leung of The Aerospace Corporation arranged for the tomographic images of the filled cells
+and was a source of information for the chemical and isotopic analyses. Useful comments were provided
+by Drs. Brian Brady, John Desain, and Thomas Curtiss of The Aerospace Corporation and Drs. Richard
+Garwin and William Happer of the JASON group. Finally, Dr. James Nokes intervened to keep this work
+funded just as the data acquisition phase began. His support is gratefully acknowledged.
+
+ii
+Executive Summary
+Experimental work was undertaken to reproduce a specific observation of the gas-phase Anomalous Heat
+Effect (AHE)*.  This task required the production of a quantity of heat energy by a mass of material so
+small that the origin of the energy cannot be attributable to a chemical process.  The gas-phase form of
+AHE is difficult to reproduce and hence lacks a measure of credibility.  The goal is to enhance its credibility
+by reproducing results first demonstrated in Japan and later reproduced in the U.S. by a solitary investigator.
+The technique heated nanometer-sized Ni:Pd particles (20:1 molar ratio) embedded in micron-sized
+particles of an inert refractory of ZrO2. It was not within the purview of this work to investigate the physical
+origin of the AHE effect or speculate on its source.
+An apparatus was built that comprised identical test and a reference heated cells.  These thermally isolated
+cells each contained two thermocouples and a 10 cm3 volume of ZrO2NiPd particles.  Calibration functions
+to infer thermal power from temperature were created by electrically heating the filled cells with known
+powers when they were either evacuated or pressurized with 1 bar of N2.  During the experimental trial, the
+test cell was pressurized with hydrogen and the control cell was pressurized with nitrogen.  After
+conditioning the cells, both were heated to near 300°C for a period of 1000 hours (40 days).  During this
+period, the test cell registered 7.5% more power (approximately 1 W) than the input power. The control
+cell measured approximately 0.05 W of excess power.  The error in the excess power measurement was
+±0.05 W.
+Time-integrating the excess power to obtain an excess energy and normalizing to the 20 gram mass of the
+ZrO2NiPd sample yields a specific energy of 173 MJ/kg. Assuming that the active material is the 5.44g of
+Ni+Pd yields a specific energy of 635 MJ/kg.  For comparison, the highest specific energy of a hydrocarbon
+fuel (methane) is 55.5 MJ/kg. The highest chemical specific energy listed [see Energy Density in
+Wikipedia] is 142 MJ/kg for hydrogen compressed to 700 bar. Based on these results, it is unlikely that the
+source of heat energy was chemical in origin.
+
+* The expression Anomalous Heat Effect (AHE) introduced by Dr. Robert Duncan will be used in this report to refer
+to a phenomenon often called Low Energy Nuclear Reactions (LENR), Condensed Matter Nuclear Science
+(CMNS), the old misnomer Cold Fusion, or several other names. The AHE moniker has the advantage that it only
+references the principal experimental manifestation while agnostic to the many theories attesting to its unknown
+physical origin.
+
+iii
+Contents
+
+1. Introduction ............................................................................................................................................... 1
+2. Sample Preparation ................................................................................................................................... 3
+3. Experimental Design ................................................................................................................................. 5
+4. Principal Experiment Trial ........................................................................................................................ 8
+
+5. Discussion and Conclusion ..................................................................................................................... 16
+6. References ............................................................................................................................................... 18
+Appendix A. The First Experiment Trial .................................................................................................... 19
+Appendix B. Germaine Properties of Rare Earth Magnets ......................................................................... 24
+Appendix C. Heat Capacity and Thermal Conductivity of N2, H2, and D2 ................................................. 26
+Appendix D. Room and Cell Temperature Difference Data ....................................................................... 27
+Appendix E. Scaled Nitrogen Cell Calibration ........................................................................................... 28
+Appendix F. Calculation of Elemental Mass of the Principal Experimental Trial ..................................... 29
+Appendix G. Calculation of H2 Exothermic Loading Energy ..................................................................... 30
+Appendix H. Cell Pressure History ............................................................................................................. 31
+Appendix I. Thermal Conductivity of Air at Reduced Pressures ................................................................ 32
+Appendix J. Technical Reports Addendum Asset Summary (TRAAS) Form
+(Equipment Calibration Information) ..................................................................................... 33
+
+iv
+Figures
+Figure 2.1 Approximately 10 grams of 65wt% Zr- 32wt% Ni-3wt% Pd alloy melt spun ribbon in
+a 1L breaker used for furnace oxidation. ............................................................................ 3
+Figure 2.2 ZrO2NiPd after ground with a mortar & Pestle (center) and 4 minutes in power
+grinder (right). The left sample is the SmCo magnetic after it was ground with a
+mortar & pestle ................................................................................................................... 3
+Figure 2.3 Microscopic images of ZrO2NiPd samples shown in Figure 2.2. ....................................... 3
+Figure 2.4 Microscopic image of ZrO2NiPd+ SmCo after 4 min in mixer/grinder .............................. 4
+Figure 3.1 Diagram of the test cell design. ........................................................................................... 5
+Figure 3.2 Custom feedthrough and thermocouple used for interior cell temperature
+measurements. ..................................................................................................................... 5
+Figure 3.3  Photograph of version on of cell mount on 2.75 inch conflat flange. ................................. 5
+Figure 3.4  Glass sleeve insulated heating wire. ................................................................................... 6
+Figure 3.5  Design and photographs of the welded cell configuration and the thermocouple
+inserts. ................................................................................................................................. 6
+Figure 3.6  Gas system. ......................................................................................................................... 7
+Figure 3.7  Data acquisition system. ..................................................................................................... 7
+Figure 4.1  Cell 1 vertical and horizontal slices from the x-ray tomographic images. .......................... 8
+Figure 4.2  Cell 2 vertical and horizontal slices from the x-ray tomographic images. .......................... 8
+Figure 4.3  Power, temperature and pressure during calibration. .......................................................... 9
+Figure 4.4  Calibration curves used to infer power from cells 1 and 2 for in vacuum and at a
+pressure of 1 bar of nitrogen. .............................................................................................. 9
+Figure 4.5  Gas loading curves. ........................................................................................................... 10
+Figure 4.6  Hydrogen cell during preheating. ..................................................................................... 12
+Figure 4.7  Power, temperature, and pressure data from hydrogen (cell 1) and nitrogen (cell 2)
+cells. .................................................................................................................................. 13
+Figure 4.8  Data from the termination sequence of the experiment. ................................................... 15
+Figure A.1  First bakeout of samples under vacuum. ........................................................................... 19
+Figure A.2  Calibration fits for two cells. ............................................................................................ 19
+Figure A.3  First 100 hours of first experiment showing excess power, power in, temperature and
+pressure. ............................................................................................................................ 20
+Figure A.4 Entire data set from first experiment. ............................................................................... 22
+Figure B.2 Expected temperature dependence of purchased magnets from catalogue
+specifications. ................................................................................................................... 24
+Figure B3 Actual (measured) temperature dependence of purchased magnets. ................................ 25
+Figure D.1 Room Temperature and Vacuum Jacket Temperatures. ................................................... 27
+Figure D.2 Temperature difference between cell interior thermocouples during energy
+integration period. ............................................................................................................. 27
+Figure E.1 Calibration Fit Scaling 1.0 bar Data to 1.2 bar. ................................................................ 28
+Figure G.1 Integration of hydrogen loading power to obtain loading energy. .................................... 30
+Figure I.1 Conductivity Ratio as a function of the pressure parameter from [20]. ............................ 32
+
+v
+Tables
+Table 4.1 Vacuum vs Pressure Calibration Comparison for Cell 1 .................................................. 10
+Table B.1 Magnetic Properties of Two Selected Magnets* .............................................................. 24
+Table C.1 Low Temperature Properties of N2, H2, and D2 ................................................................ 26
+Table C.2 High Temperature thermal Conductivity of N2, H2, and D2  [23] ..................................... 26
+Table E.1 Scaling of Nitrogen Calibration 1-bar Values by 20% ..................................................... 28
+Table F1 Ribbon Mass ..................................................................................................................... 29
+Table F2 Elemental Composition ..................................................................................................... 29
+Table H.1 Cell Pressure History ........................................................................................................ 31
+
+1
+
+1. Introduction
+The study of the Anomalous Heat Effect (AHE) has a colorful history.  Initially introduced via a press
+conference by two electrochemists in 1989 [1], it received worldwide attention due to the claim that the
+energy generated was orders of magnitude greater than that possible by chemical reactions. This energy
+was generated without producing radiation characteristic of nuclear reactions.  Because the process
+occurred at low temperatures in an electrolysis cell, it was given the unfortunate moniker “Cold Fusion.”
+This attracted numerous unsuccessful efforts to duplicate the results from the scientific community using
+an incomplete description of the experiment. Subsequently, the work was labeled junk science and the
+scientific hierarchy in the United States made it nearly impossible to publish or obtain funding for its study.
+However, studies did continue outside the U.S. and at low levels in the U.S. funded by non-traditional
+sources.  Due to these subsequent studies, it is now understood why it was difficult to reproduce the energy
+releases observed the original electrolysis experiments.  [2]
+During these succeeding studies, a gas-phase manifestation of the AHE was discovered in Italy. [3] This is
+significant for two reasons. First, this new method used readily available nickel and light hydrogen instead
+of the expensive palladium and deuterium used in the electrolysis experiments.  Second, the gas-phase
+experiments operated at much higher temperatures than the atmospheric-pressure heavy water electrolysis
+experiments, thus promising greater conversion efficiency to electrical or mechanical power.
+Unfortunately, most investigations of AHE have focused on electrolysis experiments leaving gas-phase
+AHE relatively unstudied. Consequently, critical parameters required for observing this manifestation are
+ill-defined.  These include particle surface morphology, required hydrogen loading density, and triggering
+mechanisms.  These known unknowns (and possibly other unknown unknowns) have made demonstrations
+of gas-phase AHE difficult to reproduce.
+Because a practical implementation of the gas-phase AHE has the potential to transform the commercial
+and national security space industries by, for example, eliminating massive solar arrays, a small program
+was initiated at The Aerospace Corporation to see if the AHE could be observed in our laboratory.  Because
+it was an internally funded modest program, the goal was not to create a research effort to study its origin
+but to demonstrate reproducibility of previous work. If demonstration was successful and convincing, the
+hope was that this work would stimulate a subsequent larger effort.
+To this end, a review of the gas-phase AHE results was made when this project was initiated in 2013 to find
+an observation likely to be reproduced.  Three criteria were considered to increase probability of achieving
+this goal: a complete description of material preparation was required; a simple triggering mechanism was
+desirable to reduce the experimental complexity; and at least one reproduction of the manifestation of
+excess heat† of non-chemical origin using the method should be documented by an independent
+investigator.  At the time of this survey, only the work by Arata and Zhang [4] in Japan as reproduced by
+Ahern [5] in the United States met these three requirements.‡  This method employs a simple heat-triggering
+mechanism on a powder of micron-sized particles of ZrO2 imbedded with nanometer-sized particles of a
+nickel (with a small admixture of palladium).  The active material used in the work presented in this report
+differs from that of Refs. [4] and [5] by the addition of magnetic particles.  This addition was made with
+the desire of increasing the probability of observing excess energy, based on reports by other investigators
+
+† Most AHE experiments require input heat power to raise the temperature of the sample material to a value above a
+critical temperature. If more heat is generated than supplied to the sample, this difference (exothermic) heat is called
+“excess heat.”  If the integrated excess heat power over the duration of the experiment (= excess energy) is more
+than can be attributed to chemical energy, the observation of the AHE is considered positive.
+‡ We note since this work was initiated, other demonstrations of the AHE of NiPd nanoparticles in a ZrO2 matrix
+have been documented.  Examples can be found in Special Section: Low Energy Nuclear Reactions of Current
+Science Vol. 108 No. 4 (2015) available at:
+http://www.currentscience.ac.in/php/feat.php?feature=Special%20Section:%20Low%20Energy%20Nuclear%20Rea
+ctions&featid=10094
+
+2
+[6] and the initial experimental trial in this work. Other than these additional particles, the material used
+here was identical to that used by Refs. [4] and [5].
+The tasks undertaken to implement this demonstration include base material acquisition and sample
+fabrication, design and construction of the computer-controlled experimental apparatus, creation of robust
+data acquisition (DAQ) software, system calibration, extended periods of data acquisition, and data analysis
+and interpretation.  Completion of these tasks produced two experimental trials, each using two parallel
+cells controlled and monitored by a single DAQ computer. The first trial served primarily as a learning
+vehicle for developing and testing an experimental protocol.  Its results are not discussed in the body of this
+report; however, its design, with lessons learned, and the data produced during this 23-day run are
+interesting so its description is presented in Appendix A.
+The duration of second experiment trial was over 1600 hours (67 days). It is described in detail in the report
+preceded by sections presenting the preparation of the sample and the description of the apparatus.  The
+
+final section of the report presents an error discussion and conclusions.  To improve the readability of the
+body of this document, many details are presented in nine appendices.
+
+3
+2. Sample Preparation
+The samples were prepared following a prescription
+described by Ahern [5], who drew his procedures from
+those developed by Arata and Zhang [4].  This type of
+preparation was developed for the fabrication of catalysts,
+which require large metallic surface areas that operate at
+high temperatures.  Large specific areas require small
+particles that will sinter into large particles at high
+temperatures.  Thus techniques were developed to imbed
+small metallic particles in large porous inert refractory
+particles.
+The base metallic material was prepared by Ames
+Laboratory [7] by arc melting a 90 gram mixture of 65wt%
+Zr 32wt% Ni 3wt% Pd using 99.95% purity elements.
+This hot composite was melt-spun onto a water-cooled
+copper hearth plate in an atmosphere of high purity argon
+using a wheel speed of 25 m/s and an ejection pressure of 110 Torr.  This procedure was repeated, each run
+creating approximately 10 grams melt spun ribbons.  A view of ribbon from one of these spins is shown in
+Figure 2.1.
+At The Aerospace Corporation ribbon from a 10 gram single run was placed in a furnace and heated in air
+at 440°C for 28 hours.  This created approximately 12 grams of brittle material comprising nickel and
+palladium nano-particles in a ZrO2 matrix.  This material was hand-ground in a mortar and pestle for a few
+minutes creating jagged particle with diameters of a few
+hundred microns in diameter.  Subsequently the ground
+sample was placed in a 45 mL zirconia ceramic vial with
+two 12.7 mm diameter zirconia balls and ground in
+mixer/mill [8] for 4 minutes.  Macroscopic and
+microscopic views of the sample before and after it was
+placed in the mill are shown in Figures 2.2 and 2.3,
+respectively.  The mill created particles that were a few
+microns in diameter with a few as large as 40 microns.
+Milling the sample for less than 4 minutes left many large
+jagged particles.  Milling for 4 minutes ground most of the
+large particle but generally created particles smaller than
+the targeted 10–30 micron diameter size distribution.
+There have been reports that a magnetic field can enhance
+the AHE (for example, see Ref. [6]).  To explore this
+possibility, for the first experiment it was decided to run a
+second cell loaded with magnetic material in parallel with
+the first.  The material in this cell was a mixture of
+approximately equal weights of a milled SmCo 2-17
+magnet and the ZrO2NiPd sample described above. A
+discussion on the choice of a SmCo magnet rather than a
+NdFeB magnet which usually has a higher magnetic field
+strength is given in Appendix B.
+
+Figure 2.1.  Approximately 10 grams of 65wt%
+Zr- 32wt% Ni-3wt% Pd alloy melt spun ribbon
+in a 1L breaker used for furnace oxidation.
+
+Figure 2.2. ZrO2NiPd after ground with a mortar &
+pestle (center) and 4 minutes in power grinder
+(right). The left sample is the SmCo magnetic after
+it was ground with a mortar & pestle
+
+Figure 2.3. Microscopic images of ZrO2NiPd
+samples shown in Figure 2.2.
+ZrO2NiPd Mortar & Pestle
+1350 microns
+ZrO2NiPd 4 min in Grinder
+270 microns
+
+4
+Because the magnet particles stick together tightly in a single mass after they are ground, the ZrO2NiPd
+sample and the magnetic sample were placed together in the Mixer/Mill after they were individually ground
+in the mortar and pestle.  The hope was that milling them together would facilitate their mixing.  This was
+partially successful. A view of the mixture of the SmCo magnet particles with the ZrO2NiPd sample is
+shown in Figure 2.4.  In this photo the large particles are the SmCo, and ZrO2NiPd particles are on the
+surface of the magnet particles.
+
+Figure 2.4. Microscopic image of ZrO2NiPd+
+SmCo after 4 min in mixer/grinder
+
+1350 microns
+
+5
+3. Experimental Design
+The method chosen for gas-phase AHE reproduction required only thermal triggering. This required
+building cells that could be heated in vacuum to temperatures near 400o C.  The design described here
+accomplishes this principally using off-the-shelf parts.
+The cell design used in the first experimental trial
+(described in Appendix A) is shown in Figure 3.1.
+It uses a Swagelok 10 cc stainless steel sample
+cylinder, standard Swagelok fittings, mounted on a
+2.75 inch diameter conflat flange.  This flange is
+installed on a standard 5 inch long x 1.5 inch
+diameter stainless steel (SS) nipple with a 2.75 inch
+conflat flanges on both ends.  The guiding principle
+was to build a thermally isolated container for the
+sample that has little heat capacity so that a small
+energy release will cause a large, easily measured
+temperature rise.  The volume around the sample
+cylinder is evacuated by a mechanical pump§
+whereas the interior of the sample cell is evaluated
+to a few microbar (mTorr) using a turbo-pump
+backed by a diaphragm pump, keeping the sample
+oil free.  The 3/8 inch Swaglock fitting connecting
+the sample cylinder to the conflat flange was a poor
+thermal insulator, producing some conduction
+heating the outer vacuum cylinder.
+The small size of the configuration required that feedthroughs
+for the power leads and thermocouples be custom made.
+Unfortunately, suitable thermocouples could not be
+purchased so they were made in-house by torch fusing 0.010”
+diameter chromel-alumel wire (type K) and using a
+combination of porcelain beads and glass-sleeve high-
+temperature insulators.  One of the interior cell feedthroughs
+and thermocouple is shown in Figure 3.2 mounted on ¼ inch
+Swagelok fittings.
+As shown in Figure 3.1, the sample cylinder was spiral
+wound with bare nichrome wire.  It was desired to electrically
+insulate this wire from the SS cylinder while keeping good
+thermal conductivity to the cylinder.  Initially, the cylinder
+was coated with high-temperature paint before wrapping the
+wire. (See Figure 3.3.)  Of several coatings tried, Aremco [9]
+Pyro-Paint 634-ZO worked the best.
+
+§ The mechanical pump available had a rather high base pressure of 0.08 mbar (60 mTorr).  This reduced the thermal
+conductivity of the air by only 30%, whereas a well-maintained two-stage rotary vane pump would have reduced by
+thermal conductivity of air factor of 24 from the atmospheric pressure value.  See Appendix I.
+
+Figure 3.1 Diagram of the test cell design.
+2 ¾” Conflat
+1/8” NPT
+Tapped 2 sides
+SS-4CS-TW-10   ($84)
+Single-ended Cylinder
+Swagelok
+Length = 2.19”
+Diameter = 1.00”
+1/8” NPT
+TC
+Feedthru
+1/8” NPT
+Heater
+Feedthru
+SS-600-1-2
+3/8” tube to 1/8” NPT
+Swagelok
+Male Connector
+Length = 1.39”
+SS-400-1-2
+1/4” tube to 1/8” NPT
+Swagelok
+Male Connector
+Length = 1.29”
+Nickel-Chromium Heating Wire
+28 Gauge
+Omega # NI60-012-50
+Type K Thermocouples
+Type K Thermocou
+
+Figure 3.3 Photograph of version on of cell
+mount on 2.75 inch conflat flange.
+
+Figure 3.2 Custom feedthrough and
+thermocouple used for interior cell
+temperature measurements.
+
+6
+However, even though this paint is rated for a temperature
+of 1800°C, it repeatedly failed causing the circuit to short
+when the interior cell temperatures reached 400°C.
+Subsequently, the nichrome wire was threaded through a
+woven glass sleeve [10] and then wrapped round the
+cylinder as shown in Figure 3.4.  This configuration
+proved robust, allowing calibration to be performed up to
+450°C.  The nichrome wire (OMEGA PN NI60-012-50,
+NI60.CR16) [11] had a room temperature resistance of
+4.359 Ω /ft. Cell #1 in the experiments described below
+had a resistance of 14.9 Ω and cell #2 a resistance of 15.3
+Ω.  Accordingly, when the power suppliers were used in
+constant voltage mode, the power delivered to the cells
+differed slightly.
+Applying the lessons learned from the first experimental trail as discussed in Appendix A, the cell design
+was modified.  Figure 3.5 shows the design (left) and a photo (right) of the cells and thermocouple inserts
+used in the principal (second) experimental trial.  Again the cell assemblies were designed to fit inside a
+standard 2.75 inch conflate nipple SS vacuum jacket.  The wall the SS cells were thinned to about half of
+their original thicknesses to reduce the heat capacities, temperature gradients, and decrease the thermal time
+constants.  The thermocouples were coated with high temperature Aremco Pyro-Paint 670 and threaded
+through the SS tubing. Using longer tubes to support the cells and inserting two thermocouples instead of
+one in a cell made filling the cells with the 26 grams of the material tedious.  Unfortunately, initial vacuum
+tests on the new cells indicated a vacuum leak in one of them.  Because time did not permit new part
+acquisition and building another cell, this leak was patched with Torrseal.
+The cells were loaded with the samples, the interior thermocouples installed into the cells, and the cells
+were placed in their individual vacuum jackets.  Subsequently, the assemblies were installed in the gas
+manifold shown in Figure 3.6.  The interior of the cells were evacuated with a Varian minitask pump
+comprising a 70 L/s turbo pump backed by a diaphragm pump creating an ultimate pressure just above the
+pump orifice of a few tenths of a microbar** (millitorr).  As noted, this system created an oil-free vacuum.
+
+** The principal unit for pressure used in this document is “bar.”  For conversion to SI units 1 bar = 100 kPa exactly
+and is referenced to vacuum.
+
+Figure 3.4 Glass sleeve insulated heating wire.
+
+Figure 3.5 Design and photographs of the welded cell configuration and the thermocouple inserts.
+5” long 2.75” Conflat Nipple
+VAC
+0.5”
+4.50”
+3.25”
+Weld
+8.25”
+1/4” Swagelok tube
+to 1/8” pipe
+1/4” Swagelok T
+2.75” Conflat
+TC1
+TC2
+1/8” pipe
+plug
+3.00”
+3/8” SS tube
+3.00” long
+5.00
+”
+2.75” Conflat
+NOT TO SCALE
+
+7
+
+Figure 3.7 shows the power and data acquisition systems.  The power is delivered individually to each cell
+by two Rigol 1116A computer controlled power supplies operated in constant voltage mode.  The voltage,
+current, and power delivered is that reported by the instrument; the voltage and current values were checked
+with an Agilent 34301A multimeter (IBS ABE983, Cal Due Date 2/21/16) and agreed to ± 0.002 V, ± 0.002
+A).
+The Rigol M301 data acquisition system read the voltages from the pressure transducers and the
+thermocouples.  The two pressure transducers [12] had a voltage output range of 0 – 5 V to cover the
+pressure range of 0 to 285 PSIA (20 bar).  The Rigol M301 temperature output values of the type K
+thermocouples were calibrated (adjusted) at 0°C (ice bath) and 240o C (hot glycerin) with a linear function
+using an Omega HH309A thermocouple readout (IBS ACH235, Cal Due Date 6/14/15).
+Although the Rigol M301 DAQ system is well documented to supply a reference junction for the
+temperature measurements, it did not.  Consequently, there could be variations with the reported
+temperature if the room temperature were to change.  The room temperature was monitored throughout the
+data acquisition period and compensation was made during the data analysis.  This is discussed further in
+the next section. It is estimated that the temperatures are accurate to ± 0.5°C.
+All communication to the Rigol instruments was through a USB port on a laptop computer.  The instrument
+controlling software was written in MATLAB® using the MATLAB Instrument Control Toolbox, which
+sent SCPI text commands that were recognized by the instruments.  Intermediate results of a few hours
+could be viewed as a series of strip-chart graphs on the computer screen.  The results from the entire
+experimental run could also be viewed on another set of graphs on the screen albeit with lower temporal
+fidelity.  Data were taken at 30 second intervals and appended to a data file, ensuring that any experimental
+interruption would not result in a loss of data.  This file could be downloaded for detailed analysis at any
+time without interrupting the experiment.
+Due to the long duration of a continuous data acquisition period, an important element in the experimental
+configuration was the uninterruptible power supplies (UPS).  The battery in the laptop computer made the
+this controller immune to power interruptions but each of the Rigol instruments required an individual UPS
+to allow the experiment to operate through a loss of grid power of at least two hours.  There were two power
+interruptions during the experimental runs.  Any interruption would have compromised the results.
+
+Figure 3.6 Gas system.
+A H E  G A S  - T E S T  C E L L  S Y S T E M
+1/4” TUBING
+VENT
+VACUUM
+LINE
+SHUT
+OFF
+VALVE
+G
+R
+G
+PG
+VENT
+GAS MANIFOLD
+PT
+0-285
+PSIA
+0-1000
+TORR
+TC
+PT
+0-285
+PSIA
+0-1000
+TORR
+TC
+PG/G =  PRESSURE GAUGE
+CVG  = CONVECTRON GAUGE
+TVC = THERMOCOUPLE GAUGE
+PT = PRESSURE TRANSDUCER
+R = PRESSURE REGULATOR
+CVG
+TEST
+CELL 2
+TE
+ST
+
+VO
+LU
+M
+E
+TEST
+CELL 1
+TE
+ST
+
+VO
+LU
+M
+E
+TVG
+CVG CVG
+OIL FREE
+PUMP
+MECHANICAL
+PUMP
+50 L/s
+TURBO
+G
+R
+G G
+R
+G G
+R
+G
+H2 D2 He Ar
+VENT
+
+Figure 3.7 Data acquisition system.
+CELL 1
+Time (hours)
+Te
+m
+pe
+ra
+tu
+re
+(
+C)
+LAPTOP  COMPUTER
+Rigol 1116A
+PROGRAMMALBE
+POWER SUPPLY
+Rigol 1116A
+PROGRAMMALBE
+POWER SUPPLY
+Rigol M301
+DATA ACQUISITION
+SYSTEM
+PRESSURE
+TRANSDUCER
+INTERIOR TC
+BOTTOM TC
+TOP TC
+PRESSURE
+TRANSDUCER
+INTERIOR TC
+BOTTOM TC
+TOP TC
+BREAKO
+U
+T
+BO
+X
+CELL 1
+CELL 2
+U
+SB STATIO
+N
+UPS 1
+UPS 2
+UPS 3
+CELL 2
+
+8
+4. Principal Experiment Trial
+To increase credibility of the second trial results, the active test cell and an inert reference cell were loaded
+with identical material. However, the test cell was pressurized with hydrogen and the reference cell with
+nitrogen.  The mass of the ZrO2NiPd powder in each cell was doubled from the first trial to 20 grams.
+Furthermore, since the first experimental trial indicated that the magnetic particles may have increased the
+generation of the excess heat (see Appendix A), a sufficient mass of SmCo particles (6 grams) was added
+to fill the remainder of the 10 cm3 cell volume.  Other differences from the first trial were the use of
+hydrogen instead of deuterium gas and ZrO2NiPd powder as ground to < 1 µm diameter.
+Figures 4.1 and 4.2 show slices form the 3D x-ray tomographic imaging taken of cell #1 and cell #2,
+respectively.  Images of both cells show that some of the material remained in the neck of the cells.  This
+trapped material was later pushed into the cell using a fine wire, filling the remainder of the cells without
+disturbing the material and thermocouple placement in the body of the cells.  These images show the
+thermocouples are separated by at least 3 mm from each other and each are displaced from the cell walls.
+The high atomic weight SmCo magnetic particles appear as bright particles in these images
+
+Figure 4.2 Cell 2 vertical and horizontal slices from the x-ray tomographic images.
+
+Figure 4.1 Cell 1 vertical and horizontal slices from the x-ray tomographic images.
+
+9
+4.1 Bakeout and Calibration
+After installation into the experiment apparatus (Figure 3.6), the cells were evacuated for bake-out.  The
+vacuum bake-out comprised a period of 20 hours between 160°C and 260°C and 22 hours between 320°C
+and 340°C.  The highest pressure registered during this procedure was 22 mTorr (0.03 mbar) at 300°C, after
+which the pressure decreased to 4 mTorr (0.005 mbar) even as the temperature increased to 340°C. After
+cooling to room temperature the pressure of the cells was near 1 mTorr (0.0013 mbar).
+After bakeout, the recorded trial run of
+duration 1610 hours (67 days) began.
+The data from this period are discussed
+sequentially. Calibration began at time
+zero. The power, temperature and
+pressure curves of the cells during
+calibration are shown in Figure 4.3. Note
+that it requires several hours to reach an
+equilibrium temperature after a power
+change. For the temperatures where full
+equilibrium was not reached, a small
+extrapolation was used to obtain the
+equilibrium temperature. Better thermal
+isolation of the cell increases the time to
+reach equilibrium.  Note the nitrogen
+pressure curves during the 1 bar
+calibration.  In cell 2, the pressure
+remains constant except for small
+variations with temperature.  If the entire
+volume of the gas were heated from
+room temperature to 300°C, one would
+expect a 2X increase in pressure.  The
+
+Figure 4.4 Calibration curves used to infer power from cells 1 and
+2 for in vacuum and at a pressure of 1 bar of nitrogen.
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0 50 100 150 200 250 300 350
+P
+o
+w
+e
+r
+(W
+)
+Temperature (C)
+CALIBRATION DATA AND 3RD ORDER POLYNOMIAL FITS
+Cell 1 Vacuum
+Cell 2 Vacuum
+Cell 1 1 BAR
+Cell 2 1 BAR
+Poly. (Cell 1 Vacuum)
+Poly. (Cell 2 Vacuum)
+Poly. (Cell 1 1 BAR)
+Poly. (Cell 2 1 BAR)
+
+Figure 4.3 Power, temperature and pressure during calibration.
+
+10
+increase of 0.1 bar at 340°C indicates that only about 10% of the gas volume is heated; the remainder is in
+the unheated gas manifold.  There is a slight indication of a lower pressure after the cell 2 returns to room
+temperature, which indicates a pressure decrease rate of about 0.5 mbar/hr.  In cell 1 the N2 pressure
+decreases at a rate of about 0.2 bar/50 hours = 4 mbar/hr. This could indicate a leak with a rate of 0.4%/hr
+if independent of pressure.
+Eight calibration curves were created, one for each thermocouple in each cell in vacuum and at 1 bar N2
+gas.  However, because there was no significant difference between the calibration curves for the two
+thermocouples in a given cell there are effectively only four curves.
+These four calibration curves for the cells are given in Figure 4.4. Note that the difference between the
+calibration curves for the two cells is significant as is, to a lesser degree, the difference for a given cell for
+the two pressures. At temperatures between 250°C and 300°C, the range of temperatures where the
+experiment was operated, the system sensitivity is between 12°C/W and 13°C/W, about 50% better than
+that of the first experiment.  The third order polynomials used to generate the curves shown in Figure 4.4
+and used to infer the power from the temperature are:
+PwrC1T1Vac = 0.0000002467 T3 + 0.0000055991 T2 + 0.0256426972 T - 0.5841432429
+PwrC2T1Vac = 0.0000001592 T3 + 0.0000266273 T2 + 0.0193175282 T - 0.4392951681
+(1)
+PwrC1T1N2 = 0.0000002121 T3 + 0.0000200707 T2 + 0.0220929047 T - 0.5067000132
+PwrC2T1N2 = 0.0000001930 T3 + 0.0000082186 T2 + 0.0199322732 T - 0.4540048955
+The fits for these polynomials had R2 values of greater than 0.99999.
+Table 4.1: Vacuum vs Pressure Calibration Comparison for Cell 1
+T (oC) Vac Pwr (W) 1 bar N2 Pwr (W) Diff (W)
+50 0.613049 0.58728 0.025769
+100 1.917931 1.814408 0.103522
+150 3.594748 3.37213 0.222619
+200 5.762902 5.405194 0.357709
+250 8.541793 8.058351 0.483442
+300 12.05082 11.47635 0.574469
+It is interesting to compare the difference between
+the vacuum and 1 bar N2 calibrations for a given cell.
+This is done in Table 1 for cell 1.  This difference in
+inferred power goes from an insignificant 0.03 W at
+50°C to a significant 0.6 W at 300°C, with the
+inferred power for the vacuum case greater than that
+of the 1 bar N2 case.  That is, it requires more power
+to achieve a given temperature if the cell is at a lower
+pressure than a higher pressure after the cell has
+reached thermal equilibrium.  A possible explanation
+is that the nitrogen creates a more efficient thermal
+path between the heater wires and the thermocouples
+and this effect is greater than the increase in the
+conductive loss path cooling the thermocouple.  This
+would imply a thermal gradient exists in the cell after
+equilibrium is reached. Another possible explanation
+is that nitrogen gas is reacting exothermically with
+one or more of the compounds; i.e., ZrO2, Ni, Pd,
+SmCo or possibly Zr that was not converted to ZrO2
+(N2 does react with Zr to create ZrN; for example,
+
+Figure 4.5 Gas loading curves.
+
+11
+see Ref. [13]).  However, this second scenario is considered unlikely.  The origin of this difference will
+
+remain speculative but the assumption will be made that whatever its origin it does not change during the
+course of the experiment and the calibration curves can be used to infer the power.
+4.2 Conditioning and Hydrogen Loading
+The cells were then loaded with gas, H2 in cell 1 and N2 in cell 2 as shown in Figure 4.5. The loading
+pressure was nominally 4.5 bars.  The heat capacity for both gases is nearly the same but the thermal
+conductivity of hydrogen is 7 times greater than that of nitrogen at room temperature (see Appendix C and
+the end of Section 5).  In cell 2, we observe a constant decrease in N2 pressure at a rate of 15 mbar/hr with
+the cell remaining at a constant temperature.  This is much larger than the pressure decrease rate of 0.5
+mbar/hr seen in cell 2 during the N2 calibration run. In cell 1, the H2 loading was done in three steps resulting
+in pressure decrease rates of 137 mbar/hr, 187 mbar/hr, and 105 mbar/hr. These rates are also much larger
+than the 4 mbar/hr rate observed for this cell during the N2 calibration run.  Finally we note the 25°C
+temperature rise in cell 1 at the beginning of the first H2 loading.  Loading H2 into nickel or palladium is an
+exothermic process and this temperature rise was routinely observed in loading into this ZrO2Ni powder.
+[5]
+The data in Figure 4.5 can be used to estimate the hydrogen gas absorbed.  Noting that the change in pressure
+due to the three pressurizations = 2.6 +1.5 +1.9 = 6.0 bar, and assuming only 20% of the volume 10 cm3
+cell is empty and the gas manifold has an estimated volume of 8 cm3, the total volume is approximately 10
+cm3.  Then from the ideal gas law, the number of moles of H2 absorbed is
+nH2 = 6 bar x 10 cm3/(2.24 x 104 cm3-atm /mole x 0.987 bar/atm) = 2.7 x 10-3 mole of H2
+The moles of nNi = 4.98g/58.7 g/mole = 0.11 moles (see Appendix F).  Assuming that only the nickel atoms
+adsorb the atoms of hydrogen then the fraction of Ni atoms with H atoms is moles of H atoms/moles of Ni
+= 2 x 2.7 x 10-3 mole of H2/0.11 = 4.9%.  This represents an upper limit on the number of Ni atoms with H
+atoms as there could be H2 loss to other mechanisms. As noted below, it is likely that most of the hydrogen
+is adsorbed by the palladium.  There are 4.32 x 10-3 moles of Pd in the cell (Appendix F); if all the hydrogen
+atoms were adsorbed by palladium, the palladium loading would be about 125%, indicating that some of
+the hydrogen atoms are adsorbed in the Ni or elsewhere.
+It is instructive to calculate the amount of energy added to the cell due to work of ∆P x V.  Using 6 bars for
+the pressure change and 10 cm3 for the volume we obtain 6 J. During the 40-hour loading period, the average
+power is 4 x 10-5 W.  Near room temperature the cell constant is 27°C/0.7 W = 38°C/W.  The resultant
+temperature change of 0.002°C would not be observable.
+The exothermic energy causing the temperature rise seen in the upper graph of Figure 4.5 near 147 hours
+is calculated to be 1120 J (see Appendix G). Assuming that 100kJ/mole of energy is released when adsorbed
+by the surface of Pd [14] implies 0.011 moles of H2 are adsorbed by Pd.  This is four times the value of
+hydrogen calculated in the adsorption estimate above.
+4.3 Power Ramp-up Period
+After the calibration and fill, the power run was initiated to trigger the AHE.  This is done using two
+computer-controlled regulated DC power supplies (Rigol Model 1116A) in voltage regulated mode to heat
+the nichrome wire heaters wound around the sample cells.  The voltage was set to different values for the
+two cells in order to have approximately the same registered temperature in each cell.  The input power to
+each cell was recorded from power supply digital output, which was found to be accurate to better than
+0.1% by comparing to an Agilent calibrated multimeter.
+
+12
+It is worth studying the power ramp up period that took place between 190 and 270 hours for the hydrogen
+cell (#1).  These data are shown in Figure 4.6.  Date/times are marked on this graph; the times appearing
+red indicate the times where the power or pressure was changed.  The left of the graph shows the end of the
+loading period given in Figure 4.5.  Near 191 hours the hydrogen pressure was vented to pressure of 1.2
+bar and 6 W of power was applied to the cell heating coil raising its internal temperature to just under
+200°C.  This temperature rise caused the (presumably H2) pressure to rise to 2.0 bars; subsequently this
+hydrogen was reabsorbed over the next 5 hours reaching a minimum pressure of about 0.8 bar.  Over the
+next 65 hours as the cell continued to be heated, this pressure gradually increased to a value slightly above
+1 bar at 263 hours when the heater power was again increased in two steps resulting in a two-step increase
+in the pressure, peaking at a value of greater than 2.8 bars at 273 hours.  This pressure decreased rapidly
+for the next 10 hours reaching to 0.6 bar at 290 and continued to decrease slowly to a value of < 0.05 bar at
+1650 hours as seen below.
+One may speculate to the cause of these pressure variations.  As noted in Section 2, the active material in
+the cells is nano-particles of nickel and palladium metal in a matrix of ZrO2 micron-sized particles, the mole
+ratio of Ni:Pd being 19.6:1.  However, hydrogen solubility is 105 times greater in Pd than in Ni at 200°C
+and greater at lower temperatures. [15]   Thus it is likely that most of the hydrogen was absorbed by the
+palladium during the room temperature loading period and, when heated, a significant amount of this
+hydrogen was released.  This is, of course, the mechanism used for hydrogen storage and retrieval in
+palladium. [16]  During the course of the reabsorption, some of this hydrogen was absorbed by the nickel.
+Absorption of hydrogen in Ni is largely a surface effect whereas it is a volume effect in Pd.
+4.4 Power Generation Period
+Figure 4.7 shows the data for both cells during the portion of the run dedicated to measuring the excess heat
+power and energy. This interval lasted approximately 1000 hours (42 days).  The scaling for each of the
+data traces is given in the legend.  The temperature of each cell is shown by the magenta trace and the input
+power is depicted by the blue line.  The light blue line records the pressure in units of bar.  The red trace
+records the excess power; that is, the power inferred from the cell temperature using the appropriate
+calibration algorithm minus the input power.
+
+Figure 4.6 Hydrogen cell during preheating.
+
+13
+We begin with a few general observations.  First we see that the light blue pressure traces indicate the
+pressure in the hydrogen cell asymptotically approaches zero where the pressure in the nitrogen cell remains
+nearly constant during the 1050 hour interval shown.  Also note that cell 1 required 1.6 watts additional
+power to maintain the same temperature as cell 2.  This is consistent with the calibration data shown in
+Figure 4.4 for the cell 1 vacuum calibration and the cell 2 1-bar calibration.  The difference between the
+interior thermocouple temperatures (T1-T2) during the energy integrations period was -0.3 ±0.1°C and -0.5
+±0.1°C for cells 1 and 2 respectively (see Appendix D).
+The red traces depict the excess power calculated by using the thermocouple reading from the cell interior
+to infer the cell heat power (employing the vacuum calibration algorithm for cell 1 and the 1-bar algorithm
+for cell 2) and subtracting the input power recorded for the respective cells (i.e., Pexcess = Pinferred – Pin).
+These traces show large excursions from their mean values whenever the power (i.e., temperature) was
+changed.  This is because the algorithm used equilibrium temperatures and 3+ hours are required to reach
+this equilibrium.  During this transition period, a large negative excursion appeared for an increase in
+applied power and a positive excursion for a decrease in applied power.
+Note that both red excess power traces show a 24 hour periodicity.  The light black trace on the cell 2
+(lower) plot is an arbitrarily scaled (∆ = 0.2 in ordinate = 1°C) thermocouple reading that recorded the room
+temperature near the cells (the apparent shift of 0.5°C at 600 hours is due to changing the location of this
+thermocouple).  The peak-to-trough magnitude of this room temperature curve is on the order of 1°C.  The
+variation in the red excess power traces are between 0.05 and 0.1 W indicating a temperature variation of
+about 1°C.  As noted in Section 3, the temperature algorithm of the Rigol DAC instrument that converted
+the mV thermocouple output to temperature did not use a correct reference junction definition.  It is
+speculated that the periodicity observed in the excess power curves is due to the changing room temperature
+that resulted in error in the inferred temperature and hence inferred power.  In any case, the variation in the
+
+Figure 4.7 Power, temperature, and pressure data from hydrogen (cell 1) and nitrogen (cell 2) cells.
+
+14
+excess power is at most 100 mW or 10% of the excess power.  This variation is removed by the subtraction
+of N2 cell excess power, reducing the H2 cell excess power as discussed below.
+A more troubling observation is the 100 to 200 mW of inferred excess power from the nitrogen cell shown
+in the lower graph.  This cell is the control experiment where no excess heat is expected.  If we assume that
+excess heat is the systematic error in the experiment, then a conservation approach is to subtract this value
+from the excess heat registered in the hydrogen cell.  The result of this subtraction is shown by the dashed
+green trace in the cell 1 graph.  This reduces the inferred excess heat in the hydrogen from 1 W to 0.8W up
+to about 950 hours and to 0.7W thereafter.  Using this adjusted power, 6.3% more power is measured than
+is input.
+However, note that the pressure during these measurements is 1.24, about 20% higher than the pressure in
+the cells during the pressure calibration.  If the 1-bar calibration data points for cell 2 are adjusted for this
+higher pressure and refit to create a 1.2-bar cell 2 algorithm [see Appendix E] and this algorithm is used to
+calculate the excess power in the nitrogen cell, the solid red trace in the lower graph results.  This line,
+except for the periodic temperature error, lies near zero excess power.  Using this line to adjust the hydrogen
+excess power curve downward an excess power of 1 W up to about 950 hours and to 0.9 W thereafter is
+obtained.  Using this adjusted power, 7.5% more power is measured than is input.  This latter correction is
+judged to be the most accurate. To a much lesser extent, a variable scaling correction should be applied to
+the cell 1 excess power trace between 280 hours and 500 hours.
+Power to cell 1 was reduced by 0.1 W in two steps at 885 and 935 hours, which reduced the temperature of
+the cell interior 2°C, dropping the excess power by 100 mW.  Commanding a power increase at 1180 hours
+to 13.0 W (0.3W above the previous 12.7W) raised the temperature to 297°C but recovers only 40 mW of
+this lost 100 mW of excess power.  The same 300 mW increase in cell 2 did not similarly affect its excess
+heat traces.  Returning the input power to cell 1 at 1275 hours created a large decrease in excess power as
+discussed below.
+The time integration of the solid (dark) green excess power trace in the upper graph yields the excess energy.
+This integration was performed from 280 hours to 1275 hours and then normalized by the mass of the
+sample to yield a value of specific energy.  Normalizing to the 20 gram mass of the ZrO2NiPd sample yields
+a specific energy of 173 MJ/kg whereas assuming that the active element is the 5.44g of Ni+Pd [Appendix
+F] yields a specific energy of 635 MJ/kg.  Normalized to the Pd would yield a specific energy 10x that of
+the Ni specific energy value.  For comparison, methane fuel has a specific energy of 55.5 MJ/kg, the highest
+value for any hydrocarbon fuel; hydrogen compressed to a pressure of 700 bar has a value of 142 MJ/kg,
+the highest value for any chemical fuel. [17] These chemical values are somewhat arbitrary as they require
+an oxidizer, which is not included in the mass.
+4.5 Power Down Period
+The termination sequence of the experiment began after 1275 hours and is shown in Figure 4.8.  This time
+was chosen for practical considerations and not due to any observed abatement of excess power.  This
+sequence was complete at 1610 hours, a period of 14 days.  The traces in these graphs are the same as those
+identified in Figure 4.7.
+It is immediately apparent that the excess power traces in the hydrogen (upper) graph are noisy.  This
+problem began as the power to the cell was reduced.  This may be due to a malfunction in the regulated
+output of the hydrogen cell power supply as can be seen in the blue power trace.  Even with this noisy data,
+it is clear that a small (12°C) change in temperature decreases the excess power by nearly a factor of 2.
+Increasing the temperature 5°C at 1326 hours did not increase the excess power. Stepping down in input
+power and temperature produces a credible decrease in excess power (solid green trace) as calculated by
+subtracting the scaled N2 excess power.  The last temperature step decrease of 150oC reduced the excess
+power of 180 mW to zero at room temperature.
+
+15
+The data at temperatures 23°C <T ≤ 250oC in the nitrogen (lower) graph produce negative excess powers
+(solid red trace).  The -300 mW value at 1525 hours is too large to be ascribed to a pressure-induced error
+in the calibration curve or measurement error in the input power.  It is more likely due to a temperature
+lower than that anticipated by the calibration curve; i.e., a cooling not accounted for in the calibration
+measurements.  However, at room temperature, the algorithm does produce zero excess power. During this
+final interval, the room temperature increases 1°C and in the final temperature step the nitrogen pressure
+drops 20%.  The scaled 1.2 bar calibration curve is used throughout all these intervals.
+
+Figure 4.8 Data from the termination sequence of the experiment.
+
+16
+
+5. Discussion and Conclusion
+A shortcoming of this work is the method chosen to measure the power generated by the sample.  Power
+was inferred from a temperature measured by thermocouples imbedded in the sample.  This inference was
+made using algorithms generated by applying known powers to the fully configured sample chamber and
+measuring the resultant temperature from a thermocouple.  It is prudent to quantitatively examine the error
+in this method.
+Sources of error in measuring the excess power using this method include:
+1. Inaccurate input power measurements.
+2. Systematic errors in the thermocouple temperature measurement.
+a. Reference junction error.
+b. Error due to temperature gradient in sample.
+c. Exothermic or endothermic chemical reaction between thermocouple and the sample/gas.
+3. Errors of the calibration algorithm.
+a. Uncorrected variation with pressure.
+b. Uncorrected variation with temperature
+c. Variation of thermal conductivity with gas composition.
+d. Time constant errors.
+Error in the excess power measurement due to items 1 and 2 are estimated by an error propagation
+calculation.  Assuming that the principal source of error is temperature, we can estimate the error in the
+power. If the power, P, as a function of temperature, T, is given by Eq. 1 in Section 4.1. then error in the
+power, 𝜎𝜎𝑃𝑃, is [18]
+𝜎𝜎𝑃𝑃 = 𝜎𝜎𝑇𝑇 �
+𝜕𝜕𝑃𝑃
+𝜕𝜕𝑇𝑇
+�        (2)
+or
+𝜎𝜎𝑃𝑃 = 𝜎𝜎𝑇𝑇(3𝑎𝑎𝑇𝑇2 + 2𝑏𝑏𝑇𝑇 + 𝑐𝑐)      (3)
+where 𝑎𝑎, b, and c are the coefficients of the cubic, quadratic, and linear terms in Eq. 1.
+For T = 300°C, taking the coefficients from the hydrogen vacuum fit and estimating the temperature error
+to be 0.5°C, we find propagated error in the inferred power in the hydrogen cell is 𝜎𝜎𝑃𝑃𝐻𝐻2  = 0.049 W.
+The excess power is Pex = PH2 –Pin so
+𝜎𝜎𝑃𝑃𝑒𝑒𝑒𝑒
+2 = 𝜎𝜎𝑃𝑃𝑡𝑡𝑡𝑡𝑡𝑡
+2 + 𝜎𝜎𝑃𝑃𝑖𝑖𝑖𝑖
+2       (4)
+Accordingly, 𝜎𝜎𝑃𝑃𝑒𝑒𝑒𝑒 = 0.049 W for a 10 mW error in the measured input power (the measured error in the
+input is less than half this assumed value).  For an excess power of 1 W, this is an absolute error of 5% in
+the power and the integrated excess energy.
+Regarding error 2c, type K thermocouples have a well-known inaccuracy if operated in a reducing (i.e.,
+hydrogen) atmosphere.  The hydrogen chemically reacts with the thermocouple metals resulting in what
+has been dubbed “green rot.”  However, this phenomenon only occurs at temperature above 800°C and
+results in temperature readings lower than actual (for example, see Ref. [20]). The maximum temperature
+used in this work was near 300°C and if even this were an issue the result would be an underestimate of the
+measured excess energy.
+
+17
+Systematic errors in 3a and 3b were considered in the data processing as discussed in Section 4.4.  These
+errors are judged to be on the order of 0.05 W based on the renormalized curve of the nitrogen cell. In the
+analysis the excess power is reduced by this amount to conservatively account for this error.  Item 3c could
+be a concern as the cell calibrations were done with nitrogen and the thermal conductivity of nitrogen gas
+and hydrogen gas differ by a factor of nearly seven at high temperatures (see Appendix C and Ref. [19]).
+However, since the 0 bar pressure calibration was used for the calculation of the power in the hydrogen
+cell, this is not an issue.  In the future it may be prudent to use helium (which has a thermal conductivity
+closer to that of H2, see Appendix C) for the calibration and in the reference cell.
+Even if the power is inferred from the temperature exactly, all sources of mechanical and chemical energy
+sources must be understood before an anomalous value (if any) can be assigned.  Other sources of energy:
+• PV work in pressurizing the cell
+• Heat adsorption exothermic energy released
+These sources were discussed in Section 4.2 and are not significant.
+In summary, for the 950 hour (40 day) integration period: N2 cell excess energy is 0.12 MJ; the difference
+between the hydrogen cell and nitrogen cell excess energy is 3.5 MJ (±5%).  The H2 cell excess power (less
+N2 excess power) was 7.5% of input power.  The H2 cell specific energy (less the N2 excess energy) = 173
+MJ/kg (20 gm ZrO2NiPd) or H2 cell specific energy (N2 corrected) = 635 MJ/kg (5.4gm NiPd).  For
+reference, methane (hydrocarbon fuel with highest specific energy) = 55.5 MJ/kg, and H2 highly
+compressed to 700 bar (highest known chemical specific energy) = 142 MJ/kg.
+For the 300-hour power down sequence the H2 cell excess power traces values appear credible. There is
+some evidence of excess power abatement.  The low temperature N2-cell excess-power traces are not
+completely understood.
+The results presented here indicate a source of heat energy was measured that is not chemical in origin.
+
+This measurement and conclusion are in general agreement with those of Arata and Zhang [4] and Ahern
+[5]. Given the importance a source of high specific energy has for space technology, this work indicates
+that additional research should be pursued.  If future work is better funded, calorimetry should be used
+instead of thermometry to measure the heat power.
+
+18
+6. References
+1. The 23 March 1989 televised press conference can be viewed at links found at
+http://news.newenergytimes.net/ and currently at https://www.youtube.com/watch?v=6CfHaeQo6oU
+2. M. C .H. McKubre, F. L. Tanzella, and V. Violante, “What is needed in LENR/FPE studies,” J. Condensed
+Matter Nucl. Sci 8, 187-197 (2012).
+3. S. Focardi, R. Habel, and F. Piantelli, Il Nuovo Cimento Note Brevi Vol. 107 A, N. 1 (1994).  Campari, E.,
+Focardi, S., Gabbani, V., Montalbano, V., Piantelli, F., Veronesi, S., “Overview of H-Ni Systems: Old
+Experiments and New Setup,” 5th Asti Workshop on Anomalies in Hydrogen- / Deuterium-Loaded Metals,
+Asti, Italy, (2004).
+4. Y. Arata and Y. C. Zhang, ‘Formation of Condensed Metallic Deuterium Lattice and Nuclear Fusion,”
+Proc. Jpn. Acad. Ser. B, 2002 78(Ser. B), p. 57 2.
+5. B. Ahern, “Program on Technology Innovation: Assessment of Novel Energy Production Mechanisms in a
+Nanoscale Metal Lattice,” EPRI Report 1025575, Technical Update, August 2012.
+6. M. Swartz, G. Verner, J. Tolleson, L. Wright, R. Goldbaum, and P. Hagelstein, “Amplification and
+Restoration of Energy Gain Using Fractionated Magnetic Fields on ZrO2-PdD Nanostructured
+Components,” J. Condensed Matter Nucl. Sci. 15, 66-80 (2015).
+7. L. L. Jones, Materials Preparation Center (MPC), 121 Metals Development Building, Ames Laboratory,
+Ames, IA 50011-3020, jonesll@ameslab.gov.
+8. Spex SamplePrep 65 Liberty St., Metuchen, NJ 08840, USA.
+9. Aremco Products Inc., 707 Executive Blvd., Valley Cottage, NY 10989,Tel: +1 (845) 268 0039, Fax: +1
+(845) 268 0041, http://www.aremco.com.
+10. AlphaWire PIF-240-12 uncoated fiberglass sleeving, heat annealed braided fiberglass; temperature range -
+60oC – 648o C, http://www.alphawire.com/Home/Products/TubingAccessories/FIT-Wire-
+Management/Sleeving/PIF24012.
+11. OMEGA Engineering, Inc., One Omega Drive. P.O. Box 4047, Stamford, Connecticut 06907-0047.
+12. Transducers Direct, 12115 Ellington Court, Cincinnati, Ohio 45249.  Part no. TD1000CCGV28503D002X,
+IBS ADE831 and ADE832, Cal Due Date 3/1/15)
+13. D. Severin, K. Sarakinos, O. Kappertz, A. Pflug, and M. Wuttig, J. Appl. Phys 103, 083306, 2008.
+14. M. Johansson, E. Skulason, G. Nielsen, S. Murphy, R. M. Nielsen, I. Chorkendorff, “Hydrogen adsorption
+on palladium and palladium hydride at 1 bar,” Surface Science 604, 718-729 (2010).
+15. D. J. Nagel, “Lattice-enabled nuclear reactions in the nickel and hydrogen gas system,” CurrentScience,
+108, 646 (2015) citing http://www.rebresearch.com/H2sol2.htm.
+16. R. Wiswall, “Hydrogen Storage in Metal,” Chapter 5 in Hydrogen in Metals II, Topics in Applied Physics
+Vol. 29, G. Alefeld and J. Volkl, (eds.)  Springer-Verlag, New York, 1978.
+17. http://en.wikipedia.org/wiki/Energy_density
+18. P. R. Bevington, Data Reduction and Error and Analysis for the Physical Sciences, McGraw-Hill, New
+York, 1969.
+19. S. C. Saxena, “Transport properties of Gases and Gaseous Mixtures at High Temperatures,” High Temp.
+Sci. 3, 168-188 (1971).
+20. http://www.transcat.com/calibration-resources/application-notes/thermocouples/)
+21. O. Dmitriyeva, G. Moddel, R. Cantwell, M. McConnell, “Using Bakeout to Eliminate Heat from H/D
+Exchange During Hydrogen Isotope Loading of Pd-impregnated Alumina Powder,” J. Condensed Matter
+Nucl. Sci 12 (2013) 13-17.
+22. Magnet Sales and Manufacturing Inc.: High Performance Permanent Magnets 7,
+http://www.magnetsales.com. Grade 26 SmCo sintered magnet, Part # 26DRE4816, Magnetic Sales, Culver
+City, 310 391-7213, Alan Yamamoto.
+23. S. C. Saxena, “Transport properties of Gases and Gaseous Mixtures at High Temperatures,” High Temp.
+Sci. 3, 168-188 (1971).
+24. http://www.electronics-cooling.com/2002/11/the-thermal-conductivity-of-air-at-reduced-pressures-and-
+length-scales.
+
+19
+Appendix A. The First Experiment Trial
+This first trial served primarily as a learning vehicle for developing and testing an experimental protocol.
+A secondary objective was the observation of excess heat of non-chemical origin.  A tertiary goal was to
+see the effect, if any, of magnetic particles in the active material (see Appendix B).  Thus the two cells in
+this experiment were identical except for the addition of magnetic particles in the second cell. The desired
+test plan for first run comprised seven steps.
+1. Load 10 grams of 1 – 3 micron ZrO2NiPd powder to be tested in cell 1.
+2. Load 10 grams of 1 – 3 micron ZrO2NiPd powder mixed with 10 gm of SmCo powder in cell 2.
+3. Vacuum bake both cells at 390°C for 35 hours to remove water.
+4. Pressurize cells 1 and 2 in parallel with D2 at 7 bar (100 psia) at 22°C to load micro-powder with
+deuterium. After pressure drops, recharge with D2 until fully loaded (up to 10X in an hour).
+5. Equalized D2 pressure in both cells.
+6. Heat cells individually to 280°C recording four temperatures, pressures, input power.
+7. Record data at 30s intervals for duration of experiment (days/weeks).
+
+This desired protocol could not be followed due to
+an unusual pressure response during the first D2
+loading.  This led to the vacuum bakeout being done
+twice at higher than the desired temperature and to
+an anomalous pressure behavior during the loading
+of the D2 gas.
+The time sequence used is given in Figures A.1 and
+A.3. Samples were loaded into the two cells and
+baked at 430°C for 60+ hours to remove H2O as
+shown in Figure A.1.  Previous studies indicate that a bakeout at 390°C for 35 hours was shown to be
+sufficient to eliminate heat from H/D exchange reactions from light water (H2O) trapped in the samples.
+[21] The calibration data were then acquired by raising the samples from room temperature (23°C) to 430°C
+in five steps, recording the input power to each cell with the cells under vacuum.  The resulting data were
+fit to a third order polynomial to create algorithms to be used to infer the power from a temperature
+measurement.  Subsequently the cells were elevated in temperature to check that the inferred power from
+
+Figure A.1 First bakeout of samples under
+vacuum.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+0 20 40 60 80 100 12
+Te
+m
+pe
+ra
+tu
+re
+(C
+)
+Time (hr)
+Bakeout Temperatures
+Cell 1 T
+Cell 2 T
+
+Figure A.2 Calibration fits for two cells.
+P = -0.00000030T3 + 0.00032040T2 + 0.01036127T - 0.257069
+R² = 0.99979984
+0
+10
+20
+30
+40
+50
+0 100 200 300 400
+Po
+w
+er
+(W
+)
+Temperature (C)
+Cell 1
+P vs T
+P = -0.000000212T3 + 0.000248519T2 + 0.023861696T - 0.61569222
+R² = 0.999975723
+0
+10
+20
+30
+40
+50
+0 100 200 300 400
+Po
+w
+er
+(W
+)
+Temperature (C)
+Cell 2
+P vs T
+
+20
+the temperature measured equaled the input power.  This check was done both with the cell under vacuum
+and pressured with about 0.5 bar (400 Torr) of N2.  The calibration curves are given in Figure A.2.  Note
+that the cell response is approximately 8.5°C per Watt of input power.  Performing the calibration with the
+cells in the exact configuration (mass, thermocouple placement, etc.) was judged as the most reliable
+method to infer power from temperature.
+Subsequently, the cells were evacuated and filled with 2.5 bar (36 psia) of D2.  The pressure initially dropped
+to 2.3 bar (33 psia) during the first hour but the pressure increased to 3.0 bar (43 psia) overnight.  After this
+puzzling behavior it was decided to evacuate the cells again and bake them overnight at 225°C.  After the
+overnight bakeout, the cells were cooled to room temperature and pressurized with 2.5 bar (36 psia) of
+deuterium.  After 4 hours, the pressure was reduced to about 1 bar and power was applied to bring the
+temperature of the cells to near 280°C, thus beginning the experiment.
+
+Figure A.3 First 100 hours of first experiment showing excess power, power in, temperature and pressure.
+Figure A.3 shows the first 100 hours of the experimental run.  This figure highlights the second bakeout
+and D2 gas fill and the initial heating of the cell designed to trigger the reaction.  In this plot there are four
+data traces; each are read on the left axis with the scaling factors given in the figure legend.  The top graph
+displays the data from cell 1 that contained only the ZrO2NiPd material; the bottom graph plots the data
+from cell 2, which contains the identical material as that in cell 1 plus the magnetic particles.   The heavy
+
+21
+blue curve is the power input to the cell divided by 10.  Note that the power supplies are operated in constant
+voltage mode with same voltage going to each cell.  Because of a small difference in the length of the heater
+wires, the power is slightly different for the two cells for the same input voltage.  The temperature in Celsius
+divided by 200 is given by the dashed pink line.  Pressure of the deuterium gas in PSIA divided by 22 is
+given the blue-green dashed line.  Finally, the excess power is plotted using a solid red line.  This power is
+the difference between the power inferred from the measured temperature using the calibration curve
+(Figure A.2) and the input power.
+It is interesting to note the behavior of the pressure.  In cell 1, after lowering the pressure to about 1.2 bar
+(18 psia) and closing the cell valve, the pressure decreases for about 10 hours as the cell is heated to 350°C
+to a constant value of about 0.4 bar (6 psia).  The behavior of the D2 pressure in cell 2 is quite different.  It
+was closed at a similar starting pressure but it decreased to near zero over a much greater time (>200 hours
+as can be seen in Figure A.4).  It is not known whether the different pressure behavior between the two cells
+is due to a leak in the vacuum jacket in cell 2 or the characteristics of the SmCo particles.
+Figure A.4 shows the entire data set from experiment 1, a period of 550 hours or nearly 23 days.  All data
+traces are the same as those identified in Figure A.3.  The heating of the cells to trigger the reaction began
+at hour 31.5.  The large “spikes” in the excess power curves occur whenever the power supplied to the cell
+is changed and are due to the time required for the cell to reach the equilibrium temperature used in the
+calibration function.  These excursions are positive when increasing the power to the cells and negative
+when decreasing the power to the cells.  The excess power is correct only after equilibrium is reached.  All
+changes to the input power were made at the same time with identical voltages applied to the heater coils.
+The total excess energy is calculated by integrating the excess power curve with time starting at hour 33.6.
+There are obvious and significant differences in the excess power curves between the two cells.  First, the
+time response is much faster in cell 1.  This is likely to due to the smaller thermal mass of the sample in
+cell 1 and possibly to different thermocouple placement in the two cells.  If the thermocouple were touching
+the interior stainless steel wall of cell 2, the temperature variations would be much slower than that of cell
+1 if the cell 1 thermocouple were isolated in the sample.  Although this would affect the time to equilibrium
+it should not affect the inferred power because it would be in the same position during the calibrations runs.
+Second, the excess power was significantly greater in the cell with the magnetic particles.  The integrated
+specific excess energy for cell 1 (assuming the relevant mass is 10 grams) is 21 MJ/kg whereas for cell 2 it
+is 69 MJ/kg.  Note that if the relevant mass is considered just the nickel and palladium then the specific
+energy is about three times these values. As noted in Section 4, the most energy dense hydrocarbon is
+methane at 55.5 MJ/kg.  [17]
+The most interesting difference between the two cells is the behavior of the excess energy as the temperature
+is lowered at 330 hours into the run.  For most of the experiment the cell temperature was held near a
+temperature of 300°C.  For cell 1, no significant change in the excess power was observed when the
+temperature was lowered from 300oC to 225°C in three steps.  However, in cell 2, the excess power
+increased for each of these steps.  When the temperature was lowered to 130°C, the excess power in cell 1
+decreased to near 0 whereas the excess power in cell 2 increased to its highest value.  Lowering the
+temperature to 50°C, the excess power in cell 2 was still 0.25 W.  At room temperature, excess power of
+both cells was zero.  For cell 1, the power always decreased with decreasing temperature and was zero at
+130°C.  For all these experiments the maximum excess power was 0.6 W (a temperature change of 5°C) in
+cell 2 while heating with 6.3 W.  For the case of the magnet-mixture, the excess power continued until the
+temperature was lowered to room temperature, a period of about 18 days.
+
+22
+
+Figure A.4.  Entire data set from first experiment.
+As previously mentioned, several investigators have noted increased excess energy in the presence of a
+magnetic field (for example, see Ref. [6]).  These data tentatively support those observations.  The increase
+in excess energy as the temperature is lowered may be due to an increasing magnetic field as the temperature
+is lowered, as discussed in Appendix B.  However, based on the measurements presented in Appendix B,
+only an increase of about 15% in the magnetic field is expected by lowering the temperature from 300°C
+to 23°C.
+The observation of excess heat in this first experiment was encouraging.  However, the data cannot be
+considered definitive.  Major short comings include data taken at a pressure different than used to generate
+the calibration curves; bare thermocouples that chemically react with test materials; and unknown positions
+of the thermocouples in the cells (touching walls or not in contact with test material).  These shortcomings
+were corrected in the second experiment.  Based on this work, the following changes were made for the
+principal experimental trial:
+• Better thermally isolated cells with less heat capacity and welded internal fittings were used.
+• Sample was baked out below 350°C.
+• Two interior thermocouples were used.
+
+23
+• The interior thermocouples were shielded from the sample material.
+• A manual readout gauge with 0-70 psia (5 bar) range was installed.
+• 0-285 psia (20 bar) pressure transducers were replaced with 0-90 psia (6 bar) transducers.
+• The mass of the active material in each cell was increased to 20 grams and enough magnetic
+particles (6 grams of SmCo) to fill the remainder of the cell volume.
+• Samples were ground to < 1 micron diameter.
+• H2 gas was used instead of D2.
+• Real-time temperature and pressure digital readouts were written into DAQ software.
+• Excess power plot was added to DAQ real-time graph.
+• X-ray tomography was used to observe the cell packing and thermocouple positions.
+
+24
+Appendix B. Germaine Properties of Rare Earth Magnets
+There have been many reports of evidence that a magnetic field can enhance the AHE.  Perhaps the most
+quantitative, available, and relevant to NiPd nanoparticles in a ZrO2 matrix is Ref. [6]. To explore this, the
+second cell was filled with a mixture of approximately equal weights of a milled SmCo 2-17 magnet and
+the ZrO2NiPd sample described above.
+Although the magnetic field strength of NdFeB magnets is higher than that of SmCo 2-17 magnets, the
+working temperature of the SmCo magnets is higher than that of the Nd magnets.  The working temperature
+for most NdFeB magnets is usually below 150o C (even though the Curie temperature is much higher). The
+magnetic field decreases above the working temperature.  Furthermore, NdFeB magnets oxide quickly and
+usually are coated with Nickle or Tin. The oxidized particles have diminished magnetic properties.  At the
+temperatures above 150°C, 2Sm-17Co magnets usually will have a higher magnetic field than NdFeB
+magnets. A comparison of the B-field strength of SmCo and NdFe magnets taken from the supplier’s
+catalogue is shown in Figure B.1, indicating a superior performance of the SmCo magnet with increasing
+temperature.
+Table B.1. Magnetic Properties of Two Selected Magnets*
+Material
+Grade
+Br
+(Gauss)
+Hc
+Oersted
+Hd
+Oersted
+BHmax
+MGOe
+Recoll
+Perm.
+Slope
+BHmax
+Curie
+T(oC)
+Max Op
+T(oC)
+T Coeff
+DBr/Br/oC(%)
+SmCo 26 10,500 9,200 10,000 26 1.08 1.0 825 550 -0.03
+NdFeB28 10,800 10,100 17,000 28 1.09 1.0 310 150 -0.09
+*Page 23 Magnetic Sales Catalog [22].
+
+Based on this analysis, Grade 26 SmCo disk
+magnets of 3/4" diameter X 0.25 thick magnets
+where obtained [22] and crushed in a mortar and
+pestle. The quoted field strength and the T
+coefficient for the magnet used in the
+experiment is given in Table B.1 and the
+expected field as a function of temperature is
+shown in Figure B.2.  According to this plot, the
+maximum field strength is 1T at room
+temperature and decreases to 50% of this value
+at 500°C.
+SmCo 27H
+
+NdFeB 32SH
+
+Figure B.1.  Temperature Properties of selected SmCo
+and NdFeB magnetics from page 29 of Magnetic Sales
+Catalog [22].
+
+Figure B.2. Expected temperature dependence of
+purchased magnets from catalogue specifications.
+Expected B field vs Temperature
+
+25
+However, measuring the performance of this
+magnet in our laboratory found the maximum B-
+field at the surface of the magnet to be 2600 gauss
+and that it decreased to 1650 gauss at 450°C, a drop
+of about 35% (Figure B.3).  Cooling the magnet to
+room temperature, the surface field returned only to
+2000 gauss also shown in Figure B.3.  Reheating the
+magnetic to 450°C, the field again reduced to 1650
+gauss, a drop of 17%.
+
+Figure B3. Actual (measured) temperature dependence
+of purchased magnets.
+Red line = decreasing T
+Green line = increasing T
+Blue line = 1st increasing T
+35% Drop
+17% Drop
+
+26
+Appendix C. Heat Capacity and Thermal Conductivity of N2, H2, and D2
+
+Table C.1 Low Temperature Properties of N2, H2, and D2
+
+http://www.engineeringtoolbox.com/nitrogen-d_977.html
+Table C.2 High Temperature thermal Conductivity of N2, H2, and D2  [23]
+(k in W/m/K)
+Temperature (K) k (H2) k (D2) k (He) k (N2)
+350 0.205 0.154 0.170 0.0311
+400 0.224 0.166 0.184 0.0335
+500 0.261 0.192 0.212 0.0383
+600 0.298 0.217 0.240 0.0431
+700 0.334 0.243 0.269 0.0478
+
+Nitrogen Gas - N2 Hydrogen Gas - H2 per mole Deuterium Gas D2
+T (K) kJ/kg/K kJ/mole/K T (K) kJ/kg/K kJ/mole/K c(H2/N2) T (K) cal/mole/K kJ/kgK kJ/mole/K c (H2/D2)
+175 1.039 0.029 175 13.12 0.026 0.91
+200 1.039 0.029 200 13.53 0.027 0.94 190 6.983 7.3042 0.0294 0.9269
+225 1.039 0.029 225 13.83 0.028 0.96 220 6.975 7.2959 0.0294 0.9485
+250 1.039 0.029 250 14.05 0.028 0.97 260 6.975 7.2959 0.0294 0.9636
+275 1.039 0.029 275 14.2 0.029 0.98
+300 1.04 0.029 300 14.31 0.029 0.99 300 6.977 7.2979 0.0294 0.9811
+325 1.04 0.029 325 14.38 0.029 1.00
+350 1.041 0.029 350 14.43 0.029 1.00
+375 1.042 0.029 375 14.46 0.029 1.00 J. Chem Phys 1, 137 (1933)
+400 1.044 0.029 400 14.48 0.029 1.00
+450 1.049 0.029 450 14.5 0.029 0.99 amu
+500 1.056 0.030 500 14.51 0.029 0.99 H 1.0078
+550 1.065 0.030 550 14.53 0.029 0.98 D 2.0141
+600 1.075 0.030 600 14.55 0.029 0.97 N 14.003
+650 1.086 0.030 650 14.57 0.029 0.97
+700 1.098 0.031 700 14.6 0.029 0.96
+750 1.11 0.031 750 14.65 0.030 0.95 since N (mole) = pV/kT then a given pressure will have
+800 1.122 0.031 800 14.71 0.030 0.94 same heat capacity so can use any gas as long as
+850 1.134 0.032 850 14.77 0.030 0.94 heat transfer is same
+900 1.146 0.032 900 14.83 0.030 0.93
+950 1.157 0.032 950 14.9 0.030 0.93
+1000 1.167 0.033 1000 14.98 0.030 0.92
+1050 1.177 0.033 1050 15.06 0.030 0.92
+1100 1.187 0.033 1100 15.15 0.031 0.92
+1150 1.196 0.033 1150 15.25 0.031 0.92
+1200 1.204 0.034 1200 15.34 0.031 0.92
+1250 1.212 0.034 1250 15.44 0.031 0.92
+1300 1.219 0.034 1300 15.54 0.031 0.92
+1350 1.226 0.034 1350 15.65 0.032 0.92
+1400 1.232 0.035 1400 15.77 0.032 0.92
+1500 1.244 0.035 1500 16.02 0.032 0.93
+1600 1.254 0.035 1600 16.23 0.033 0.93
+1700 1.263 0.035 1700 16.44 0.033 0.94
+1800 1.271 0.036 1800 16.64 0.034 0.94
+1900 1.278 0.036 1900 16.83 0.034 0.95
+2000 1.284 0.036 2000 17.01 0.034 0.95
+
+27
+Appendix D. Room and Cell Temperature Difference Data
+The room temperature thermocouple was a fine wire thermocouple suspended in air yielding a small time
+constant.  The jacket thermocouple was fixed to the stainless steel jacket with a significant thermal mass.
+
+Figure D.1 Room Temperature and Vacuum Jacket Temperatures.
+
+Figure D.2    Temperature difference between cell interior thermocouples during energy integration period.
+
+28
+Appendix E. Scaled Nitrogen Cell Calibration
+
+The difference values between the predicted vacuum and 1 bar polynomial fit values scaled by a factor of
+1.2 are given in Table E.1.
+Table E.1 Scaling of Nitrogen Calibration 1-bar Values by 20%
+
+Values predicted by polynomial Fit
+Cell #2 Vac vs N2
+T P (Vac) P (N2) Diff 1.2Diff
+50 0.613049 0.58728 0.025769 0.704736
+100 1.917931 1.814408 0.103522 2.17729
+150 3.594748 3.37213 0.222619 4.046556
+200 5.762902 5.405194 0.357709 6.486232
+250 8.541793 8.058351 0.483442 9.670021
+300 12.05082 11.47635 0.574469 13.77162
+
+Figure E.1 Calibration Fit Scaling 1.0 bar Data to 1.2 bar.
+y = 0.0000001998x3 + 0.0000045369x2 + 0.0200552222x - 0.4569468410
+R² = 1.0000000000
+0
+2
+4
+6
+8
+10
+12
+0 50 100 150 200 250 300
+1.2*P(N2)
+
+29
+Appendix F. Calculation of Elemental Mass of the Principal Experimental Trial
+As noted in section 2, the base metallic material, was prepared by Ames Laboratory [7] by arc melting a
+90 gram mixture of 65wt% Zr 32wt% Ni 3wt% Pd using 99.95% purity elements.  These were delivered
+in a series of nine envelopes, each marked with the mass of the metal used to charge the ribbon fabricator
+instrument.  After receiving, the ribbon in each envelop was weighted.  The results for the samples used
+in the principal experimental trial are given in Table F.1
+Table F1 Ribbon Mass
+Envelope Charge Mass (g) Ribbon Mass (g)
+5 9.38 8.745
+6 9.59 8.930
+7 9.07 4.385
+8 8.49 3.850
+8+7 Wheel Material -- 8.190
+
+The total of this ribbon material = 34.10 g and was placed in a furnace and heated at 440oC for 28 hours
+creating a ZrO2 matrix imbedded with nanometer sized islands of Ni and Pd [5].  This brittle material was
+ground in a mortar and pestle and passed through a No. 35 mesh (0.5 mm).  The mesh separated the
+ductile ribbon which did not grind from the oxide.  Both components were weighted yielding 43.65 g of
+oxide and 0.20 g of ribbon.  Therefore the masses of the metallic elements in the oxide can be calculated
+from the ribbon material in the oxide; i.e., 34.1g – 0.20g = 33.90g:
+Metal in Oxide:  0.65 x 33.90g Zr;  0.32 x 33.90g Ni;  0.03 x 33.90g Pd;
+= 22.03g Zr;              10.85g Ni               1.02 g Pd.
+Thus the oxygen mass is 43.65g – 33.90g = 9.75g and the percentages of the materials in the oxide are
+given in Table F.2
+Table F2 Elemental Composition
+Element Mass (g) % Mass Mass in Cell (g) At Wt (amu) Moles in Cell
+Zr 22.03 50.5 10.10 91.224 0.111
+Ni 10.85 24.9 4.98 58.6934 0.0849
+Pd 1.02 2.03 0.46 106.42 4.32 x 10-3
+O 9.75 22.3 4.46 15.9994 0.279
+Total 43.65 g 100% 20.0g -- --
+Adsorbed H2 -- -- -- 2.0 2.7 x 10-3
+
+Six grams of SmCo particles were added to the 20 g sample of oxide material in each cell.  The total of
+the Ni and Pd active metal is 5.44 g.  The mole ratio of Ni:Pd is 19.6:1.
+
+30
+Appendix G. Calculation of H2 Exothermic Loading Energy
+The energy produced during hydrogen loading is calculated by converting the temperature rise to power
+using the 1 bar calibration curve for cell 1 shown in Figure 4.5 and integrating that power over time (see
+Figure G.1).  Assuming that 100 kJ/mole of energy is released when absorbed by Pd [14] implies 0.011
+moles of H2 are absorbed by Pd.
+
+Figure G.1 Integration of hydrogen loading power to obtain loading energy.
+
+31
+Appendix H. Cell Pressure History
+
+Table H.1 Cell Pressure History
+Condition Cell 1 Cell 2 Comments
+N2 Calibration 4 mbar/h (0.4%) 0.5 mbar/h (0.05%)
+Bake Out 22mT (330oC)  --->  4 mT 340oC) 42 hours
+Gas Loading 137 mbar/h
+15 mbar/h
+4.5 bar 22oC  (∆T H2 = +25oC)
+Gas Loading 187 mbar/h 4.5 bar 22oC
+Gas Loading 105 mbar/h 4.5 bar 22oC
+
+32
+Appendix I. Thermal Conductivity of Air at Reduced Pressures
+The ratio of the thermal conductivity of air at reduced pressure to that at 1 bar can be approximated by
+[24]
+𝐾𝐾𝑟𝑟𝑟𝑟
+𝐾𝐾0
+= �1 + 𝐶𝐶
+𝑃𝑃𝑟𝑟
+�
+−1
+(I-1)
+where C = 7.6 x 10-5 K m/N and the pressure parameter is given by 𝑃𝑃𝑝𝑝 = 𝑃𝑃𝑃𝑃/𝑇𝑇. Here, P is the pressure
+(N/m2 = Pa), d is the scale length (m), and T is the temperature (K).  A plot of this equation is given in
+Figure I.1 While this formula essentially describes Low Pressure Theory only (the so-called Slip Flow
+Theory) and should be replaced by the Free Molecule Theory when the pressure parameter falls below 10-4,
+the formula gives remarkably good results for much lower values. [20]
+
+Figure I.1 Conductivity Ratio as a function of the pressure parameter from [20].
+A well-maintained two-stage mechanical pump can reduce the pressure to 1 mT (= 0.1 Pa). However, the
+pump available to evacuate the jacket surrounding the test cell created a reduced pressure of only 5 Pa (40
+mT).  For a 1 cm scale length, this reduced the thermal conductivity of the air by only 30%, whereas a
+well-maintained two-stage rotary vane pump would have reduced by thermal conductivity of air factor of
+24 from the atmospheric pressure value.
+
+33
+Appendix J. Technical Reports Addendum Asset Summary (TRAAS) Form (Equipment Calibration Information)
+
+34
+
+External Distribution
+REPORT TITLE
+Investigation of the Nickel-Hydrogen Anomalous Heat Effect
+REPORT NO. PUBLICATION DATE SECURITY CLASSIFICATION
+ATR-2017-01760 June 1, 2017 UNCLASSIFIED
+Dr. Brian Ahern
+Vibronic Energy
+Technologies
+ahern_brian@msn.com
+Dr. Richard Garwin
+IBM Research Laboratory
+rig2@us.ibm.com
+Dr. William Happer
+Princeton University
+happer@princeton.edu
+Release to Public Control Export
+Yes No Yes No
+APPROVED BY_________________________________________________________________     DATE_______________
+(AF OFFICE)
+AEROSPACE REPORT NO.
+ATR-2017-01760
+Investigation of the Nickel-Hydrogen Anomalous Heat Effect
+Cognizant Program Manager Approval:
+James P. Nokes, PRINC DIRECTOR
+SPACE MATERIALS LABORATORY
+PHYSICAL SCIENCES LABORATORIES
+ENGINEERING & TECHNOLOGY GROUP
+Aerospace Corporate Officer Approval:
+Charles L. Gustafson, SR VP ENG & TECH
+ENGINEERING & TECHNOLOGY GROUP
+Content Concurrence Provided Electronically by:
+Edward J. Beiting, MTS RET CASUAL R3
+ELECTRIC PROPULSION & PLASMA SCIENCE
+PROPULSION SCIENCE DEPT
+SPACE MATERIALS LABORATORY
+Office of General Counsel Approval Granted Electronically by:
+Domenic C. Rigoglioso, ASSOC GEN COUNSEL
+OFFICE OF THE GENERAL COUNSEL
+OFFICE OF GENERAL COUNSEL & SECRETARY
+© The Aerospace Corporation, 2017.
+All trademarks, service marks, and trade names are the property of their respective owners.
+ST0218
+AEROSPACE REPORT NO.
+ATR-2017-01760
+Investigation of the Nickel-Hydrogen Anomalous Heat Effect
+Export Control Office Approval Granted Electronically by:
+Edward Pevzner, EXPORT CONTROL STAFF IV
+GOVERNMENT SECURITY
+SECURITY OPERATIONS
+OFFICE OF THE CHIEF VELOCITY OFFICER
+© The Aerospace Corporation, 2017.
+All trademarks, service marks, and trade names are the property of their respective owners.
+ST0218

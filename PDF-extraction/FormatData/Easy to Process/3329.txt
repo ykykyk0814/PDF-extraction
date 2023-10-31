@@ -1,0 +1,512 @@
+1
+Peterson, C., The Guardian Poplar, A Memoir of Deep Roots, Journey and Rediscovery. 2012,
+Salt Lake City: The University of Utah Press.
+Here are selected portions of chapter 12 from Peterson’s book The Guardian Poplar.
+“THEY WILL ONLY LAUGH AT YOU”: Cold Fusion
+“PRESIDENT PETERSON: REVIEWING THE UNIVERSITY’S DEPARTMENT OF
+Chemistry has been a pleasure. The department is strong and healthy with an able corps of young
+faculty, clearly poised to deliver national visibility.”
+Such is my memory of the words of Richard Bernstein, professor of chemistry and
+biochemistry at UCLA. Of all the stories I have shared, this encounter introduced events and
+issues that evolved into some of the most interesting and challenging I ever experienced.
+Every five years, each department of the university conducts an external review. It is a
+thorough process, chaired by a distinguished peer from an outside university, assisted by two or
+three other experts. The preliminary report goes to the department, and a copy is sent to the dean
+of the graduate school. The dean evaluates the review and sends a summary to both the
+department chair and University president.
+I had never received a face-to-face report, but in this instance, Professor Bernstein asked for
+an appointment. I agreed, and we met. “President Peterson, there is one additional matter you
+should know about that I am reluctant to put in the written report. You have what could be an
+extremely important project under way in the department that will be hard to keep confidential,”
+Bernstein confided.
+He went on to describe work done by Professor and Department Chair Stanley Pons, together
+with Research Professor Martin Fleischmann, focusing on “the generation of heat from an
+unknown process or processes that appears to be too great to be a result of a chemical reaction.”
+Knowing a dusty bit of chemistry and physics, and impressed that someone of Professor
+Bernstein’s stature would make a special effort to request a personal appointment, I took him
+seriously. I called in my vice president for research, Jim Brophy, a physicist, and asked him,
+“Jim, what can you tell me about some heat-producing process that two professors in the
+chemistry department are working on?”
+That “process,” as most remember, came to be called “cold fusion.” Fusion because it
+appeared to produce more heat than a chemical reaction could generate and might be explained
+by a similar process to what occurred at high temperatures and pressures when atomic nuclei
+underwent fusion and released huge amounts of energy. It was described as cold because the
+2
+process took place at room temperature. Within a week, Brophy told me what the world would
+hear some months later.
+Martin Fleischmann was an internationally respected and honored electro-chemist—a field
+that I came to understand existed at the interface between traditional chemistry and physics. He
+was a fellow of the Royal Society, the British equivalent of our National Academy of Sciences,
+and had received the international Olin Palladium Medal in 1985, the top honor in his field of
+electrochemistry. Note the word “palladium”; it becomes increasingly significant. In 1988 he had
+received the Bruno Breyer Medal from the Royal Australian Chemical Institute. After a long and
+distinguished academic career, he had retired from the University of Southampton and accepted a
+part-time appointment at the University of Utah as a research professor to work with Professor
+Pons.
+Like Fleischmann, Pons was also an electrochemist. He had studied at Southampton, where
+he received his PhD and had known Fleischmann. Thereafter he had been on the faculty at a
+number of Canadian universities before coming to the University of Utah. His fellow faculty
+members had recently nominated him to the important post of chair of the department, one that
+obviously carries with it the respect of his colleagues and the dean of science.
+How I wish I could have had direct access to the minds and hearts of Pons and Fleischmann
+during this period and been privy to the pouring out of their passions as well as all the reasoning
+behind their decisions over the next months. But as well as being highly professional, both were
+very private people. Still, I will do my best to record this complex and still-relevant period in the
+history of the University of Utah and its impact on the faculty and president.
+The work Professor Bernstein considered unusually important involved electrolysis of heavy
+water to promote the transport of a large number of deuterium ions from the molecule of heavy
+water into the submicroscopic lattice structure of the metal palladium. The investigators claimed
+that this process released more heat than could be explained by any known chemical reaction. . . .
+THE ROAD TO NEW SCIENCE
+Since World War II, the funding of science had shifted almost entirely from private laboratories
+to the federal government. Private labs at established companies like General Electric and Bell
+had largely given way to multiple federal agencies, such as the National Science Foundation,
+National Institutes of Health (NIH), the Departments of Energy and Defense, and the U.S. Naval
+Research Laboratory. This shift moved the decision making and funding of research from a
+mostly private corporate context to a quasi-public one. While the new process was designed for
+scientific peers to review proposals, these peers undoubtedly found themselves influenced by
+their colleagues, existing norms, and the power of institutional consensus. Congress specifically,
+as well as scientific associations within and outside the government, grew to have an interest and
+say in the awarding of research support. Still, peer review was probably the best possible process
+to assist in funding good science and weeding out academic cronyism.
+3
+Considering Professor Fleischmann’s stellar international reputation in the field of
+electrochemistry, and imagining the potential importance of the discovery of even a low-grade
+source of energy generated by the supply of heavy water in the oceans, Jim Brophy and I took
+his findings very seriously.
+. . .
+I have waited for the dust and mud to settle before writing this “progress report.” Up to now
+the most thorough study is Charles Beaudette’s book, Excess Heat: Why Cold Fusion Research
+Prevailed, published in 2000 by Oak Grove Press. As we say in medicine, “How is the patient
+doing?” My report, of course, will not be the last chapter in the story, for there is likely never a
+final chapter in science. But I invite you to join me in this journey that splashed angry mud on
+the early wet days and now forges ahead more easily in breaking sunshine.
+. . .
+Fleischmann reportedly said (for reasons never clear) that the University of Utah had
+required the two investigators to go public when they did. When I subsequently asked for
+clarification from the relevant university office, people there clearly stated that their policy was
+to honor all faculty requests with respect to publication and announcement, not initiate them.
+The announcement came on a spring day: March 23, 1989. Jim Brophy and I walked over to
+our campus’s nearby Eyring Chemistry Building, named for the same Henry Eyring I’d known in
+my college days in Boston. At least fifty others—mostly chemists, but also physicists and
+community guests—were gathered in the auditorium.
+
+Brophy opened the meeting with a few remarks and called on me for a brief introduction. In
+my prediction of a long period of debate about the material Fleischmann and Pons were
+presenting, I appear to have been more prescient than I imagined at the time. Here are the
+remarks I presented that day:
+We are here today to consider the implications of a scientific experiment…. First, what is an
+experiment? An experiment is an informed probing of the unknown under controlled
+circumstances. Does it always give clear and full answers? No. Science grows like rings on a
+tree, each larger, but shaped by the inner rings from which it grew. The full story of the
+research Professor Pons and Professor Fleischmann will announce today will not be known
+for months or years, as others confirm, challenge, and enlarge their ideas and their data. The
+breakthrough they will report today comes from the work of trained minds working at an old
+problem from new perspectives. This particular study examines a traditional problem in
+physical science from the chemist’s point of view, specifically from that of electrochemists.
+This university prides itself—whether in creative writing or dance or chemistry or
+genetics or artificial organs—on a long tradition of intellectual freedom and a willingness to
+try new ways to solve old problems. This announcement today is an expression of that
+4
+ancient and honorable process called “the university,” where trained faculty and dedicated
+students work side by side in processes of teaching and research. Its products are educated
+minds and new knowledge. Those minds and that knowledge flow to the benefit of the people
+of the world generally, and to the cultural and economic well-being of the state of Utah
+specifically. It has been an honor to observe such processes.
+Fleischmann and Pons then presented their findings, which—if confirmed by others—would
+significantly presage an interesting, but undefined, new area of science and a source of possibly
+nonpolluting energy. I remember the quiet, modest, and dignified tone of the press conference.
+THE RESPONSE
+Within days a great furor arose. Some said that the claim simply was impossible because it
+contradicted the laws of nuclear physics. Others attempted to replicate the experiment and could
+not. A few reported success.
+Within a week, the question arose about what the state of Utah should do—if anything—to
+support such potentially important findings. Ian Cumming, a member of the state Board of
+Regents and a successful business developer, was the first to raise the matter of financial support
+for further research. The then-governor of Utah, Norman Bangerter, promptly asked the
+legislature to appropriate five million dollars to support the cold-fusion research. The legislature
+asked that I testify on the matter.
+I testified that I was not in a position to “believe or not believe” in cold fusion. Nevertheless,
+I clearly favored the support of such highly regarded scientists in a matter of this potential
+importance. If the claim was confirmed, and it could advance to the level of commercial
+development, the world would change for the better. The university, the state of Utah, the nation,
+and the entire world stood to benefit. Yes, I said, I was emphatic that the work was worth five
+million dollars of preliminary support. Following my testimony and others, the legislature made
+the appropriation.
+On April 26, 1989, the U.S. Congressional Committee on Science, Space, and Technology
+convened hearings on the matter. In his opening remarks, the chairman, Robert A. Roe, averred
+that “this announcement [by Pons and Fleischmann] preceded the traditional submission to a
+scientific journal where the article would be reviewed by other researchers in the field.”1 In fact,
+the article had been subject to peer review.
+This misstatement of professional sequence just days after the announcement took on a life of
+its own. The impression that a prepublication peer review had not taken place may have arisen
+from the article being published in a nonphysics journal. Still, the Journal of Electroanalytical
+Chemistry was widely acknowledged to be the leading publication in the field of
+electrochemistry. Therein, perhaps, began the controversy over “disciplinary ownership” of the
+findings, whether they belonged to chemistry or physics.
+5
+. . .
+The next weeks grew increasingly noisy and soon painful. The covers of many of the national
+weeklies showed the tabletop apparatus that seemed so simple but symbolized so much.
+There was an early confirmation from the Los Alamos National Laboratory and Texas A&M.
+The Italian Atomic Energy Laboratory reported production of tritium, a signature of a nuclear
+process. Some other reports, though, were negative. Then there were one or two retractions of
+early confirmation reports. As it turned out, the preliminary report that Fleischmann and Pons
+had produced provided less information than what was required to replicate their work. This may
+have occurred because the Utah processes were in flux, or because Fleischmann, as he later said,
+was concerned about British atomic-energy laws, which he felt severely controlled public
+reporting on anything relating to atomic weaponry. Moreover, there was much still unexplored
+and undiscovered by Pons and Fleischmann about the process.
+The heart of the criticism derived from certain canons of nuclear physics, positing that if the
+claimed excess heat came from a nuclear process, byproducts should have been readily
+measurable and even lethal to the investigators. The tritium reported from the Italian Atomic
+Energy Laboratory was the only confirmation initially of nuclear products. In any event, within a
+few weeks, there was growing condemnation of the Fleischmann/Pons claims because of the
+paucity of nuclear evidence and the failure of a majority of labs to produce excessive heat.
+For some time, it was impossible for Fleischmann and Pons—and other labs that had
+recorded at least one episode of excess heat—to be certain of all the conditions required to
+produce a scientifically acceptable positive result. The major “event” had occurred over a
+weekend with no one in the lab. In the meantime, what had been a clamor grew to the level of
+disbelief and even charges of fraud. It was only months later that scientists at cooperating
+laboratories—particularly Michael McKubre at the Stanford Research Institute—found that heat
+production occurred only at a specific atomic ratio, or when 90 percent of the available sites in
+the palladium had been achieved or saturated, which required days and some-times weeks to
+reach.
+. . .
+Unfortunately, the EPRI-NSF report was never published, and one can only speculate as to
+why it wasn’t. However, as of June 2011, it is still available on the Internet at http://www.lenr-
+canr.org/acrobat/EPRInsfepriwor.pdf. I am not qualified scientifically to follow the more than
+one hundred pages of conference reports and discussion. But the tone of respect and desire to
+follow all data points and questions raised in the discussion are truly impressive.
+6
+At this point, the press—apparently unaware of the study made by the Washington, D.C.,
+group—grew increasingly harsh. One can only conclude that if a wide disclosure of the findings
+of the Washington group had occurred—both to the scientific community and the public—the
+road to scientific, deliberate research undistorted by science/politics would have muted much of
+the criticism, which accelerated to the point of ridicule launched at Fleischmann and Pons. More
+importantly, the pace of research would have accelerated.
+. . .
+CRITICISM, RIDICULE, AND INSTITUTIONAL REPUTATION
+Intellectual and academic convictions provided only a partial antidote to the strident external
+criticism of the Fleischmann/Pons findings. Regrettably, this criticism strengthened vocal
+concerns on campus that the controversy and ridicule could do serious academic harm to the
+University of Utah generally. My concerns were as deep as anyone’s, but I received some respite
+and a significant morale boost from Professor David Grant, a distinguished chemist on Utah’s
+faculty. Grant visited his grant-liaison officer in Washington at the National Science Foundation
+a month after the Pons-Fleischmann press conference, when the criticism was growing hot.
+The officer asked, “David, when are you guys at Utah going to stop that cockamamie cold-
+fusion stuff?”
+A lesser person than David Grant might have been dismayed, wondering if his funding would
+suffer. Grant reported that he poked his finger into the chest of his liaison officer, replying, “Are
+you asking me to tell colleagues that they are not free to pursue a project of interest to them?”
+“Oh no, Dave. I was only kidding.”
+Was he? Not everyone on the university faculty had the chutzpah of David Grant. A dozen or
+so of the nonchemistry science faculty asked to meet me a month or two after the announcement.
+It was a blunt, outspoken meeting in the same conference room adjacent to my office where
+Richard Bernstein had first told me what Fleischmann and Pons were doing. I am quite sure all
+the participants felt they were sincere in the concerns they voiced. We were all feeling the pain
+of public ridicule. There was standing room only where we met. Ultimately, one of the most
+outspoken of those attending blurted, “President Peterson, you must stop this work.”
+After a measured pause, my reaction was simple: “I never thought that on this campus I
+would hear one faculty person telling another that he or she must stop research that is breaking
+no laws.” I suspect the gathered faculty might have agreed with me but felt themselves both
+victims of the national criticism and campus spokespersons for the need to wash the university
+clean of the presumed stain of the event. As I fell asleep that night, I recalled an ancient Harvard
+saw that suggested that faculty were “free to do whatever they wanted as long as they didn’t get
+their names in the paper or scare the horses.”
+7
+The University of Utah faculty member who spoke out in the meeting may have been
+honestly worried that his horses might flee, that current or future grants and reputations could be
+at risk. Though my conscience was clear, succeeding days brought considerable personal pain,
+pain shared by many others affected by the events and suffering from anguish that an intellectual
+or theoretical wand could not fully alleviate.
+A university president’s wife is not unaffected by institutional controversy. Imagine what
+must have spun through my wife’s mind when she innocently unfolded a copy of the New York
+Times and encountered the editorial page. The words leapt at her with the declaration that her
+husband should resign his presidency for his role in the embarrassing “pseudoscientific circus”
+called cold fusion. It hurt a bit, but we could take it.
+The same paper’s editorial page had called Utah’s unavoidable, full-and-open reporting of its
+artificial heart project six years earlier “grandstanding.” In the science section of the same issue,
+the New York Times distinguished medical writer, Dr. Larry Altman, had credited the university
+with clarity and responsibility for the manner in which it reported that heart research. And, as is
+common knowledge, artificial heart pumps and heart-assist devices continue to enjoy growing
+development and modest use.
+There is legitimacy in any university’s desire and obligation to stop fraudulent research.
+Generally universities are sponsoring agents with the principal investigators in applying for and
+conducting funded research. On one occasion—a few years prior to the cold-fusion
+controversy—a minor paper published by one of the junior faculty members at Utah’s medical
+school had been challenged. There is a standard protocol for investigation. Our university
+followed the rules carefully and found that the author had indeed falsified data. In response the
+university published a retraction of the paper, repaid the NIH for the investigator’s research
+funds, and placed the author on probation. He left the university soon after.
+“THEY WILL ONLY LAUGH AT YOU”
+During the month before the public announcement by Fleischmann and Pons, I had called
+Professor Hans Bethe. He was a distinguished physicist at Cornell and a Nobel laureate for his
+work on the nuclear processes within the sun. He happened, parenthetically, to be the father-in-
+law of the sister of my son-in-law. Perhaps for this familial reason, he took my call.
+I explained what Fleischmann and Pons planned to report. I asked if he, by any chance, had
+the time and energy to come to Utah and review their findings. He said he was too busy and
+perhaps too old to make the trip. Then he said in the clearest of terms, as a man whose career had
+focused on understanding nuclear processes at the temperature and pressure of the sun, “I advise
+you not to announce such a thing. They will only laugh at you.” At that moment, I did not see
+what laughing had to do with such a matter-an announcement by two distinguished faculty
+chemists. Ultimately, Bethe’s prediction was largely accurate.
+8
+I later discussed the research-related role of a university president with my friend David
+Gardner, a respected mentor and my predecessor as university president. He told me his choice
+would have been to play no public role in the matter, leaving it purely in the hands of the
+scientists. He might have been right. Doing that certainly would have shielded me from personal
+criticism. Would it have kept Utah’s flagship university less connected to a story of “just two
+scientists”? I doubt it.
+At the time, however, I did not think I had the option of simply being an onlooker. Professor
+Bernstein had handed the matter to me and strongly advised me to scrutinize it. Fleischmann and
+Pons had asked me to join and help arrange a meeting with Professor Jones, the BYU president,
+and the provost. After the announcement, the Utah governor and legislature had asked for my
+testimony about state funding for further research. It is doubtful if funding would have been
+provided had I declined to testify or if the university was unwilling to assume responsibility.
+Finally, Congress had asked me to testify at a hearing in Washington to consider the topic and
+exceptional funding approved earlier for superconductivity, the Genome project, hot fusion, and
+much of NASA’s work. An impressive number of scientists and even some university presidents
+had supported such projects, not as representatives of their institutions, but rather as advocates
+for the importance of the project. Finally, who more than a university’s president is in a position
+to support the importance of academic freedom when it is aggressively challenged?
+Yes, I was a university president. But, before and perhaps beyond that, I was a physician-
+bound to ensure no harm. And before and beyond that, I was the son of a university president,
+perhaps thus carrying an inbred sense of campus responsibility. A wise psychiatrist once either
+admired or accused me of being the sort of person who would feel obliged to paddle a stream to
+be certain it successfully made its way to the ocean. Mea culpa!
+Examining the mind-set of medical practitioners may also help explain my choice in the role
+that I played. A doctor is committed to participating in the equation of diagnosis, healing, and
+care. This is quite different from the detached stance afforded most professions.
+THE FLEISCHMANN/PONS EFFECT, TWENTY YEARS LATER
+The current status of the Fleischmann/Pons effect, or the FPE as it has come to be known, can be
+summarized as follows: As of 2009, more than a hundred respected scientists from dozens of
+distinguished domestic and foreign labs-such as the U.S. Naval Research Laboratory, the
+Stanford Research Institute, the Italian Atomic Energy Laboratory, the Bhabba Atomic Research
+Centre (India’s first and primary nuclear-research facility), even Russian, Japanese, and, most
+recently, privately funded Israeli labs-now regularly report experiments producing excess heat.
+The ability to duplicate their experiments has improved as metallurgy has advanced.
+Before he died—in a lecture given on December 7, 1990, in Japan—Julian Schwinger, who
+shared the 1965 Nobel Prize in physics with Feynman and Tomonaga, urged “open-minded
+research—not suppression:’ And in view of the physicochemical nature of the subject, he added
+9
+that he “would have thrown all the resources of the Institute of Physical and Chemical Research
+into the study and development of cold fusion?2
+In addition to the original electrolytic process that Fleischmann and Pons used to load the
+palladium, there are now reports of success with gas loading. A few other labs have reported
+transmutation—the emergence of elements not present before the palladium loading—which
+indicates a nuclear process. Others have reported the specific production of tritium, a product of
+nuclear fusion.
+Thus, in each year of the last twenty, objective data from a growing number of respected
+laboratories worldwide have seemed to confirm the FPE. My guess is that many critics will never
+acknowledge the corpus of supporting data until a fresh generation steps forward to extend the
+science or it becomes possible to ramp up the generation of energy from the FPE to heat houses
+or power vehicles.
+In 1963 J. B. S. Haldane wryly suggested that new theories often undergo four stages in the
+process of acceptance:
+1. This is worthless nonsense.
+2. This is an interesting, but perverse, point of view.
+3. This is true, but quite unimportant.
+4. I always said so.3
+In 2009—during the very week of the twentieth anniversary of the Fleischmann/Pons
+announcement—Robert L. Park updated his earlier strident criticism of cold fusion with a
+backhanded acknowledgement (stage 3 on Haldane’s list), saying,
+Incredibly, the American Chemical Society was meeting in Salt Lake City this week and
+there were many papers on cold fusion, or as their authors prefer LENR (low-energy nuclear
+reactions). These people, at least some of them, look in ever greater detail where others have
+not bothered to look. They say they find great mysteries, and perhaps they do. Is it
+important? I doubt it. But I think it’s science.4
+In the same month as the American Chemical Society meeting, an unrelated, but thorough,
+report by the CBS program 60 Minutes reexamined cold fusion. Sensing the polar controversy,
+the reporters found a respected physicist who had no published opinion on the matter, Robert
+Duncan, vice chancellor for research at the University of Missouri. They asked his assessment.
+Duncan had earned his undergraduate degree at MIT, and during a rich and varied career, had
+been a visiting member of the faculty at Cal Tech and a supervisor at Los Alamos National
+Laboratories before coming to the University of Missouri.
+Duncan initially reported that he tended to be skeptical of the Fleischmann and Pons claims.
+CBS then requested that he take the time to study the more-recent published reports and visit
+laboratories reporting regular excess-heat production-including a trip to a privately funded
+10
+facility in Israel that was working on commercialization of the process. Duncan did so over a
+number of months.
+In his summary, Duncan concluded that good science done by skilled scientists has resulted
+in a high, but not 100 percent, record of replication and that the scientific basis for the
+phenomenon of cold fusion is yet to be understood. This report paralleled presentations at the
+iath International Conference on Cold Fusion that had convened a few months earlier. With the
+Naval Research Laboratory, the Stanford Research Institute, dozens of university and national
+laboratories here and abroad, and a handful of commercial enterprises continuing to conduct
+active research, it is unlikely that the genie can be put back into the bottle.
+A PERFECT STORM
+Since discovery announcements are an ancient and accepted part of science, one naturally
+wonders how Fleischmann and Pons could have made their announcement without prompting the
+violent reaction they received. It had all the characteristics of an unavoidable perfect storm.
+In an interview Fleischmann gave in 1996 to Christopher P. Tinsley, a contributing editor of
+
+Infinite Energy magazine, the scientist came to the same conclusion, saying, “I think the press
+conference was a mistake. But it was inevitable:’
+Tinsley asked, “Can you, looking back, see any alternative to what happened?”
+“No.” Fleischmann responded. “... I think it was inevitable—and it would happen again, and
+in other fields it will certainly happen again.”5
+My question: What, in the events of cold fusion, was too hot to handle from the beginning?
+Certainly Fleischmann and Pons had the right to claim primacy for their potentially important
+findings. The history of science is replete with controversy over early claims of primacy. The
+discoveries of insulin by Frederick Banting and Charles Best in Canada and the double helix of
+DNA by James Watson and Francis Crick are two well-known examples. One hopes that, in the
+case of cold fusion, history will untangle who did what and when and, in the process, clarify the
+role of Iones.
+While the initial Journal of Electroanalytical Chemistry paper took the form of a preliminary
+note, the potential importance of the findings was too enormous to be accorded a wait-and-see
+reception by critics. What was at stake if Fleischmann and Pons were right?
+By comparison the suggestion of movement by tectonic plates to explain the contours of
+South America and Africa and species isolation contradicted existing science but posed no threat
+to related lines of research and development. The geologic-science establishment was therefore
+content to scoff at the validity of the observation, but there was no rush to censure it for much of
+a century until irrefutable evidence slowly emerged and confirmed the theory.
+11
+A case more comparable to Fleishmann and Pons’s is a study on the African American
+family written by my personal friend, Professor, and later Senator, Daniel Patrick Moynihan. The
+study prompted strong criticism for even considering negative aspects of the sociology of the
+postslavery black family. Moynihan dryly commented after weeks of public outcry that the
+subject perhaps deserved a period of “benign neglect.” The implications of the Fleischmann/Pons
+experiment were probably simply too large and challenging to receive such a refreshing, calm
+break.
+Fleischmann and Pons often said that they wished they had had six to eighteen months or
+more to shore up their claims and uncover the reason(s) the experiment produced inconsistent
+results. No one initially knew all the elements the process required to produce excess heat. The
+first full paper on the experiment was published in 1990. Thus, the instructions for replication in
+the initial 1989 article likely gave a misleading impression of simplicity, igniting disbelief and
+suspicion. Effort in time and money that many laboratories spent to replicate the phenomenon
+without success in the first week or two after the announcement must have added more skeptical
+wood to the fire. In that light, it was probably easy for frustrated investigators to cry “sloppy
+science” or “fraud” given the huge implications of the claim.
+. . .
+MISTAKES WERE MADE
+There were at least three unfortunate misjudgments or mistakes relating to the cold-fusion drama
+that added to the turmoil. The first was our naively being unprepared for the magnitude and
+degree of public and professional criticism. Utah might, I believe, have better anticipated and
+prepared for the public interrogation and criticism. Fleischmann and Pons were gentlemen
+throughout. Still, Pons particularly could have been tougher and more prepared for the onslaught.
+. . .
+PERSONAL REPUTATION
+On a personal note, in 1990-the year after the announcement on cold fusion-I was named chair of
+the congressional science-advisory committee called the Office of Technology Assessment
+(OTA). In that position, I followed William Perry, former secretary of defense, and was
+succeeded by Joshua Lederberg, Nobel laureate and president of Rockefeller University.
+In the same period, the National Association of State Universities and Land-Grant Colleges,
+or NASULGC, elected me as its chair. I am the only Utahan I know of to have occupied that post.
+That is the same organization that took my father to Washington yearly as an executive-
+committee member and me with him once when I was twelve.
+Those appointments suggest that there was no embarrassment or censure felt by my national
+peers, who were not naive about the rituals and images of education, research, and academic
+politics.
+12
+As I said at the time of the 1989 announcement and continue to believe, “What we now term
+the Fleischmann/Pons effect, or low-energy nuclear reaction, deserves serious study. There is not
+yet a full understanding ofits theoretical basis. The university, its faculty, and I believe in the
+importance of diligent research and study on a matter of such potential importance to science and
+possibly humanity.”
+Cold-fusion’s basic scientific claims have now been widely confirmed as new and interesting
+science. Within this new scientific niche may lie merely a curiosity or a significant contribution
+to one of the greatest problems the Earth faces. Any challenge to a paradigm is painful in its
+evolution.
+. . .
+THE TIMELESS CONFLICT INHERENT IN THE CHALLENGE OF NEW SCIENCE
+A few months into the controversy, I learned of a book by Michael Polanyi that details his own
+experience of the tension between orthodoxy in science and challenges to it. In a chapter entitled
+“The Potential Theory of Adsorption,” the respected scientist describes being caught in the
+crossfire between scientific order and the claims of a new idea. Polanyi was widely ridiculed for
+more than twenty years for having made an observation in 1914 that violated the then-current
+science theories. Had he not been able to present subsequent research sustaining his reputation,
+he believes his professional career could not have survived. By the late 1930S, finally, he
+
+received acceptance of what hed proposed. His conclusions are worth noting:
+I am making, therefore, no complaint about the suppression of my theory for reasons which
+must have seemed well founded at the time, though they have now been proved false. It is
+perhaps more difficult to understand why more than fifteen years passed after the
+presentation of my paper in 1932, in which the original objections had been proved
+unfounded, before the rediscovery and gradual rehabilitation of the theory set in. I suppose so
+much confusion was left over from the previous period that it took some time for scientists to
+take cognizance of the new situation, and that meanwhile my own work, which had been so
+long discredited, remained suspect. If the problem had been more important, this period of
+latency would no doubt have been shorter.
+The dangers of suppressing or disregarding evidence that runs counter to orthodox views
+about the nature of things are, of course, notorious, and they have often proved disastrous.
+Science guards against these dangers, up to a point, by allowing some measure of dissent
+from its orthodoxy. But scientific opinion has to consider and decide, at its own ultimate risk,
+how far it can allow such tolerance to go, if it is not to admit for publication so much
+nonsense that scientific journals are rendered worthless thereby.
+Discipline must remain severe and is in fact severe .... Even so, the opposition to my
+theory would have cut off any hope I had of a scientific career ... had I not done other
+13
+scientific work that brought me recognition which outweighed the discredit brought upon me
+by my theory of adsorption [italics in original].”6
+Let me be clear: I am not asking that the tension between established science and new
+theories be otherwise. I’m merely attempting both to frame and spotlight the grave risks that
+characterize dissent. This centuries-old tension often promotes a productive debate. Obscuring
+this tension—as happens too often in our times—dilutes the intellectual honesty of science.
+How should one judge the words of Bertrand Russell?
+The triumphs of science are due to the substitution of observation and inference for authority,
+Every attempt to revive authority in intellectual matters is a retrograde step. And it is part of
+the scientific attitude that the pronouncements of science do not claim to be certain, but only
+the most probable on the basis of present evidence. One of the great benefits that science
+confers upon those who understand its spirit is that it enables them to live without the
+delusive support of subjective authority.”7
+Such statements, while emphasizing inference, obscure the fact that the authority of current
+scientific opinion is indispensable to the discipline of scientific institutions; that authority’s
+support is invaluable, even though, ironically, its dangers are an unceasing menace to scientific
+progress. I have seen no evidence that this authority is exercised without claims of certainty for
+its own teachings.
+The unreasonable unwillingness to reconsider a rejected proposal is revealed by a recent
+response by an otherwise-respected nuclear physicist from Texas. When asked his current view
+of cold fusion, he crisply responded that the issue had been closed years before when the theory
+was proved to be error. The questioner then asked, “But have you read any of the more than one
+hundred articles that have confirmed the phenomenon?” The Texan’s response was simple: “Of
+course not; I do not have time to waste on matters that have been closed.”
+
+PERSONAL CONCLUSIONS
+Intellectual and academic freedom are essential elements of experimentation, observation, data
+collection, and, ultimately, human welfare and progress. Observation and data collection are
+essential in the generation and confirmation of theories. The usefulness of data rests on their
+ultimate replication and confirmation by other skilled investigators. While immediate
+verification is ideal, more often additional experimentation and time are necessary to understand
+the conditions required for reliable replication. Hence, one novel observation is rarely the end in
+probing a mystery of nature. The period of uncertainty surrounding a new observation calls for
+modesty and restraint from both the proponent and the skeptic.
+The tenets of established science are a means of avoiding chaos, promoting order, and acting
+as a road map for new discovery. In the process, these scientific tenets risk engendering
+14
+intellectual myopia unless they simultaneously encourage a healthy culture of skepticism for the
+known as well as the unknown.
+Intellectual property deserves no less attention and stewardship. This stewardship serves the
+interest of the individual scientist and institution while promoting the advancement of humanity
+at large. This aim is exactly the intent of the Bayh-Dole Act in the 198os, which was designed to
+promote timely transfer of bench science to industrial development.
+The Fleischmann/Pons announcement—coupled, as it was, with the uncertain research of
+BYU’s Stephen Jones—created suspicion that resulted in confusion. The passage of twenty years
+appears to have answered many of the questions about the primacy of the discovery of cold-
+fusion’s production of excessive heat. With respect to any parallel work Jones did on the issue of
+nuclear measurements, it is best to reserve judgment. . . . Science and wisdom await all
+questions.
+WHAT WILL THE FUTURE BE?
+What will be the significance of the excess heat generated by the Fleischmann/Pons effect—
+LENR? Will it be a wedge in a new chapter of science, or merely an oddity? Will it produce
+energy in a manner and magnitude, ideally as decentralized energy, that is useful to civilization?
+As I write, many lines of development are being pursued. But we do not know the answer ... yet.
+There’s that wonderful, honest, and optimistic word: yet.
+Will the lesson of cold fusion have taught us to live more wisely between the useful,
+comfortable, but uncertain clarity of established truth and the disorder posed by the challenge of
+as-yet-unverified new truth? The jury, as they say, is still out.
+Finally, the process we at Utah experienced is a direct expression of a special, sometimes
+fragile freedom—academic freedom. And though this is a freedom that has never sailed on
+smooth water, I cannot imagine not paddling for it or helping to steer it to a safe harbor.
+1 House Committee on Space, Science, and Technology, Recent Developments in Fusion Energy Research, 101st
+Congress first session, April 26, 1989
+2 Julian Schwinger, "Cold Fusion-Does It Have a Future?" (Lecture presented at the Yoshiro Nishida Centennial
+symposium, Tokyo, Japan, December 5-seven, 1990). http://www.lenr-canr.org/acrobat/SchwingerJcoldfusiona.pdf
+3 J. B. S. Haldane. Quoted in Wikipedia.
+4 Robert L Park, "Cold Fusion: 20 Years Later, It's Still Cold," What's New, March 27, 2009.
+5 Tinsley, C., An Interview with Professor Martin Fleischmann. Infinite Energy, 1996(11). http://www.infinite-
+energy.com/iemagazine/issue11/fleishmann2.html
+6 Michael Polanyi, “The Potential Theory of Adsorption," in Knowing and Being: Essays by Michael Polanyi
+(Chicago: University of Chicago press, 1996), 93-94.
+7 Bertrand Russell, The Impact of Science and Society, 1953, quoted by Polanyi, Knowing and Being, 94.

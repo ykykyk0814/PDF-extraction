@@ -1,0 +1,133 @@
+Notes from the
+12th International Conference on Condensed Matter Nuclear
+Sciences
+November 27 – December 2, 2005, Yokohama
+T. J. Dolan
+The following brief summary refers to only some of the 60 papers presented at the conference.
+Experiments
+Yasuhiro Iwamura (Mitsubishi Heavy Industries) presented more data on transmutations of Cs to
+Pm, Ba to Sm, and Sr to Mo, using a variety of diagnostic techniques, including a detailed
+surface mapping using a synchrotron microbeam (100 x 100 micrometers). They found that the
+transmutations occurred in small concentrated sites on the surface. Afterward I asked him what
+labs have reproduced some of his transmutations, and he said Osaka University, Shizuoka
+University, Francesco Celani (Italy), and NRL (in progress).
+A. Kitamura (Kobe University) coated films on the vacuum side of the Pd foil (Iwamura coated
+the gas side) and reported transmutation of Sr into Mo.
+Irina Savvatimova (“Luch” Institute, Moscow) reported transmutation of Ba into Sm.
+A. El-Boher (Energetics Technologies, Israel) used "superwave" modulation of the current in
+electrolysis cells to increase yield. He achieved 600% excess heat for 24 hours, and 150% for
+134 hours. Irving Dardik (a physician) developed the superwave technique with regard to curing
+human illnesses, and it is found to have applications in several fields.
+Vittorio Violante (ENEA, Italy) used a HeNe laser to enhance excess power generation during
+electrochemical loading.
+Yoshiaki Arata (Osaka University) observed intense heat generation during ingress of deuterium
+into a thin cylinder containing Pd nanoparticles.
+Alexander Karabut ("Luch" laboratory, Russia) observed excess heat generation and
+transmutations during deuterium glow discharges, but not during Kr or Xe discharges. Using
+spark mass spectrometry, SIMS, and secondary neutral mass spectrometry they identified the
+emergence of many impurities, including abnormal isotope ratios for several elements. They also
+observed emission of gamma rays and x-rays.
+Andrei Lipson and George Miley (Lebedev Institute, Moscow, and University of Illinois)
+reported emissions of energetic protons and alpha particles during controlled exothermic
+deuterium desorption from the surface of a Pd/PdO:Dx heterostructure. Using CR-39 detectors
+they found 1-3 MeV proton tracks and 11-16 MeV alpha tracks, with a yield about 0.005
+alphas/cm2-s, reproducible during about 20 experiments. They also reported data indicating
+superconductivity in Pd hydride and deuteride.
+Francesco Celani (Frascati, Italy) told how they coated Pd wires with Pd-silicate to produce
+fractal nanostructures and enhance deuterium loading.
+Vladimir Vysotskii (Kiev) and Alla Kornilova (Moscow) reported that Mn-55 was transmuted
+into Fe-57 in a solution of MnSO4 in heavy water plus nutrients and microbes, and the yield after
+30 days was about 10-6. In light water no Fe-57 was produced. They have published a book on
+this topic.
+Experiments at Iwate University were not yet successful. During the discussion I pointed out that
+oxides of calcium, strontium, and barium are used in commercial vacuum tube cathodes, and that
+great care must be taken in vacuum tube manufacture to avoid impurities like oil, which can
+poison their thermal emissivity. Experiments that attempt to emulate the transmutation data of
+Iwamura may fail if they do not bake out the sample in a very clean high vacuum system.
+Mike McKubre (SRI) presented new data to clarify the relationship between the electrical
+resistance ratio R/Ro of Pd and the fractional loading of deuterium near N(d)/N(Pd) ~ 1.
+Jean-Francois Fauvarque (Laboratoire d’Electrochemis Industrielle, France) reported
+reproducible heat generation during electrolysis with a tungsten cathode. At 350 V the output
+energy was 1.3 to 1.4 times the input energy.
+Tadahiko Mizuno (Hokkaido University) described an electrolysis experiment in which the
+cathode overheated and exploded. After 300 J electrical input, the output heat plus explosion
+energy totaled about 0.24 MJ. Analysis of the tungsten cathode revealed deposits of Ca, S, and
+other elements, but no residual radioactivity.
+There is a new collaboration between Italy and Japan (Takahashi, Celani, Iwamura) to try to
+transmute radioactive isotopes such as Cs-137 and Sr-90 into stable isotopes, which could have
+application for remediation of radioactive wastes. I. Goryachev (Kurchatov Institute) is also
+studying the possibility of waste remediation.
+Jean-Paul Biberian (Marseille, France) heated a clean Pd foil to 500 C, cooled and sanded it,
+heated again to 500 C, and coated it with Zn, Pb, or Li. When the coated foil was immersed in
+deuterium gas it loaded quickly and generated excess heat.
+Steve Krivit (New Energy Times) and Vladimir Vysotskii (Kiev) told of experiments by A.
+Koldomasov (Russia), Hyunik Yang (Hy-En Research Co.) and others involving flow of high-
+pressure machine oil or water through a small orifice (~ 1 mm). There are experiments Korea and
+in Edmonton, Canada, and theoretical work in Russia. Krivitt showed a videotape of the
+Canadian device in action. In boron-doped oil at 30 atm the color is tawny; at over 40 atm, it is
+white; at over 60 atm it is clear, with a blue plasma jet downstream of the orifice. At 70-80 atm
+there is a bright blue beam 6 mm in diameter, and at over 90 atm a green glow appears upstream
+of the orifice. Hard x-rays were observed from the luminous region. The researchers claim that
+excess heat is generated from fusion reactions (possibly protons plus boron-11) during collapse
+of cavitation bubbles, and they detected He-4 emission lines from the cavitating fluid.
+Andrei Lipson and George Miley (University of Illinois) showed that the walls of high-power
+tokamaks like ITER could be damaged by low energy nuclear reactions induced by implanted
+deuterium and tritium.
+Theory
+F. A. Gareev (Dubna, Russia) stated that he derived the Bohr hydrogen atom conditions from a
+Hamiltonian without reference to Bohr conditions or quantum mechanics. He said that quantum
+theory should be reformulated for open systems, and that atoms are self-organizing systems in
+which standing waves are synchronized by resonances.
+John Fisher (USA) suggested that under some conditions in lattices polyneutron clusters may
+form and stimulate nuclear transmutations.
+Akito Takahashi (Osaka University) noted that 150 theoretical models have been proposed to
+explain low energy nuclear reactions. He hypothesizes that inside a crystal lattice four deuterons
+plus four electrons can coalesce to form a “tetrahedral symmetric condensate”, which can
+interact with the host atoms’ nuclei, and he estimated the corresponding reaction rates.
+Xing-Zhong Li (Tsinghua University, Beijing) discussed calculations of internal reflection and
+multiple scattering of deuteron waves. The symmetry of the lattice planes may help sustain the
+deuteron wave nature against lattice vibrations. Even if the absorption in a single layer is very
+low, the total absorption from multiple layers may be significant.
+Scott Chubb (NRL) and Talbot Chubb pointed out that in finite chunks of lattice the end
+boundary conditions invalidate some of the ideas that hold for infinitely long media. Bloch
+deuterons may occur along the interface between Pd and CaO. The salt provides a lattice and the
+metal provides free electrons to neutralize the deuteron charge. Communication occurs between
+deuterons in octahedral and tetrahedral sites of the Pd. Tunneling depends on crystal size. Tiny 6
+nm crystals with tunneling times in microseconds either cannot provide enough momentum to
+initiate dd fusion or they conduct ions so rapidly that collisions occur. Medium sized 60 nm
+crystals load rapidly and create heat. Crystals larger than 60 microns have tunneling times
+longer than a month, which is too slow.
+Yeong Kim (Purdue) presented a new theory that uses a Lorentzian broadening of the Maxwell-
+Boltzmann distribution that was formulated by in the 1930s. With this broadening phenomenon
+he predicts much higher nuclear reaction rates in solids.
+Using a Hamada-Johnson potential Peter Hagelstein and I. Chaudhary (MIT) have computed 400
+matrix elements for deuteron interactions with phonons. They will soon be able to predict
+various reaction rates to test their theory of phonon interactions stimulating nuclear reactions.
+William Collis reported that the new International Society for Condensed Matter Nuclear
+Sciences (ISCMNS) has over 170 members. Its motto is “Ardet nec consumitur”, which means,
+“It burns, but is not consumed”.
+Summary
+In his summary of the ICCF-12 conference Prof. Xing-Zhong Li said that CMNS has three
+“legs”:
+ excess heat generation
+ nuclear reaction products & transmutations
+ good reproducibility.
+Many experiments have achieved the first two legs, but reproducibility has only been
+demonstrated in a few experiments, such as those of Iwamura. Prof. Arata is building a larger
+device (3 x 30 cm) to demonstrate reliable higher power operation.
+There are new companies investing in CMNS (D2Fusion and Energetics Technologies) and new
+international research collaborations of SRI-Israel-Italy and of Italy-Japan. The double-structure
+work of Arata demonstrates clear evidence of heat generation during deuterium flow in Pd, and
+the work of Iwamura provides additional detailed measurements of transmutations. Several
+theorists are making good progress towards understanding the phenomena, such as the deuteron
+wave theory of Chubb. The US Department of Energy review of CMNS was favorable, and
+DOE is now willing to consider research proposals. The Journal of Fusion Energy (edited by
+Steve Dean) is willing to accept papers dealing with CMNS. Li stated that three of the
+suggestions made by Dolan at ICCF-9 (Beijing, 2002) [1] are now being fulfilled:
+ a new technical society (the International Society for Condensed Matter Nuclear
+Sciences),
+ an award for great achievements (the Preparata Award)
+ a new journal (formation in progress).
+The next conference ICCF-13 will probably be held in 2007 in Russia or in the USA.
+1. Dolan, T.J., Notes from the 12th International Conference on Condensed Matter Nuclear
+Sciences. 2005: Yokohama, Japan. http://lenr-canr.org/acrobat/DolanTJanoutsider.pdf

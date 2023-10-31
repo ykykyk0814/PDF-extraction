@@ -1,0 +1,1120 @@
+Journal of Fusion Energy, Vol. 10, No. I, i991
+Panel Discussion
+Cold Fusion: What  Do We Know? What  Do We Think?
+Remarks of Lawrence B. Rees a
+For several years, Steven Jones of Brigham Young
+University has actively led a group of researchers in the
+study of muon-catalyzed fusion. Recently, we have also
+begun an investigation of the sort of cold fusion which
+has come to be known as solid-state or table-top fusion.
+This statement is an overview of the current status of
+research at BYU in both of these areas.
+The process of muon-catalyzed fusion is illustrated
+in Fig. 1. A muon, created by the decay of a pion pro-
+duced by a particle accelerator, is introduced into a target
+chamber containing deuterium and tritium. The muon is
+first captured by either a deuteron or a triton. If it is
+captured by a deuteron, it is quickly transferred to the
+more massive triton where it is more tightly bound. The
+triton-muon system is then readily attracted to a hydro-
+gen molecule. Since a muon is very similar to an electron
+except in its mass, which is about 200 times heavier,
+the muon will form a complex with a deuteron and a
+triton which is about 200 times smaller than a normal d-
+t molecule. This d-t-muon complex then serves the same
+role as a positive hydrogen ion in a normal hydrogen
+molecule. It happens that the d-t-muon-d and d-t-muon-
+Fig. 1. Chief channels for px-in a D-T target.
+Department of Physics and Astronomy, Brigham Young University,
+Provo, Utah 84602.
+111
+t mesomolecules form very readily because of a reso-
+nance condition wherein the energy released in the me-
+somolecular  formation is readily absorbed by the
+production of excited molecular states. And once a me-
+somolecule forms, fusion occurs rapidly because the dis-
+tance between the deuteron and triton bound by the muon
+is sufficiently small to make penetration of the potential
+barrier easy. The deuteron and triton then fuse to form
+an alpha particle and a neutron, the muon usually being
+left free to catalyze another fusion reaction.
+Unfortunately, the lifetime of the muon is only about
+2.2 microseconds. If a muon lasted forever, all our en-
+ergy problems would be solved. But since it doesn't, we
+have to try to get as many fusions as we can from each
+muon before it decays.
+It turns out that the muon lives long enough to pro-
+duce more than enough fusions for energy output, but
+there is another problem which plagues us at this point.
+Some fraction of the time, typically less than 1%, the
+negatively-charged muon ends up sticking to the pos-
+itively-charged alpha. If that happens, the muon usually
+remains bound until it decays, and is hence removed
+from the catalysis cycle.
+Over the years, a number of experiments have mea-
+sured the fusion rate as a function of such variables as
+temperature, density, and the ratio of deuterium to tri-
+tium. If the density of the d-t mixture is 1.2 times liquid
+hydrogen density, about 150 fusions per muon have been
+observed.1 This is certainly a sizable number. However,
+it costs a lot to make muons since a particle accelerator
+is required. So even though you can get a lot of energy
+out of a singIe muon, it takes too much energy to pro-
+duce the muons to be efficient for energy production.
+In order to have energy breakeven, we probably
+need on the order of a few thousand fusions per muon.
+So we are really not near breakeven at this time.
+There are, however, several research efforts which
+are proceeding. Target cells are currently being designed
+to increase the range of temperature and pressure where
+data have been taken. A target cell recently has been
+built which will allow pressures up to about 10,000 at-
+mospheres. We hope to be able to actually do some
+experimentation with this target next spring or summer.
+0164-0313/91/0300-0Ili$06.50i0 9 1991 Plenum Publishing Corporation
+112 Rees
+Hopefully, this will give us new insight into the density
+dependence of the fusion process. That, in turn, may
+lead theorists to a better understanding of the details of
+the mechanism involved. The highest density at which
+we've currently taken data is 1.2 times liquid hydrogen
+density. This new cell will allow us to measure fusion
+rates at about 2.3 times liquid hydrogen density. We
+probably don't have a good enough theory to accurately
+predict what will happen, but doing simple linear ex-
+trapolation, we might expect as many as about 300 fu-
+sions per muon at those densities. It's not clear that it
+will produce that many, but it's probably not likely that
+we'll have a substantially larger number either. So it is
+still improbable that we'll be in the range which is useful
+for energy production. 1
+The real problem to increased energy output is the
+matter of the sticking of muons to alpha particles. At
+this time, we don't have a complete understanding of
+the sticking process. Theoretical estimates differ some-
+what from the data, but both experiments and theory
+suggest that there is about 0.2-0.7 percent sticking. (1)
+Occasionally, nature helps us out by breaking a muon
+off from the alpha particle which has trapped it. This is
+called regeneration. Regeneration occurs naturally to some
+extent. We don't understand this process as well as we'd
+like either, there still being a considerable difference
+between experimental and theoretical values.
+In the end, what we need to do is to reduce sticking
+and to increase regeneration. However, there are no ob-
+vious ways to do either at this time.
+One last thing that might make the whole process
+feasible is a cheaper method of producing muons than
+the methods we currently have. This causes us to be
+somewhat pessimistic right now about the future status
+of muon-catalyzed fusion. Though, of course, research
+is still being done, we seem to be more or less at a
+standstill. And were likely to remain at a standstill unless
+future experiments produce something that's quite sur-
+prising.
+Because of this situation, Steve Jones started look-
+ing more seriously into new areas of fusion research
+which he and others had considered previously.
+Paul Palmer of our physics department, who hap-
+pens to do a little teaching of geology on the side, wasn't
+particularly satisfied with the geologists' explanation of
+the earth's heat source. In pursuing this subject, he dis-
+covered that in regions of the earth's crust which are
+being subducted under other sections of the crust--and
+hence where you have a great deal of volcanic and geo-
+thermal activity--the ratio of helium-3 to helium-4 is
+about three orders of magnitude larger than it is over the
+continental crust. That made him wonder where the he-
+lium-3 was coming from. One of the possible sources
+of helium-3, of course, is fusion.
+Certainly, there is water in the compounds forming
+the rocks being subducted under the earth's crust, and
+in this water there will naturally be found some deuter-
+ium. So d-d fusion could possibly occur.
+Further geological evidence is provided by tritium
+levels in the atmosphere. During an eruption of Mauna
+Ulu, a side crater of Kilauea, a substantial tritium con-
+centration was observed at a station near the volcano. In
+the subsequent period of time, the volcano died down
+for a while and the tritium level subsided. Then during
+another period of activity, the leveI of tritium increased
+again (see Fig. 2). (2)
+It's not completely clear that fusion really has any-
+thing to do with the geological activity, but it was a
+tantalizing suggestion to do some experiments in that
+regard.
+The idea basically was to get deuterium into a crys-
+tal lattice so we could see if we could somehow induce
+fusion in a solid. When we asked chemists how to do
+this, they suggested that the easiest way is by electrol-
+ysis. It turns out that if you take certain metals, such as
+nickel, titanium, and palladium, you can get about the
+same number hydrogen atoms in the material as there
+are metal atoms. If there is one atom of hydrogen per
+one atom of metal, this is equivalent to several liquid
+hydrogen densities. If you're busy building expensive
+high pressure chambers to increase hydrogen density,.
+it's alluring to realize that the crystal lattice of a solid
+100
+' i ~ I ' I ' I ' I ' I ' I ' I ' l
+90 UIu E r u p t i o n
+, o
+70 Ul__uu Aotlvit.___.~y
+5o
+<
+4o
+I..-
+~- 30 . ' r  1 9 7 6  H a w a i i
+20 0.5
+lo l t
+M a r c h  1 H - B o m b  T e s t
+o i L i l i 1 I I i I I I l I l I , I
+4 0  8 0  1 2 o  1 6 o  2 0 0  2 4 0  2 s o  3 2 0  3 s o
+DAY O F  Y E A R
+Fig. 2. Measurements of tritium in the atmosphere from various mon-
+itoring stations, correlated with volcanic eruptions of Mauna Utu, Ha-
+waii.
+Cold Fusion 113
+can accomplish the same thing quite easily. Of course,
+it should be acknowledged that if hydrogen molecules
+dissociate and the atoms occupy interstices in adjacent
+lattice sites, the atoms are farther away than atoms in
+hydrogen molecules.
+Since the process is easy, we decided to see if any-
+thing interesting could be detected. So we just attached
+some simple DC power supplies to electrodes made of
+various materials such as titanium, palladium, and so
+forth. Then we put these electrodes in glass jars con-
+taining electrolytes and did some straightforward elec-
+trolysis. The hard part, however, was to detect fusion
+products at very low levels.
+When Paul Palmer originally came up with the idea
+of fusion occuring in the earth, almost 3 years ago, he
+suggested that the neutrons produced in d-d fusion should
+be detectable. So he and his colleagues took the detectors
+they had available at the time and looked for neutrons.
+Unfortunately, the detectors weren't good enoug to pro-
+duce any conclusive results. Sometimes there seemed to
+be a signal, and sometimes not. So the idea was tabled
+until some better detectors were available.
+In the meantime, Bart Czirr and Gary Jensen of our
+department were in the process of developing neutron
+spectromeeters. So when Steve Jones revitalized interest
+in solid-state fusion, Bart and Gary used their latest de-
+tector to look for neutrons. This detector operates in a
+fairly simple manner. (3) It contains plates of lithium glass
+surrounded by a liquid scintillator. The liquid scintillator
+serves to moderate the neutrons, giving off light in the
+process. Once the neutrons have slowed down to thermal
+energies, they're absorbed in the lithium-6 glass which
+also scintillates.
+In order to get an acceptable event, one signal from
+the liquid scintillator must be followed by one signal
+from the glass. The pulse shapes from the liquid and
+glass are quite different and hence can be easily distin-
+guished. Since the glass is insensitive to radiation other
+than neutrons, we can be fairly certain that a neutron
+has stopped in the detector whenever both signals are
+present. So it's a very good detector to discriminate against
+most kinds of background. In the mode of operation used
+at that time, about three-fourths of all background events
+were cosmic ray neutrons.
+But we also can get a measurement of the neutron
+energy by determining the total light output of the liquid
+scintillator. It is not a very accurate spectrometer when
+compared to charged particle detectors, but it does give
+a rough measurement of neutron energy. The energy can
+be calibrated by means of neutrons produced by our
+4-MeV Van de Graaff accelerator.
+The background spectrum is seen in Fig. 3. It was
+266 -
+186
+IG0
+140
+120
+166
+m BO
+z
+o ~ 60
+20
+6 o 40 86 126 IGB 200 240 280 B20 3G@ 400
+CHFINNEL
+Fig. 3. Background spectrum with least-squares fit to the data (solid
+line) as described in the text.
+90
+BB
+70
+SB
+50
+i46
+30
+20
+t6
+0 46 80 126 IBO 200 246 2B6 320 3G0 400
+CHRNNEL
+Fig. 4. Foreground spectrum with least-squares fit to the background
+(solid line) superimposed.
+very constant over time. We never saw any variations
+in the shape of the background.
+The foreground data (Fig. 4) show, however, a def-
+inite peak above the background. This peak is located
+at the region where we would expect to see the 2.5-MeV
+neutrons from d-d fusionJ 4)
+In our best analysis of these data to date we fit the
+background with a three-parameter function of the form
+A/(x 2 + Bx + C). One parameter provides the normali-
+zation and the other two the shape. The fit is excellent,
+as can be seen in Fig. 3. For the foreground signal, we
+used exactly the same shape parameters but added to
+that of a Gaussian peak. Again the fit is excellent, with
+114 Rees
+the significance of the peak being five to six standard
+deviations.
+So we might ask then, what causes this peak? The
+statistical significance of the peak suggests that it cannot
+simply be random fluctuations in the background. The
+detector is a good enough detector that we are convinced
+that the peak must be neutrons. The energy calibration
+tells us the neutrons have an energy of about 2.5 MeV.
+That's a pretty good signature for fusion, at least better
+than a lot we've seen in the news lately. Even then, we
+tried to do a number of things to be sure of our results.
+The first thing we checked was to see that the spec-
+trum in the regions to the side of the peak matched the
+background signals in magnitude and shape. That it did.
+We then tried looking at cells identical to those
+which produced the peak, but with no current flowing.
+We got exactly the same results as the background runs
+in both magnitude and shape. We tried the process again
+with light water and with current in the cells. Again we
+had the same results as the background runs. The back-
+ground shape, in fact, always seemd to remain constant,
+even with changes of cosmic ray flux and solar activity
+during that period of time.
+We never could do anything to reproduce the peak,
+except during the runs where we had deuterium and cur-
+rent both at the same time in the cells. So at this time
+we believe the peak to be a genuine signature for fusion.
+It should be emphasized that the rate of fusion is
+very low. The foreground spectrum was accumulated
+over a period of several days. We should also emphasize
+that this was not a carefully outlined experiment. It was
+rather a survey to see if an experimental program should
+be undertaken. We used different electrode materials,
+different electrolytes, and even a little different elec-
+tronic configuration for some data than other data. Now,
+we need to do some serious research to follow up that
+initial survey.
+One thing we have done very recently has been to
+perform similar experiments in collaboration with a group
+at Los Alamos. (s~ The detectors that were used, how-
+ever, were helium-3 proportional counters. These counters
+are very good for discriminating against anything but
+neutrons; however, they don't have energy information
+available.
+In the electrolysis data, the foreground signal was
+generally, within statistical uncertainty, at the same level
+as the background. There did, however, appear to be a
+time dependence to the fusion rate. This is consistent
+with results of the BYU experiment. We usually would
+see no counts above background for about an hour after
+the electrolysis began. After that, we saw a fair number
+of counts above background for a period of time. Later
+on the signal seemed to go away again, perhaps because
+of corrosion of the electrodes.
+In any case, if there is an indication of fusion, it is
+at a very low rate. It is estimated that there are no more
+than about 0.8 neutron produced per second. At BYU,
+we estimated the fusion rate to be about 0.6 per second.
+We probably can't take the Los Alamos electrolysis data
+as clear evidence of fusion, as there are certain weak-
+nesses to this experiment. The detectors can't discrimi-
+nate between lower energy and higher energy neutrons.
+Most of the background comes from cosmic ray neutrons
+and the helium-3 counters can do nothing to differentiate
+cosmic ray neutrons from 2.5-MeV neutrons.
+But another aspect of this experiment was very in-
+teresting. With the same experimental configuration,
+multiplicities of neutrons within a time window of about
+150 microseconds were monitored. It seems that period-
+ically a number of neutrons were emitted in a single
+burst, about 53 in one burst and roughly half that in two
+other bursts.
+To compare this result to background, the cells were
+removed at a certain point in time. The background seems
+to be quite flat with no bursts occurring when the cells
+were removed.
+It should also be noted that these data are quite
+recent, so the analysis is still preliminary.
+Another method of inducing fusion was originally
+tried by a group at Frascati in Italy. Rather than using
+electrolysis, they loaded deuterium under pressure and
+at liquid nitrogen temperatures in certin metals, and then
+looked for fusion events as the samples were slowly
+heated.
+This idea was also tried at Los Alamos, and again
+there were bursts about 50 neutrons within a time range
+of about 150 microseconds (see Fig. 5). Sometimes no
+events were observed in given samples. Sometimes it
+required several heating and cooling cycles before any
+neutron bursts were seen.
+It's hard to say exactly what's happening, but it's
+interesting to note that the neutron bursts usally occurred
+at a temperature of about -30~ It is postulated that
+this might have something to do with a phase transition
+in the material but there isn't any clear evidence of that
+yet.
+Using the same pressure-loading method, the total
+neutron event rate also seems to be in substantial excess
+of the background. And again, as is seen n Fig. 6, when
+data were taken with a dummy cell, nothing was ob-
+served over background levels. Preliminary analysis of
+these data indicates that the neutron signal is significant
+at a level of 11 standard deviations.
+Cold Fusion t15
+70
+6 0 -
+50-
+40-
+30-
+20-
+10-
+0 -
+-10
+70
+613-
+5 0 -
+4 0 -
+3 0 -
+20 -
+10-
+0 -
+-10
+0
+TIME CORRELATED COUNTING DATA FOR SAMPLE "H-1
+CyellP,3 4/30/89
+..... II .......................................................
+I I [ I
+Cycle-3 Dummy 4130/89
+II..@II .o...o~. e...s .@. e . ...........................................
+1 2 3 4 5 0
+r~me =fl~ ~ of w ~v,,.up, houri
+Cyr162 (~mmy 4/30/89
+. l )  . i . .  e . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+I I I I
+1 2 3 4 5
+'tirol =tim =tart of w,~.,r houri
+Fig .  5 .  Burst events from pressure loaded titanium.
+0.48
+0.46
+r
+0.44
+==
+O 0.42
+O
+IM
+'~ 0.40 =r
+0.38
+0.36
+0.34
+~SI~4 II-I C'/CIs )OI~LS 4/28/89
+t
+t
+11"1
+1 0
+[
+[
+,I!it{tttt
+I
+I
+] .... I [ I [ I
+15 0 5 10 15 20  25
+H O U R S
+Fig .  6. Total events from pressure loaded titanium in comparison
+with events from a dummy cell.
+How does all this occur? We don't really know.
+There are basically a couple of ideas people have had.
+One is what Steve Jones likes to call piezonuclear
+fusion--pressure bringing particles closer together and
+causing fusion to occur. The lattice provides the source
+of pressure in this case. Fusion then would likely occur
+at a regular rate rather than in bursts. The rate would
+also depend strongly on the reduced mass of the system,
+I014
+I0 I3.
+I0 ~
+10:
+100'
+10"
+1,0'
+0.I'
+~O~_D NUCLEAR F U S I O N ~
+PubtNacd or R~pormd at Scientific Me,tings
+-100 Table prepared by Steven E. Jones in late May, 1989.
+Neumln ~ r a e ~  are shown unless otherwise indicated.
+-I0 ~ "Excessl-l~"
+-l
+-0.1
+-10- 3
+-10. 5
+9 ,,~--,.--. - ]Ar~ for "c,~ori~,"
+.10-7
+u . ~ g n h
+.10-9
+"I0 "It _ ~  ~ o a
+OX~t rnte) (l~"at)
+.,~, R=~%_.k _..L
+m~ LBL PPPL
+BYU - -  "
+yale Bugey-
+Frejus
+.10.17
+*Report 5-hour 'spike,' seen of~e
+**Stated: doc$ not ol.lr~dic~ Jorle$ ~J~l.
+Fig .  7.  Cold nuclear fusion measurement.
+so we would expect to see the p-d fusion rate to be
+greater than the d-d rate and that to be greater than the
+d-t rate. That is, the lower the mass, the shorter the
+distance is between the particles and the greater is the
+fusion rate.
+The other idea is what is called fractal fusion. This
+is an idea conceived by a collaboration from Los Alamos
+and Washington. This explanation is based @on the fact
+that in Washington it has been noticed that charge can
+collect across fractures in materials so as to produce
+large electric fields in the fracture. It is thought that in
+the process of heating and cooling, such fractures could
+develop. The field then might be strong enough to ac-
+celerate deuterons across the fissure to produce hot fu-
+sion locally. So if that's true, it's not really a cold fusion
+process after all. In this case, we would expect to see
+bursts rather than a continuous fusion process and, as
+happens with hot fusion, the d-t rate would be greater
+than the d-d rate.
+The experimental evidence suggetss that we have
+both bursts and a continuous fusion process at the same
+
+time, so we can't draw any conclusions yet.
+This system hasn't been well studied at this time,
+116 Rees
+so we don't know really what is happening. Certainly
+other explanations are likely to be forwarded. It should
+be noted that a number of researchers at BYU, Frascati,
+Los Alamos, etc., have observed fusion rates compara-
+ble to the BYU level of 0.6 neutrons per second in sam-
+ples of roughly the same size. The current experimental
+status of cold fusion is illustrated in Fig. 7.
+In regard to Pons and Fleischmann, we simply don't
+believe their results to be due to fusion because of the
+lack of fusion products. Even if some sort of a new
+fusion process were occurring, ther ought to be x-rays
+produced. It is hard to believe that you could lose over
+20 MeV in a single event and see nothing at all coming
+out.
+In summary, the current status of solid-state fusion
+is that neutrons do seem to be observed at a level of five
+or six standard deviations in electrolytic cells, and per-
+haps as much as 11 standard deviations with pressure
+loading. But the rate is very low, corresponding to a
+power output of about 10 -13 watts.
+Probably the most interesting aspect of solid-state
+fusion is that we really don't know what is going on or
+why it's going on. In fact, the most important ramifi-
+cations may be in geology rather than in physics. Cer-
+tainly, right now we can't make any claims that cold
+fusion is likely to have any viability as a power source.
+And there are no results yet that lead us to believe that
+traditional fusion research should be pursued with any
+less vigor than has been undertaken in the past.
+REFERENCES
+1. S. E. Jones, J. Rafelski, and H. J. Monkhurst, eds. (1989). Muon
+Catalyzed Fusion. American Institute of Physics Conference Pro-
+ceedings, No. 181.
+2. H. G. Ostlund and A. S. Mason. Atmospheric Tritium 1968-1984.
+Tritium Laboratory Report No. I4, University of Miami, Miami,
+Florida.
+3. J. B. Czirr and G. L. Jensen (1989). A Neutron Coincidence Spec-
+trometer. BYU Preprint.
+4. S. E. Jones et al. (1989). Nature, 338, 737.
+5. S. E. Jones (1989). Cold Nuclear Fusion in Condensed Matter:
+Recent Results and Open Questions. BYU Preprint.
+Journal of Fusion Energy, VoL 10, No. 1, 1991
+Remarks of Donald P. Dautovich ~ 3. W O R K  AT ATOMIC ENERGY OF CANADA
+LIMITED
+
+1. INTRODUCTION
+The announcement on March 23rd from the Uni-
+versity of Utah, which reported a demonstration of fu-
+sion at room temperature in a test tube, has brought
+unprecedented attention to fusion, and worldwide spon-
+taneous activity to duplicate the findings. The effect even
+reached the business world causing speculation on the
+price of palladium, one of the test cell components.
+This was followed by widespread reports through
+the media of subsequent confirmations, negative results,
+and retractions of previous positive results. This period
+was characterized by widespread rumor, misinformation
+and lack of scientific reporting and review.
+Experiments were performed on variants of two dif-
+ferent approaches. One approach which could be called
+the wet cell, involved electrolysis experiments with a
+palladium or titanium cathode and platinum anode in
+heavy water solutions. The other approach referred to
+here as the dry cell, first used at Frascati in Italy, used
+titanium chips in a container, pressurized with deuterium
+gas, cooled to liquid nitrogen temperature, and then al-
+lowed to warm up. Observations have included mea-
+surement of various forms of radiation, tritium, helium,
+and heat production.
+2. WORK AT UNIVERSITIES AND INDUSTRY
+The response in Canada to these events was rapid
+as it was elsewhere. The University of Toronto, McGill
+University in Montreal, the University of British Colum-
+bia, and the University of Alberta all started to do elec-
+trochemical or wet cell tests. York University studied
+deuterium discharge onto palladium. Alcan and a small
+company called Electrofuels also did electrochemical
+work. Of this work as of June 1989, only Electrofuels
+claimed a temperature increase.
+1 Canadian Fusion Fuels Technology Project, 2700 Lakeshore Road
+West, Mississauga, Ontario L5J 1K3.
+A large effort was initiated at Atomic Energy of
+Canada Limited, both at their Chalk River laboratory
+and their White Shell Laboratory. They have used the
+electrolysis approach with a variety of electrodes and
+solutions, including palladium-silver, palladium rod, foil,
+sheet, and wire from a variety of sources some in cast
+form, basic soIutions, and acid solutions. They have tried
+the dry cells with palladium and titanium.
+General conditions included sample sizes of 1-10
+grams in wet cell tests and 100 grams in dry celt tests.
+Wet cells were run at 50-100 mA/cm2 over durations
+from days to weeks. Measurements included calorimetry
+to 2% accuracy, neutrons to low levels, tritium both in
+the electrolyte and in the electrode, gammas, protons,
+and x-rays, and He-4 in the palladium electrode. All
+results have not been different from background.
+4. W O R K  AT ONTARIO HYDRO
+Ontario Hydro also started this work fairly early
+and have tried both the dry cell and wet ceil approaches.
+The electrochemical work has shown no evidence in ex-
+periments designed to detect large scale heat effects.
+Efforts are underway to refine the calorimetry.
+In the dry cell approach, a cluster of four individual
+samples of palladium bars, titanium chips, titanium
+sponge, and uranium powder, each individually in a con-
+tainer pressurized with deuterium gas, were located around
+a helium-3 neutron detection system within a paraffin
+moderator block. Initial work has provided evidence of
+neutrons above background in repeated cycles using the
+original samples. At this time, it has not been determined
+which of the samples are responding. These reports are
+considered preliminary and subject to additional confir-
+mation.
+5. CONVINCING RESULTS
+117
+In reviewing the available information three criteria
+may be used to qualify" the reported results and permit
+some assessment of the validity of the data. The criteria
+used here are that the observations are significantly above
+background, that the instrumentation is good and that
+0164-0313/91/0300-0117506.50/0 9 I991 Plenum Publishing Corporation
+118 Dautovich
+the work be documented and available for detailed re~
+view and assessment.
+On this basis, five different sets of data have been
+selected as convincing as shown in Fig. 1. In wet cell
+tests, these include the Texas A&M data of Bockris and
+co-workers, where excess heat and tritium above back-
+ground were reported, Huggins and co-workers at Stan-
+ford University reported low levels of excess heat, and
+Jones and co-workers at Brigham Young University re-
+ported significant neutrons above background.
+In dry cell tests, Scarramuzzi and co-workers at
+Frascati reported 1000 times background neutron pulses,
+and Menlove and co-workers at Los Alamos National
+laboratory also found significant neutrons above back-
+ground.
+6. THEORETICAL CONSIDERATIONS
+Figure 2 shows the scale of fusion probabilities
+comparing the probability for DD fusion at room tem-
+perature with the rates implied by selected observations.
+Based on these probabilities, it is difficult to accept fu-
+sion as an explanation when the probability in deuterium
+gas is at 10 to the minus 70 and the fusion rates that are
+implied by these various results are 10 to the minus 20
+100
+10 -1C
+10 -2s
+- 3 (  --
+10
+1 0 - 4 (  --
+1 0 - 5 0 - -
+1 0 - 6 0 - -
+10-70--
+DT fusion in tokamak plasma at 10 keV
+DD fusion in Pd lattice at RT
+(based on F-P/Texas/Stanford heat output)
+DD fusion in tokamak plasma at 10 keV
+DD fusion in DDu molecule at RT
+DD fusion in Ti/Pd lattice at RT
+(based on Jones/LANL/Frascati neutron yield)
+HD fusion in HD molecule at RT
+DD fusion in D2 molecule at FIT
+Fig. 2. Fusion probabilities (/DD/s).
+Wet  (electrochemical cells)
+TEXAS A&M:
+- 10% excess heat
+- 1000 x T background
+~ No excess He-3/-4 in electrodes
+STANFORD U.
+- 10-20% excess heat
+JONES
+- 3 x background n in Utah
+- repeated under Gran Sasso (Italy)
+Dry (high pressure D2):
+FRASCATI
+- 1000 x background n pulses
+LANL
+- 100 x background n pulses
+Fig. 1. "Cold fusion" convincing results.
+CHEMICAL REACTIONS:
+- Chemical bond energies (-2 to +7 eV/Pd)
+- Hydriding energy (+0.4 eV/Pd2H)
+- Cor ros ion  (+0.9 eV/PdO)
+- Li or other alloying energies
+- Phase change (-0.2 eV/Pd to melt)
+MECHANICAL LA'r-I-ICE ENERGY:
+- Dislocations in deformed metal (<0.4 eV/Pd)
+- Surface energy (free or g.b.)
+INTEGRAL I*(V-1.54) STORED IN LAFFICE
+- 1 day incubation ( t 0  eV/Pd)
+IN-SITU RECOMBINATION:
+- 10% in-situ recomb (0.1 W/mL)
+Fig. 3. Chemistry-based explanations.
+for the titanium in the Jones and the Frascati experiments
+and around 10 to the minus 8 or 10 for the Pons and
+Fleischman observations.
+Figure 3 shows a variety of chemistry-based reac-
+tions and corresponding energies that could account for
+Cold Fusion 119
+those experiments showing low levels of excess heat.
+Included are energies related to palladium bonding, hy-
+driding, lithium alloying with palladium, lattice defor-
+mation, stored energy, and recombination.
+Attempts have been made to consider variations
+which might affect nuclear-based explanations. These
+have included examining the effect on tunneling caused
+by changing the effective mass or charge of the electron,
+reducing the lattice spacing of deuterium by a factor of
+2, incident cosmic ray muons and high pressure deuter-
+ium in microvoids. While as a theoretical exercise, the
+probabilities may be raised there is difficulty in describ-
+ing known processes which could cause such changes to
+the physical properties.
+Other attempted explanations have included a hot
+fusion cascade initiated by the high energies associated
+with electrical charge built up on the sides of a crack or
+deposited by cosmic rays.
+7. SUMMARY
+Considering the experiments which have been listed
+as convincing in Fig. 1, two groups have provided evi-
+dence for the existence of an unidentified small heat
+source. The low level of heat that is produced in the
+Texas A&M and Stanford work, can most plausibly be
+explained by a chemical explanation. The absence of
+helium and neutrons is consistent with this explanation,
+however, the high tritium level observed by Texas A&M
+is not.
+In the dry cell tests two groups present good evi-
+dence for an unidentified small neutron source. The best
+guess for an explanation may be hot fusion cascade. In
+our opinion, there is really no convincing case yet for
+nuclear fusion, certainly not of any practical value, but
+there seems to be a real effect and it has to yet be iden-
+tified.
+There are far more groups with good equipment
+who found no effect at all. There may be some possible
+reasons for that, but there is certainly no clear reason
+for it. We think that the evidence suggests that more
+work is appropriate. We think that funding should be
+commensurate with the understanding of this phenome-
+non and of its possible usefulness.
+
+Journal of  Fusion Energy, Vol. 10, _No. 1, 1991
+Remarks  of  Rulon K.  Linford 1
+After the detailed summaries given by the previous
+speakers, I will just give some general thoughts about
+where we are.
+The conference that was held in Santa Fe a week
+or so ago was a very timely event. Before the confer-
+ence, a lot of people had called me wondering about the
+appropriateness of the conference because it was sched-
+uled such a short time following several other meetings
+on cold fusion. Dr. Gajewski (Director of Advanced En-
+ergy Projects, Office of Basic Energy Sciences, DOE)
+had called me and asked us to hold the conference. I
+think that his ideas regarding the purpose and timing of
+the conference were sound and were borne out by what
+happened at the conference.
+The purpose was to get the people representing the
+full spectrum of expertise of those working on cold fu-
+sion together so they could talk about their work in a
+more scientific atmosphere for a period of a few days,
+and to draw from that interaction the necessary infor-
+mation that would allow more efficient scientific prog-
+ress. Certainly we were not expecting that major
+
+conclusions regarding cold fusion would result from the
+conference itself. However, we did expect that the con-
+ference might foster more focused research activities and
+cooperative efforts between various research groups. I
+believe it accomplished those purposes very well. We
+are pleased with the outcome of that conference.
+Table I is my summary of the observations to date.
+It lists the type of experiments in which excess heat and
+possible fusion products have been measured. The types
+Type
+Table I. Observations
+Equivalent Pressurized D2
+power Electrolysis gas (Pd + Ti
+(watts) Pd Ti mixture)
+Excess heat 10-z-10 X
+Neutrons: < 10 -s
+Random X
+Bursts Mixture
+Tritium < 10 -3 X
+3He, 4He, y 0
+X X
+X
+t Los Alamos National Laboratory, Controlled Thermonuclear Divi-
+sion, P.O. Box 1663, MS E529, Los Alamos, New Mexico 87545.
+121
+of experiments include electrolysis, or the so-called wet
+cells, and the dry pressurized gas cell experiments.
+As pointed out by previous speakers, the reported
+excess heat has ranged from the tens of milliwatts up to
+several watts, depending on the sizes of the electrodes,
+etc.
+Neutron measurements of both random single-neu-
+tron events and correlated burst events have been re-
+ported. The term "burst" sometimes is used to describe
+events that are minutes or hours long, as in the case of
+the Frascati pressurized D 2 results. However, that is not
+what I mean by this term in Table I. Measurements at
+Los Alamos have identified bursts of neutrons that came
+out within a window of about 100 microseconds. These
+neutrons are probably emitted in a time much smaller
+than that. The characteristics of the detector prevent the
+narrowing of the measurement window much below 100
+microseconds. The helium-3 detector uses polyethylene
+for a moderator. Even if, say, 100 neutrons were emitted
+within a nanosecond, they must be thermalized by the
+moderator before they are detected in the helium-3 tubes.
+This slowing down process spreads the detection of the
+neutrons in time with a characteristic width of about 50
+microseconds. The overall efficiency of the detector would
+allow up to 33 of the 100 neutrons to be counted in the
+128 microsecond window. This type of detector has been
+used to detect both bursts and random single-neutron
+events in both electrolysis and pressurized gas type ex-
+periments.
+Table I points out a large discrepancy between the
+amount of excess heat reported and the equivalent num-
+ber of watts that would be consistent with the measure-
+ments of fusion products. This is particularly true of the
+neutron output, either in the random mode or the burst
+mode. The measurement that comes closest to being con-
+sistent with the heat is the amount of tritium reported by
+Bockris (Texas A&M), which is still too low by at least
+an order of magnitude.
+As Keith Thomassen pointed out, this tritium was
+obtained from cells where the calorimetry had not been
+done, and in the case of the Srinivasan-Appleby (Texas
+A&M) work, where they have measured the excess heat
+in a rather careful calorimeter, a check for tritium and
+helium was made but none was found.
+With regard to helium and gammas, I am not aware
+of anybody that is now claiming a positive measurement.
+If there are any contradictions to that statement, I would
+be interested to know at this point.
+Table II summarizes mechanisms that might explain
+0164-0313/91/0300-012i$06.50/0 9 199I Plenum Publishing Corporation
+122 Linford
+Table II. Possible Mechanisms to Explain Observations
+i
+Requirements to Explain Observation of:
+Mechanism Neutrons Net heat
+Cold Reduced nuclear Reduced nuclear
+spacing ~ by 5 spacing ~ by 10
+and change
+branching ratio
+by > 10 ~
+Hot Cracking yields large  (Branching ratio re-
+electric fields ~ quirement not met) b
+Other ? ?
+" Compared to the 0.74 ~ spacing in the D2 molecule.
+b Branching should not change for this mechanism.
+the observations. One mechanism, identified as "co ld"
+in the table, is based on the increased probability of
+fusion due to quantum-mechanical tunneling as the spac-
+ing between the nuclei is reduced. The observed neutron
+production rate could be explained by reducing by a
+factor of 5 the nuclear spacing in the deuterium mole-
+cule. In order to explain the amount of net heat, you
+have to decrease that spacing by a factor of 10, only
+another factor of 2 beyond the amount needed to explain
+the neutrons. Even though a difference of many orders
+of magnitude exists between the observed neutron rates
+and the neutron rates required to be consistent with the
+excess heat, in terms of the nuclear spacing, the differ-
+ence is only a factor of 2.
+The impact of reducing the nuclear spacing has been
+well documented in muon-catalyzed fusion research. In
+the muonic molecule, the spacing is reduced by 200, 20
+times what is needed to yield the amount of excess heat
+indicated in Table II. The specific mechanism that might
+result in reduced spacing in a solid, like palladium, has
+not yet been identified. Several plausibility arguments
+have been put forward, but none of these has yet been
+developed into a sound self-consistent theory.
+Even more difficult to explain than the reduced
+spacing is a possible cause for a significant change in
+the fusion branching ratio. As indicated in Table II, the
+branching ratio would have to change by more than a
+million to explain the disparity between neutrons and
+excess heat. Again, some ideas have been offered to
+explain how this might happen between closely-spaced
+deuterium nucIei in a solid lattice, but more detailed
+calculations have so far failed to verify these ideas.
+A rather different type of mechanism is labeled "hot"
+in Table II and has been called the fractile or cracking
+mechanism by previous speakers today. In this model,
+cracking of the lattice generates large electric fields which,
+in turn, accelerate some deuterium nuclei sufficiently to
+cause fusion. Because the fusing process associated with
+this mechanism is expected to be very similar to the
+process in standard hot fusion experiments, one would
+not expect that the branching ratio would change. There-
+fore, this model is not a plausible mechanism for ex-
+plaining the excess heat in the face of such a small neutron
+production.
+Of course, other possible mechanisms might ex-
+plain either the neutrons or the excess heat. Significant
+progress could be made to narrow the possible mecha-
+nisms by careful but straightforward experiments. These
+experiments should focus on finding or ruling out the
+existence of fusion products in the amounts ~hat are con-
+sistent with the excess heat. These fusion products have
+come to be known as the "smoking gun." If the smok-
+ing gun does not exist, the mechanism responsible for
+the excess heat is not fusion. If the smoking gun is found,
+the specific types of products will determine the nature
+of the reaction and the branching ratios that must be
+explained, thus providing a needed focus for the theo-
+retical work.
+The reported observation of small numbers of neu-
+trons is scientifically intriguing even if the excess heat
+does not prove to have nuclear origins. However, more
+solid statistics are needed to facilitate research into the
+origin of the neutrons. The scientific community would
+also feel more comfortable if the observations were more
+repeatable and a larger number of people had observed
+the same kinds of results.
+In the areas of excess heat measurements, it is clear
+that the calorimetry that is being done now is more so-
+phisticated, and as reported in the conference, continues
+to indicate excess heat production. Further improve-
+ments are needed, including closing the systems and re-
+combining the gases from the electrolyte.
+
+In conclusion, improved collaboration between var-
+ious organizations is needed in order to get more work-
+ing experiments and to being the best possible diagnostic
+tools to bear on the experiments that are producing ex-
+cess heat and/or fusion products. Fortunately, such col-
+laboration is increasing and should yield important results
+in the near future.
+Journal of Fusion Energy, Vol. I0, No. 1, 1991
+Remarks o f  Keith I. Thomassen ~
+After 2 months of intense scrutiny by scientists around
+the world, we have taken only the first steps toward
+understanding the phenomena that launched our efforts.
+I'd like to give my views on what we know, what we
+
+don't know, and what it means. My conclusions are that
+an energy source is not likely to be found in cold fusion,
+but that some genuine scientific curiosities may have
+been uncovered and should be pursued at a more normal
+
+pace. An alternative conclusion is that these phenomena
+are not real and the results are a misinterpretation of
+measurements near the limits of detectability.
+Let me begin by stating what is becoming appar-
+ent - tha t  there may be some unexpected heat flow out
+of these electrolytic cells and some unexpected neutrons
+produced in solid materials under mysterious circum-
+stances. Furthermore, I believe these two phenomena are
+not connected. As has been widely noted, it is not easy
+to reproduce these phenomena, and it may be that we
+are in fact observing what Irving Langmuir called "path-
+ological science." In a 1953 lecture to the GE Research
+& Development Center, he gave six symptoms of path-
+ological science, and we can recognize in cold fusion
+many of these symptoms (see Table 1). Neutron output
+at the limit of detectability, theories of d-d reactions that
+are contrary to experience, ad hoc explanations of the
+heat by a new form of fusion, and the division of sup-
+porters and critics that has changed as events unfolded
+are symptoms we have seen.
+For over 2 months at LLNL, our work has turned
+up no "excess heat" and we have seen no neutrons
+above background. Our experience is similar to that of
+a large majority of other major institutions, yet these
+null results do not disprove assertions made by scientists
+who do claim to see these phenomena. My summary
+today then is based on observations reported by other
+I Lawrence Liverrnore National Laboratory, P.O. Box 808, Liver-
+more, California 94550.
+123
+groups, and in the case of one Texas A&M group on
+our work with them.
+Starting with the "excess heat"phenomena, it has
+been claimed by several groups that the heat flow from
+a cell operating in steady state exceeds the heat being
+put into the cell by the voltage source driving it. The
+definition of heat input taken by all these groups (except
+Stanford) is that it is the power from the voItage source
+less the amount needed to separate the water molecules
+into deuterium and oxygen atoms. The separation power,
+1.5 volts times the current, does not appear as heat un-
+less the gases recombine and I'm inclined to believe as
+do most electrochemists that the recombination heat is
+small. If that is the case, we have a scientific mystery
+which Pons and Fleischmann claimed had a nuclear so-
+lution.
+Their speculation (Pons and Fleischmann) is based
+on dividing this excess heat among all the deuterium
+atoms in the palladium and noting that it amounted to
+several hundred electron volts of energy per atom, an
+amount that cannot be explained chemically. Among other
+conjectures, not nuclear, are the release of energy stored
+during the time when the material is not producing ex-
+cess heat, insufficient accuracy in the caIorimetry, or
+chemical reactions involving many times more atoms
+than the deuterium atoms in the lattice.
+As for the release of stored energy the proponents
+of a positive effect will point to the steady-state output
+over times long compared to the charge time. As for
+inaccuracy in calorimetry, perhaps the most convincing
+case for accuracy has been made by Appleby, Srinivasan
+et al. at Texas A&M who in their experiments used a
+sophisticated microcalorimeter sensitive to b~-watts of
+heat flow. After low current charging for over 40 hours
+they increased the total current to 100 mA at 4 1/2 volts
+for another 100 hours. The 1 1/2 volts for separating the
+water molecule consumes 150 mW of the 450 mW ap-
+plied to the cell. For some time after the current was
+0164-0313/9110300-0123506.50/0 9 !991 Plenum Publishing Corporation
+124 Thomassen
+increased the heat output to the calorimeter was a steady
+300 mW, but then rose to 340 mW, an "excess" of 40
+mW. This excess was not observed with light water or
+other cathode material. The 40 mW level was not sus-
+tained when NaOD replaced LiOD, but came back when
+the NaOD was removed and LiOD put back in. For the
+small volume of Pd used in the experiment this heat
+translates to about 20 W/cc.
+An even more dramatic claim comes from Huggins
+at Stanford who reports more heat output by 12% than
+the total power into the cell, not subtracting the work of
+separation. His results are based not on conventional
+calorimetry, but by "calibrating" the cell with an in-
+dependent heater. Monitoring the temperature difference
+AT between the cell and its bath, a plot of AT with
+power is made. For calibration the heater is used; oth-
+erwise, the power is the total voltage times the cell cur-
+rent. Initially, the slope of this line is less than that
+generated during the calibration run, but as the cell runs
+for a few days the slope exceeds that of the calibration
+run, indicating excess power production over that from
+resistive heating. The slope measurement is made at var-
+ious times during the experiments and the calibration
+repeated throughout. A key issue here is a thorough
+analysis of this method as a substitute for calorimetry,
+but on the surface it would imply excess heat generation.
+Evidence against a nuclear explanation in the Ap-
+pleby experiment came from LLNL, where analysis of
+the Pd wire showed no helium generation and analysis
+of the electrolyte showed no buildup of tritium over the
+amount in the original electrolyte. Our method for mea-
+suring the 3He content in the Pd is sensitive down to 3
+• 105 atoms, three orders of magnitude more sensitive
+than equipment used at Rockwell. Since the sample
+weighed - 20 mg, the reaction rate is limited to 10-18
+D-D neutrons/sec per deuterium atom if the 3He were
+accumulated in 100 hours (see Fig. 1). In cells run at
+Stanford with purported excess heat, the helium analysis
+has not been done, and results of analysis from material
+used by Pons and Fleischmann have not been an-
+nounced. Another set of cells at Texas A&M, cells not
+put into a calorimeter, were sampled at various times
+during their operation and substantial tritium buildup was
+reported, contrary to the LLNL analysis. This issue needs
+to be resolved.
+Turning to neutron production, perhaps the most
+convincing evidence of room temperature fusion events
+comes from the Frascati-type experiments now repeated
+at LANL. There, the neutron bursts begin an hour after
+warm-up from ~,I 2 temperatures. At that time, the high
+pressure gas cylinderswith Ti and Pd materials in them
+reach -30~ These bursts give off 10-300 neutrons in
+Log R neutrons/sec/D atom
+10-4 - -  __
+4.6 X 10 "10 - -
+9 X 10 "21
+10-24
+10-74 - -
+R = n <ov> for DD @ n = 1014 cm'3= T = 10 eV
+Explains(1) 10 W/cc in Pd - -  Srinivasan, Texas A&M
+Upper limit(2) from 3He analysis @ LLNL of Srinivasan sample
+Measured rate in Ti, Jones (BYU)
+Room temperature rate for DT molecule(3)
+Notes: (1) Pd ~ 106 g/mole, 12 g/cc ~ 5.5 x 1022 D atoms/cc in 0.8D/Pd
+So, 10 W/cc = 5.5 x 1022 x R x 2.5 x 106 eV x 1.6 x 10 "is ~ R = 4.6 x 10 "10
+(2} 3 x 105 atom 3He/O.02 g in 100 hr  ~ 500 atom 3He/seclcc Pd
+So, 500 atom 3He/sec/cc Pd + 5.5 x 1022 atom D/cc Pd = 9 x 10 "21 events/sec
+(3) R ~ 10 +10 when muons catalyze DT molecules
+Fig. 1. Fusion reaction rate--cold fusion.
+less than 200 ~xs, and the bursts cease as the cylinder
+continues to warm up. These experiments are reminis-
+cent of the Soviet work by Klyuev et  al. (1~ on high-
+energy processes accompanying the fracture of solids.
+They observed electric fields between the walls of a
+propagating crack on the order of 10 V/cm, and accel-
+erating voltages of 100 kV and above as detected from
+x-rays with energies > > 50 keV. They also claim a
+neutron yield of about 10-11 per deuteron when the ma-
+terial (a LiD pellet) is fired against a metal plate and
+shattered. Here again there is a valid scientific curiosity
+in my view, but the neutron output is so low as to be
+uninteresting as a potential energy source. Further, there
+are questions being raised concerning spurious signals
+generated in the detectors in these experiments. Until
+those questions are resolved, one cannot assume the sig-
+nals come from neutrons in the samples.
+Finally, I'd like to comment on the negative results
+from numerous institutions carrying out cold fusion ex-
+periments. While such results dominate the reports from
+around the world they cannot negate well-documented
+positive results. Will the mystery be resolved by finding
+the key to replicating the phenomena of excess heat and
+neutron production or by finding that the positive results
+were in fact, spurious? That is the issue that must be
+addressed, and it is likely to require much more time
+and care than has been expanded to date.
+This work was supported by the auspices of the
+U.S. Department of Energy by the Lawrence Livermore
+National Laboratory under contract W-7405-ENG-48.
+REFERENCE
+1. Klyuev et al. (1986). Soy. Tech. Phys. Lett., 12(11), 551.

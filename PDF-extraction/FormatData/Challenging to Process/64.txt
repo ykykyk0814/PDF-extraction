@@ -1,0 +1,468 @@
+Low Energy Nuclear Laboratory  1
+
+ELECTROLYSIS OF D2O WITH A PALLADIUM CATHODE
+COMPARED WITH ELECTROLYSIS OF H20O WITH A PLATINUM
+ELECTRODE: PROCEDURE AND EXPERIMENTAL DETAILS.
+
+Abhay Ambadkar and John Dash.
+Low Energy Nuclear Laboratory (LENL),
+Portland State University,
+Portland, Oregon, USA.
+
+Dear Readers,
+
+We would like to thank you for showing interest in our experiments and also for all the
+appreciation and encouragement we received during ICCF10. The conference has
+definitely boosted our morale and we feel much more enthusiastic about the work we are
+doing at LENL. We are currently trying to increase excess heat output by exploring
+different ideas including laser stimulation*.
+
+This document contains the experimental procedure that we follow at LENL while
+conducting our experiments. We have some important details added that we feel would
+help enhance the excess heat effect. We have also included some typical experimental
+data and equations to be used for calculating excess heat along with a sample calculation
+for reference.
+
+Nuclear transmutation seems to be taking place during our experiment. We also present a
+scanning electron microscope (SEM) image of one of our Pd cathodes along with
+characteristic x-ray spectra acquired from it. These spectra provide strong evidence of
+possible “nuclear ash”.
+
+We hope this document will assist you to obtain positive results from your experiment.
+However, if you experience any problem or have any questions, please feel free to
+contact us. We will try our best to help you out.
+
+Once again, thank you, and we hope you succeed.
+
+Abhay Ambadkar (ambadkar@pdx.edu).
+John Dash (dashj@pdx.edu).
+
+* Inspired by the demonstration by Dennis Letts and Dennis Cravens during their
+presentation at ICCF10.
+Low Energy Nuclear Laboratory  2
+
+Electrolyte:
+Control cell  De-ionized H2O & H2SO4 in the ratio 12.3:1.
+Experimental cell  D2O & H2SO4 in the ratio 6.7:1.
+
+Construction of the experimental cell:
+
+1. Electrodes:
+
+i. Start with a 25mm wide & 0.5mm thick palladium (Pd) foil(Alfa Aesar stock #
+11514) and cold roll it into a 0.35mm thick foil. Cut a 25mm x 25mm piece from
+this foil.
+ii. Punch a hole about 4mm from one of the sides of this foil. A1mm diameter Pd
+wire about 10cm long (flattened at one end for about 2 cm) is inserted into this
+hole and bent over the other side to form a U shape. This portion is then spot
+welded to the Pd foil. This is used as the cathode.
+iii. For the anode, use a 25mm x 25mm x 0.1mm Pt foil and a 10cm long 1 mm
+diameter Pt lead wire. Perform the same operations as mentioned above in order
+to make a good contact.
+iv. Place these electrodes in a beaker filled with H2SO4 for 5 minutes. Then place
+them in separate beakers filled with de-ionized water in an ultrasonic cleaner for 5
+minutes. This will get rid of any contamination on the electrodes that occurred
+during their preparation.
+
+2. Catalyst chamber:
+
+i. The catalyst chamber is a cylindrical Teflon cup, open at the top with numerous
+perforations on the sides and bottom. Note that a slightly larger hole is needed on
+the bottom for a Teflon support pole.
+ii. Fill this chamber with recombination catalyst up to 5mm below full.
+iii. Carefully insert the cell electrodes into the bottom of this chamber and push them
+through the catalyst and then through the lid.
+
+3.  Add 50ml of the experimental cell solution to the cell beaker and place the catalyst
+chamber and lid with o-ring on into the beaker. Secure the lid strongly onto the
+beaker with adhesive tape (see Fig.2). A very good seal is needed to prevent loss of
+gases.
+
+Construction of control cell:
+
+The control cell is prepared similarly to the experimental cell, except that its electrolyte
+consists of H2O and H2SO4 and its anode and cathode are both Pt foils with dimensions
+25mm x 25mm x 0.1mm.
+
+Low Energy Nuclear Laboratory  3
+Experimental setup:
+
+1. Once the cells are ready, weigh them using a balance with precision 0.1g ± 0.05g. It is
+desirable to have an experimental cell with slightly higher mass (~ 5g) than the
+control so that its heat capacity is higher. Connect them according to the circuit
+diagram given in Fig.1 on the next page. Place the plexiglass cover over the cells.
+
+Fig. 1 Circuit Diagram
+
+CONTROL
+CELL
+EXPERIMENTAL
+CELL
+Power Supply (Constant
+Current = 3.5A and max
+voltage = 10V) A
+V V
+Thermocouple(TC). These TCs were connected to a computer, which then
+provided temperature readout for each cell from the six positions shown above.
+The cell temperature was then calculated as the arithmetic average of these six
+readings.
+Low Energy Nuclear Laboratory  4
+2. At PSU, we used 6 K-type thermocouples (TCs) on each cell. These TCs were then
+connected to a STP-36CJC board provided by Keithley Instruments that went to
+EXCELINX program on the computer, which would provide temperature readouts.
+During our demo at MIT however, we used K-type TCs that went into a
+Mocroprocessor Thermometer (Model HH22) manufactured by Omega Engineering
+Inc. Note: The main difference between the two is that with the former we can
+acquire and process individual cell temperatures at 6 different positions while the
+latter is more portable but less versatile.
+
+3. Start the experiment by setting the power supply to output a constant dc current of
+values up to 3.5A and maximum output voltage of 10V. Note: The bottom of the cell
+reaches 90 0C on the outside, which means that the electrolyte inside the cell is close
+to the boiling point. It is not desirable to boil because this would saturate the catalyst
+with water, rendering it ineffective. Hence the current should not exceed 3.5A.
+
+4.  Record the cell voltages and temperatures at regular intervals of 30 minutes. Normally
+the experiment reaches steady state 2-3 hours after it is started. Run the experiment
+for about 3 hours after steady state so that a substantial amount of data can be
+collected.
+
+Something noteworthy:
+1. Electrode separation and placement inside the cell are factors that effect the
+production of excess heat. This is because they influence the cell voltages by
+increasing or decreasing cell resistivity and thereby affect the cell temperature.  As far
+as possible, try to keep the electrodes equally separated from each other (approx. 1cm
+± 1mm) in both cells. Their elevation from the cell bottom should also be the same in
+both cells (approx. 1.2cm ± 1mm).
+
+2. We noticed that excess heat production was enhanced when the direction of current
+flowing in the circuit was reversed for a limited time period. After about 80 hours of
+electrolysis, we generally observe a decrease in the excess power output from the
+experimental cell. We reverse the polarities on both cells for about 30 minutes and
+then put them back to normal. This causes Pd to deposit on itself. We then obtain a
+considerable increase in the excess power output. Fig. 3 on page 6 supports this
+
+conclusion.
+
+3.  The recombination catalyst used in our experiment tends to cease working after
+coming in contact with water. It causes the pellets (those at the bottom of the
+chamber) to stick to each other, thus impeding the gases from reaching other ‘dry’
+pellets. Although there is not a fixed time period for their lifetime, we suggest you
+replace the catalyst on a daily basis (approx. 8 hours of electrolysis). Alternatively
+you could wait for a time when the weight loss from a cell suddenly jumps to an
+unexpected value. This usually indicates that the catalyst is not functioning properly.
+Rinsing with water and allowing it to dry completely may rejuvenate the sticky
+catalyst, but we do not have any proof of this.
+
+Low Energy Nuclear Laboratory  5
+
+Fig. 2 Control Cell
+
+Platinum electrode foils
+The experimental cell had a Pd cathode. The electrolyte was made of H2SO4 and D2O
+in the ratio 1:6.7.
+Electrode lead wires
+Catalyst
+chamber(Teflon) with
+perforations on bottom
+and on periphery
+O-ring, inert
+to electrolyte
+Teflon lid
+Adhesive Tape
+Support pole (Teflon)
+Control cell solution
+Sulphuric acid and
+deionized H2O in the
+ratio 1:12.3
+1 cm
+Low Energy Nuclear Laboratory  6
+
+Effect of electroplated Pd cathode on cell
+temperatures
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+1-Jan-
+03
+3-Jan-
+03
+5-Jan-
+03
+7-Jan-
+03
+9-Jan-
+03
+11-Jan-
+03
+13-Jan-
+03
+15-Jan-
+03
+Date
+Te
+m
+pe
+ra
+tu
+re
+(d
+eg
+.C
+)
+Tc
+Te
+Effect of electroplated Pd cathode on cell voltages
+3.7
+3.8
+3.9
+4
+4.1
+4.2
+4.3
+4.4
+4.5
+1-Jan-
+03
+3-Jan-
+03
+5-Jan-
+03
+7-Jan-
+03
+9-Jan-
+03
+11-
+Jan-03
+13-
+Jan-03
+15-
+Jan-03
+Date
+Vo
+lta
+ge
+(v
+ol
+ts
+)
+Vc
+Ve
+Fig. 3 (above) presents a comparison between the control and experimental cell
+temperature and voltages observed before and after polarity reversal. On 3rd Jan, we had
+excess output power from the experimental cell equal to 0.15W as opposed to 3.06W
+from the same cell on 14th Jan. Please note: Vc refers to the control cell voltage, Ve refers
+Low Energy Nuclear Laboratory  7
+to the experimental cell voltage, Tc refers to the temperature of control cell and Te refers
+to the temperature of the experimental.
+We believe that reversing the polarity for 60 minutes on 7th Jan 2003 caused this. When
+this was done, Pd dissolved in the electrolyte. When the original polarity was restored, Pd
+deposited on the Pd cathode in the form of a very porous, loosely bound substance.
+
+To end the experiment:
+
+i. Turn off the power supply and allow the cells to cool for about 30 minutes.
+ii. Take them out from the setup and weigh them to determine the weight loss.
+iii. For calculating excess heat you will need the last (steady state) voltage and
+temperature data points.
+
+FORMULAE USED & CALCULATIONS:
+
+Control cell evaporation loss (in Watts):
+
+dHc/dt (evaporation) = {Control cell weight loss(in grams)/ Molecular weight of H2O(in
+grams)}* {4.18 * Heat of formation of H2O(in calories)/ Duration of experiment (in
+seconds)}.
+
+Experimental cell evaporation loss(in Watts):
+
+dHe/dt(evaporation) = {Experimental cell weight loss(in grams) / Molecular weight of
+D2O(in grams)} * {4.18 * Heat of formation of D2O(in calories)/ Duration of experiment
+(in seconds)}.
+
+(where 4.18 is a constant to convert calories to joules)
+
+Excess power output from experimental cell(in Watts):
+
+dHe/dt(excess) = {(Te – Ta ) / (Tc – Ta)} * {(Vc * I) – dHc/dt } + dHe/dt – (Ve * I)
+
+where,
+Te  Experimental cell temperature in oC.
+Tc  Control cell temperature in oC.
+Ta  Ambient temperature in oC.
+Vc Control cell voltage in volts.
+Ve  Experimental cell voltage in volts.
+I  Current flowing in circuit in amperes.
+
+Low Energy Nuclear Laboratory  8
+Sample calculations:
+
+Date: 9th May 2003 (steady state values)
+
+Vc = 3.34 V   Tc = 63.9 0C.
+Ve = 3.20 V   Te = 65.2 0C.
+I = 3.0 A   Ta = 24.4 0C.
+
+Weight lost by control cell = 1.6g.
+Weight lost by experimental cell = 2.1g.
+Duration of experiment = 525 minutes = 31500 seconds.
+
+dHc/dt(evaporation) = (1.6 / 18) * (4.18 * 57.79*103 /  31500) = 0.68W.
+dHe/dt(evaporation) = (2.1 / 20) * (4.18 * 59.56*103 / 31500) = 0.83W.
+
+dHe/dt(excess) = {(65.18 – 24.4) / (63.93 – 24.4)} * {(3.34 * 3) – 0.68} + 0.83 – (3.2 * 3)
+=  0.87 W
+
+On the next page we have two graphs that show data points collected on 9th May 2003 as
+reference. Please note: The plexiglass cover was not used to cover the cells in this
+experiment.
+
+Low Energy Nuclear Laboratory  9
+Cell voltages on 9 May 2003
+3
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+0 100 200 300 400 500 600
+Time (minutes)
+Vo
+lta
+ge
+(V
+ol
+ts
+)
+Vc
+Ve
+
+Cell temperatures on 9 May 2003
+60
+60.5
+61
+61.5
+62
+62.5
+63
+63.5
+64
+64.5
+65
+0 100 200 300 400 500 600
+Time (minutes)
+Te
+m
+pe
+ra
+tu
+re
+(D
+eg
+. C
+)
+Tc
+Te
+
+Fig. 4 A typical day in our lab.
+
+Low Energy Nuclear Laboratory  10
+Evidence of possible transmutation:
+
+We perform x-ray analysis using a energy dispersive spectrometer(EDS) and a scanning
+electron microscope(SEM) on the Pd cathode from the experimental cell before and after
+the experiment. Initially, the cathode surface would consist of Pd and some carbon(C)
+and oxygen(O). However after the experiment we found up to 20% silver using spot
+analysis. This examination suggests a strong possibility of nuclear transmutation. We
+believe that a Pd atom absorbs a neutron , goes into an unstable state, which then
+stabilizes by emitting an electron and gives rise to a stable silver atom.
+
+108 Pd + n             109 Pd
+
+109 Pd              109 Ag + e - + Energy
+Image Magnification: 1.12Kx             10µm
+
+Fig. 5 (above) shows an enlarged SEM image of a small area on the Pd cathode from one
+of our experiments. Besides the interesting topography, we found some stimulating
+results during x-ray analysis of spots 1 and 2 (see Fig. 6. on the next page). From spot #1
+(looks like a bright spot) we did not find any elemental silver. However, on spot# 2, we
+had as much as 19% elemental silver (values obtained by performing quantitative
+analysis using EDS). Spectrum[1] shows that the Pd Lβ/Lα ratio is about 0.4 and notice
+that its value is 0.75 in [2]. The former suggests presence of Pd only, while the latter
+indicates silver x-ray energy lines superimposed with the Pd lines.
+[1]           [2]
+Low Energy Nuclear Laboratory  11
+
+Fig. 6.
+[1]
+[2]
+Low Energy Nuclear Laboratory  12
+APPENDIX
+
+List of reagents, apparatus and instruments required for the experiment:
+
+Reagents:
+
+1. Heavy water – 100ml, 99.9% pure, lot # 00318CU by Aldrich Chemical
+Company, Inc.
+2. Sulphuric acid – 20ml, 99.999% pure, batch # 11309EB by Aldrich Chemical
+Company, Inc.
+3. Deionized water – 100ml.
+4. Recombination catalyst – 200g, Pt 0.5% on 1/8 inch. Alumina pellets, lot #
+J14M16 by Alfa Aesar.
+
+Apparatus:
+
+1. Glass beakers (2), capacity: 200 ml (flared on top, but without any spout). Spare
+beakers would be on hand in case of breakage.
+2. Teflon lids(2) (for the beakers) with two holes, 1 mm diameter in each for the
+electrode lead wires. O-rings made of ethylene propylene(resistant to sulphuric
+acid) are used to seal the lids against the flared ends of the beakers.
+3. Teflon catalyst chambers(2) with perforations on the bottoms and around the
+circumference to hold the recombination catalyst. These were made from 100ml
+Teflon beakers. A Teflon rod fastened to the bottom of each beaker served to
+suspend the chambers above the electrolyte.
+4. Platinum lead wire – 1.0mm diameter, about 15 inches long(4.5 inches for each
+electrode except the Pd electrode which requires about 4.5 inches Pd wire, 1mm
+diameter).
+5. Platinum electrode foils(3), two with dimensions 25mm x 12.5mm x 0.1mm for
+the control cell and one with dimensions 25mm x 25mm x 0.1mm for the
+experimental cell.
+6. Palladium electrode foil with dimensions 25mm x 25mm x 0.35mm for the
+experimental cell. Please note that we started off with a 0.5mm thick foil and cold
+rolled it to 0.35mm. We recommend that you purchase Alfa Aesar( a Johnson
+Matthey Company) lot # 11514.
+7. Type K thermocouples(10), 5 per cell. We use Omega self-adhesive
+thermocouples, which we seal against the outside of each cell.
+8. Vinyl tape for sealing the cell lids against the flared tops.
+9. A two-gallon fish tank with about 5mm thick plexiglass walls and two openings.
+The tank is placed up side down over the cells for protection in case there is an
+explosion(highly unlikely if the experiment is performed correctly). One of the
+openings houses a probe to monitor ambient temperature inside the fish tank. A
+tube is fastened onto the other opening to conduct any escaping off-gases to a
+container of recombination catalyst.
+10. A styrofoam base to insulate the cell bottoms.
+
+Low Energy Nuclear Laboratory  13
+Instruments:
+
+1. Multimeters(2)
+2. Ammeter(1)
+3. Power supply(1), should be able to provide a constant dc current of 3.5A and a
+minimum output dc voltage of 15V.
+4. Digital thermometer(s) that provide(s) temperature output from thermocouple
+input. Alternatively, a PC with data acquisition software can be used to monitor
+all of the thermocouples.
+5. Connecting wires and crocodile clips, required as per circuit diagram shown on
+page 3.
+

@@ -1,0 +1,245 @@
+
+1
+Castano, C.H., et al., Calorimetric Measurements During Pd-Ni Thin Film-cathodes Electrolysis in
+Li2SO4/H2O Solution, in ICCF9, Ninth International Conference on Cold Fusion. 2002, unpublished:
+Beijing, China: Tsinghua University.
+
+CALORIMETRIC MEASUREMENTS DURING Pd-Ni THIN FILM–
+CATHODES ELECTROLYSIS IN Li2SO4/H2O SOLUTION
+
+C.H. Castano, A.G. Lipson, S.O. Kim and G.H. Miley
+
+University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma and Radiological Engineering,
+Urbana, IL 61801, USA
+
+A sensitive open-type calorimeter was used to measure excess heat production during electrolysis
+in Li2SO4/H2O solution with Pt-anode and Pd-Ni thin film cathodes 9000 Å thick, sputtered on Al2O3
+substrate. In order to estimate the actual performance and possible measurement errors during electrolysis
+in the calorimeter used, including heat convection, bubbling and possible H2+O2 recombination, smooth Pt
+sheets were used as cathodes in special reference runs. It is shown that the Alumina/ Pd-Ni sample that
+survived during electrolysis achieved excess heat production of 20-25 % of the input power
+(equivalent to 300 ± 30 mW).
+
+
+1. INTRODUCTION
+
+For the last decade there were numerous reports concerning heat generation in the electrochemical
+cells with Pd or Ni cathodes. It was claimed that the bulk Pd cathodes may generate some excess heat in
+heavy water based alkaline electrolyte [1,2], both in open cell and in closed- type cells with a recombiner.
+In order to generate excess heat with a Pd cathode a certain parameter regime is required, including a very
+high current densities and over-potentials, high loading ratio (x=D/Pd) and high deuterium diffusivity, as
+well as especial treatment of the cathode-samples (annealing, etching, etc.) [3]. The same irreproducibility
+of heat generation was found for electrolysis of massive Ni-cathodes in the H2O based electrolytes [4,5].
+Heat production in the Ni-H system has been studied much less than in Pd-D. In that case possible heat
+generation has been attributed to formation of Ni-hydride β-phase under special loading conditions. At the
+same time it is well known that high loading for Ni samples is more difficult to obtain than that for Pd [6].
+Thus, the irreproducibility of heat production in the Ni-H system with massive cathodes is generally
+regarded to be as poor as that of the Pd-D system. It should be noted that irreproducibility and the relatively
+low level of heat production in Pd or Ni-cathodes during electrochemical loading has prompted alternative
+trivial explanations of the observed thermal effects, e.g. gas H2+O2 recombination and/or changes in the
+faradic efficiency of open-cell electrolysis upon the cathodic polarization of Pd [7].
+
+In this connection, the more perspective way to obtain reproducible heat generation in the metal-
+hydrogen electrochemical systems is, in our opinion, utilization of thin-metal film cathodes on dielectric
+substrates [8]. The advantages of the thin-film cathodes include: (i) a very short time is required to achieve
+as high hydrogen loading due to small metal thickness; (ii) an effective hydrogen reflection at the Pd-
+dielectric interface from the dielectric side, increasing the effective concentration of hydrogen in metal; (iii)
+relatively low current density can be used to provide the necessary condition for heat generation [3]; (iiii) a
+large input power density Win is applied to the metal –hydrogen system (at film thickness of 2000 A,
+typically Win ~ 103-104 W/cm3, while for 1 mm thick Pd wire at least 3 orders of magnitude less even at
+much higher current density), which allow increase in the H-diffusion amplitude in Pd lattice.
+
+In the present paper, a sensitive open-type calorimeter is used to demonstrate that Pd-Ni thin film
+cathodes sputtered on a Alumina dielectric substrate during electrolysis in 1M Li2SO4/H2O with a Pt-wire
+anode reproducibly generates heat at the level of 20-25 % of the input power during long time runs. We
+show that the generated heat cannot be explained by conventional chemical mechanisms, including H2+O2
+recombination.
+
+2
+
+2. EXPERIMENTAL TECHNIQUE
+
+In order to detect possible heat evolution during electrolysis runs in the present work, a high
+sensitivity open-type calorimeter has been employed. This calorimeter consists of a large constant
+temperature water bath (30 l of water) in which four double-wall glass cells are immersed. During the
+experiments the bath temperature was strictly stabilized with Circulating Bath device and precisely fixed at
+the point of 28.0 ± 0.05 °C. Each cell was covered by a rubber cap and provided with two thermistors,
+magnetic stirrer (to exclude thermal gradients which can essentially distort the actual temperature in the cell
+due to convection) and plastic cathode-holder, to maintain the cathode inside the electrolyte (Fig.1). All
+thermistors were calibrated with a sensitive mercury thermometer. The error of this calibration was 0.1 °C.
+The temperature difference ∆T=Tx-T0 between the thermistors inside the cells (Tx) and the bath temperature
+(T0) was monitored evry five minutes.
+
+Calibration of cells in the range of 0.05 – 5.0 W input power was carried out using a standard
+R=70 ohm resistor. The calorimeter’s time constant (time for stabilization of the temperature after a change
+in input power) is ~ 4 hrs. The average resistor-calibration error < 25 mW. Measurements show a high
+sensitivity of  200 ± 25 mW/°C or 5.0 °C per 1 W of input electric energy .
+To account the actual ohmic heating of the electrolyte due to electrolysis (potential drop due to
+electrical resistance of electrolyte, cathode, anode and electric circuit) the water dissociation potential
+(WDP) is subtracted from the electrolysis voltage. The minimal WDP value for oxygen acid salts
+electrolyte [9] can be estimated as:
+U0 = Uth + η0.                                                   (1),
+Here Uth = 1.48 V is the thermal neutral dissociation potential and η0-is the sum of cathode and anode over-
+potentials (for a Ni(cathode)-Pt(anode) pair: η0 = 0.58 V; for a Pt-Pt pair: η0 = 0.53 V and so on). Direct
+experimental measurements of WDP (using volt-ampere characteristics in the cell measured between
+cathode and anode) performed for these electrode pairs in our electrochemical cells show a good agreement
+(within the 5 % of theoretical value) of U0 values from formula (1).
+In the present work, a double-layer Pd/Ni thin film sputtered on ceramic Al2O3 substrate was used
+as a cathode [10]. The flat substrate samples with area S=12.5 cm2 were cut from ceramic plate of 1 mm
+thick and roughness of 8-10 kÅ. After chemical and ultrasonic cleaning of substrate plates, magnetron
+sputtering of 8000 Å Pd was carried out (sputtering rate ~ 0.41 Å/s). On the top of the Pd film the 1000 Å
+thick Ni film was sputtered with the same rate. The samples were then annealed in high-vacuum (p=10-7
+tor) at t = 800 °C for 4 min using low heating and cooling rates
+
+3. EXPERIMENTAL RESULTS
+
+3.1 OPTIMIZATION OF EXPERIMENTAL ARRANGEMENT
+
+To check actual performance during Foreground electrolysis runs (with Alumina/Pd-Ni samples),
+including heat convection, bubbling, electrode’s geometry, and positioning, as well as H2+O2
+recombination. Smooth Pt sheets were used as cathodes in Reference runs, since Pt does not produce excess
+heat in the light water electrolysis [3]. To closely replicate the runs the cathode Pt sheets were attached to
+the surface of a standard Alumina substrate. The reference experiments used three different Pt-wire anode
+types fixed at different distances from cathode Pt-sheets: (I) long-straight wire parallel in front of the center
+of the cathode surface (cathode-anode distance 10 mm); (II) loop-like wire coil parallel in front of the
+cathode surface and separated by 25 mm distance from the cathode; (III) hook-like coil 25mm above the
+cathode surface.  Reference runs   were performed in 3 cells containing the same cathodes and anodes (I-
+III) with the input power ranging from 0.1- 3.0 W. The performance of this runs at various current (50 –
+600 mA) is defined by the calorimeter “heat recovery” value R as follows:
+R =  Pth/I(U-U0)                                                             (2),
+where, Pth  is the thermal power measured in calorimeter by thermistors; I and U are the electrolysis current
+and voltage, respectively; U0 = 2.01 V is an effective water dissociation potential for Pt/Pt pair defined in
+Eq. (1). If the cell with Pt electrodes is calibrated correctly and it does not produce any excess heat, so R ≈
+100 %. That is, the thermal power generated is solely due to ohmic/Joule heating of the electrolyte by
+
+3
+applied current and voltage.  If R > 100% for Pt/Pt electrodes indicates that there is H2+O2 recombination.
+If R<100 %, an incorrect calibration or increase of WDP (U0) due to an anomalous increase in the cell inner
+resistance is suggested.
+
+The results of experiments in cells I-III with the same Pt-cathodes and different Pt-anode
+configurations, described above are presented in Table 1 (averaged by 50-600 mA current heat recovery
+values R). As seen, the R value closest to 100 % was in Cell II with a loop-like anode. Heat recovery R in
+cells I and III are larger than 100 %, suggesting that H2+O2 recombination is not negligible. For anode (I) in
+cell 1 the recombination contribution would be about 16 %, while for anode (III) in cell 3 it is about 10 %.
+In contrast to these “bad anode geometries” (cells I and III), cell II shows that recombination contribution is
+≤ 3.0 %. Increasing the cathode-anode distance by 25 mm in cell I, leads to a decrease in R from 116 to 108
+%. Thus, it is shown that the best arrangement of anode is consistent with (II).
+
+In the other reference experiments with Pt-Pt electrodes possible changes in electrolyte
+concentration were estimated. Electrolysis runs carried out in electrolytes with different molarities show a
+quite constant R at Li2SO4/H2O concentrations within 0.8-1.2 M (Table 1). Such large changes could only
+associated with evaporation of 20 % volume of the cell. Therefore, changes in the electrolyte concentration
+during the cell operation do not significantly affect the heat recovery R.
+
+Note that substitution of thermal-neutral dissociation potential U=1.48 V (without accounting of
+electrodes over-voltages) in formula (2) for cell I-III leads to a drastic decrease R below 80 %. This fact
+indicates the non-negligibility of the electrodes over-potentials, at least, on calorimetry measurements at
+current densities j ≥ 10 mA/cm2.
+
+3.2 ALUMINA/PD-NI CATHODE RESULTS
+
+Experiments on detection of heat generation for Alumina/Pd-Ni cathodes (Foreground runs) were
+carried out at constant electrolysis current ranging from I =100-600 mA (j = 8.5 - 50.0 mA/cm2)
+corresponding to a cell voltage U 3.5-5.5 V. To calculate Joule heating of the electrolyte P* the effective
+WDP value U0 = 2.06 V is used in formula (2). This U0 corresponds to a Ni(cathode)/Pt(anode) electrode
+pair WDP (1000 Å Ni film used on the top of the Pd layer).
+Typical kinetics of the heat measurement (Pth vs. elapsed time t) are presented in Fig.2 As seen
+after t > 2 hrs, the thermal yield Pth exceeds Joule heating P*. The maximal heat recovery R of 135 %
+occurs at electrolysis current I=100 mA (j = 8.0 mA/cm2), while the corresponding absolute value of excess
+heat production is Wex = 60 ± 28 mW. Increasing the current density to 48 mA/cm2 leads to decrease in heat
+recovery R from 135 to 115 %. In typical cases the excesses heat evolution from the cathode at I = 200 mA
+continues for ~ 15 days. The decrease in R during a long Foreground run is accompanied by an increase in
+cell voltage. The last process indicates an increase in the cell inner resistance due to defects and micro-
+cracks generation in Pd/Ni cathode. The cathode samples survive, i.e. they do not detach the Alumina
+substrate during these long runs. Thermistor calibration runs repeated immediately after this Foreground
+run show that calorimeter parameters, (including ∆T vs. Win) did not change during the time of operation
+with Alumina/Pd-Ni sample (15 days). This gives a proof of stability of the calorimetry system and
+indicates that our measurements of excess heat production were actually correct.
+
+3.3 ERROR ANALYSIS IN THE HEAT MEASUREMENTS
+
+The main errors of open-type calorimetry are associated with calorimeter accuracy as well as with
+gas recombination. As discussed in sec. 3.1 the recombination limit for the cell II-type configuration could
+not exceed 3.0 % of the input power. Other possible sources of errors would be referenced to uncertainty of
+calorimeter, such as thermistors accuracy, oscillation of bath and ambient temperatures, appearance of
+thermal gradients and the change in the electrolyte volume due to evaporation. Results for the calorimetric
+accuracy with respect to the precision of excess heat measurement are summarized in Table 2.  The total
+average error of heat measurement, in accordance with error propagation, does not exceed <σt> = ± 30
+mW. In an actual experimental performance at low input power (Win < 1.0 W) this error is <σl> = ± 20
+mW, while at high input power range (Win > 1.0 W) it is twice larger: <σh> = ± 40 mW.
+
+4
+Comparison of the calorimetry errors with excess power gains obtained in Foreground runs with
+Aumina/Pd-Ni cathode shows that observed amounts of excess heat generated during electrolysis are well
+above the error limit determined by both the calorimetry accuracy and possible recombination.
+
+
+4. SUMMARY AND CONCLUSIONS
+
+Measurements of excess heat production were carried out during electrolysis in 1M Li2SO4/H2O
+solution with Pt-anode and Pd-Ni thin film cathodes (9000 Å thick) sputtered on the dielectric substrate
+(Alumina). In order to estimate the actual performance during electrolytic runs in the open-type calorimeter
+used, including heat convection, bubbling and possible H2+O2 recombination, smooth Pt sheets were used
+as cathodes. It was found that in the “good geometry” (with a loop-shape wire Pt-anode separated by 25
+mm distance from cathode) a maximal contribution of H2+O2 recombination in the heat production does not
+exceed 3.0 %
+
+No excess heat was measured if the metallic coating of cathode-sample was fractured and/or
+detached from the substrate, adding confidence in the calorimetric calibration. The best adhesion of Pd/Ni
+coating having a good film quality was achieved with Alumina (with maximal roughness of about 10 kÅ)
+as a substrate. This required a special procedure of high-vacuum annealing at t = 800 ºC. Then the
+Alumina/Pd-Ni sample survived 2 weeks electrolysis and produce an excess heat power reaching 20-25 %
+of the input power, equivalent to 300 ± 30 mW.
+
+Comparison of calorimetry errors with excess power obtained in Foreground runs with the
+Aumina/Pd-Ni cathode as well as the theoretical analysis of oxygen reduction in the electrolytic cell shows
+that the excess heat measured during electrolysis is well above the error limit determined by both the
+calorimetry accuracy and by a possible gas recombination.
+
+ACKNOWLEDGEMENTS
+
+Partial support of this research by Lattice-Energy, LLC is gratefully acknowledged.  We gratefully
+acknowledge Dee Staley and Prajakti Joshi for their editorial support.
+
+REFERENCES
+
+[1]     M.C.H. McKubre, S. Crouch-Baker, R.C. Rocha-Filho, et al., J. Electroanal. Chem. 368, 55 (1994).
+[2]     M.H. Miles, J. Electroanal. Chem. 482, 56 (2000).
+[3]     E. Storms, Fusion Technol. 29, 261 (1996) .
+[4]     R.L. Mills and S.P. Kneizys, Fusion. Technol. 20, 65 (1991).
+[5]     R. Notoya R, Fusion Technol. 24, 202 (1993).
+[6]     H. J. Bauer and E. Schmidbauer, Z. Physik, 164, 367 (1961).
+[7]     J.E. Jones, L.D. Hansen, S.E. Jones, D.S et al., J. Phys. Chem., 99, 6973 (1995).
+[8]    G.H. Miley, Space Technol. Applic. Int. Forum (Ed.: MS El-Genk) 458, 1227 (1999).
+
+[9]     S. Glasstone, An Introduction to Electrochemistry, Chapter 13, Wiley, New York, (1951).
+[10] G.H. Miley, H. Hora, E.G. Batyrbekov and R.L. Zich, Trans. Fusion Technol. 26, 313 (1994).
+
+Table 1
+Parameters of electrolysis and “heat recovery” R for Pt-Pt reference runs in cells I-III
+Cell # / parameter M (Li2SO4/H20) x, mm R, %
+I 1.0 10.0 116.0 ± 6.2
+I 1.0 25.0 108.0 ± 7.1
+II 1.0 25.0 102.5 ± 5.0
+II 0.8 25.0 101.5 ± 6.0
+III 1.0 25.0 110 ± 5.5
+III 1.2 25.0 110 ±6.5
+
+5
+Here, M- is a molarity of electrolyte; x-is the distance between the cathode and anode; R- is the heat
+recovery of the cell, averaged by applied current (ranging from 50-600 mA) and defined by formula (2).
+
+Table 2
+Sources of errors with respect to accuracy of calorimetry measurements
+Error source Accuracy/Precision Error value, mW
+Thermistors 0.1°C /0.02 °C ± 5.0
+Bath Temperature 0.05 °C ±13.0
+Thermal Gradients 0.02 ° C ±5.0
+Ambient temperature 0.02 °C/°C ± 20.0
+Electrolyte evaporation < 5.0 ml < 3.0 %
+Total Error <σt>                    - ± 30.0
+
+Figure 1. Schematic representation of the calorimetric bank.
+
+Figure 2. Typical case of moderate excess heat from an Alumina/Pd-Ni cathode.

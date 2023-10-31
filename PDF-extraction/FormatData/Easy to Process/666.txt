@@ -1,0 +1,108 @@
+Cecil, F.E. and G.M. Hale. Measurement of D-D and D-Li6 Nuclear Reactions at Very Low Energies. in Second
+Annual Conference on Cold Fusion, "The Science of Cold Fusion". 1991. Como, Italy: Societa Italiana di Fisica,
+Bologna, Italy.
+
+MEASUREMENT OF D-D AND D-6LI NUCLEAR REACTIONS
+AT VERY LOW ENERGIES
+
+F.E. Cecila and G.M. Haleb
+aColorado School of Mines, Golden CO 80401, USA
+bLos Alamos National Laboratory, Los Alamos NM 87545, USA
+
+
+ABSTRACT
+The nuclear reactions of very low energy deuterons (down to center-of-mass energies of 2 keV) with
+deuterons and 6Li have been measured. The measured D-D reactions are in good with agreement recent R-matrix
+calculations. The reaction ratios D(d,p)T/D(d,n)3He and 6Li(d,p)7Li/6Li(d,α)4He in particular were examined for
+possible evidence of an Oppenheimer-Phillips type enhancement. No significant enhancement was found in either
+ratio or in the absolute yields of the reactions. The radiative capture reactions D(d,γ)4He and 6Li(d,γ)8Be were
+likewise measured. The branching ratios of these radiative capture reactions to the nucleonic branches of the
+reactions appear roughly independent of energy. The role of these reactions in the production of heat in cold-fusion
+experiments is evaluated.
+
+INTRODUCTION
+The nuclear reactions between two deuterons and perhaps between a deuteron and a 6Li nucleus are
+generally accepted as playing crucial roles in recently observed nuclear processes and significant heat production in
+condensed matter deuterium-metal systems. Independent measurements of the cross sections for these nuclear
+reactions at low energies will allow these assumed roles to be addressed. The ratio of the reactions D(d,n)3He and
+D(d,p)T or the ratio of the reactions D(d,γ)4He and D(d,p)T at very low energies will, for example, determine
+whether significant heat production is possible from D-D nuclear reactions in the absence of enormous quantities of
+escaping and potentially hazardous radiation. Similarly, the ratio of the reactions 6Li(d,p)7Li and 6Li(d,α)4He and the
+ratio of the reactions 6Li(d,7)8 Be and 6Li(d,α)4 He will allow the analogous determination for the D-6Li reaction to
+be addressed. In this work, we report on our recent measurements of these reactions. While some of these reactions
+have been studied at relatively low energies1-5, the present work extends our knowledge of these reactions to
+significantly lower energies. On the other hand, our measurement of the reaction 6Li(d,γ)8 Be is the first reported
+observation of this reaction.
+EXPERIMENTAL RESULTS
+The D-D and D-6Li reactions were studied using magnetically analyzed deuteron beams from the Colorado
+School of Mines low energy charged particle accelerator6. The targets consisted of pressed sheets of CD2 and rolled
+foils of metallic Li, isotopically enriched to 94% 6Li. The charged reaction products were detected with silicon
+surface barrier detectors placed at 150° from the beam direction and protected from the Rutherford backscatterd
+beam deuterons by a thin Al foil. The gamma rays were detected with a NaI(Tl) scintillation spectrometer
+surrounded by an active Compton scattered gamma ray and cosmic ray shield. This gamma ray detector system has
+been described elsewhere7. The techniques used in the gamma ray to charged particle branching ratio measurements
+have likewise been described in some of our earlier studies8.
+Charged particle spectra measured during the bombardment of the CD2 and 6Li targets are shown in Figure 1.
+Figure 1. (a)Charged particle spectrum for D-D reaction at Elab = 10 keV. (b) Charged particle spectrum for D-6Li
+reaction at Elab = 150 keV.
+Since the angular distributions of the outgoing reaction products for the D-D and D-6Li reactions have been
+shown to be nearly isotropic at low energies1-3, the reaction ratios D(d,p)T/D(d,n)3He and 6Li(d,p)7 Li/6Li(d,α)4 He
+are determined directly from the ratio of the yield of the peaks labeled “3He ions” and “tritons” for the D-D reaction
+and “p0” and “α” for the D-6Li reaction. The yield ratios so determined as a function of energy are given in Figure 2.
+The yield ratios for the D-D reaction presented in Figure 2 are compared to a recent R-matrix9 calculation. Our
+measured yield ratios are consistent with the calculated ratio, indicating no enhancement of the (d,p) reaction as
+qualitatively suggested by Oppenheimer and Phillips10. While there have been no comparable calculations for the
+ratio of the reactions 6Li(d,p)7Li and 6Li(d,α)4He, Koonin11 has calculated the (d,p)/(d,n) ratio for the D-6Li reactions
+at low energies and has predicted no significant enhancement of the (d,p) reaction. Our results are consistent with
+these predictions since we would expect the (d,α) reaction to be unaffected by any Oppenheimer-Phillips type
+processes.
+These spectra also allowed a determination of the absolute thick target yield of the reactions. The measured
+yields are shown in Figure 3 and are compared, respectively, to yields based upon the R-matrix calculation noted
+above or calculated assuming a slowly varying astrophysical S-factor. There is good agreement between measured
+and calculated yields again indicating no anomalous behavior at very low energies.
+Figure 2. (a) Ratio of (d,p) to (d,n) branches for D-D reactions, (b) Ratio of (d,p) to (d,α) branches for D-6Li
+reactions.
+Gamma ray spectra were measured during the deuteron bombardment of the CD2 and 6Li targets between
+c.m. energies of 20 and 100 keV. The yield of the 23.8 MeV and 22.6 MeV gamma rays and the concurrent yield of
+the charged particles (see Figs 1) will determine the gamma ray to charged particle branching ratios for the D-D and
+D-6Li reactions respectively after the yield ratios are corrected for the relative detector efficiencies. The branching
+ratios so determined are plotted in Figure 4. The D-D branching ratio is consistent at the higher energies with our
+earlier measurements. The fact that the measurements of the D-D gamma ray to charged particle branching ratio at
+c.m. energies of 20 and 40 keV are, to within errors, equal in value, suggest that the branching ratio is independent
+of energy. The energy dependence for the branching ratio for the D-6Li reaction is somewhat inconclusive although
+energy independence is certainly not ruled out by virtue of the relatively large error bar on the lower energy data
+point for this reaction.
+Figure 3. (a) Measured and calculated yields for D(d,p)T reaction, (b) Measured and calculated yields for 6Li(d,α)4
+He reaction.
+Figure 4. Gamma ray to charged particle branching ratios for the D-D and D-6Li reactions. The open squares are
+from Ref. 4.
+
+CONCLUSIONS
+The results of our measurements have significant implications for any effort to associate the D-D or D-6Li
+nuclear reactions with reports of heat production from cold fusion experiments. Specifically, if the particle-particle
+and gamma ray-particle branching ratios which we have measured at very low laboratory energies are characteristic
+of the branching ratios occurring in condensed matter fusion in deuterium-metal systems, then even low levels of
+heat production arising from these nuclear reactions will necessarily be associated with enormous quantities of
+escaping radiation. For example, based on the branching ratios given in Figures 2 and 4, if 1 Watt of power were
+produced by the D-D reaction, then there would be an accompanying production of about 1012 2.5 MeV neutrons per
+second and about 10s 24 MeV gamma rays per second. Comparable yields of neutrons and gamma rays will be
+associated will similar levels of power production by the D-6Li reaction. If, therefore, the reported production of
+heat from condensed matter fusion in deuterium-metal systems is to be attributed to D-D or D-6Li reactions, then the
+particle-particle and gamma ray-particle branching ratios at unmeasurably low energies must vary drastically from
+those measured at the low energies reported in this work.
+This work is supported by the U.S. Department of Energy.
+
+References
+1. R. Brown and N. Jarmie, Phys. Rev. C41 (1990) 1391.
+2. A. Krauss et al, Nucl. Phys. A465 (1987) 150.
+3. A.J. Elwyn et al., Phys. Rev. C16 (1977) 1744.
+4. F.J. Wilkinson and F.E. Cecil, Phys. Rev. C31 (1985) 2036.
+5. C.A. Barnes et al., Phys. Lett. 197B (1987) 1922.
+6. F.E. Cecil et al., NIM B40/41 (1989) 934.
+7. F.E. Cecil et al., NIM A234 (1985) 479.
+8. F.E. Cecil and F.J. Wilkinson, Phys. Rev. Letts. 53 (1984) 767.
+9. G.M. Hale and D.C. Dodder, Proc. Int. Conf. on Nucl. Cross Sections for
+Technology. Knoxville (1979) J.C. Fowler, C.H. Johnson and C.D. Bowman editors.
+NBS Special Publication 594, p. 650.
+10. J.R. Oppenheimer and M. Phillips, Phys. Rev. 48 (1935) 500.
+11. S.E. Koonin and M. Mukerjee, Phys. Rev. C42 (1990) 1639.

@@ -1,0 +1,324 @@
+LENR and NASA
+Dennis Bushnell , Chief Scientist
+NASA Langley Research Center
+“ Energy is really the key to Space
+Travel”
+Outline
+• What
+• Status
+• Why
+• Plans
+LENR [Low Energy Nuclear
+Reactions] Precis
+• Originally dubbed “Cold Fusion”, an experimental
+discovery with replication issues and no
+acceptable theory
+• Now, over 2 decades of world-wide data
+collection/experiments indicate is “real”
+• Now, a Weak Interaction Theories [
+Widom/Larsen, etc.]
+• Not “Hot Fusion”,  electroweak interactions
+explicable via the “Standard Model” of Quantum
+Theory on Surfaces
+• Theory being used to increase heat “quality” and
+practicality, Minimal radiation safety issues
+A Conjectured LENR PROCESS
+• Load H2 onto a metal surface, Plasmons
+initiate collective effects
+• Add  energy, produce high voltage gradients at
+cracks/ asperities
+• Gradients excite electrons, via collective
+effects [ QED] to combine with protons to
+form an ultra low momentum neutron, never
+leaves the surface
+• Neutron readily absorbed, neutron rich
+isotope undergoes beta decay , emits heat
+“Preliminaries”
+• IS IT REAL? - Over 2 decades with over 100 experiments
+worldwide indicate LENR is real, much greater than
+Chemical, Transmutations, Minimal radiation
+• WHAT IS IT? – Theories  indicate is weak interactions/
+beta decay, NOT “Fusion”
+• IS IT USEFUL? – There are several experimental claims
+of  “useful” quantities of heat, thus far in the watts-to-
+KWs range
+Current LENR SOA
+• Most of the 2 decades of experiments, lacking theoretical
+guidance, produced low levels of energy. Most used the P-F
+D/Pd electrochemical cells
+• Zawodny et ot LaRC  utilized theory to attempt to increase
+energy output, under experimental investigation
+• From the world wide experiments a huge number of “knobs”/
+approaches appear to “work”, issue is how good can it be?
+Requires experiments guided by theory and major “creative”
+efforts/ inputs along with CAREFUL Experiments,
+Summary of Evidence in Expts. For
+Weak Interaction/ Nuclear Effects
+• He4 produced
+• Transmutations, which/what dependant upon
+experiment details
+• Energy produced at levels beyond chemical
+•  Little worrisome radiation, no dead graduate
+students, No way to overcome Coulomb
+Barrier via strong force physics
+Summary of Evidence for Weak Force
+• Metal hydrides of both H & D
+• High H loading required
+• Not just 4He being produced
+•  Range of elemental transmutations
+• Energy input needed
+• Forcing at resonant hydride frequencies
+is effective
+• Only Sporadic detection of neutron or
+gamma radiation
+WLT Predictions
+• Reaction rate is related to the SPP amplitudes at the
+proton resonant frequency
+
+• Reactions are sporadic on smooth or randomly
+patterned devices driven by broadband SPPs
+
+• Reaction rate should increase when driven at the
+proper frequency (e.g., multi-wavelength lasers)
+
+• Reaction rate should increase for patterned / resonant
+devices (focus of ongoing LaRC experiments)
+Benefits of LENR Technology
+• LENR may solve Global Climate and Energy…..
+• A 10KW device would solve oil issues, power
+transportation, provide distributed generation for
+homes, some industrial applications, desalinate
+water
+• Theory indicates scales from PDAs to GW Power
+plants, could possibly replace petroleum, natural gas
+and coal, as well as Fission Nuclear. Possibly less
+expensive than “conventional “Renewables”
+LENR Technology could also
+possibly clean up radioactive waste
+via transmutation as well as
+produce elements in short supply [
+e.g. rare earths].
+Overall – Vast impacts upon
+Climate, Econometrics, National
+Security and Quality of Life
+NASA Interest[s] in LENR
+
+•  Direct and potentially massively/ truly “game-
+changing” Applications across the board to
+NASA Mission Areas:
+- Science
+- Exploration
+- Aeronautics
+NASA Science LENR Applications
+• Superb light weight power/ energy sources for
+space probes/ instruments and hoppers/ rovers,
+far less expensive than solar and better than
+radiologics for beyond Mars where solar does not
+“work”
+• Reduced LEO and in space propulsion weights/
+costs
+•  Solves EDL for large payloads to Mars via
+ingestion, heating and retro injection of
+atmospheric CO2
+NASA Exploration LENR Applications
+• Preliminary systems studies indicate LEO access rockets
+with Nuc Thermal Isp [ ~ 800 Seconds] sans the Nuc
+radiation protection weights/ safety issues
+• On Planet Nuc power/ Energy without usual Nuc
+Radiation protection/ safety issues
+•  Potentially obviates order of 80% of the 1000 metric
+ton LEO up-mass for Humans Mars which is in-space
+fuel, Propulsive mass from far outer region atmosphere
+or regolith
+•  Source for energy beaming, energy to terraform Mars,
+Enables  Active Space Radiation Protection
+
+This technology produces
+transmutations, i.e. could be used
+for ISRU to produce/ provide
+requisite materials/ elements not
+otherwise available
+NASA Aeronautical LENR Applications
+• Overall, enables what we have never had  -
+“Energy Rich” design space[s]
+• Fuel fraction could become negligible, huge
+impacts upon vehicle gross weights, especially
+for SST’s which are some 55% fuel fraction
+• Use to replace combustors in GTE’s or via
+Sterling or T-E’s to generate electricity for
+electric propulsors
+Aeronautical Applications Continued
+• Huge range increases
+• Enables VTOL and PAVE both economical and
+QUIET
+• Enables design for ultra low noise via
+degrading propulsor performance
+• Mitigates sonic boom via focused energy
+projected far forward to reduce shock
+strength, “lengthen” vehicle virtually
+Aeronautical Applications Continued
+• Makes SST’s affordable via huge gross weight
+reductions, reduces sonic boom, enables
+emission compliance
+• “Solves” emissions except for NOx, which can
+be mitigated via “design” or obviated if go
+electric
+• Enables huge loiter capability for “sensor
+craft” [ military, climate/ science, law
+enforcement, HALE Sat substitutes, etc.
+Aeronautical Applications Continued
+• Reduces both acquisition and operational
+costs
+• Enables envelope-less flight via active flow
+control, “Bird Like Flight”, ALL-WEATHER
+• Provides huge margins to enable superb safety
+[ Armored engine surrounds, triply redundant
+Faraday caged Electronics, Etc..]
+Aeronautical Applications Continued
+• Allows direct control of wake vortices to obviate
+wake vortex hazard
+• Super STOL performance via circulation/ flow
+control to increase runway productivity by a
+factor of 3
+•  Overall, For Aero – far lower gross weights,
+higher speeds, lower noise, greater range,
+emissions solved, envelope-less/all weather
+superb ride quality flight, lower costs, greater
+safety
+Aeronautical Applications Continued
+• Possibly obviates THE issue with hypervelocity
+air-breathing, the decreasing value-added
+from burning H2 fuel as a function of
+increasing vehicle kinetic energy
+
+In Short, LENR , depending upon the TBD
+performance, appears to be capable of
+Revolutionizing Aerospace across the
+board. No other single technology even
+comes close to the potential impacts of
+LENR upon Agency Missions.
+Comments on LENR Going Forward
+• Test/ determine the performance of the extant devices
+• Experimentally validate the weak interaction theories
+• Utilize theory to design/ create and experimentally
+optimize performance, including surface morphology
+considerations/ opportunities and bootstrapping
+• Summarize the myriad approaches throughout the
+entire system/ sequence that appear to work [ e.g. the
+several methods of adding energy].
+
+Comments Continued……
+• The 2 decades of experiments and the weak
+interaction theories have removed the existential
+risk, what is remaining is to ENGINEER for
+improved performance. Also obviously all the
+safety issues, labs have blown up studying this
+arena
+• SO – We need to Invent/ create optimized/
+improved, SAFE LENR “Devices”
+
+WHY has it taken some 22 years?
+• Is apparently/ possibly a non-obvious
+engineered PROCESS exploiting  The Weak
+Force
+• Initial claims of “cold Fusion” Seriously
+“Poisoned the well”, became the Energetics
+UFO, 3rd Rail
+• Required nearly 2 decades of experiments
+AND the Weak Interaction Theory to convince
+some folks [ e.g. LaRC] to study this
+WHY - continued
+• Claims of cold fusion, lack of Physics
+understanding and low energy production
+levels held this up
+
+WHY 22 Years - Summary
+• Initially little understanding, replication issues,
+low heat production, cold fusion red herring –
+few were interested
+• 22 years of expts. provide an existence proof
+• Weak INTERACTION theories provides an
+“understanding”
+• Now an EXTREME requirement for inexpensive
+clean energy and a NASA “affordability”
+problem
+Utilization Approaches
+• LENR produces Heat, Depending upon design
+potentially from the theory a great deal of heat
+•  Can utilize the Heat directly as in open
+propulsion systems etc. or via such as Sterling
+cycles, Thermoelectrics, Pyroelectrics, T-PV etc.
+convert the heat into electricity
+•  High power density may be possible with
+minimal radiation issues/ problems/ weights and
+inexpensive fuels/ systems.
+We went directly from Chemical to strong
+force Nuc and in the process bought huge
+energetics improvements and radiation
+protection/ safety issues that precluded
+many fission nuc application[s], We leapt
+over the weak interaction energetics
+landscape except for radiologics. We are
+back-tracking…….
+
+This  appears to be one of those massively
+game-changing Techs that appear once a
+generation or less. We will spend the next
+20 years understanding and
+ideating/optimizing Weak Force
+Engineering, a blank page [ except for
+some existing Edisonian devices] to be
+written on.
+Physics Outlook/Issues
+• Quantum and Relativity do not “Merge”
+• They do not explain “Dark Energy”[  ` 73%  of the
+Universe]
+• They do not explain “Dark Matter”[ 23% of the
+Universe]
+• They do not provide an “understanding” of “Non-
+Locality”
+• Where did the Anti-Matter Go?……
+• 100 plus orders of magnitude difference[s] wrt
+ZPE between Quantum theory and the operable
+Cosmological Constant
+• Many other “Unsolved Problems”/Anomalies…..
+Extant “Explanation” Approaches
+[Samples,Additional Degrees of Freedom,
+Experimental Verification TBD..]
+• Time Reversals/Retrocausation”
+• Extra [Spatial] Dimensions
+- Many Worlds/Multiverses
+- String/M/Brane Theories [ to 11 Dim.]
+- 5 Dim. Larger Universe/ “The Bulk”
+• “Larger Constructs”
+- Bohm Quantum Potential
+- Holographic Universe
+- Puthoff ZPAether, Winterberg Planck Aether
+• Non-Linear Quantum Theory
+
+Quantum Sitrep……..
+• MAGNIFICANT Theory accurate in some cases
+to 16 to 26 decimal places
+• Applications largely based upon “shut up and
+compute” and FAPP [ For all practical
+purposes]
+• No quantum gravity [ yet..]
+• Quantum Ontology a cottage industry “work
+in progress”
+• “Meaning” of entanglement still “elusive”
+What is Sought are “Explanations”  for
+Dark Matter/Energy and Non-Locality
+Etc.  which satisfy Occam’s Razor &
+Experimentally verified.
+Once Found/Determined the
+Ensuing/Enabled Technologies should
+be Seriously Revolutionary, including
+wrt Energy, Stay Tuned…….[ ZPE,
+Gravity Control, Warps/ Worms,
+Teleportation?]
+If God had wanted
+people to go to Space,
+She would have given
+them more Money
+Mark Albert
+Scientific American

@@ -1,0 +1,74 @@
+Reifenschweiler, O., Cold Fusion and Decrease of Tritium Radioactivity, in LENR-CANR.org. 2003.
+
+Cold Fusion and Decrease of Tritium Radioactivity
+Otto Reifenschweiler
+Retired from Philips Research Laboratories, Eindhoven, The Netherlands. Current actress: Jan Sluytersweg 13, NL-5645 JA
+Eindhoven, The Netherlands.
+In recent papers (1, 2, 3, 4) the author has deduced from experiments with tritium (5) that during
+heating of a TiT0.0035 -preparation and of a TiT0.035-preparation the radioactivity of the tritium
+decreased strongly. This strange effect was distinctly confirmed by the observation that with the
+TiT0.035-preparation the radioactivity decreased 12.5 times stronger than the release of tritium
+(2,3,4). A quite independent proof of the strong decrease of λ of tritium could be obtained by a
+thermodynamic evaluation of the heating experiment with the TiT0.0035-preparation: Assuming
+that λ of tritium decreases to zero or nearly zero in a part of the tritons enables the determination
+of the number of tritons with normal λ, nT and the number of tritons with λ ≈ 0 nTo, both as a
+function of temperature. Then quite surprising nT and nTo follow the laws of chemical equilibria
+in distinct parts of the experimental A = f(T)-function. From this unexpected result the decrease
+of tritium radioactivity is definitely proved once again (6).
+All these experiments are performed with titanium preparations obtained by evaporation of the
+metal in argon at a suitable gas pressure, e.g. 0.2 to 2.5 cm of mercury. A comprehensive
+description of the evaporation procedure is given in Ref. 3. Fig. 1 shows an electron micrograph
+(5) of a preparation as used in our experiments. Further electron micrographs of such
+preparations are displayed in Fig. 2 of Ref. 7 and Fig. 1 of Ref. 8. The preparation consists of
+small (dia. ≈ 15 nm) monocrystalline Ti-particles which are arranged in chains. I assume that
+these properties or one or two of them are necessary conditions for the decrease of tritium
+
+radioactivity. This assumption is confirmed by the observation, that a decrease of tritium
+radioactivity is never observed with Ti-preparations which are generally used for storage of
+tritium (9). Such preparations dont have the above stated properties. They consist of single and
+big non monocrystalline Ti-particles, in my experience.
+The arrangement of our Ti-particles in chains with many ramifications results in a very open
+structure of our preparation. There is much empty space between the Ti-particles of different
+chains. The time constant for the uptake of tritium is about 10 seconds (stated in thousands of
+experiments for technological applications). This ensures that the tritium is absorbed to an equal
+concentration by the different Ti-particles (maximum of entropy).
+There is a strong suspicion that cold DD-fusion (10) and decrease of tritium radioactivity are
+caused by the same or a related fundamental principle (2, p. 171). A decrease of tritium
+radioactivity was obtained with Ti-preparations which are described in full length earlier. I
+propose thus a cold fusion experiment applying the same preparation with which decrease of
+tritium radioactivity was obtained:
+Prepare a same Ti-preparation by evaporation of the metal in argon (3) as done in our heating
+experiments. Absorb deuterium in this preparation to obtain TiD0.5 to get hydride phase (6).
+Slowly increase the temperature of the preparation to several hundred degrees centigrade as
+done in our heating experiments (see e.g. 3). Measure the fast neutron emission as a function of
+temperature. It is most interesting if the same or a similar dependence of neutron emission from
+temperature is obtained as with the decrease of tritium radioactivity. Experiments with different
+deuterium concentrations are recommended to arrive to a theoretical explanation of the effect
+(6).
+References
+1. O. Reifenschweiler, "Reduced Radioactivity of Tritium in small Titanium Particles",
+Phys. Lett. A, 184, 149 (1994).
+2. O. Reifenschweiler, "Some Experiments on the Decrease of the Radioactivity of
+Tritium sorbed by Titanium", Proc. 5th Int. Conf. on Cold Fusion, April 9-13, 1995,
+Monte Carlo, Monaco.
+3. O. Reifenschweiler, "Some Experiments on the Decrease of Tritium Radioactivity",
+Fusion Technol. , 30, 261 (1996).
+4. O. Reifenschweiler, "Solid State Environment Effects on Radioactivity", Radiat. Phys.
+Chem.,51, 327 (1998).
+5. J. F. van de Vate, O. Reifenschweiler and G. van der Ligt, "Onderzoekingen naar de
+Temperatuurvastheid van fljnverdeelde Metaal-Ttritium-Systemen in Vacuum",
+Internal Report of the Philips Research Laboratories (1961) (In Dutch) (unpublished).
+6. O. Reifenschweiler, "Further Evidence Of The Decrease Of Tritium Radioactivity By A
+Thermodynamic Evaluation Of A Heating Experiment", to be published (*).
+7. O. Reifenschweiler, "A Suitable Tritium Carrier for Gas Discharge Tubes", Proc.
+Conf. Peaceful Uses Atomic Energy, Geneva, Zwitzerland, 1958, Vol. 19, p. 360
+8. O. Reifenschweiler, "Hydrogen Pressure Regulator with high Absorption Rate", Rev.
+Sci. Instrum., 35, 456 (1964).
+9. R. Cox, Private Communication (1996).
+10. M. Fleischmann and S. Pons, "Electrochemically induced Nuclear Fusion of
+Deuterium", J. Electroanal. Chem., 261, 301 (1989).
+(*)
+The manuscript can be obtained on request from the author.
+
+Fig. 1. Electron micrograph of Ti-preparation obtained by evaporation in Argon. Argon pressure
+2.15 mm of mercury. Magnification 120,000. Improved evaporator (3).

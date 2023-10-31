@@ -1,0 +1,337 @@
+Radhakrishnan, T.P., et al., Tritium Generation during Electrolysis Experiment, in BARC Studies in Cold Fusion,
+P.K. Iyengar and M. Srinivasan, Editors. 1989, Atomic Energy Commission: Bombay. p. A 6.
+TRITIUM GENERATION DURING ELECTROLYSIS
+EXPERIMENT
+T.P. Radhakrishnan*, R.Sundaresan*, S.Gangadharan*,
+B.K. Sen‡, T.S. Murthy‡
+*Analytical Chemistry Division
+‡Isotope Division
+
+Introduction
+In continuation of the earlier R&D work carried out in connection with the investigations for
+electrochemically induced fusion of deuterons using palladium cathode and platinum anode, a
+series of experiments was carried out. The following is a summary of results and observations for
+two such experiments:
+PDC-II Experiment
+
+Start of the expt. 10.7.89 - Conclusion of the expt. 25.7.89.
+a) Cathode - Palladium cylinder
+i) Thickness - 0.45 mm
+ii) Surface area - 6.37 cm2
+iii) Volume - 0.143 cc
+iv) Weight – 1.7 g
+b) Brief history of the palladium cathode
+— A cylindrical type of palladium cathode was obtained and it appears that this palladium
+cylinder had not been used earlier for any tritium work. However, it was used in the analysis of
+the hydrogen gas samples and hydrogen purification work.
+— Palladium cylinder of 1 cm length was used.
+— The palladium cathode was spot welded to a platinum rod.
+— The cathode was cleaned by degreasing, using solvents like acetone and was subjected to heat
+treatment at 300°C under vacuum for 2 hours.
+— The anode was platinum gauze of area 25 cm2.
+Cell and Accessories
+The cell of about 100 ml capacity was made of quartz. The Pyrex glass lid was provided with
+cones for introducing thermometer, cathode, entry port for sparging solutions with pure argon
+gas and vent for liberated gases namely deuterium, oxygen and D2O vapour for quantitative
+collection.
+— The D2O vapour collection: The evaporated heavy water from the cell was refluxed back
+into the cell with a water condenser and the vapour that escaped from the condenser was
+collected in a moisture trap which was kept cooled with ice.
+—The argon, deuterium and oxygen were passed through a column of catalyst, which
+recombined deuterium and oxygen back to D2O.
+Note: In this experiment, the gases that are emerging after the recombination step were passed
+through a water trap without further provision for recombination over copper oxide column.
+— For temperature measurement, a calibrated thermometer was used.
+— Electrochemical measurement: The galvano-static power source with provisions for current
+pulsing was used. Terminal voltage was measured by a digital panel meter.
+— Materials used in the experiment:
+— Heavy Water: Nuclear grade heavy water was used in the cell for experiments. The isotopic
+purity was 99.87% with an initial tritium content of 170 dpm/ml. (0.076 × 10-3 μCi/ml).
+— Electrolyte: Electrolyte was prepared 0.1 normal with respect to LiOD by using E. Merck
+grade lithium metal, and 60 ml was used for experiment.
+— IOLAR-2 grade argon was used throughout the experiment as carrier gas.
+— The cell was cooled by an externally located fan.
+Tritium Measurement
+— Tritium counting was carried out using LKB system Model 1215, RACKBETA – II system.
+Sampling
+— Samples (2 ml) were withdrawn from the cell during the experiment from time to time to
+assess the tritium content.
+— Counting procedure: Aliquots from the above samples have been drawn and added to
+'Instagel Cocktail' with a total volume of 10 ml for counting the tritium. Known amounts of
+tritiated water from NBS standard cells were taken into 10 ml of Instagel as reference. The
+blank sample for tritium was also prepared in Instagel with tritium free water obtained through
+ground water. Along with these background samples, counting was also done simultaneously for
+samples drawn from the double distilled water used for diluting and making up the samples for
+counting. Where interesting results were obtained, the full tritium spectrum was obtained and
+compared with the NBS standard tritium samples; when the samples gave significant activity,
+known amounts of the samples were distilled and the water distilled was taken for counting.
+— During the electrolysis the cell level was maintained at a constant volume of 60 ml by
+periodically adding pure D2O as mentioned above. Also, the alkalinity was maintained at
+0.1 N by addition of LiOD from time to time.
+Electrolysis
+The following electrolysis procedure was adopted for the experiment. In the beginning, the
+electrolysis was continued at a constant current (40 hrs). Later the electrolysis was conducted
+using pulsing technique of varying current. It may be noted that the pulsing was carried out in
+this particular experiment only during the day time and in the night time the electrolysis was at a
+constant current. The details of the electrolysis parameters such as the values of constant current,
+pulsing current, duration and also the tritium values obtained during the experiment are given
+below:
+From 12.7.89 to 25.7.89 the electrolysis was conducted in the nights with constant current of
+1 amp and pulsing of the current was conducted during the day time.
+Degassing Procedure
+The following procedure was used to heat the electrode to recover the deuterium and tritium.
+At the termination of the electrolysis the cathode was transferred to a quartz heating tube and
+was connected to a vacuum assembly. The moisture was removed from the electrode surface by
+heating to 80 - 110°C and condensed in a cold trap. After condensing the moisture, oxygen and
+nitrogen gases were recovered by standard getters. The electrode was gradually further heated
+and the gas released was purified and absorbed in a pyrophoric uranium trap. The electrode was
+maintained at 550°C for 2 hours till no further release of gas took place. Deuterium gas was
+released from this pyrophoric uranium trap, diluted with about 2.5 l of hydrogen and was
+converted into water by circulating through heated CuO bed. This water was taken for tritium
+counting.
+Observations: Table IB
+— On 11.7.89 between 11.55 and 12.20 hrs. there was power breakdown for 25 minutes.
+— The first sample, PDC-II.1, was collected after 75 amp.hr. for tritium assay. It gave 1.59
+μCi/ml of D2O. The total volume of D2O in the experiment at this time of sampling was 60 ml.
+The tritium activity accounted would be 95.4μCi. It may be mentioned that the total D2O (cell
+volume of 60 ml and make up volume of 40 ml) works out to be 100 ml. The excess tritium that
+has been produced at the end of 75 amp.hr. electrolysis works out to 1.25 × 104 times at this
+stage.
+— The second sample was withdrawn at 235.65 amp.hr. and the assay of the sample showed
+that the activity per ml of the cell came down to 0.76μCi/ml. With a view to examine the
+behaviour of the cell, the experiment was continued up to 433 amp.hrs. and intermittent samples
+were taken.
+PDC-II.3 (273.3 amp.hr.), PDC-II.4(381.5 amp.hr.), PDC-II.5 (433.32 amp.hr.).
+— On 26.7.89 at about 1015 hrs. the lid of the electrolytic cell was thrown out along with
+the anode and thermometer. The experiment was stopped and a new lid was put with the
+cathode inside the cell. Oxygen and argon mixture was bubbled through the cell and a final
+sample PDC-II.5 was taken on 28.7.89 and was assayed for tritium activity (0.31μCi/ml.)
+Observations: Table IC
+— The total activity recovered is 55.52μCi during the electrolysis and after the stoppage of
+electrolysis 0 .71 μCi was recovered from the vapour condensate and deoxo- recombination
+trap. Electrode degassing yielded 0.03μCi and in all 56.27 μCi were recovered.
+— Total input of tritium activity from (60 ml cell volume + 196 ml make-up volume) 256 ml is
+0.02 μCi.
+— In all out of 256 ml of D2O used, 132 ml of D2O was recovered and accounted for at the end
+of the experiment.
+
+In conclusion, it may be pointed out that at the end of 75 amp.hrs the electrolysis generated
+about 95.4 μCi excess tritium (12500 times the input). However, at the end of the electrolysis,
+that is, after 433.32 amp.hrs. the total excess tritium recovered works out to be 56.25μCi.
+PDC-III Experiment
+
+Start of the Expt. 6.9.89. Conclusion of Expt. 14.9.89
+a) Cathode: Same palladium cylinder used in PDC-II experiment was used in this
+experiment.
+b) Cathode preparation:
+To remove deuterium and tritium if any in the cathode the following method was adopted:—
+— The cathode was placed in the quartz assembly connected to the high-vacuum line and slowly
+heated. Subsequently the electrode was heated under continuous vacuum from room
+temperature to 850°C. The electrode was kept at this temperature for two hours. When the
+electrode temperature exceeded 750°C, a black deposit was formed on the cooler parts of the
+quartz assembly. In view of this, heating was continued at 850°C for further two hours. No
+further deposit was released at this temperature. The black coating formed is being subjected to
+investigations to identify the nature of the deposit.
+— The electrode was brought to room temperature and the vacuum line was filled with
+deuterium gas at 1 cm of Hg pressure. The electrode was slowly brought to 800°C and kept for 3
+hours at this temperature. After this deuterium reduction process, the deuterium gas was
+removed and heating was continued for additional 3 hours under continuous vacuum. After this
+operation the electrode was checked for any further release of gases. No further degassing was
+observed.
+— It may be pointed out that the black deposit initially released from the electrode turned to a
+silvery white deposit at this stage and this coating is under investigation.
+— The electrode after this treatment became shining silvery white and was used for this
+experiment.
+c) Anode: The anode was a similar platinum gauze of area 25 cm2.
+Cell and Accessories
+The cell and accessories remained mostly similar as in PDC-II except for the following:
+— Palladium catalyst of standard design was used for recombination.
+— An additional recombination stage consisting of copper oxide column was used to convert
+oxygen depleted deuterium gas into D2O.
+— Electrochemical measurement: The details are similar as in PDC-II experiment.
+Materials used in the Experiment
+Heavy water: Similar grade of heavy water as was used in the previous cell was used here.
+The heavy water cell volume in this experiment was 80 ml.
+— Electrolyte: Electrolyte was similar as in PDC-II experiment.
+— The other conditions such as cooling the cell and tritium measurements were identical with
+PDC-II experiment.
+— Sampling: The procedure followed and the volume of the samples withdrawn from the cell
+during the experiment remain the same.
+In all during this experiment, 12 samples were taken from the start of the experiment to the
+end of the experiment. Other samples for tritium counting were collected from various stages of
+recombination from the catalyst, the water-bubbler solution and the degassed electrode.
+Electrolysis
+Electrolysis procedure followed was similar to PDC-II experiment. However, pulsing was
+introduced after 67 amp.hrs. of electrolysis at constant current mode. It may also be pointed out
+that the pulsing was done continuously during the day and night for the entire experiment.
+— On 13.9.89 the electrolysis was reverted back to the constant current mode at 2 amp. for 3
+hours, followed by pulsing till end of the experiment. The pulsing during the period was
+between 2 - 4 amps.
+— Details of the electrolysis parameters are given in Table II.
+Observations: Table IIB
+— On 8.9.89 between 1300 hrs. to 1350 hrs. there was a power breakdown.
+— 9 samples of the cell solution were collected from 7.9.89 to 13.9.89 for monitoring the level
+of tritium activity. The tritium content in the cell solution did not show an increase between
+7.9.89 to 13.9.89, except that there was a marginal decrease in the samples taken on 13.9.89
+compared to the samples taken on 12.9.89. In view of this, the experiment was continued with a
+higher pulsing parameter as that of Fleischmann experimental conditions.
+— During this operation, constant current for 3 hours and pulsing for 2 hours were
+maintained.
+— On 14.9.89 around 1000 hrs. there was a change in the cell behaviour. The bottom of the cell
+was shattered due to explosion. In all, the total volume of D2O used in this experiment was 185
+ml which included 105 ml of make-up D2O and 80 ml of cell D2O.
+— Before the explosion it was noticed that the cell temperature shot up from 71°C to 80°C and
+the bubbling rate was low.
+Observations: Table IIC
+Due to the explosion at the end of the experiment all the electrolyte solution of about 80 ml
+was completely lost and no sample could be collected for tritium assay. Broken pieces of the cell
+were collected. The upper part of the cell and the broken pieces were washed and the sample was
+collected for counting. The D2O condensate and the recombined water from the palladium
+catalyst, copper oxide and the bubbler solutions were taken for tritium counting.
+The total tritium activity counted from all the samples accounted for 2,08,531 dpm while the
+total input tritium activity in 185 ml of D2O used in this experiment comes out to be 30,170. It
+may be noted that the activity in the cell solution could not be accounted as it was lost. Even this
+tritium activity of 2,08,531 dpm, accounted from the recovery and recombination of gases
+liberated from the cell, has shown excess tritium 5.79 times.
+In view of the repeated nature of the explosion at the terminal stages of electrolysis it was
+decided to subject the palladium cathode for a metallographic examination. Metallographic
+examination was done at the Physical Metallurgy Division by means of polarised light
+microscopy after embedding and mounting the electrode with an acrylic polymer resin. The
+palladium cathode was then cleaned with acetone and tetrahydrofurane to remove the polymer
+coating. The electrode on degassing gave about 1.2 ml of gas which accounted for 5,530 dpm of
+tritium activity. It may be mentioned here that if the electrode had been degassed before the
+metallographic examination the tritium content would have been significantly higher.
+— It may be pointed out that had the cell solution not been lost, significant amount of
+tritium could have been recovered. An important observation from the counting of the cell
+samples was that large tritium activity was not produced in the cell until 13.9.89
+(PDC-III-12) even at 218 amp. hrs. Excess tritium was produced only between 13.9.89
+and 14.9.89. (between 218 amp.hrs and 286.2 amp.hrs.) whereas in the PDC-II experiment
+excess activity was generated at about 75 amp.hrs. in 3 days of electrolysis.
+Results of the polarised light microscopy of the electrode
+— Metallographic examination of the palladium cathode used in the experiment and which
+experienced an explosion showed an extensive twinning within the palladium grains with
+worm-like microstructure. This is suggestive of an intensive shock-wave impact on the
+metal. Microphotographs of the two samples are attached for reference (Figs. 1-3)
+A similar palladium cylindrical cathode was also metallographically examined. This
+electrode was given for comparison and did not see any explosion during electrolysis. Results of
+metallography revealed that it did not show any significant twinning and worm-like
+microstructure.
+Acknowledgements
+Acknowledgements are due to Dr. P.K. Iyengar, Director, BARC for his keen interest in this
+work. Acknowledgements are also due to Dr. G.E. Prasad and Dr. M.K. Asundi, Head, Physical
+Metallurgy Division for carrying out the metallographic investigations.
+TABLE I
+A. SUMMARY OF ELECTROLYSIS FOR PDC-II
+Amp.Hrs.
+1 Constant current mode 10.7.89 - 12.7.89 40.33
+2 a) Pulsing current mode (during day) 12.7.89 - 25.7.89 133.99
+3 b) Constant current mode (during night) 12.7.89 - 25.7.89 248.85
+423.17
+B. SUMMARY OF TRITIUM LEVELS IN D2O DURING ELECTROLYSIS
+Vol. Of D2O/0.1 LiOD Electrolyte = 60 ml
+Tritium activity in blank D2O/LiOD = 170 dpm/ml of D2O
+= 0.076 × 10-3 μCi/ml of D2O
+Date Sample No. Amp.Hrs. Vol. of D2O
+added ml
+Tritium activity
+μCi/ml of D2O
+Excess tritium
+(times)
+13.7.89 PDC-II-1 75 40 1.59 1.25 × 104
+19.7.89 PDC-II-2 235.6 111 0.76 3.5 × 103
+20.7.89 PDC-II-3 273.3 131 0.62 2.56 × 103
+24.7.89 PDC-II-4 381.5 176 0.39 1.31 × 103
+25.7.89 No sample 423.17 196 —
+26.7.89 No sample 433.32 196 —
+28.7.89 PDC-II-5 433.32 196 0.31 0.95 × 103
+C. SUMMARY OF TRITIUM ACTIVITY IN THE OVERALL EXPERIMENT: PDC-II
+Tritium
+Activity
+(μCi)
+INPUT: Initial volume of D2O electrolyte = 60 ml
+Volume of D2O added = 196 ml
+Total 256 ml
+Tritium activity in D2O = 0.76 × 10-3 μCi/ml D2O
+= 170 dpm/ml D2O
+Total input of Tritium activity = 0.02
+OUTPUT
+Source Vol. ml Total activity
+μCi
+i) End electrolysis D2O cell-sample recovered (PDC-II-5) 52 15.96
+ii) Vapour-condensate recovered 16 11.87
+iii) Deoxo-recombined D2O recovered after termination of
+electrolysis
+16 + 52 20.82
+iv) Vapour-condensate-II recovered 0.5 0.14
+v) Deoxo-recombined D2O-II recovered 2.8 0.57
+vi) Bubbler (H2O) 16 1.16
+vii) Electrode gas control extracts after the electrolysis — 0.03
+viii) Samples drawn during electrolysis 8 5.72
+56.27
+Excess tritium recovered 310812.2
+02.0
+25.56  times.
+TABLE II
+A. SUMMARY OF ELECTROLYSIS FOR PDC III
+Amp. Hrs
+1. Constant current mode 6.9.87 9.9.89 71.75
+2. Pulsing current mode 9.9.89 - 14.9.89 214.87
+286.62
+B. SUMMARY OF TRITIUM LEVELS IN D2O DURING ELECTROLYSIS
+Vol. of the electrolyte D2O/0.1M LiOD = 80 ml
+Tritium activity in blank D2O = 166 ± 4 dpm/ml of D2O
+Tritium activity in blank D2O/LiOD = 166 ± 4 dpm/ml of D2O
+= 0.075 × 10-3 μCi/ml D2O
+Date Sample No. Amp.Hrs. Vol. of D2O
+added
+ml
+Tritium
+Activity
+dpm/ml
+7.9.89 PDC-III-4 18.0 195 ± 4
+8.9.89 PDC-III-5 42.0 15 276 ± 8
+8.9.89 PDC-III-6 Current stopped — 263 ± 8
+9.9.89 PDC-III-7 65.67 30 249 ± 8
+10.9.89 PDC-III-8 106.12 45 216 ± 4
+11.9.89 PDC-III-9 137.87 53 248 ± 10
+12.9.89 PDC-III-10 170.22 65 256 ± 10
+12.9.89 PDC-III-11 185.87 75 260 ± 5
+13.9.89 PDC-III-12 218 80 250 ± 5
+14.9.89* no sample 286.2 105 End of experiment
+* There was an explosion and entire D2O in the cell was spilled and lost. In view of this
+no sample could be taken
+C. SUMMARY OF TRITIUM ACTIVITY IN THE OVERALL EXPERIMENT PDC-III
+INPUT: Tritium activity (dpm)
+Initial volume of D2O = 80 ml
+Vol. of D2O added =105 ml
+Total 185 ml
+Tritium activity in D2O = 166 dpm/ml D2O
+= 0.075 x 10-3 μCi/mi D2O
+=30,710
+(0.0138 μCi)
+OUTPUT:
+Source
+Vol.
+(ml)
+Total
+activity
+(dpm)
+i) Cell wash/ broken quartz pieces 2 8.592
+ii) Vapour—condensate recovered 2.5+5.0 1,14,025
+iii) Palladium catalyst recombined 70+20 68,605
+D2O recovered
+iv) D2O recovered after CuO 1+1.1 4,285
+v) Bubbler (H2O) — 3,068
+vi) Electrode gas content extracted after explosion — 5,530
+vii) Samples drawn during electrolysis 18 4,426
+viii) End electrolysis D2O cell sample* — —
+2,08,531
+(0.0939 μCi)
+Excess tritium recovered = 1,77,821 = 5.79 times
+30,710
+= 0.080μCi
+* Calculation of total tritium activity does not take into account 80 ml of D2O spilled due
+to the explosion.
+Fig. 1. Deuterium loaded Pd sample-1 after explosion.
+Fig. 2. Deuterium loaded Pd sample-1 – another view.
+Fig. 3. Pd sample-2 annealed (550°C – 2 hours) but without deuterium loading.

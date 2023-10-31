@@ -1,0 +1,367 @@
+Benson, T. and T.O. Passell. Calorimetry of Energy-Efficient Glow Discharge - Apparatus Design and Calibration.
+in Eleventh International Conference on Condensed Matter Nuclear Science. 2004. Marseille, France.
+Calorimetry of Energy-Efficient Glow Discharge–
+Apparatus Design and Calibration
+Thomas B. Benson,
+The Greenview Group, Pleasanton CA
+(thomasrex100@yahoo.com)
+Thomas O. Passell,
+TOP Consulting, Palo Alto, CA
+(topconsulting@sbcglobal.net)
+
+Introduction
+This work aims to develop a “family” of low-powered calorimetrically-accurate glow discharge
+units, similar to that reported by Dardik, et al. at ICCF-10, and to use these to test a wide range
+of cathode materials, electrode coatings, gas types, gas pressures, and power input levels. We
+will describe the design and calibration of these units.
+The strategy is to use a large number of very similar units so that the calorimetric response does
+not vary significantly for a given power level. The design is metal or sealed glass cylindrical
+tubes, charged with 0.4 to 50 torr mixtures of deuterium, hydrogen, argon, or helium gases.
+Units operate from 0.2 watt to >2 watt power input. The units have low mass (<400 grams) to
+enhance their sensitivity to excess heat, and they are designed to allow visual observation of the
+discharge, on-line spectroscopic analysis of the gas to follow any changes in composition, and
+replication of the geometry and thermal mass during numerous changes in electrode
+composition. The discharges are presently powered by several power supplies, including 1000
+volts DC, 40 kHz, 1200 volt AC, and multiple-frequency/variable-waveform modulated DC. To
+alow accurate measurement of “true” power, al high-voltage power supplies are driven from 6-
+12 volt DC input and are enclosed in separate and redundant calorimeters. Calibration is by heat
+from resistors with known power input from regulated power supplies. Potential electrodes
+would incorporate nickel, copper, and palladium in thin film or nanoscopic form, although only a
+small number have been tested initially.
+The glow discharge has distinct advantages over the electrochemical approach. It can be
+operated over a much wider range of temperature; hence, if excess heat is produced, the heat will
+be more widely useful. A wide range of elements can be applied at either of the two electrodes
+without regard to their compatibility with a water-based electrolyte. The energy input can be
+reduced so that excess energy signal will be more distinct, and the system can be scaled to
+essentially any desired size without deviating from the core design. Finally, the glow discharge
+area is a novel and potentially valuable area of study.
+Preliminary data using these two approaches show their basic feasibility in that they can be
+reliably calibrated. Thus far excess heat levels have been less than the known uncertainties in
+energy balances, which range from 5 to 30% depending on configuration.
+Design of Apparatus
+General Layout
+1. Glow Discharge Tube, gas pressurized with electrodes, encased in calorimeter sleeve
+and insulation (optional). Temperature measured and compared against ambient at
+equilibrium.
+2. Driving power supply, high-voltage, miniaturized and encased in calorimeter sleeve,
+with temperature measurement.
+3. Temperature controlled air-flow enclosure (optional).
+4. Data capture system, logging temperature of ambient and active elements of calorimeter,
+and DC power input
+5. Precision DC power supply, providing known voltage.
+Figure 1: Layout of apparatus
+Design of Glow Discharge Tube
+Devices have been built in 3 different configurations, with input powers ranging from 0.2 watt
+to >2 watt.
+Configuration 1: Brass or other metal pipe approximately 40 mm in length and 30 mm in
+diameter serves as a cylindrical outer cathode, with an axial inner rod of 1-2 mm diameter,
+running the length of the cylinder, as the anode. The device is made vacuum-tight and includes a
+viewing window to monitor the progress of the glow. The anode and cathode are composed of a
+variety of materials.
+Configuration 2: Similar to configuration 1, except the entire system is enclosed in a sealed
+glass tube enclosure. Rolled metal foil or metal mesh is inserted into the glass sleeve, forming a
+cylindrical outer cathode of approximately 12 mm diameter and 100 mm length. The anode is an
+axial inner rod of 1-2 mm diameter, running the length of the cylinder. The anode and cathode
+are composed of a variety of materials.
+Configuration 3: A glass tube enclosure is built, encasing 2 opposing “holow cup” electrodes of
+approximately 30 mm length and 10 mm inner diameter. Electrodes are made from tungsten
+with a variety of coatings. The opposing electrodes are linked by a glass tube surrounded by a
+wire coil; this coil is energized with RF high-frequency signal which ionizes the gas in a highly
+efficient manner. High voltage current of various types (DC, AC, and Modulated DC) is applied
+between the electrodes to further ionize the gas.
++
+Figure 2: Opposing “cup” electrodes in sealed glass
+RF Ionizing
+Coil
+Left Electrode in
+Glass Sleeve
+Electrode
+Connecting
+Wire
+-
+Figure 3: Cutaway drawing of cup electrode in glass
+Gas Handling
+In configuration 1 (brass tube), standard commercial parts are assembled and made sufficiently
+vacuum leak tight to allow a bleed-through system to maintain 1 to 50 Torr pressures of chosen
+gases or gas mixtures in a number of tubes simultaneously from a single manifold without
+significant levels of atmospheric or internal off-gas impurities to interfere. Configurations 2 and
+3 use an initial fixed gas pressure in a sealed glass envelope which is then independent of a
+vacuum system or a gas source and thus can be more fully enclosed for more accurate
+calorimetry than is practicable in the first method.
+Driver Power Supply
+The driving power for the glow discharge comes from DC high voltage (700-1200 volts) or
+variable waveform, multi-frequency modulated DC (700-1200 volts, with modulation of ±300
+volts in frequencies from 5 to 5000 Hz). Also an AC high voltage unit (40 kHz, 1000 volts) is
+used to help ionize the gas with RF energy.
+In all cases these driver power supplies are miniaturized and encapsulated in a small metal
+enclosure (on the order of a 10 cm long, 5 cm wide) which is used in online, continuous
+calorimetry in order to measure the true power delivered into the tube.
+Input power to these driver power supplied comes from regulated DC power supplies with
+voltage and current measured to 3-figure accuracy. The total system is capable of 3 watts output
+but can be run stably down to less than 0.2 watts by reducing the input DC.
+Accurate Measurement of Input Power
+The calorimetry of the a low-power glow discharge system can be done with acceptable
+accuracy, as long as we understand some key issues related to input power:
+o Issue 1: In order to do calorimetry on a glow discharge system, some method of
+measuring input electrical power must be employed.
+o Issue 2: Direct measurement of “driving” power is extremely difficult, given the
+complex unpredictable waveforms of a glow discharge system. Dardik et al. (1) has
+reported using a 50khz-1mhz sampling data collection system to measure the current and
+voltage of a complex high voltage AC (or modulated DC) circuit. This approach is quite
+expensive and requires an unusual degree of effort, which many researchers may not be
+able to afford. Therefore, direct measurement of the AC/modulated DC power may be
+impractical.
+o Issue 3: Measure simple DC power into the power supply. The solution therefore is
+to measure the DC power flowing into the driver power supply that creates the high-
+voltage AC (or modulated DC) power. For example, in our system, we might input
+approximately 6 volts DC, 150 milliamps (about .9 watts) of steady electric current into
+our oscillator/amplifier circuit, which converts this DC input into high-voltage modulated
+DC or AC. This approach, however, requires that we understand how much of that input
+power is being delivered to the glow tube, and how much is lost as waste heat in the
+electronic circuit.
+o Issue 4: Conversion efficiency of the power supply varies constantly. For any given
+glow discharge, the amount of power lost as waste heat in the driver power supply can
+fluctuate from 30 to 90%. This conversion efficiency is based on gas pressure,
+temperature, power level, gas composition (D2, H2, or Argon), surface conditions of the
+electrodes (metals in glow discharge will sputter, dynamically creating and destroying
+nanopores in the electrode surface and changing the ionization potential of the system)
+and many other factors. Essentially there is no way to predict or rely on any predicable
+power supply conversion factor.
+o Solution: Real-time calorimetry of power supplies. In our system, we miniaturize all
+power supplies and perform calorimetry on them in parallel (usually with the same
+apparatus) as the glow tube itself. Therefore we can very easily measure the low-voltage
+DC power and current into the system, giving us an unambiguous energy input (Qi), then
+measure the proportion of this DC input power that is lost as waste heat in the power
+supply (Qp). The total energy into the glow tube (Qa) can easily be seen as Qi-Qp. In
+Figure 4 we see data from our “zero” control tubes; input power Qi can be compared to
+the sum of the two calorimetrically measured powers Qa and Qp, demonstrating an
+accuracy of better than 5% accuracy. If there were excess heat being produced in the
+tube, we would see it easily as excess in Qa.
+Power In Power Out, Calculated from Calorimeter
+Qi
+DC Watts
+Qp
+Power Supply Loss
+Qa
+Tube Total
+% of DC
+Power
+0.1378 0.1246 90.39% 0.0138 10.00% 0.138 100.39%
+0.988 0.5854 59.25% 0.4142 41.92% 1.00 101.17%
+Figure 4: Typical breakdown of power to supply or glow tube (control tube)
+Calorimetry of Tube
+Calorimetry is based on measurement of equilibrium temperature of the device in air. We use
+two methods, based on screening speed versus accuracy of measurement:
+Calorimetry Method 1: Both glow tube and power supply are enclosed in separate copper or
+aluminum enclosures, with the only connection being wires to conduct the low or high voltage
+currents. Thermocouples and/or thermistors (5K ohms, 2% precision) are attached to the outside
+of the metal enclosures, which measure the equilibrium temperature reached in the ambient air
+environment. Calibrating heaters are installed inside the metal enclosure (adjacent to the glow
+tube and/or power supply) and the system is calibrated for several given levels of power. In some
+cases a thermal fluid is poured into the enclosure to ensure even distribution of heat inside the
+unit. This method is very fast, for large-scale screening of systems, but provides at best 10%
+uncertainty (and at worst 30%) because of low temperature differences between the tube and
+ambient, variable air currents.
+Calorimetry Method 2: The above metal enclosures are inserted into a thick insulating body
+(either Dewar or Styrofoam) with only a small portion of the metal exposed to the air. This
+insulated body is placed in a controlled laminar airflow box with temperature controlled ±0.1
+degrees C. The temperature of the exposed metal surface is measured by thermocouple or
+thermistor at equilibrium, compared to ambient. System is again calibrated for a number of input
+powers to an internal heater. This is similar in principle to the “double wall isoperibolic
+calorimetry” as described by Storms (2). Because the heat flux is concentrated into a smaler,
+more controllable point of exposed metal, and the airflow and temperature are more precisely
+controlled, this method provides much better accuracy, with uncertainty less than 5%.
+Note that any number of other calorimetric approaches such as liquid isoperibolic, flow, or
+Seebeck, could be used with equal or better success to the above. Refer again to Storms (2) for
+discussion of relative merits.
+Data is collected using a Keithley 2700 40-channel data collection device, which feeds data into
+MS Excel spreadsheet on any PC. This system is simple to use and robust.
+RF Noise
+Another common problem of the glow-discharge system is RF noise from the high-voltage signal
+or RF ionization signal. In our system this problem is avoided by enclosing both glow tube and
+power supply in copper or aluminum enclosures. These shield the external thermocouples or
+thermistors from RF noise, and also, as described above, serve as integral parts of the
+calorimeter. Finally the Keithley data collection system is quite effective at filtering stray RF
+noise.
+Time Constants
+Time constants vary from 30 to 45 minutes when exposed with no insulation to ambient air to 3
+hours, encased in insulation, in thermally controlled enclosure. Time constants are defined as the
+time to reach thermal equilibrium for steady input power.
+Our approach assumes the excess heat, when and if detected, will be of sufficiently long and
+steady nature to be observable with systems with relatively long time constants. Highly
+fluctuating excess power would be detectable but not easily quantified by these methods.
+Results
+Figure 1 through 6 give the time history of two “Configuration 1” glow discharge tubes, during
+calibration with resistive heaters, during operation at 10, 20, and 5 Torr respectively, and finally
+the calorimetry of the power supplies feeding 40 khz AC to the two tubes. These temperature
+differences, while generally precise to ~0.2 deg C are accurate to ~0.5 deg C. The differences in
+the various thermistors are not significant when looking for >50% values of excess heat and are
+the primary cause of the uncertainty of up to 30% in these measurements. No apparent
+differences in thermal balances were noted between the above three gas pressures in the tubes,
+but there were obvious changes in the appearance of the discharges as pressure was changed.
+Higher pressures cause the discharge visual emissions to shrink toward the center electrode. Of
+the four tubes operated simultaneously, thermal balances varied from 87% to 111% where these
+percentages are the observed energies in the discharges divided by the power delivered to the
+tubes.
+Similar runs were performed with Configuration 2 and 3 tubes, with similar results. No heat was
+seen in excess of known uncertainties.
+Discussion
+The above results are the first set of measurements attempted by this approach and the absence of
+excess heat is not unexpected. We purposely tried a much simplified experiment from that
+described by Dardik, et.al. (1), but with a great number of changes to process variables to allow
+us to see a wide range of behaviors in the apparatus. In the first place, we tried placing the active
+metals (Pd) leaf wrapped around the center electrode, with none on the cylindrical electrode
+surface. Then we tested palladium powders and wire. Furthermore we used AC power, DC
+power, and 3-frequency modulated DC power to drive the glow. Finally we used mixtures of
+argon and deuterium, in addition to pure deuterium, to test a variety of discharge modes.
+Different configurations were shown to have different advantages:
+Configuration 1 (gas bleed through system) allows the measurement of any product gases
+generated within the discharges to be captured and subjected to various measurements of
+composition on the fly. Even though this is less accurate, it is quicker to build, and the cell
+comes to equilibrium quickly, so that very large numbers of samples can be screened quickly.
+Configurations 2 and 3 (sealed glass tubes) have important advantages. They do not need a
+continuously operating vacuum system or gas supply. They can employ much cleaner
+electrodes, more free of surface contamination. Their calorimetry is slightly more complex with
+a longer time to reach thermal equilibrium, but they are small enough to fit inside a small
+temperature-controlled chamber, which gives them greater accuracy. Additionally the sealed
+glass tube can be run for extended periods of time, allowing product gases to accumulate to
+higher concentrations.
+
+Conclusions
+Methods have been developed for efficient screening of candidate materials on electrode surfaces
+of glow discharge tubes that will provide an environment conducive to nuclear reactions between
+deuterium and itself or other light elements. This method can detect excess heats ratios >1.2
+with more than 95% certainty. It provides a valuable new platform for large-scale exploration of
+excess heat effects in the gas phase, using low power inputs in the 0-3 watt range. This method
+proves to be inexpensive, quick, accurate, and easy to perform once the basics are mastered.
+Note: The authors are interested in testing electrode materials from other sources, especially
+those that have already been successful in a liquid (electrolytic) environment. Also we would be
+pleased to provide advice or equipment to other researchers. Interested parties please contact
+the authors.
+Acknowledgments
+We are indebted to many of our colleagues in the research community for helpful discussions. In
+particular Arik El-Boher, Mike McKubre, and Russell George were generous in answering our
+questions. Bill McCarthy with whom we share laboratory space and Ed Wills have been helpful
+in building our apparatus. The skills of persons employed by Microscientific Glass Blowing Co.
+of Milpitas, CA have contributed to apparatus design.
+References
+1. Dardik, I., Branover, H., El-Boher, A., Gazit, D.,Golbreich, E., Greenspan, E., Kapusta,
+A.,Khachatorov, B.,Krakov, V.,Lesin, S.,Michailovich, B.,Shani, G., and Zilov, T.
+“Intensification of Low Energy Nuclear Reactions Using Superwave Excitation”, Proceedings of
+the Tenth International Conference on Cold Fusion, Camridge MA August, 2003. Text available
+at LENR-CANR.org
+2. Storms, Edmund., “Calorimetry 101 for Cold Fusion; Methods, Problems and Errors”,
+2004, LENR-CANR.org.
+List of Additional Figures
+Fig. 1. Temperature Vs Time for Glow Discharge Tube #1 during Calibration with a Resistive
+Heater input of 0.55 Watts Along with Simultaneous Measurements of Ambient Temperature on
+an Unpowered Tube of nearly identical construction
+Fig. 2. Temperature Vs Time for Glow Discharge Tube #2 during Calibration with a Resistive
+Heater input of 0.55 Watts Along with Simultaneous Measurements of Ambient Temperature on
+an Unpowered Tube on nearly identical construction.
+Fig. 3. Temperature Vs Time of Tube #1 During Active Glow Discharge at 20, 10, and 5 Torr
+Pressure of 50-50 Mix of Argon and Deuterium Along with Ambient Temperature.
+Fig. 4. Temperature Vs Time of Tube #2 During Active Glow Discharge at 20, 10, and 5 Torr
+Pressure of 50-50 Mix of Argon/Deuterium Along with Ambient Temperature
+Fig. 5. Temperature Vs Time for the Calorimeter Surrounding The Power Supply for Tube #1.
+Along With Ambient Temperature.
+Fig. 6. Temperature Vs Time For The Calorimeter Surrounding The Power Supply For Tube
+#2. Along With Ambient Temperature.
+Fig. 7. Photo Of DC/AC High Voltage Driver Power Supplies
+Fig. 8. Photo Of Brass Pipe, Flow-Through Type Glow Tube
+Fig. 9. Photo Of Sealed-Glass Type Glow Tube
+Fig. 10. Photo Of Sealed-Glass Type Glow Tube (Mounted On Vacuum Station)
+Fig. 1 Temp Vs Time for Tube #1 and Ambient During 0.55 Watt Calibration With Resistive
+Heater
+10
+15
+20
+0 5 10 15 20 25 30
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Tube #1
+Ambient
+Fig.2 Temp Vs Time for Tube #2 During Calibration with 0.55 Watts Resistive Heat Along with
+Ambient Temp
+10
+15
+20
+0 20 40 60 80 100 120 140
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Tube # 2
+Ambient
+Fig. 3 Temp Vs Time for Tube #1 Dischargeing in 20, 10, and 5 Torr Gas Pressure in 50-50
+Argon Deuterium Along with Ambient Temp
+18
+23
+28
+33
+0 50 100 150 200 250
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Tube # 1
+Ambient
+Fig. 4 Temp Vs Time for Tube # 2 Discharging in 20, 10, and 5 Torr Pressure of 50-50 Argon-
+Deuterium Along with Ambient Temp
+18
+23
+28
+33
+0 50 100 150 200 250
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Tube # 2
+Ambient
+Fig 5. Temp Vs Time for Calorimeter Enclosing The DC to AC Converting Power Supply for
+Tube #1 During Active Discharge Period Along with Ambient Temp
+18
+23
+0 50 100 150 200 250
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Pwr 4 #1
+Ambient
+Fig. 6 Temp Vs Time for the Calorimeter Enclosing the DC to AC Converting Power Supply for
+Tube # 2 During Active Discharge Along with Ambient Temp
+18
+23
+0 50 100 150 200 250
+Time in Minutes
+T
+em
+p
+D
+eg
+C
+Pwr 4 #2
+Ambient
+Fig. 7. Photo Of DC/AC High Voltage Driver Power Supplies
+Fig. 8. Photo Of Brass Pipe, Flow-Through Type Glow Tube
+Fig. 9. Photo Of Sealed-Glass Type Glow Tube
+Fig. 10 Photo Of Sealed-Glass Type Glow Tube (Mounted On Vacuum Station)

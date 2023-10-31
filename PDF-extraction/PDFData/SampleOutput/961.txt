@@ -1,0 +1,295 @@
+Introduction. –
+
+At suﬃciently low projectile energies an enhancement of the cross-section
+for charged-particle–induced nuclear reactions can be observed. This is due to the shielding
+of the charges of reacting nuclei by surrounding electrons which leads to an increase of the
+Coulomb barrier penetrability and enhances the measured cross-section in comparison to the
+bare nuclei case. This eﬀect, known as electron screening, was originally discussed for the dense
+plasma in the interior of stars [1], where, due to screening, the nuclear-reaction rates can be
+increased by many orders of magnitude. For laboratory thermonuclear reactions, the screening
+eﬀect was predicted [2] and experimentally veriﬁed for several light nuclear systems [3].
+
+In the simplest picture, the enhancement of the cross-section results from the gain of
+electronic binding energy (called screening energy Ue) which can be transferred to the relative
+motion of the colliding nuclei. In an adiabatic limit, i.e. with velocities vnuclear ≪ velectron,
+this energy shift can be treated as constant. Consequently, the enhancement factor f deﬁned
+as the ratio between the cross-sections for screened and bare nuclei can be calculated as
+follows [2]:
+
+where the transformation of the cross-section to the astrophysical S-factor, a weak-energy
+dependent function, has been applied; η is the Sommerfeld parameter and E is the CMS
+energy. The enhancement factor f is very close to unity for energies E > 100 Ue (for light
+nuclear systems Ue is of order 100 eV) and increases exponentially for lower energies.
+
+On the other hand, this energy shift can be easily calculated in the frame of the Born-
+Oppenheimer approximation. If the potential energy W(r) between the colliding ions is known,
+the screening function Sc(r) may be obtained as a modiﬁcation of the internuclear Coulomb
+potential and expanded around r = 0
+
+where Ds is the short-range screening distance.
+
+Consequently, the screening energy stays
+independent of the kinetic energy of the colliding system and is given by Ue = Z1Z2e2/Ds.
+
+The experimental investigations of the last decade were focused on gas target studies [3]
+which, however, can include only the bound electron contribution to the screening energy.
+
+The experimental and theoretical values for Ue were found to be in reasonable agreement;
+discrepancies in some cases could be removed by means of corrections of the projectile stopping
+power values [4] or a better understanding of the reaction mechanism in the vicinity of the
+reaction threshold [5]. From both d+d fusion reactions 2H(d,p)3H and 2H(d,n)3He, only the
+former could so far be experimentally investigated at projectile energies low enough (below
+10 keV) to observe the electron screening eﬀect.
+The value of the screening energy was
+determined in the experiment using a gas target [6] to (25± 5) eV which is very close to the
+theoretical value of 20 eV [7].
+
+However, an astrophysically relevant contribution for dense plasmas to the screening en-
+ergy arising from unbound, free electrons has not been investigated experimentally so far.
+The application of metal hydrides as targets provides a unique possibility to study this con-
+tribution in the laboratory. A possible disadvantage of this method are many-body eﬀects
+characteristic for dense matter resulting from internuclear correlation processes; but, due to
+trapping deuterons by the crystal lattice, these eﬀects can be neglected [8].
+
+In the present work we have studied the screening eﬀect in both d+d fusion reactions on
+three diﬀerent deuteron-implanted metallic targets (Al, Zr and Ta) in the deuteron energy
+range between 5 and 60 keV [9]. We will show that the screening eﬀect in metallic environments
+is much stronger than that for atomic or molecular gas targets and signiﬁcantly stronger than
+the appropriate theoretical expectations. Due to the exponential behavior of relation (1), the
+increase of the screening energy can cause a drastic enhancement of the nuclear cross-section,
+especially in the case of the strong coupled plasma where the average Coulomb potential
+energy of ions exceeds their thermal energy.
+
+
+Experimental set-up.
+
+The experiment has been performed at a cascade accelerator
+with a highly stabilized 60 kV power supply. The high voltage corresponding to the beam
+energy was measured by a precise voltage divider with an accuracy better than 1 V. Beams
+of D+ and D+
+2 ions produced in a high-frequency ion source were magnetically analyzed,
+focused and additionally deﬂected by about 10 degrees by a magnetic steerer located directly
+in front of the target chamber in order to remove neutral particles. Furthermore, a liquid-
+nitrogen cooled Cu tube and a plate placed in the beam line and in the target chamber,
+respectively, were applied to avoid deposits on the target. The long-term energy stability was
+about 10 eV. The beam was focused on the target into a spot of about 1 cm in diameter. All
+charged particles (3He, 3H, p) from d+d reactions were detected with four 100 mm2 PIPS-
+detectors ﬁxed at laboratory angles of 90◦, 110◦, 130◦ and 150◦ with respect to the beam at
+10 cm distance from the target. Al foils of thickness 150 µg/cm2 in front of the detectors
+prevented elastically scattered deuterons from entering the detectors. The charge collected
+
+Fig. 1 – Anisotropy coeﬃcient for the (d, p) and (d, n) reactions.
+was determined via the measurement of the electric current on the target holder which was
+isolated from the target chamber. A negative voltage of 100 V was applied to a surrounding
+cylinder box for suppression of secondary electrons. The targets being thick Al, Zr and Ta
+foils were implanted up to the saturation level close to the chemical stoichiometry using a
+40 keV deuteron beam. The implantation process was monitored by the proton yield of the
+2H(d,p)3H reaction. For details refer to [10].
+
+
+Angular distribution. –
+
+The angular distributions of the 2H(d,p)3H and 2H(d,n)3He re-
+actions are expected to be anisotropic even at the lowest projectile energies due to a relatively
+large p-wave component in the entrance channel. In the present work an angular distribution
+of a nuclear reaction could be measured for the ﬁrst time at a beam energy as low as 5 keV.
+
+Neglecting an L = 2 contribution, the angular distribution being symmetric with respect to
+90◦ can be parametrized as A(θ) = 1 + a2 cos2(θ). Our results, presented in ﬁg. 1, are in the
+overlapping energy region in good agreement with measurements of Brown and Jarmie [11].
+
+The energy dependence of the parameter a2 for both reactions recommended in ref. [11] could
+be conﬁrmed by our results at extremely low energies. We observe no target material depen-
+dence of the angular distribution. This means that the screening eﬀect which becomes visible
+for beam energies below 25 keV should be equal for both entrance wave function contributions
+L = 0 and L = 1 and does not change the relative intensities of both contributions compared
+to the gas target experiments. A WKB calculation showed that the L = 1 contribution is
+increased only by less than 5% relative to the L = 0 contribution in the case of screening
+(Ue = 300 eV). So the parametrization given by Brown and Jarmie can also be applied to the
+present experiment.
+
+
+Thick-target enhancement factor. –
+
+Apart from the angular distribution, we need in-
+formation about the distribution of the implanted deuterons in the metallic targets for de-
+termining the total reaction rates and, consequently, the enhancement due to the screening
+eﬀect. As was shown in [12], stable, homogeneously deuterized target layers can be obtained
+at the saturation level of implantation. Nevertheless, the stoichiometric ratio during long-
+period measurements can vary slightly.
+
+Therefore, it was necessary to control on-line the
+deuteron density in the target. For this purpose the yield of the proton reaction channel has
+been continuously determined for all four detectors and stored together with the value of the
+beam charge collected in short-time periods. The thick-target angle-integrated reaction yield
+
+Fig. 2 – Reduced yields y(E) over the charge collected at the target determined on-line for Elab = 10
+and 25 keV.
+including the screening eﬀect can be written as
+
+where Ad, Am, nd and nm are the stopping power coeﬃcients and the number densities for
+the implanted deuterons and the metal atoms, respectively.
+
+The stopping power ϵ(E) =
+−dE/dx = (ndAd + nmAm)
+
+E is equated with that for protons at the same velocity [13] and
+includes the eﬀect of implanted deuterons.
+
+For the evaluation of the experimental thick-target results, it is appropriate to deﬁne the
+reduced yield function y
+
+F(E) is the thick-target enhancement factor deﬁned in analogy to the thin-target formula
+
+Due to electron screening, the function y(E) will decrease with increasing E and becomes
+the density ratio nd/(ndAd + nmAm) for E ≫ Ue. In ﬁg. 2 the on-line determined values of
+y(E) at deuteron energy 10 keV are compared with those achieved for our monitor measure-
+ments at 25 keV (i.e. at a CMS energy E0 = 12.5 keV) performed before and after the 10 keV
+measurements. The enhancement factor F(E) can be determined from the observed jumps
+in the function y(E) which occur between diﬀerent energies but at equal deuteron density,
+as exempliﬁed in ﬁg. 2.
+
+Therefore the ratio ynorm(E) = y(E)/y(E0) is equal to the nor-
+malized enhancement factor Fnorm(E) = F(E)/F(E0); this normalization makes the analysis
+independent of the deuteron density as well as of the stopping power values.
+
+
+Results. –
+
+Our experimental results for the enhancement of the 2H(d,p)3H reaction yields
+investigated in the three metallic materials compared to the bare-nuclei case are presented
+in ﬁg. 3. The experimental points, the uncertainties of which include both statistical and
+systematic errors (such as beam energy instability and changes in the deuteron density) are
+
+Fig. 3 – Enhancement of the thick-target yields for three diﬀerent metals.
+ﬁtted by the function Fnorm(E) using only one parameter, the screening energy Ue. Because
+of our normalization, the ﬁtted curves take on unity at the deuteron energy 25 keV.
+
+The 2H(d,n)3He reaction could simultaneously be observed by detecting the 3He recoil
+nuclei. The ratio of the total reaction yields of both mirror reactions for the three metal
+targets (Al, Zr, Ta) was found to be very close to one, which agrees with the parametrization
+of Brown and Jarmie [11] and with the experimental results achieved by Cecil et al. [14] and
+by Greife et al. [6].
+
+The values of the screening energies Ue resulting from the ﬁtting procedure described above
+are (190±15) eV for Al, (297±8) eV for Zr and (322±15) eV for Ta. They are about one order of
+magnitude larger than the value Ue = (25±5) eV determined from a gas target experiment [6].
+
+To exclude systematic errors as reason for such large values of the screening energies, we
+discuss in the following the possible sources of systematic uncertainties in detail.
+
+For absolute cross-section measurements at sub-Coulomb energies an accurate knowledge
+of the beam energy is of crucial importance. Although the long-time high-voltage stability was
+better than 10 eV, the energy spread (FWHM) of the beam was much larger and amounted
+to about 150 eV. This value is characteristic for high-frequency ion sources and has been
+conﬁrmed in opposite ﬁeld measurements. An additional energy spread arises due to Coulomb
+explosion of the molecular D+
+2 beam in the target material [15]. For an incident energy below
+12 keV this energy spread is less than 100 eV. Assuming a Gaussian distribution for the beam
+energy and a constant S-factor over this energy interval, the weighted mean beam energy will
+be increased by about 10 eV at Ed,lab = 5 keV and by 7 eV at Ed,lab = 10 keV which is
+comparable with the error of the ﬁt for the screening energy and the high-voltage accuracy.
+Additionally, the beam energies determined by means of opposite ﬁeld measurements were
+systematically lower by about 10 eV than the value provided by the high-voltage divider.
+This eﬀect can be explained by the electric potential drop arising in the plasma of the ion
+source. This correction has an opposite sign with respect to the correction due to the energy
+spread of the beam, so they cancel each other at the lowest projectile energies (< 12 keV)
+where we have used the molecular beam.
+
+The next eﬀect which could systematically inﬂuence our experimental results is the pos-
+sibility of building up a thin carbon or oxide layer on the target surface. Since the deuteron
+density in such a layer is small compared to that achieved for the metal matrix, this eﬀect
+reduces the measured reaction yield and corresponds to a smaller jump of the reduced yield
+y(E), see ﬁg. 2. Consequently, the experimental value for the screening energy would be too
+low. However, the oﬀ-line investigations of the target surfaces by means of Energy-Dispersive
+X-ray Micro Spectroscopy (EDX) did not show a signiﬁcant contamination in the area of the
+beam spot. Possible deviations of the homogeneity of the deuteron distribution in the metal
+matrix can also lead to systematic errors. Due to the strong sputtering process of the metallic
+targets, it is likely that the deuteron density close to the target surface could be somewhat
+smaller. This, however, leads to a decrease of the determined screening energy in analogy to
+the case of a possible carbon-oxygen layer.
+
+Since the last two eﬀects could not be controlled on-line, the determined values for Ue
+should rather be treated as lower limits. A strong argument for the screening hypothesis is
+provided by the measured energy dependence of ynorm (ﬁg. 3) which can be ﬁtted by Fnorm(E)
+using only one ﬁt parameter, i.e. the screening energy Ue. Additionally, the clearly observed
+target material dependence of Ue makes it quite unlikely that systematic errors might be
+responsible for the observed eﬀects.
+
+
+Discussion and conclusion. –
+
+The analysis of the experimental data in terms of the single
+parameter Ue does not exclude that this energy shift might be of an origin other than the elec-
+tron screening. There are, however, no known eﬀects speciﬁc for metals which could provide
+such a large energy push for the reacting nuclei. As discussed by You et al. [16], channelling
+of deuterons through the metal matrix or the interior adsorption eﬀects can be described by
+an energy shift with a value much smaller than 10 eV, whereas screening from bound as well
+as from free electrons leads to signiﬁcantly larger Ue values. The theoretical estimations for
+the electron screening energies have been performed mainly for deuterons implanted in pal-
+ladium and in titanium, because of the interests related to cold-fusion experiments [17, 18].
+Both metals distinguish themselves by large diﬀusion coeﬃcients of deuterons in the metal
+matrix. Zirconium also possesses a similar feature. The theoretical value of the screening
+energy calculated for palladium as the diﬀerence between the binding energies of an α-particle
+and two deuterons [19] reaches only the value of 80 eV which is a factor 4 less than the
+experimental value for zirconium and tantalum and a factor 2.5 less than the value for alu-
+minium. This kind of estimation can be treated as an upper limit for Born-Oppenheimer–like
+calculations which, by deﬁnition, can include only static eﬀects (the ion velocity converges
+to zero).
+A similar value has been determined by Ichimaru [8] using screening potentials
+obtained from the dispersion relation of the dielectric constant of the palladium deuteride.
+Such large discrepancies between theoretical and experimental values can indicate that the
+description of the electron screening should go beyond the static Born-Oppenheimer limit to
+include possible collective or dynamical eﬀects for metallic electrons. One such approach is
+the time-dependent Hartree-Fock approximation [20]. In the frame of this method it could
+recently be shown that the screening energy of the system d + D2 (a gas target) depends on
+the motion direction of the incident deuteron with respect to the symmetry axis of the target
+molecule D2. Similar calculations for metal hydrides have not been carried out so far because
+a large number of electron conﬁgurations has to be included. Another possibility to go beyond
+the Born-Oppenheimer approximation was presented by Federovich [21]. His method is based
+on the simultaneous solution of the Poisson and Schr¨odinger equations in the approximation
+of slow (s-wave) electrons. He could show that the resulting screening potential between two
+reacting deuterons embedded in a free-electron sea becomes negative (attractive) at distances
+of about one Bohr radius. This eﬀect could not be achieved in any other calculation.
+
+In conclusion, we have determined the electron screening energies for d+d fusion reactions
+in metallic environments. The large values of Ue and its target material dependence are theo-
+retically not understood at present, which should be a challenge for future theoretical as well
+as experimental studies. On the one hand, the observed enhancement of the electron screening
+in metal targets can, in tendency, explain the small neutron production rates observed in the
+cold-fusion experiment of Jones [18]. According to calculations of Hora et al. [22], the corre-
+sponding value of the screening energy should amount to about 470 eV. On the other hand,
+larger values of the screening energies imply an increase of the reaction rates in astrophysical
+strong coupled plasmas. For weak coupled plasmas [23], including the Sun, this enhancement,
+although weaker, can also be of importance.
+
+
+REFERENCES
+
+Salpeter E. E., Aust. J. Phys., 7 (1954) 373.
+Assenbaum H. J., Langanke K. and Rolfs C., Z. Phys. A, 327 (1987) 461.
+Rolfs C. and Somorjai E., Nucl. Instrum. Methods B, 99 (1995) 297.
+Langanke K., Shoppa T. D., Barnes C. A. and Rolfs C., Phys. Lett. B, 369 (1996) 211.
+Czerski K., Huke A., Bucka H., Heide P., Ruprecht G. and Unrau B., Phys. Rev. C, 55
+(1997) 1517.
+Greife U. et al., Z. Phys. A, 351 (1995) 107.
+Shoppa T. D., Koonin S. E., Langanke K. and Seki R., Phys. Rev. C, 48 (1993) 837.
+Ichimaru S., Rev. Mod. Phys., 65 (1993) 252.
+See also Czerski K., Huke A., Heide P., Hoeft M. and Ruprecht G., Nuclei in the Cosmos
+V, Proceedings of the International Symposium on Nuclear Astrophysics, July 6-11, 1998 Volos,
+Greece, edited by N. Prantzos and S. Harissopulos (Editions Fronti`eres) p. 152.
+Huke A., PhD thesis, Technische Universit¨at Berlin, 2001.
+Brown R. E. and Jarmie N., Phys. Rev. C, 41 (1990) 1391.
+Myers S. M. et al., Phys. Rev. B, 43 (1991) 9503.
+Anderson H. and Ziegler J. F., The Stopping and Ranges of Ions in Matter, Vol. 3 (Pergamon
+Press, New York) 1977.
+Cecil F. E., Liu H., Yan J. S. and Hale G. M., Phys. Rev. C, 47 (1993) 1178.
+Vogler M. and Meierjohann B., Z. Phys. A, 283 (1977) 11.
+You J. H., Cheng F. H., Cheng F. Z. and Huang F. H., Phys. Rev. B, 43 (1991) 7293.
+Fleischmann M., Pons S. and Hawkins M., J. Electroanal. Chem., 261 (1989) 301.
+Jones S. E. et al., Nature, 338 (1989) 737.
+Legett A. J. and Baym G., Phys. Rev. Lett., 63 (1989) 191.
+Shoppa T. D. et al., Nucl. Phys. A, 605 (1996) 387.
+Federovich G. V., Phys. Lett. A, 164 149 (1992.)
+Hora H. et al., Phys. Lett. A, 175 (1993) 138.
+Brown L. S. and Sawyer R. F., Rev. Mod. Phys., 69 (1997) 411.

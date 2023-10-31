@@ -1,0 +1,259 @@
+1. Introduction 
+
+In the study of the bulk properties of metal—hydrogen systems, two syn-
+thetic techniques are commonly employed [1, 2] : Reaction of the metal 
+with hydrogen gas, if necessary at elevated pressures, and the electrochemi-
+cal insertion of hydrogen into the metal, which is usually carried out at 
+atmospheric pressure. These techniques share a common problem: that of 
+the convenient, reliable in situ measurement of the hydrogen/metal atomic 
+ratio. In the case of the system of interest in this work, the H—Pd system, 
+measurement of the electrical resistance of the sample has long been known 
+to provide a solution to this problem, at least for H/Pd atomic ratios ("load-
+ings") up to approximately 0.75, for which the necessary resistance-loading 
+functionality has been obtained by a variety of analytical methods [2]. How-
+ever, in the case of more highly-loaded compositions, as well as palladium 
+alloy-hydrogen systems for which the sample resistance is known to vary 
+with composition (e.g. [3 —8]), the detailed results of a direct experimental 
+determination of the resistance-loading function at room temperature are 
+not available. 
+
+At 298 K, the Ad)-phase of the H—Pd system extends from a loading 
+of approximately 0.61 to (at least) unity. Despite the wealth of published 
+data and analysis which are available for the a- and two-phase regions in 
+the H—Pd system, relatively fewer studies have been reported for the 
+fl-phase. This is particularly so for more highly loaded compositions (with 
+H/Pd in excess of 0.8), for which the chemical potential of dissolved hydro-
+gen increases rapidly with increasing concentration such that, in the case of 
+loading from the gas phase at 298 K, a hydrogen partial pressure of 1 bar 
+is sufficient to achieve H/Pd = 0.72 [9-11], whereas a pressure in excess 
+of 12 kbar is required to reach H/Pd = 1 [12] (n.b. in most gas-loading 
+experiments, the system pressure is indistinguishable from the hydrogen 
+partial pressure; this latter quantity will henceforth be referred to here as 
+"pressure" unless further clarification is required). The attainment by elec-
+trochemical means of such elevated chemical potentials of dissolved hydro-
+gen, with the resulting high loadings, is a subject of continued interest (e.g. 
+[13, 14]). At this point, we should emphasize that the pressure-composition 
+data quoted above refer to samples with low surface area to volume ratios. 
+
+As the particle size decreases, the presence of increasing quantities of 
+chemisorbed hydrogen, as well as the involvement of sub-surface hydrogen, 
+serve to modify the pressure-composition isotherms. This subject has been 
+discussed by Wicke [15]. 
+
+Although the qualitative form of the resistance-loading function for the 
+fl-phase of the H—Pd system has been described previously (e.g. [16, 17]) 
+and is not under discussion here, several differing quantitative descriptions 
+have been employed in earlier studies (e.g. [3, 13, 14]). In order to clarify 
+this situation and facilitate the study of the H—Pd system at high loadings, 
+here we review briefly relevant data taken from the literature and employ 
+selected results in order to construct the resistance-loading function at 
+298 K. 
+
+
+2. Derivation of resistance-loading function 
+
+At 298 K, the variation of electrical resistance ratio (R/R°, where R denotes 
+the sample resistance and R° is that of the hydrogen-free metal at the outset 
+of the experiment) of fl-phase H—Pd samples with imposed pressure, up to 
+25 kbar, has been determined [3, 4, 7, 8, 18]; the results of two of these 
+studies [4, 8] are shown in Fig. 1. As the pressure increases above approxi-
+mately 10 bar, the resistance falls, eventually achieving values which are 
+actually less than that of the hydrogen-free metal at the outset of the experi-
+ment. For compositions within the fl-phase, measurements made during both 
+absorption and desorption of hydrogen exhibited negligible hysteresis, as is 
+commonly observed if the extensive formation of compositions within the 
+a + /3 two-phase region is avoided during cycling. 
+
+Fig. 1. Variation of loading (H/Pd) and resistance ratio (R/R") with the (common) loga-
+rithm of hydrogen partial pressure (p) in the fl-phase of the H—Pd system, at 298 K 
+unless otherwise stated. • Loading data from Ref. [19] (290 K); 0 Loading data from 
+Ref. [10] (298 K, interpolation of original data); • Loading data from Ref. [9] (298 K, 
+interpolation of original data); A Loading data from Ref [11]; IN Loading data from 
+Ref. [12]; 0 Resistance data from Ref. [4]; • Resistance data from Ref. [8]. 
+
+In order to make use of the resistance data shown in Fig. 1 for the 
+determination of loading, we require the pressure-composition isotherm for 
+the f--phase of the H—Pd system at 298 K. Several experimental data sets 
+bear on this matter [9-12, 19]; unfortunately, only one relates to loadings 
+in excess of 0.9, and, even at lower loadings, not all are consistent, Fig. 1. 
+
+At lower loadings, the loading is seen to increase linearly with the logarithm 
+of the pressure, an observation which has been the subject of extensive 
+theoretical discussion [20]. The data of Perminov et al. [19] are significant 
+in that, although clearly offset in loading from the other results shown in 
+Fig. 1, their slope is similar and, most importantly, they indicate that the 
+linear variation in fact extends to quite high pressures. 
+
+Since, for hydrogen at 298 K, pressure and fugacity are effectively indis-
+tinguishable up to pressures of approximately 100 bar, the observed linear 
+variations of loading with the logarithm of pressure shown in Fig. 1 are 
+equivalent to the statement that the loading varies linearly with the chemical 
+potential of hydrogen in the fl-phase, at least over a certain range of compo-
+sition. Some authors have chosen to extrapolate this latter relation in order 
+
+
+Fig. 2. Variation of resistance ratio and the (common) logarithm of hydrogen partial 
+pressure with loading in the /3-phase of the H—Pd system at 298 K. ♦ Measured resis-
+tance data from Ref. [21]; O measured resistance data from Ref. [22]; A measured 
+resistance data from Ref. [8]; A measured resistance data from Ref. [23]; 0 calculated 
+from data in Ref. [4]; • calculated from data in Ref. [8]; — summary resistance ratio 
+function; — logarithm of hydrogen partial pressure. 
+
+to calculate the resulting loadings at all pressures consistent with the exist-
+ence of the fl-phase, via determination of the hydrogen fugacity correspond-
+ing to a given pressure (e.g. [3, 4]). The loading data of Perminov et al., 
+however, show a linear variation with the logarithm of pressure, rather than 
+chemical potential, up to approximately 1700 bar at 290 K. In addition, the 
+assumption of a linear variation of loading with chemical potential has been 
+shown to be inapplicable to the experimental data of Tkacz and Baranowski 
+for loadings greater than 0.9 [12]. 
+
+With these considerations in mind, we have elected to adopt the results 
+given by Frieske and Wicke [9] as representative of the more recent data 
+Variation of Resistance with Composition in the fi-Phase of the H-Pd System �
+
+Table 1. Variation of resistance ratio with composition for the fi-phase of the H-Pd 
+system at 298 K. 
+
+sets shown in Fig. 1 in order to interconvert hydrogen pressure and loading, 
+by extrapolation where necessary, over the entire loading range 0.61 to 0.9 
+at 298 K. Further, we note: (i) The data of Frieske and Wicke give 0.72 as 
+the loading at 1 bar; this value is an acceptable average of the more recent 
+values reported in the literature, and (ii) when extrapolated, these data are 
+consistent with the first data point of Tkacz and Baranowski (at H/Pd = 
+0.9 in Fig. 1) [12]. This latter agreement must be regarded as somewhat :
+fortuitous, however, since this particular loading was itself determined by 
+an extrapolation procedure based on the low pressure data of Wicke and 
+Nernst [10]. Nonetheless, the remainder of the loading data determined by 
+Tkacz and Baranowski [12] were determined experimentally as differences 
+in loading, measured relative to this initial point. 
+
+Based on the considerations of the prior paragraph, and interpolating the 
+data of Tkacz and Baranowski where necessary, the pressure-composition 
+isotherm used in this work for the fl-phase at 298 K is illustrated in Fig. 2. 
+Using this isotherm, the resistance-pressure results shown in Fig. 1 may be 
+converted to resistance-loading data for the fi-phase at 298 K; these are 
+plotted in Fig. 2. Also shown in Fig. 2, and described in detail in Table 1, 
+is a single resistance-loading function which is designed to summarize the 
+various available data sets. In obtaining this result, it was necessary to em- 
+ploy additional data from the literature [8, 21-23] in order to define better 
+the resistance-loading curve in the vicinity of the resistance maximum. 
+
+These additional data, which are derived mostly from electrochemically-
+loaded specimens, are also plotted in Fig. 2. 
+
+
+3. Discussion 
+
+In the summary resistance-loading function shown in Fig. 2, the maximum 
+occurs at a loading of 0.76 (corresponding to a pressure of approximately
+5 bar in a gas-loading experiment) and a resistance ratio of approximately 
+1.81. Especially in the vicinity of this point, there is noticeable scatter in :
+the resistance ratio values corresponding to a given loading for the various 
+data sets shown in Fig. 2. This must be borne in mind when employing the 
+summary resistance-loading function detailed in Table 1; in particular, these 
+resistance data are quoted to three decimal places for future convenience 
+in plotting, rather than as in indicator of reproducibility between different 
+palladium samples. Similarly, the function given in Table 1 necessarily re-
+fers to samples in internal compositional equilibrium; thus, it may not apply 
+to specimens undergoing rapid changes in loading, for which significant 
+internal compositional gradients may be expected, leading to a variable 
+average sample resistance for a given total loading. 
+
+The data at high loadings shown in Figs. 1 and 2 were obtained by gas-
+loading at elevated pressures. Electrochemical loading, on the other hand, 
+is usually undertaken at a hydrostatic pressure in the vicinity of one atmos-
+phere. If, for the moment at least, we ignore the effects of internal micro-
+structural variables on the measured resistance of a bulk fl-phase sample, 
+this quantity may be taken as a function of temperature, composition and 
+hydrostatic pressure. For a number of compositions, the magnitude of the 
+rate of change of resistance ratio with hydrostatic pressure, at constant tem-
+perature, has been determined to be on the order of 10' bar' [3, 4, 7]. 
+Thus, the resistance-loading function shown in Fig. 2 will vary negligibly 
+depending on the hydrostatic pressure entailed by the method of sample 
+synthesis. 
+
+It should be emphasized that the resistance of compositions within the 
+fl-phase, rather than the resistivity, is shown in Figs. 1 and 2. Data for the 
+variation of resistivity with loading, up to values in the vicinity of unity, 
+are available [16, 17]; unfortunately, these data are not easily compared 
+with those discussed here due to uncertainties associated with the correc-
+tions necessary as a result of changes in sample dimension as a function of 
+loading. In addition, the resistivity data of Smith and Otterson [16] were 
+obtained at 273 K. This temperature is sufficiently far removed from that 
+employed here, 298 K, to require appropriate correction of the measured 
+Variation of Resistance with Composition in the /3-Phase of the H—Pd System �
+data for comparative purposes, using the temperature coefficient of resis-
+tance at constant composition. It appears, however, that values of this latter 
+quantity are not available at high loadings [21]. 
+
+While it is evident that a number of possible uncertainties have entered 
+into the derivation of the pressure-composition isotherm shown in Fig. 2, 
+mostly arising from the paucity of experimental data for loadings in excess 
+of 0.8, its form warrants further comment. In the gas-loading procedure 
+employed by Tkacz and Baranowski [12], the system pressure is indis-
+tinguishable from the partial pressure of hydrogen. Under these circum-
+stances, for the two-component H—Pd system, constancy of pressure over 
+a range of composition is indicative of the presence of two phases. Although 
+such behaviour is certainly not clearly evident in the data shown in Figs. 1 
+and 2, the partial arrest in the rate of change of pressure with composition 
+for loadings in the vicinity of 0.95 is intriguing in this respect. Further, 
+corresponding data obtained over a range of temperatures [12] exhibit simi-
+lar arrests. It is to be understood, however, that such data were obtained 
+under exacting experimental conditions. 
+
+While, in the absence of further data, any discussion of this aspect of 
+the phase behaviour at very high loadings must be regarded as speculative, 
+we note that binary phases in the H—Pd system with loadings greater than 
+unity have been described [24-27], although under different preparative 
+circumstances from those involved here. In addition, the (slight) change in 
+the slope of the variation of resistance with pressure observed at approxi-
+mately 10 kbar, Fig. 1, has been interpreted in terms of the occupation by 
+hydrogen of a significant fraction of the tetrahedral sites within the pal-
+ladium structure [4], although it is unclear whether loadings in excess of 
+unity are achieved under these conditions. Finally, we note that single crys-
+tal neutron diffraction studies of the fl-phase up to a loading of 0.92 showed 
+no evidence for other than octahedral site occupancy [28]. 
+
+
+References 
+
+1. B. Baranowski, Plat. Met. Rev. 16 (1972) 10. 
+2. F. A. Lewis, The Palladium Hydrogen System, Academic Press, London 1967. 
+3. B. Baranowski and R. Wisniewski, Phys. Status Solidi 3$ (1969) 593. 
+4. A. W. Szafranski and B. Baranowski, Phys. Status Solidi (a) 9 (1972) 435. 
+5. A. W. Szafranski, Phys. Status Solidi (a) 19 (1973) 459. 
+254 �
+S.  
+6. B. Baranowski, S. Majchrzak and T. B. Flanagan, J. Phys. Chem. 77 (1973) 35. 
+7. A. W. Szafranski, Pol. J. Chem. 55 (1981) 2413. 
+8. B. Baranowslci, F. A. Lewis, W. D. McFall, S. Filipek and T. C. Witherspoon, Pi oc. 
+R. Soc. London A 386 (1983) 309. 
+9. H. Frieske and E. Wicke, Ber. Bunsenges. Phys. Chem. 77 (1973) 48. 
+10. E. Wicke and G. H. Nernst, Ber. Bunsenges. Phys. Chem. 68 (1964) 224. 
+11. T. B. Flanagan, W. Luo and J. D. Clewley, J. Less-Common Met. 172-174 (1991) 
+12. M. Tkacz and B. Baranowski, Pol. J. Chem. 50 (1976) 2159. 
+13. M. C. H. McKubre, S. Crouch-Baker, A. M. Riley, R. C. Rocha-Filho, M. Schreiber, 
+S. I. Smedley and F. L. Tanzella, in Proc. Symp. On Hydrogen Storage Materials, 
+Batteries and Electrochemistry, edited by D. A. Corrigan and S. Srinivasan, pp. 269-
+286, Electrochemical Society, Pennington, New York 1992. 
+14. T. A. Green and T. I. Quickenden, J. Electroanal. Chem. 368 (1994) 121. 
+15. E. Wicke, Z. Phys. Chem. N.F. 143 (1985) 1. 
+16. R. J. Smith and D. A. Otterson, J. Phys. Chem. Solids 31 (1970) 187. 
+17. J. P. Burger, D. S. MacLachlan, R. Mailfert and B. Souffache, Solid State Commun. 
+17 (1975) 277. 
+18. B. Baranowski and R. Wisniewski, J. Phys. Chem. Solids 29 (1968) 1275. 
+19. P. S. Perminov, A. A. Orlov and A. N. Frumkin, Dokl. Akad. Nauk SSSR 84 (1952) 
+20. E. Wicke and H. Brodowsky, in Hydrogen in Metals II, edited by G. Alefeld and J. 
+Volkl, Top. Appl. Phys. Vol. 29, pp. 73-155, Springer-Verlag, Berlin 1978. 
+21. T. B. Flanagan and F. A. Lewis, Z. Phys. Chem. N.F. 27 (1961) 104. 
+22. J. C. Barton, F. A. Lewis and I. Woodward, Trans. Faraday Soc. 59 (1963) 1201. 
+23. J. C. Barton and F. A. Lewis, Z. Phys. Chem. N.F. 33 (1962) 99. 
+24. Y. Fukai and N. Okuma, Phys. Rev. Lett. 73 (1994) 1640. 
+25. Y. Fukai and N. Okuma, Jap. J. Appl. Phys. 32 (1993) L1256. 
+26. R. V. Baranova, Y. P. Khodyrev, R. M. lmamov and S. A. Semiletov, Sov. Phys. 
+Crystallogr. 25 (1980) 736. 
+27. S. A. Semiletov, R. V. Baranova, Y. P. Khodyrev and R. M. lmamov, Sov. Phys. 
+Crystallogr. 25 (1980) 665. 
+28. M. H. Mueller, J. Faber, H. E. Flotow and D. G. Westlake, Acta Crystallogr. A31 
+(1975) S99. 

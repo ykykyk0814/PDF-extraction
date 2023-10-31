@@ -1,0 +1,744 @@
+Mizuno, T., T. Ohmori, and T. Akimoto. Generation of Heat and Products During Plasma Electrolysis. in Tenth
+International Conference on Cold Fusion. 2003. Cambridge, MA: LENR-CANR.org. This paper was presented
+at the 10th International Conference on Cold Fusion. It may be different from the version published by World
+Scientific, Inc (2003) in the official Proceedings of the conference.
+
+Generation of Heat and Products During Plasma Electrolysis
+
+Tadahiko Mizuno, Tadayoshi Ohmori and Tadashi Akimoto
+Hokkaido University, Kita-ku Kita-13 Nishi-8, Sapporo 060-8628, Japan
+E-mail: mizuno@qe.eng.hokudai.ac.jp
+
+
+Abstract: Direct decomposition of water is very difficult to achieve in normal conditions. Hydrogen gas
+can be usually obtained by electrolysis and a pyrolysis reaction at high temperatures above 3700 degrees
+Celsius. However, as we have already reported, anomalous heat generation during plasma electrolysis is
+relatively easy to obtain under the right simultaneous conditions of high temperature and electrolysis. In
+this paper we discuss the anomalous amount of hydrogen and oxygen gas generated during plasma
+electrolysis. The generation of hydrogen in amounts exceeding Faradays law is continuously observed
+when the conditions such as temperature, current density, input voltage and electrode surface are suitable.
+Non-Faradic generation of hydrogen gas is sometimes 80 times higher than the gas from normal
+electrolysis. Excess hydrogen has proved difficult to replicate by other laboratories, although we are able
+to reproduce it regularly.
+
+Key word: plasma electrolysis, pyrolysis, hydrogen generation, current efficiency
+
+
+1. Introduction
+Hydrogen gas can be easily obtained by the electrolysis. However, direct decomposition of water is very
+difficult in normal condition. The pyrolysis reaction occurs at high temperatures above 3700 degrees
+Celsius (1, 2). We have already reported anomalous heat generation during plasma electrolysis (3, 4).
+Some researchers have attempted to replicate the phenomenon, but it has been difficult for them to
+generate large excess heat. They have tended to increase voltage to a very high value, around several
+hundred volts, but they measured no excess heat.
+We observe anomalous hydrogen and oxygen gas generation during plasma electrolysis. The generation
+of hydrogen, which exceeds the Faraday law, is continuously observed when the conditions such as
+temperature, current density, input voltage and electrode surface are suitable. Sometimes this non-Faradic
+generation of hydrogen produces 80 times more hydrogen than normal electrolysis would. The plasma
+state itself can usually be triggered fairly easily, when the input voltage is increased to 140V or above at
+rather high temperature electrolysis cell (5, 6, 7). When the plasma forms, a great deal of vapor and the
+hydrogen gas is released from the cell. This effluent gas removes much of the energy from the cell, and
+with most conventional calorimeters this energy is not measured. This makes it difficult to calibrate, and to
+establish the exact heat balance. This simultaneous heat release and the gas release are complicated and
+difficult to measure. In this paper we show that anomalous hydrogen gas generation occurs during plasma
+electrolysis. We will describe a heat measurement technique used during the plasma electrolysis to capture
+all energy. This is important tool when replicating excess heat and other products during plasma
+electrolysis.
+
+2. Experiment
+2.1 Electrolysis cell
+Figure 1 shows the experimental set up. We can measure many parameters simultaneously: sample
+surface temperature, neutron and x-ray emission, the mass spectrum of gas and input power and so on.
+Figure 2 shows a schematic sketch of the cell and measurement system (1-2). The cell made of the Pyrex
+glass, 10 cm diameter and 17 cm in height, 1000 ml capacity. A cap made of Teflon rubber was installed in
+the cell. It is 7 cm in the diameter. The cap has several holes, three for platinum resistance temperature
+probes (RTD), two for tube carrying flowing coolant water tube (the inlet and outlet), and one for a tube to
+capture effluent hydrogen and oxygen gas, made of quartz, 5 cm in diameter and 12 cm in length. In
+addition, the upper part of the tube is attached to a Teflon rubber cylinder with a water-cooled condenser
+built into it, as shown in Fig. 3 and photo 4.
+
+2.2 Measurement of hydrogen gas
+
+A dome or funnel-shaped quartz glass surrounds the cathode, extending below it. It is 5 cm in
+diameter, 12 cm in length. The effluent gas from the cathode  a mixture of hydrogen from electrolysis,
+hydrogen and oxygen from pyrolysis, and water vapor from the intense heat  is captured inside the
+funnel as it rises up to the surface of the electrolyte. After the gas rises to the top of the funnel, it passes
+through a Teflon sleeve into a condenser. The water vapor condenses and falls back into the cell, and the
+hydrogen and oxygen continues through an 8-mm diameter Tigon tube and a gas flow meter (Kofloc Corp.,
+model 3100, controller model CR-700). This is a thermal flow meter; the flow detection element is a
+heated tube. The minimum detectable flow rate is 0.001 cc/s, and the resolution is within 1%. The gas flow
+measurement system is interfaced to a data logger, which is attached to a computer.
+
+Cell
+View of plasma electrolysis
+X-ray detector
+RTD
+pyrometer
+pyrometer
+Neutron counting
+Flow meter
+Power meter
+Power supply
+
+Fig. 1. Photo of the experimental set up
+
+Power analyzer
+Logger Computer
+Mag.Stirrer
+Cell
+Teflon cap
+Cathode Pt anode
+Pt RTD
+Incubator
+Water
+supply
+Flow meter
+Power supply
+Quartz
+pipe
+Mass flowmeter
+Hydrogen gas
+Q-mass
+
+Fig. 2. Sketch of experimental set up
+
+After passing through the flow meter, most of the gas is flushed into the air, but a small constant volume
+of the gas, typically 0.001 cc/s, is diverted to pass continuously through a needle valve and analyzed by a
+quadrupole mass spectrometer.
+
+＋ －
+Cell
+Pt anode
+H2 Gas collector,
+Quartz pipe
+condenser
+To gas flow meter
+and mass
+spectrometer
+W cathode
+Shrinkable Teflon cover
+H2 + O2 + vapor
+mixing gas
+Cooling water in
+Cooling water out
+O2+vapor
+gas out
+Electrolyte level
+Teflon rubber cap
+Teflon rubber stopper
+Anode
+room
+Cathode room
+Mixing gas
+bubble
+Plasma region
+
+Fig. 3. Detail of the gas measurement
+
+glass dome
+coolant coil
+Pt anode
+The cell is 6cm in diameter and 15cm in
+height.
+Rectangular Pt had
+an integral lattice
+constructed using a
+15cm length of
+0.1cm in diameter.
+RTD: Pt resistance
+thermometer, 0.001deg
+
+Fig. 4. Photo of cell
+
+2.3 Calorimetry
+As noted above, a quartz glass funnel surrounds the cathode. The anode is a mesh, wrapped around the
+outside of this funnel. A Teflon tube, in turn, is wrapped around the anode mesh, and cooling water flows
+through this tube. To summarize, the cathode is surrounded by a quartz glass funnel, the funnel outside
+surface is wrapped in the anode mesh, and a cooling water tube is coiled around the anode mesh. A
+platinum resistance temperature probes (RTD) is installed inside the tube, where the tube enters the cell
+system, and another RTD is installed where the tube exits the cell. (We call this the system here because
+after the cooling water passes the inlet RTD, it flows through the condenser above the cell, where it
+captures a great deal of heat, then it enters the Teflon tube in the cell, then finally it exits the cell and runs
+past the outlet RTD.) The temperature difference between the outlet and inlet RTDs is used to perform
+flow calorimetry on the cooling water.
+Another set of three RTDs are mounted in the electrolyte, at different depths in the cell, to measure cell
+temperature and to perform isoperibolic calorimetry. A magnetic stirrer keeps the solution in the cell well
+mixed. The amount of the heat generation was determined by combining results from the flow and
+isoperibolic calorimetry and continuously comparing these two results with the input electric power.
+Figure 5 shows the notional sketch of the heat measurement system. Heat out can be divided into several
+factors. These are: energy required for water decomposition; heat of electrolyte; heat removed by the
+coolant (the flowing cooling water in the Teflon tube); heat released from the call wall; and heat released
+with the vapor that exists through the cell plug outlet hole.
+Excess gas
+Hv: Vapor
+Input
+Hw:Electrolyte heat
+Hc: Heat of coolant
+Hr: Heat release
+Hg: Heat of
+decomposition
+
+Fig. 5. Schematic representation of heat balance
+
+The heat balance is determined for input and output two formulas:
+
+•Input (J) = I (current) ･ V(Volt) ･ t
+•Out = Hg + Hw + HC + Hr + Hv
+here, Hg = Heat of decomposition =∫1.48 ･ dI ･ dt
+Hw = Electrolyte heat  = ∫Ww ･ Cw ･δT
+•       Ww:electrolyte weight,Cw:heat capacity,δT:temperature difference
+Hc = Heat of coolant  =  ∫Wc ･ Cc ･δT
+•        Wc:coolant weight, Cc:heat capacity,δT:temperature difference
+•Hr = Heat release  =  ∫(Ww ･Cw + Wc ･ Cc)Tr
+•         Tr: temperature change
+•     Hv = vapor = Wv ･ Cc
+
+The calculation of the heat balance is relatively simple, despite the many factors that have to be taken into
+account. Input power is from the electric power source only. Output is divided to several parts. The first is
+Hg is heat of water decomposition. It is easily calculated from the total electric current. Hw is the
+electrolyte heat energy. It is also easy to calculate, based on the difference between the solution
+temperature and ambient. Hc is heat removed by the coolant. It is also easy to measure from the
+temperature difference between the coolant temperature at the inlet and outlet to the flow calorimetry
+system. The forth factor is Hr, heat release from the cell. This is rather complicated and can be determined
+by a semi-empirical equation. The fifth factor, Hv, is heat release by vapor from the cell. This is difficult to
+measure precisely. However, we have captured most of this heat directly by running the flow-calorimetry
+cooling water flow through the condenser.
+If there is excess hydrogen and oxygen gas, we have to measure the gas volume precisely to determine
+how much energy it removes from the system. The equation for first factor, Hg, water decomposition was
+based on Faradays law in the first approximation. It has to be changed to account for excess gas. The new
+equation can be based on the amount of hydrogen gas measured by the flow meter.
+
+2.4 Electrode and solution
+A tungsten wire 1.5 mm in diameter and 15 cm in length was used as the electrode, the upper 13 cm of
+the wire was covered with shrink-wrap Teflon, and the bottom 2 cm was exposed to electrolyte, and acted
+as the electrode. The light water solution was made from ultra high purity K2CO3 reagent at 0.2M
+concentration.
+
+Fig. 6. W sample, before; left and after; right
+
+2.5 Power supply
+A Takasago EH1500H supplied the electric power. Input
+power meter (Yokogawa Co. model PZ4000). The sampling
+2.6 Thermometry
+Temperature was measured with 1.5 mm diameter plati
+(Netsushin Co., model Plamic Pt-100Ω). The amount of the
+two methods with the flow calorimetric and isoperibolic by P
+from the temperature change of the water coolant that was on
+through the Tigon tube from the tap water and the coolant m
+2.7 Data accumulation
+All data including the mass of cooling water flow from the
+temperature of coolant inlet and outlet, input voltage, curren
+the hydrogen gas generated were collected by a data logger (
+temperature data at locations in the cell electrolyte and the am
+thermostatic chamber were also collected by the logger. All
+2.8 element analysis
+The sample electrodes and the electrolyte were subjected t
+dispersive X-ray spectroscopy (EDX), Auger electron spectr
+spectroscopy (SIMS) and electron probe micro analyzer (EP
+
+Fig
+SEM
+Liq. N2
+vessel
+Spectrum
+analyzer
+
+Fig. 8. Photo of EDX
+
+Fig. 7. Photo of power supply   power was calibrated for five seconds by a
+time was 40µs and the data length was 100k.
+num resistance temperature probes (RTD)
+heat generation was calibrated by combined
+t sensors. Flow calorimetric was estimated
+ce pass through a constant temperature bath
+ass was measured by a turbine meter.
+flow calorimetry measurement, the
+t, integrated electric power and the amount of
+Agilent Co., model 34970A). Moreover, the
+bient temperature at one place in the
+data was finally collected in a computer.
+o element detection by means of energy
+oscopy (AES), secondary ion mass
+MA).
+
+. 9. Photo of ICP mass
+3. Result
+We changed the input voltage stepwise as shown in Fig. 10. In this case, plasma electrolysis occurred at
+120V. Once plasma formed, input current suddenly dropped. Meanwhile, the solution temperature rose to
+around 80 degrees. We then increased the voltage as stepwise to 350V, and then decreased it to 100V.
+Plasma continued at 100V and ceased at 80V.
+
+The
+Fig. 11
+not det
+period.
+appear
+time, o
+behavi
+
+0 1 2 3 4 5
+0
+100
+200
+300
+400
+0
+2
+4
+6
+8
+単位 千
+Time/1000s
+T
+e
+m
+p
+e
+r
+a
+t
+u
+r
+e
+/
+℃
+､
+
+V
+o
+l
+t
+a
+g
+e
+/
+V
+C
+u
+r
+r
+e
+n
+t
+/
+A
+c f dat a\W20910#1
+Vol t age
+Current
+Temperat ure
+Pl asma
+r egi on
+
+Fig. 10. Change for input voltage, current and Temperaturegas captured in the cathode gas collector dome is calibrated by the Q-mass continuously, as shown in
+. It is mainly composed of the six gasses shown here. Other gases were under background levels and
+ected after electrolysis started. Oxygen and nitrogen were detected throughout the measurement
+Oxygen increased after plasma electrolysis began, while other gases usually decreased. Hydrogen
+ed when ordinary electrolysis started, and it decreased after the plasma electrolysis began. At the same
+xygen increased. This oxygen level indicates that direct water decomposition started. Here, the
+or of the hydrogen isotope molecules is the same as the hydrogen molecular ion.
+0 1 2 3 4 5 6 7 8
+1E - 13
+1E - 12
+1E - 11
+1E - 10
+1E - 09
+1E - 08
+単 位  千
+T i me / 1000s
+Io
+n
+cu
+rr
+en
+t/
+A
+\ c f da t a \ w20910&1. wk 4
+H2
+N2
+H2O
+O2
+HD
+D2
+E l e c t r o l y s i s  s t a r t
+
+Fig. 11. Changes of the ion current of various masses
+Figure 12 shows the time changes for hydrogen and oxygen molecules and their ratio. The ratio increase
+as input voltage increases. It is 0.45 at 2500s, at 350 V. This means the gas from the cathode was
+decomposed water. The ratio of the hydrogen in gases released from the cathode is exactly same as the value
+that indicated by the current. The equation is (Fl-0.116I)*0.667+0.116I. Here, Fl is the rate of hydrogen gas
+estimated from the flow meter and I is current. The factor of 0.116 is determined from the rate of ordinal
+hydrogen generation that is 0.5*22414/F (F; Faraday constant of 96500). And the factor of 0.667 is atomic
+ratio of hydrogen for water.
+
+0 1 2 3 4 5
+0
+1
+2
+3
+4
+5
+0
+0. 1
+0. 2
+0. 3
+0. 4
+0. 5
+単位  千
+単
+位
+1
+/ 十
+億
+Ti me/1000s
+I
+o
+n
+
+c
+u
+r
+r
+e
+n
+t
+/
+１
+０
+-
+9
+
+A
+O
+/
+H
+\c f dat a\w20910&1. wk4
+O/HH
+O
+
+Fig. 12. Time changes of H2 and O2 ion current and the ratio
+
+Figure 13 shows the changes of hydrogen generation estimated from the current and measured by the flow
+meter. These rates were the same in ordinary electrolysis. However, the value measured by the flow meter
+shows an upward deviation compared the value estimated from the current.
+The change of the ratio between these two values, i.e., current efficiency (ε) and the ratio of the oxygen
+gas to the total generation with hydrogen from the cathode are shown in Fig. 4C. Here, theεexceeded
+unity when plasma electrolysis started; gas generation increased a great deal with the input voltage. It
+reached as 8000% at 350V. The ratio of oxygen reached 30%. This means that almost all water
+decomposition in the cell was a caused by the high voltage plasma. In other words, pyrolysis
+decomposition occurred.
+
+0 1 2 3 4 5
+0. 1
+1
+10
+単位 千
+Time/1000s
+H
+2
+/
+c
+c
+/
+s
+cf dat a\W20910#1
+Flow
+meter
+Current
+
+Fig. 13. Time changes of hydrogen generations
+
+Figure 14 shows the change of the ratio between these two values, i.e., current efficiency (ε) and the ratio of
+the oxygen gas to the total generation with hydrogen from the cathode. Here, theεexceeded unity when
+plasma electrolysis started; the gas generation increased a great deal as input voltage rose. It reached 8000%
+at 350V of input voltage. The theoretical value of hydrogen generation calculated from the input current
+was 1144 cc, and the measurement value during plasma electrolysis was 2190 cc. That is, the generation of
+excess hydrogen during a whole electrolysis run reached 1046 cc. If we consider only hydrogen generated
+during plasma conditions, the measured value was 1470 cc, the theoretical value is 460, and the excess is
+1010 cc.
+
+0 1 2 3 4 5
+1
+10
+100
+0. 1
+1
+10
+単位 千
+Ti me/1000s
+cu
+rr
+en
+t
+ef
+fi
+ci
+en
+cy
+,ε
+:(
+Hf
+/H
+c)
+Ox
+yg
+en
+r
+at
+io
+:
+O/
+(H
++O
+)
+ε : Hf /Hc
+O/(O+H)
+cf dat a\W20910#1
+Fig. 14. Current efficiency and ratio of oxygen
+
+Figure 15 shows theεand V relationship. Here, it can be shown that εhas a tendency of increase with
+input voltage. Some points ofεvalue under 100V in the figure show up to twice of the theoretical value of
+unity; these points were obtained during plasma electrolysis. On the other hand,εremains at unity for all of
+the normal electrolysis runs. It can be expected that if the input voltage were increased to several hundred V,
+then εwould far exceed unity.
+
+10 100 1000
+0. 1
+1
+10
+100
+Input Voltage
+C
+u
+r
+r
+e
+n
+t
+
+e
+f
+f
+i
+c
+i
+e
+n
+c
+y
+,
+ε
+c f dat a\W20910#1
+Fig. 15. Voltage dependency of current efficiency
+
+Figure 16 also shows the ratio of excess hydrogen to input power. These values were subtracted from the
+faradic hydrogen shown in the previous graph, and converted to the equivalent energy. They show a steep
+increase with higher input voltage. The excess is greater than 10% and sometimes as high as 30%.
+
+10 100 1000
+0. 1
+1
+10
+100
+Vol t age
+(E
+xc
+es
+s
+H
+y
+dr
+o
+ge
+n/
+I
+np
+u
+t
+W)
+/
+%
+cf dat a\W20910#1
+Fig. 16. Energy efficiency of hydrogen gas to input power
+
+An example of heat generation is shown in Fig. 17. This shows no excess during the measurement.
+However, in this experiment, heat release with the oxygen evolution was not measured. So, it can be only
+said that in this case the heat balance was almost 100%.
+
+0 1 2 3 4 5
+0
+0. 5
+1
+1. 5
+2
+単位 千
+Ti me/1000s
+Po
+we
+r
+ef
+fi
+ci
+en
+cy
+cf dat a\W20910#1
+
+Fig. 17. Change of ratio of output/input
+
+Figure 18 apparently shows the tendency of excess hydrogen generation to correlate with negative heat (an
+endothermic reaction). The total endothermic heat was calculated at 6540J during plasma electrolysis.
+
+-10 0 10 20 30 40
+-40
+-20
+0
+20
+40
+Excess H2/W
+He
+at
+(o
+ut
+-I
+n)
+/W
+cf dat a\W20912#1
+Fig. 18. Relation of heat balance and excess H2
+
+When there is no excess heat, apparently the points for the excess hydrogen distribute around the no excess
+heat region as in Fig. 19, indicating the difference between heat out and electric power is zero.
+
+-10 0 10 20 30 40
+-40
+-20
+0
+20
+40
+Excess H2/W
+He
+at
+(O
+ut
+-I
+n)
+/W
+Rel at i onshi p bet ween Ex. H2 and Ex. Heat
+cf dat a\W20827#1
+Fig. 19. Relation of heat balance and excess H2
+
+Figure 20 shows a contrary relationship between excess hydrogen and excess heat. In this case, exothermic
+heat was estimated as 1100J during plasma electrolysis. In all three cases shown here, I accounted for the
+contribution of energy from excess hydrogen formation. However, the apparent heat balance was close to or
+below unity. It was affected by other parameters.
+
+-10 0 10 20 30 40
+-40
+-20
+0
+20
+40
+Excess H2/W
+He
+at
+(O
+ut
+-I
+n)
+/W
+cf dat a\W20902#1
+Fig. 20. Relation of heat balance and excess H2
+
+We analyzed the elements in the electrode and the electrolyte by EDX and XPS method to estimate the
+entire distribution of elements in the electrolysis system. After electrolysis, the difference of the element
+deposition for these three cases were changed as indicated in Fig. 21. These depositions were also observed
+in various cases of the electrolysis systems (8, 9, 10, 11, 12).
+There were several major elements observed in the systems when excess energy was released. These were
+Ca, Fe and Zn. And other hand, In and Ge were detected for the case of endothermic heat. However, we have
+no major elements detected in the system when no heat phenomenon occurred.
+
+0
+20
+40
+60
+Al
+Si
+P    S    Cl
+Ca
+Ti    Cr
+Fe
+Ni    Cu
+Zn
+Ge    Pd    Ag    In    Ce    Dy
+Al   Si
+P    S   Cl    Ca    Ti
+Cr    Fe    Ni
+Cu
+Zn
+Ge
+Pd    Ag
+In
+Ce
+Dy
+At omi c No.
+We
+ig
+ht
+/m
+g
+13 14 15 16 17 20 22 24 26 28 29 30 32 46 47 49 58 66
+Excess heat /mg
+No excess/mg
+Negat i ve Exc.
+\cfdata\i cpel e20. wk4
+Fig. 21: Difference of element distributions after plasma electrolysis
+
+4. Results
+It is still difficult to determine what conditions are needed for excess energy generation. However, it is
+apparent that we must account for the contribution of the excess hydrogen to measure excess. Sometimes the
+excess hydrogen energy was as much as 30% of the input energy. This was in addition to excess heat
+already measured with calorimetry. However, duration of the excess energy generation only continued for
+several hundred seconds. One of the key factors controlling excess energy production seems to be input
+voltage. Hydrogen generation and heat generation seems to correlate with the input voltage. It can go over
+unity for the energy output during plasma electrolysis if the input voltage was kept very high. Apparently, we
+have replicated the phenomenon that the excess heat generation had been occasionally occurred at high input
+voltage region, even if the duration time was not enough long. One point ofεvalue in the figure shows up to
+80 times of the theoretical value of unity; the point was obtained by the result of plasma electrolysis at 350V.
+On the other hand, theεremains at unity for all of the other normal electrolysis. It can be expected that if the
+input voltage were increased to several hundred volts, the heat out would far exceed the value of unity.
+
+
+5. Conclusions
+1. Current efficiency for plasma electrolysis reaches 8,000% of the input current.
+2. Power efficiency for plasma electrolysis reaches 30% to the input voltage.
+3. In some cases, excess heat was observed.
+4. In other cases, no excess endothermic heat were observed.
+5. The reaction products after electrolysis were different when excess heat was generated.
+
+References:
+(1) Arakawa, H., Creation of new energy by photocatalyst: Technology of clean hydrogen fuel production
+from solar light and water, Reza Kenkyu Vol.25 (6), (1997) 425-430.
+(2) Richard Rocheleau, Anupam Misra, Eric Miller, Photo electrochemical hydrogen production, Proc.,
+1998 US-DOE, Hydrogen Program Review, NREL/CP-570-25315.
+(3) Tadahiko Mizuno, Tadayoshi Ohmori, Tadashi Akimoto, Akito Takahashi, Production of Heat during
+Plasma Electrolysis in Liquid", Jpn J. Appl. Phys., Vol.39, No.10 (2000) 6055-6061.
+(4) T. Mizuno, T. Akimoto and T. Ohmori, Confirmation of Anomalous Hydrogen Generation by Plasma
+Electrolysis, Proc. 4th meeting JCF research Soc., ed. H. Yamada, Oct., 17-18 (2002). Iwate Univ., Japan.
+(2002) 27-31
+(5) A. Hickling and M. D. Ingram, Trans. Faraday Soc., Vol.60 (1964) 783
+(6) A. Hickling, Electrochemical processes in glow discharge at the gas-solution Interface”, Modern
+Aspects of Electrochemistry No.6, ed. by J. OM. Bockris and B. E. Conway, Plenum Press New York
+(1971) 329-373
+(7) S. K. Sengupta and O. P. Singh and A. K. Srivastava, J. Electrochem. Soc., Vol.145 (1998) 2209
+(8) Tadahiko Mizuno, Tadashi Akimoto, Tadayoshi Ohmori, Akito Takahashi, Hiroshi Yamada and Hiroo
+Numata, Neutron Evolution from a Palladium Electrode by Alternate Absorption Treatment of Deuterium
+and Hydrogen", Jpn J. Appl. Phys, Part 2, No.9A/B, Vol.40 (2001) L989-L991.
+(9) Tadahiko Mizuno, Tadayoshi Ohmori and Michio Enyo, Anomalous Isotopic Distribution in
+Palladium Cathode After Electrolysis”, J. New Energy, 1996. 1(2), p. 37.
+(10) Tadahiko Mizuno, Tadayoshi Ohmori, Kazuya Kurokawa, Tadashi Akimoto, Masatoshi Kitaichi,
+Koichi Inoda, Kazuhisa Azumi. Sigezo Shimokawa and Michio Enyo, Anomalous isotopic distribution of
+elements deposited on palladium induced by cathodic electrolysis”, Denki Kagaku oyobi Kogyo Butsuri
+Kagaku, 1996. 64, p. 1160 (in Japanese).
+(11) Tadahiko Mizuno, Tadayoshi Ohmori and Michio Enyo, Isotopic changes of the reaction products
+induced by cathodic electrolysis in Pd”, J. New Energy, 1996. 1(3), p. 31.
+(12) Tadahiko Mizuno, Tadayoshi Ohmori and Michio Enyo, Confirmation of the changes of isotopic
+distribution for the elements on palladium cathode after strong electrolysis in D2O solutions”, Int. J. Soc.
+Mat. Eng. Resources, 1998. 6(1), p. 45.

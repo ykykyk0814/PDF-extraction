@@ -1,0 +1,650 @@
+
+Rothwell, J., Introduction to the Cold Fusion Experiments of Dr. Melvin Miles. Infinite Energy, 1997. 3(15/16): p.
+27. Revised and updated, 2004.
+
+
+Introduction to the Cold Fusion Experiments of Melvin Miles
+
+Jed Rothwell
+
+From 1989 until his funding was terminated in 1995, Melvin Miles performed some of the best
+cold fusion experiments on record, at the China Lake Naval Air Warfare Center. (He retired from
+China Lake in 2002.) His goal was to answer two critical questions: Does cold fusion produce
+helium along with excess heat, like a plasma fusion reaction? And if so, does it produce roughly
+as much helium per joule of energy as a plasma fusion reaction does? He answers both questions
+affirmatively. When a cold fusion palladium cathode becomes active, it releases helium into the
+electrolyte. The helium leaves the cell in the effluent deuterium and oxygen gas. Cathodes that
+produced more excess heat produced greater amounts of helium. The ratio of helium to energy is
+roughly comparable to that of hot fusion, within an order of magnitude. This is strong evidence
+that cold fusion really is some form of nuclear fusion, and not fission, zero point energy, or
+something else.
+Another important lesson from this research is that cathode material is the key to success. This
+is no surprise to people familiar with the literature, but Miles makes the trend clear. He tested 94
+cathodes from 12 different sources. Seventeen out of 28 experiments with Johnson-Matthey
+palladium produced excess heat. All four of the special Johnson-Matthey cathodes provided by
+Fleischmann worked. But with 19 cathodes from four other batches, not one worked.
+Miles is a professional, and quite willing to share information, unlike some other researchers in
+the field. He has published fifteen papers in conference proceedings and peer reviewed journals
+
+and a 98-page report, which is abstracted in this issue. He has tried to publish more papers and
+letters, but most peer-reviewed mainstream journals turned him down. His lectures at the major
+cold fusion conferences have been models of clarity and rigor. He began research on helium
+detection 1990, in collaboration with B. F. Bush and J. J. Lagowski at the University of Texas.
+Bush is an expert in dealing with contamination from air, a critical factor in this experiment.
+Samples of the effluent gas from the experiment were analyzed at the University of Texas. After
+the experiment had been underway for some time, samples were sent to the U.S. Bureau of
+Mines, which specializes in gas detection, and to Rockwell International. Similar results were
+obtained from both laboratories.
+Miles was the first to perform a systematic search for helium in the effluent gas. He also
+looked for helium in the cathode metal, where researchers expected to find it at first. He and
+others have found only negligible amounts of helium in the metal. This indicates that the reaction
+occurs near the metal surface rather than in the bulk. After Miles published his findings, other
+researchers in Italy and Japan also looked for helium in the gas. Results have been mixed, but in
+recent work using the best, most sensitive equipment yet, Cignini and Gozzi have confirmed
+Miles findings. 1
+Miles spent five months experimenting before he saw any excess heat. He was discouraged
+and ready to quit. Less dedicated people became discouraged after a few weeks of research.
+People may underestimate Miles, because he never makes a claim without extensive
+experimental evidence to back it up. He does not make the kind of exaggerated claims that have
+plagued this field. He has a low key, understated,  matter-of-fact tone. He is always willing to
+discuss his problems and failed experiments. His final report, Anomalous Effects in Deuterated
+Systems, 2 includes a discouraging litany of experiments that produced no excess heat, month
+after month, years after the first successes. He says this is the most frustrating research he has
+ever done.
+Why Helium is so Difficult to Detect
+From the start many people suspected that cold fusion produces helium. J. Schwinger and
+other theoreticians predicted it should. (Schwinger predicted helium-3; Miles has found helium-
+4.) Conventional plasma fusion (hot fusion) d-d reactions produce neutrons, tritium and helium.
+Other hot fusion reactions are aneutronic; they produce no neutrons. When cold fusion was
+announced, people assumed that it must work the way hot fusion does, so they expected to find
+the same levels of these nuclear products. But it was soon obvious that cold fusion produces
+millions of times fewer neutrons. Otherwise, a 1-watt cold fusion reaction would have killed the
+scientists observing the experiment. Cold fusion sometimes produces a low level of tritium; not
+as much as hot fusion, or the radiation alarms would go off and the health of the researchers
+would be endangered. Some devices are optimized to generate tritium, particularly Claytors
+device at Los Alamos.
+Neutrons and tritium are analogous to the smoke from a fire: some fires produce dense smoke,
+and some do not. We know how to reduce smoke by ensuring complete combustion. We have
+not yet learned how to control cold fusion neutrons. Unknown factors cause cold fusion reactions
+to produced neutrons sometimes, and to become nearly aneutronic at other times, sporadically. It
+appears helium is always produced in a fixed proportion to the heat.
+If helium is always produced, you may wonder why so few other scientists have looked for it.
+And if neutrons and tritium are rarely produced, why did so many scientists devote such effort to
+find them? There are two reasons: scientists searched for neutrons out of habit, and because it is
+easy. Nuclear researchers are good at looking for neutrons and tritium. They all have detectors,
+and they know how to use them. Hot fusion reactions always produce neutrons in a predictable
+ratio to the energy. The neutron signature (the energy with which the neutrons strike the
+detector) tells the scientist a great deal about the reaction. Scientists look for neutrons and tritium
+because they are easy to look for, whereas helium is difficult to detect. Hot fusion produces
+millions to hundreds of millions of times more neutrons per watt of heat than cold fusion, so the
+neutrons are easy to detect. You cannot miss them: as I said, the neutron flux from an unshielded
+1-watt hot fusion reaction would kill the observer. With cold fusion, heat is the principal
+signature of the reaction (Fleischmann). It makes no sense to look for neutrons unless you are
+sure a reaction is underway, and the only way to be sure a reaction is underway is to measure
+excess heat. Scientists who insist on looking for neutrons while they ignore helium and excess
+heat resemble the drunk who drops his keys in the bushes but looks for it under the streetlight
+because it is too dark to see in the bushes.
+Helium is difficult to detect for four reasons:
+1. It is not radioactive. Radioactive elements are easy to detect. You can detect a single atom of
+tritium at the moment it decays. You measure the solid angle of the detector to determine what
+percent of the neutrons strike the detector. The neutron signature distinguishes the tritium from
+other radioactive elements in the background and contamination. Based on the decay rate and the
+half-life you compute the number of tritium atoms left in the sample. The techniques are not easy
+to master, but an expert can determine how much tritium a sample has before, during and after an
+experiment. Helium-4, however, is a non-radioactive, stable atom. No instrument can detect a
+single atom of a stable isotope. A mass spectrometer makes a relative measurement of helium
+compared to some other element. You compare helium to a known amount of a carrier gas,
+usually nitrogen. (In other experiments, argon or krypton may be used as carrier gas, but Miles
+says they are usually contaminated with helium, so nitrogen is a better choice.) The helium is
+mixed with the carrier gas and the sample is placed in the spectrometer. The spectrometer
+registers parts per million (ppm) or parts per billion (ppb) of helium compared to carrier gas.
+You extrapolate from this to estimate the total helium in the full sample. This method is
+problematic and indirect compared to measuring radioactive isotopes. Radioactive isotopes are
+measured in absolute numbers.  Non-radioactive isotopes are measured relative to the carrier gas.
+
+Miles also calculates the helium generated per watt of power per second. This is the basis of his
+claim that the helium is commensurate with a plasma fusion reaction.
+
+2. Helium has nearly the same mass as a deuterium molecule (D2) (4.02820 amu versus 4.00260
+amu). Two thirds of the effluent gas from electrolysis is deuterium gas (D2). Only 9 parts per
+billion are helium. It takes a high resolution mass spectrometer to tell them apart. With lower
+resolution the helium may be indistinguishable, or it might appear as a blurred shoulder rather
+than a separate peak. The effluent gas is processed to filter out most of the deuterium.
+
+3. Helium contamination is ubiquitous. Helium constitutes 5.4 parts per million of the
+atmosphere at sea level, and it will slowly permeate glass, rubber, plastic and other materials.
+Contamination cannot be easily eliminated. It must be measured and accounted for in control
+experiments and runs that did not produce excess heat. Miles control experiments consistently
+measured background helium contamination ranging from 3.4 to 4.9 ppb. The mean value was
+4.5 ± 0.5 ppb, which is remarkably consistent. In his early experiments, most of this background
+helium probably diffused through the rubber connection between the cell and the collection flask.
+(Later, stainless steel tubing was used.) When excess heat was generated, the level of helium
+increased significantly, always in proportion to the heat. With the cell that generated the most
+heat, helium doubled, to 9.7 ppb. These numbers are the heart of the studies.
+
+4. Both hot fusion and cold fusion produce fantastically small amounts of helium. Miles has
+pointed out that a 1-watt fusion reaction would take 73,000 years to produce a single mole (4
+grams) of helium. The collection flask takes an hour and fourteen minutes to fill (4440 seconds).
+In later experiments, using metal flasks, Miles saw only low power, typically around 0.060 watts
+(60 milliwatts). At this rate the collection flask should have approximately 5 × 10-10 grams of
+helium from fusion in it, or 7 × 1013 atoms. After subtracting background contamination, Miles
+found approximately 2 × 1013 atoms per flask, an extraordinarily close result.
+How the Experiment is Performed
+Miles uses an open cell with static, isoperibolic calorimetry. This is the simplest possible
+arrangement. The anode and cathode are placed at the bottom of a tall test tube (the cell). The
+temperature of the electrolyte is measured with a thermistor. The cell is calibrated by heating the
+electrolyte with the joule heater at different power levels, and with electrolysis with palladium
+and light water, or palladium at the beginning of the experiment when no heat is being produced.
+Miles and Fleischmann think that in the hands of an expert, isoperibolic calorimetry is as precise
+as flow calorimetry. It has higher resolution; that is, it can show fine gradations of tens of
+milliwatts with more confidence than a flow calorimeter. Miles says, it can show a precision of
++/- 0.1 milliwatts while flow calorimetry yields only +/- 10 milliwatts (100 times less precise). 3
+It is less complicated; it does not require pumps, tubes, flowmeters, and two thermistors. Fewer
+things can go wrong. There are no pumps to break, or tubes of flowing water to clog up. The
+disadvantage is that a static calorimeter is more dependent upon calibrations made before and
+after the run. A flow calorimeter is a first principle device which is theoretically not dependent
+upon the calibrations. In actual practice any calorimeter must be extensively calibrated, but some
+skeptics argue that a static calorimeter might depart from its calibration constant during a run
+without anyone noticing, and then mysteriously return to it before post-experiment recalibration
+is performed. This seems very unlikely, although it is conceivable. But the event would be
+random. It would not correlate with helium production or the choice of cathode material. This is
+not to suggest that calorimeters never fail. Flow and static calorimeters can drift or go wrong in
+various well-known ways. The biggest problems with static calorimeters are changes in the bath
+temperature (or room temperature with an air-cooled cell), and a large change in electrolyte level
+when gas leaves the cell and the water is not replenished.
+The term open cell means the effluent gas from electrolysis leaves the cell. Some open cells
+vent the gas directly to the air, but Miles directs the gas through a bubbler to prevent helium and
+light water contamination. In a closed cell, a recombiner combines the free oxygen and
+deuterium gas in the head space to make heavy water again.
+
+Figure 1. Electrolytic cell with positive pressure gas discharge line used to collect samples of
+effluent gas.
+
+Figure 2. The two-stage activated charcoal cryofilter, designed to remove all gases except
+helium.
+
+Miles collects the effluent gas from the cell into a stainless steel flask. He ships the flask to
+another laboratory for analysis. The setup is shown in Figure 1. The flask is purged with nitrogen
+which has been checked to ensure it does not contain measurable levels of helium. It is attached
+to the cell and left in place for two days. The system is self flushing. Effluent gas comes in one
+side of the flask, fills it, and goes out the other side. It passes through a bubbler, which creates
+back-pressure. This keeps the gas pressure in the cell, flask, and tubes a little higher than the
+surrounding air, so that any leaks will go out, not in. During the two days the flask is attached to
+the cell, enough effluent gas passes through to fill it forty times. Then the stopcocks are turned
+off.  The flask is sealed and removed from the cell. It is transported to another laboratory with a
+high resolution mass spectrometer. The setup in the second laboratory is shown in Figure 2. The
+gas is passed through a two-stage filter to remove gases other than helium. The remaining gas
+then enters the mass spectrometer where the helium is measured. This description gives you a
+sense of how demanding the work is: 4
+Strenuous efforts were made to avoid contamination of the effluent gas from the electrolytic
+cell with any external source of helium. . . . Two identical systems were always run
+simultaneously using calorimetric cells as described previously. Connections between the
+cell, flask, and oil bubbler employed thick-walled rubber vacuum tubing. All connecting
+lines, as well as the cell, were flushed vigorously with boil-off nitrogen, which contained no
+4He (see Table 1), for at least 10 min prior to attaching a gas collection flask. Furthermore,
+the flasks were generally connected to the cell for at least two days of D2O electrolysis before
+removal. The gas evolution rate was calculated to be 6.75 ml min-l at 528 mA (200 mA/cm2)
+and 700 Torr assuming ideal gas behavior; thus the 500 ml collection flask was further
+flushed with more than 19 times its volume of evolving D2 and O2 gases per day. Actual
+measurements of the gas evolution rate by the displacement of water yielded 6.75 ± 0.25 ml
+min-1 for cell A and 6.69 ± 0.15 ml min-1 for cell B. All solvent additions were made only
+after vigorously sparging the make-up D2O with nitrogen for about 5 min. The D2O was
+always added through the septum and stopcock into the cell using a gas-tight syringe
+(Hamilton No. 1005).
+Improved Calorimetry
+The paragraph above describes "thick walled rubber vacuum tubing that connects the cell and
+the collection flask. S. Jones and others criticized Miles for using rubber tubes in his early
+experiments, because helium might leak through rubber. Miles soon switched to stainless steel
+tubing instead of rubber. He improved the experiment in other important ways. He used a double
+wall isoperibolic calorimeter, instead of single wall version. (See Ref. 2, Fig. 4) Later, Miles
+collaborated with Bush in another experiment performed at SRI International, using an electronic
+Seebeck (or Calvet) calorimeter. 5
+Thus, Miles has used three different calorimeter types, and achieved similar results with all
+three. This is very significant. One of the best ways to confirm that an effect is real is to use a
+different instrument type, based on different physical principles, such as thermistors and
+thermocouples. A limitation or inaccuracy in one type may not be a problem in another. An
+artifact that may distort the output of one instrument type may be impossible in another type. A
+flow calorimeter may have problems with blocked cooling tubes, pumps and other moving parts.
+A Seebeck calorimeter is impervious to such problems, because it has no moving parts and no
+cooling fluid. (Naturally, it may have other problems of its own; no instrument is perfect.)
+In Miles research, all three calorimeter types successfully detected excess heat in some tests,
+but not others. It would be suspicious if one calorimeter type always appeared to detect heat in an
+experiment  in which other calorimeter types showed mixed results, or no results.
+Advantages of an Off-line Spectrometer
+At first glance, collecting the gas in one location and analyzing it another seems clumsy. It
+invites errors, possible confusion between different flasks, and contamination while the flasks are
+in transit and waiting to be tested. Gozzi prefers to use a helium detection system attached to the
+cell that measures helium as it is generated: on-line, in real time. The off-line helium detection in
+this study was criticized. Skeptics claim this is a weakness for a variety of reasons, but mainly
+because helium will seep into the flasks during the delay between collection and analysis. They
+claimed that helium will readily penetrate glass so the data from glass flasks cannot be trusted.
+Miles and his co-workers took this criticism to heart. They switched to stainless steel flasks and
+established that background contamination was accurately measured. They were able to repeat
+the helium-4 production results using these metal flasks.
+Miles was forced to do off-line analysis because the mass spectrometer in his laboratory does
+not have sufficient resolution to easily distinguish between helium and deuterium molecules. He
+made a virtue of necessity. He took advantage of off-line detection to reduce costs, improve
+reliability, and bolster confidence in the results. Cost is reduced because the mass spectrometer is
+the most expensive instrument needed for this experiment. An on-line spectrometer must be
+dedicated full time to cold fusion for the duration of the experiment, which may be months or
+years. When samples are tested off line the spectrometer is only needed for a day or two every
+few months. Other researchers use it most of the time.
+An on-line spectrometer can be a weak link in an experiment. Mass spectrometers are finicky,
+high tech machines. They are reliable when used in ordinary applications, but in this case they
+were stretched to the limits of their capabilities. They had to be calibrated and adjusted
+frequently. Before he tested each new flask, Bush calibrated for helium and fine-tuned his
+spectrometer. A physics experiment is a running battle with the instruments. Graphs often
+contain gaps and dotted lines representing times when the data was lost because of one failure or
+another. Cold fusion itself is a sporadic, unpredictable effect that usually turns on for two hours
+starting at 3 a.m. on Sunday night when nobody is around to see it, as Bockris says. When your
+detection equipment may also drop out of service for hours or days at a time, you have little
+chance of capturing a complete, continuous heat burst. Either the cold fusion or the mass
+spectrometer will be broken on any given day, or if they are both working the computer will be
+out, the thermocouple interface will be flaky, there will be a leak in the hose somewhere, or
+something else will go wrong. With off-line processing the reliability of the spectrometer does
+not matter. The flask of sample gas sits on the shelf while the technicians tinker with the
+instruments.
+Off-line processing allows blind testing, which eliminates unconscious bias and bolsters
+confidence in the results. Miles labeled the flasks with arbitrary codes. (He selected birth dates of
+his family members.) The people operating the mass spectrometer did not know whether the
+samples came from control tests, dud runs that produced no excess heat, or excess heat runs.
+They did not know whether Miles expected to find excess helium or not. His hopes cannot
+interfere with their objectivity.
+Possibilities for Error
+When excess heat was generated using metal flasks, the amount of helium generally rose to
+between 7 and 9 ppb, roughly double the background. The mass spectrometers used in this study
+can detect ±1.1 ppb, so this is significant. It is 4 to 5 sigma in the best cases. But the error bars
+are large. The amounts of helium generated by cold fusion are infinitesimally small, as you
+would expect if it is a nuclear reaction. The data requires sophisticated processing, extrapolation
+to determine the helium content of the full sample, and corrections for background helium. The
+small numbers and complex analysis are unavoidable, but they raise doubts and they require
+careful study.
+Above all, we want assurance that this increase of 4 ppb is not merely contamination. Air
+contains 5,400 ppb of helium. A tiny bit of air leaking into the cell could easily double
+contamination from 4 to 8 ppb. Actually, it would probably increase it a hundred or a thousand
+times. How can we be sure these increases really are correlated with heat? How do we know they
+are not random fluctuations from contamination? Miles presents a sophisticated statistical
+analyses. Let us consider this problem from a non-mathematical, common sense point of view. If
+the helium came from air contamination, the results would not be consistent. The control runs
+and runs that did not produce excess heat would not all show the same narrow range of helium.
+Helium would not increase with excess heat. It would not correlate with the level of excess heat.
+Contamination would produce random levels of helium, probably far higher than what was
+detected in these experiments. It is difficult to imagine a direct air leak that always lets in a tiny
+level, at or below 4.6 ppb. An air leak would sometimes let in tens and sometimes thousands of
+ppb, at random. It is even more difficult to imagine an air leak that doubles when and only when
+cells produce excess heat. Tiny background levels like 4.5 ppb characteristically come from
+helium gradually seeping in through rubber or plastic. In the control experiments the helium
+background always remained within a narrow range of 3.4 to 4.6 ppb. When cells produced
+excess heat, helium always rose above this narrow range, and it increased in proportion to the
+heat.
+Could the heat itself have caused a tiny increase in diffusion, perhaps by changing the
+permeability of the rubber? No, because some of the dud cells were run at higher overall power
+than the heat-producing cells. Electrolysis power levels during dud runs were raised and lowered
+considerably, from a half-watt to two watts, with no measurable effect on the helium
+background. Furthermore, the rubber tubing was outside the cell at room temperature.
+Could the helium be random despite appearances? Is it only apparently correlated with heat? Is
+the range of background values, 3.4 to 4.6 ppb, too wide to be meaningful? The answers can be
+found in the statistical analyses by Miles. One is particularly simple. Each experiment is reduced
+to a presence or absence test. Helium below the background 4.6 ppm is absent, anything above
+that is present. In Appendix C, Miles describes the statistical test:
+For our 33 experiments involving heat and helium measurements, excess heat was measured
+in 21 cases and excess helium was observed in 18 studies. Thus 12 experiments yielded no
+excess heat and 15 measurements gave no excess helium. If one uses these experimental
+results as random probabilities of Ph = 21/33 for excess heat and PHe = 18/33 for excess
+helium, then the probability of random agreement (Pa) for our heat and helium measurements
+would be . . . 0.512, and the probability of random disagreement (Pd) would be . . . 0.488.
+The presence or absence of excess heat was always recorded prior to the helium
+measurement and was not communicated to the helium laboratory. [The blind test
+procedure.] Based on our experimental results, the random probability of the helium
+measurement correlating with the calorimetric measurement is not exactly one-half. This is
+analogous to flipping a weighted coin where heads are more probable than tails. The
+probability of exactly three mismatches in 33 experiments, therefore, would be . . . 1.203 ×
+10-6 . . .
+The total probability of three or less mismatches in 33 studies would be . . . 1/750,000 . . .
+Furthermore, it is very unlikely that random errors would consistently yield helium-4
+production rates in the appropriate range of 1011 - 1012 atoms/s per watt of excess power . . .
+Dramatic Differences in Palladium from Different Sources
+Miles found that palladium from different sources has dramatically different performance.
+Cathode material is the most important variable in these experiments. Here is a summary of
+Table 10 :
+
+Source    Success Ratio (excess heat / total tests)
+NRL Pd-B alloy   7/8
+Johnson-Matthey (J-M) Pd 13/24
+J-M from Fleischmann  4/4
+NRL Pd (first batch)  1/2
+Tanaka Pd (sheet)   1/3
+NRL Pd (another batch)  0/4
+NRL Pd-Ag    0/3
+IMRA Japan Pd-Ag   0/2
+WESTGO Pd    0/6
+Pd/Cu     0/2
+John Dash Pd (sheet)  0/2
+Co-deposition (1992)  2/34
+
+Total:    28/94
+
+Most of the samples produced 1 to 2 watts per cubic centimeter. One of the J-M samples
+produced 15 watts/cm3, and in 1994 one of the J-M cathodes from Fleischmann produced 14
+watts/cm3. Contrary to the claims of Jones and other critics, Miles observed high levels of heat in
+the middle and latter stages of his research project, when he used improved, more sensitive
+calorimeters. Miles observed heat from Johnson-Matthey palladium wire. Samples of wire from
+the same spool were later tested in the improved China Lake calorimeter developed by Kendall
+Johnson, and other samples were tested by Wilfred Hansen at Utah State University. Excess heat
+was confirmed in these tests.
+Other researchers who have tested palladium from different sources also report that the best
+samples come from Johnson-Matthey. Fleischmann says the best palladium is a special grade
+available from Johnson-Matthey in 2-kilogram lots for $20,000. Miles discusses some of the
+morphological and metallurgical differences between working and non-working palladium.
+Storms describes them in greater detail. 6
+Power Density Standard
+Miles often quotes the performance of his cathodes in power density: watts per cubic
+centimeter. He points out that his power density of about 1 watt/cm3, and many 1989 era
+experiments could not have detected such low power in their own cells, given the size of their
+cathodes and the sensitivity of their instruments. He says that if the calorimeter cannot detect this
+level of excess power, then the experiment should not be performed. Storms 7 cautions that this
+standard can be misleading: It might be understood to mean that the reaction is a product of the
+entire bulk of palladium metal, occurring uniformly throughout the metal. Storms says that was
+
+the initial assumption made by Pons and Fleischmann, but it was a mistake, which led to poor
+experimental approaches. Everyone, including Pons and Fleischmann now believe that the
+reaction occurs in small active sites in the metal, probably near the surface. The spotting on
+autoradiographs and the localized areas of transmutation found by Mizuno 8 and Minevski 9
+support this hypothesis. Pons and Fleischmann originally used small cathodes with large surface
+area compared to the bulk. Since the reaction probably occurs near the surface this geometry
+makes their power density numbers look comparatively good, but the comparison makes no
+sense.
+I do not think Miles intended the power density standard to express a specific hypothesis about
+the origin of the heat. He meant that given the state of the art of cold fusion research in 1989, and
+assuming that cathodes in different labs had roughly similar geometry, a researcher should have
+been prepared to detect the level of heat that Miles, Pons and Fleischmann and others saw at that
+time: about a watt per cubic centimeter. Miles feels that unless the calorimeter is accurate to ±20
+mW or better, it is probably a waste of time to do calorimetric experiments on cold fusion. Miles
+did not mean that was the upper limit of power. His own cathodes sometimes produced much
+higher power density after 1989, and so did cathodes in other labs. He knew he was nowhere
+near the limit of the power producing capacity of the metal. Nobody has ever mapped out these
+limits. Storms thinks that the power density of the hot spots within the metal might be well over
+106 watts/cm3.
+Precise Calorimetry Required
+Miles uses small cathodes, and they do not produce much excess heat compared to some of the
+leading cold fusion experiments. He is forced to measure low levels of excess heat, ranging from
+50 to 500 milliwatts. He would like to see more power, but these are the best results he has been
+able to achieve. In order to measure such low power with confidence, he and his colleagues have
+improved the cell hardware to the point where it is now one of the most precise electrolysis
+calorimeters in the literature. They can now achieve ±1% or ±10 mW resolution (whichever is
+larger) over a wide range of temperatures. The best flow calorimeter is McKubres as SRI, which
+measures ±25 mW over a narrow range of temperatures. (See Improved China Lake
+Calorimetry.) Miles uses sophisticated equations to account for temperature dependencies and
+room temperature changes. He has written a definitive paper on isoperibolic electrolysis
+calorimetry. One of the most important lessons from this paper, it seems to me, is that at low
+power levels the apparent cell constant changes radically. It is not linear. This is shown in Figure
+5 from that paper, Effect of power level on the apparent cell constant (K) and heat transfer
+coefficient (h). Miles shows how this led to errors in the negative cold fusion experiment at Cal
+Tech: The neglect of the intercept term in eq 4 produces significant errors in the apparent cell
+constant for power levels below about 0.6 W. All of the calorimetric data reported by Lewis et al
+are near or below a total power level of 0.6 W; hence his use of the approximate relationship P ≈
+)T/h is likely a large source of error. I believe this nonlinear response may explain some of the
+positive results with the gigantic input to output ratios seen with nickel cathodes at very low
+power. Below a half-watt, a simple linear equation will not work with this type of cell. This does
+not mean that small gradations in power cannot be detected. With a linear approximation you can
+measure the difference between 1.010 watts accurately, and you can easily distinguish it from
+1.040 watts. At the low end of the scale you will think that 0.020 watts are 0.050.
+Political Problems
+Melvin Miles is quiet, dignified, and as Martin Fleischmann says, thoroughly honest. He was a
+university professor before coming to the Navy. He is not a disputatious person. He does not
+exaggerate or argue for the sake of arguing. He does not enjoy politics and controversy (the way
+people like the late Giuliano Preparata and I do). However, perhaps because his work is so good,
+and his critiques are so well crafted, he has drawn fire from the opposition. Over the years he has
+become embroiled in some nasty political fights with extremists in the Department of Energy
+(DoE), CalTech, MIT, Harwell, Brigham Young University, and finally in the Navy itself. He
+was even criticized for working on this final report too long and too earnestly. His managers
+asked him to wrap it up quickly and drop the subject. As he puts it, he attracts flak for doing the
+job right.
+His political problems began with the DoE ERAB report. 10 This report, compiled in the
+summer of 1989, concluded that cold fusion is a mistake. It cited Miles work as an example of a
+quality experiment that found no excess heat or nuclear products. At the time the report was
+compiled this was true. Miles worked for five months without success. Later, after he began to
+observe heat and helium he contacted the ERAB report authors and pointed out that his findings
+
+no longer supported their conclusions and their report is now obsolete. They ignored him. There
+is no better illustration of the fact that the ERAB report began as a rush to judgment and
+degenerated into a cover-up. Several months before Miles, Bockris, McKubre and other serious
+researchers finished their first round of experiments, the ERAB report was signed and sealed and
+the New York Times, Nature, the American Physical Society and the rest of the scientific
+establishment already condemned cold fusion as delusion, fraud and mendacity.
+Miles wrote one of the best short guides on calorimetry with an electrolytic cell 11 (Another
+version of this paper is available in the LENR-CANR library.) 12 He discussed many common
+problems, especially the changing electrolyte levels, when the temperature is measured in the
+cell. As water is electrolysized in an open cell, the electrolyte level falls and the apparent cell
+constant increases. A watt of power might raise the temperature of the cell 4ºC when the
+electrolyte level is high, but as the level falls and the mass of water decreases, and a watt might
+raise the temperature 5ºC instead. As the water level falls less electrolyte touches the cell wall, so
+a smaller area of the outside cell wall transfers heat, which also raises the apparent cell constant.
+Pons and Fleischmann minimized this problem by using a half-silvered Dewar cell, which
+confines most of the heat transport to a window below the waterline. Miles minimized the
+electrolyte level effect by integrating the heat in a compartment outside the cell and measuring
+the cell temperature at that location.
+Not only does the apparent cell constant change as the water level falls, but the electrolyte
+becomes more concentrated, impedance falls, and the cell consumes more power. Every few
+days the experimenter has to replenish the cell with new heavy water. This causes a sudden jump
+in impedance and a large fall off in power. Miles has to adjust for these and other factors, like the
+loss of heat from the top of the cell. As he puts it, there is no steady state during D2O + LiOD
+electrolysis experiments for either cell voltage or cell temperature. He shows how to do an exact
+numerical analysis to take into account all of the major factors in this changing system. He
+suggests that if a scientist does not to do this level of sophisticated analysis, he should at least
+calibrate the cell at different water levels. Approximate solutions require, at very least, an
+experimental evaluation of the terms involved in the time dependency of the cell temperature,
+cell voltage, and cell contents in order to justify the omission of any of these terms. Miles
+focuses on: a critical analysis of several key publications that have impacted on this scientific
+topic. In plain English, he describes some large errors in the famous negative cold fusion papers
+in 1989, from CalTech, MIT and General Electric. He shows that the cells at CalTech and MIT
+did, in fact, generate excess heat, but the researchers did not realize it because their analysis was
+faulty.
+The errors made by Lewis et al. at Cal Tech are basically simple. To start with, Lewis did not
+calibrate his cell in the normal sense of the word. That is, he did not test it with a joule heater, a
+dummy platinum cathode, or light water and palladium. Instead, he put the live palladium
+sample that he planned to test for excess heat into the cell, and calibrated with that cathode as the
+experiment began. He ran electrolysis at a given power level until the temperature stabilized, and
+he noted the temperature. Then he stepped up the power level and noted the new, higher
+temperature. If you assume the Fleischmann-Pons hypothesis is correct, and the cathode
+generates heat, this method should not work. To calibrate means: determine by comparison
+with a standard. Lewis did not use a known standard; he compared the palladium with itself.
+Suppose the live cathode began producing heat soon after the experiment began, before Lewis
+finished calibrating? He would have no way of knowing.
+Lewis method worked, although it is unconventional. He succeeded in calibrating on the fly
+with live palladium. Some people, including Storms, 5 even recommend this method today,
+because when you replace a dummy platinum cathode the slight change in position may affect
+the cell performance. Storms, however, has the advantage of hindsight. We now know that
+palladium - heavy water cold fusion does not generally produce heat for the first few days of the
+
+experiment. That was not a safe assumption to make in 1989. In any case, Lewis managed to
+record a good calibration. Furthermore, he soon recorded evidence of excess heat (although he
+does not think so). When the experiment began, input was 0.464 watts and the )T was 6.5ºC.
+The cell constant was 14.0ºC per watt. Five days later Lewis increased electrolysis input power
+to 0.595 watts. The )T should have been 8.4ºC, but it climbed to 9.4ºC, an entire degree hotter
+than expected. (One degree Celsius measured with laboratory grade instruments is a large
+temperature difference.) There must have been 0.07 watts of excess heat. Yet Lewis reported
+there was no excess, and he still maintains there was none. If there was no excess heat, the cell
+constant mysteriously changed from 14.0 to 15.8º per watt. As Miles puts it: This 26% increase
+in heating coefficients, based on our experience, is highly unusual. Closer examination, however,
+shows that Lewis et al. erroneously define the heating coefficient at h = )T/PT where the total
+power (PT) is the sum of the electrolysis power and resistor power. According to Newtons law
+of cooling, the temperature difference, )T, defines the total power from the cell to its
+surroundings; thus any excess power (PX) must be included in defining the total power. This
+neglect of PX by Lewis et al. in the equation defining h would lead to an increase in the heating
+coefficient as the excess power increases. 9
+Lewis never gave a reason for this alleged change in the heating coefficient. He never said it
+was caused by thermocouple drift or lower electrolyte level, or some other large instrument error.
+It would have to be a large error; a subtle one would not cause such a large discrepancy. He
+never described why he thought the cell constant changed. In fact, he will not even admit he
+claims the cell constant did change. Nature asked him whether they should publish a critique by
+Noninski & Noninski explaining his mistake. (Nature allows cold fusion skeptics to accept or
+reject publication of letters criticizing their work. This may be the first scientific debate in
+history where one side gets to choose what the other is allowed to say.) In a somewhat muddled
+private letter to Nature editor Lindley, Lewis explained:
+While it is true that our open system measurements were not sensitive to any current-density
+independent excess heat (as clearly stated in our original Nature manuscript), Pons and
+Fleischmann clearly stated in their work that they only observed current-density dependent
+excess heat. Our original experiments would have readily detected this heat; we clearly did
+not see such excesses . . . N&N have now also proceeded to invent a new hypothetical type
+of heat which they claim could have been missed in our experiments, and which was not
+reported by Pons and Fleischmann in their experiments. . . .
+Actually, the Noninskis and Miles claim the heat was missed in his equations, not his
+experiments. The heat showed up in the experiments with a clear, one degree difference. Perhaps
+Lewis means that if the excess had been exactly proportional to current density alone, and
+completely controlled by current density, then he would have detected the heat, so he does not
+have to worry about apparent changes in the cell constant (or even apparent violations of
+Newtons Law of Cooling) which he thinks are characteristic of a new hypothetical type of
+heat.
+Prominent establishment skeptics still say the negative experiments at the big three,
+CalTech, MIT and Harwell, were the nails in the coffin of cold fusion. Yet Miles, Noninski,
+Swartz, 13 Fleischmann, Melich 14 and others have demonstrated that all three of these
+experiments produced excess heat. Since the experiments were performed by people who wanted
+to kill cold fusion as quickly as possible, and who later obfuscated and denied their own results,
+in sense you can say these experiments were the best proof from 1989 that cold fusion was real.
+(Experiments from later years were far better than anything in 1989.)
+Miles also pointed out that Lewis attempted to detect helium from the reaction with a mass
+spectrometer that was only capable of measuring parts per million, not parts per billion. Any
+production of helium would not likely be detectable at that sensitivity.
+Miles pointed out several problems with MIT, especially the fact that they ignored changes in
+electrolyte level.
+Political Problems with Steve Jones
+Steve Jones invited Miles to lecture at Brigham Young in 1991. When Miles tried to present
+his experimental results, he was repeatedly interrupted. His 50 minute presentation took three
+hours to complete. Jones has had a vendetta against Miles ever since. He wrote letters to journals
+and Internet news groups repeating the same misinformation and unscientific claptrap again and
+again. Miles was finally forced to send a formal objection, because, he explained, he had an
+obligation to defend his reputation and the quality of work at a U.S. Navy laboratory:
+Professor Steven E. Jones of Brigham Young University has been aggressively attacking my
+scientific publications involving the Fleischmann-Pons effect (cold fusion) for almost two
+years and has recently accused me of rejecting heat/helium data points and fudging my
+results. I highly resent such unfounded attacks since they damage my professional integrity
+as a scientist as well as reflect on the quality of research conducted at Navy laboratories.
+Navy scientists are required to submit their work for review and clearance before any
+manuscript can be released for publication. 15
+Here are some examples of the objections raised by Jones. He says that with better calorimetry
+and higher resolution mass spectroscopy, the excess heat and helium evidence disappeared. The
+published experimental data show this is not true. Jones also claimed that data was deliberately
+withheld, despite the fact that Miles has explained repeatedly that this supposedly withheld
+data was accidentally left out of one early paper and published in all subsequent papers. Jones
+claims the excess heat was caused by recombination of the effluent gas. Yet, Miles measured the
+effluent gas flow carefully, and saw no sign of significant recombination. The effluent gas was
+the main focus of the experiment, so it was measured repeatedly. Miles also points to extensive
+studies in the literature that show no recombination (depolarization) effects were observed with
+fully submerged palladium cathodes run at high currents.
+Jones raises a host of nit-picking objections, which often backfire on him. Here is part of a
+debate between Jones and Miles:
+Jones Query 2(a): Lee Hansen noted that RTV (silicone rubber) which you used to seal the
+calorimeter against moisture is not a reliable barrier. (Reference: Polymer Permeability, 1.
+Comyn, ea., Elsevier, 1985.) He also notes that vermiculite used as insulation is unusual and
+may itself contribute to moisture problems in the calorimeter. If the moisture content in the
+insulation changes, or moves, this will affect thermal conductivities and flow paths, in turn
+changing thermal "constants," and decreasing the reliability of your calorimeters.
+Miles Response: Any penetration of moisture into the insulation of our calorimeter would
+produce an increase in the calibration constant (WPC). No such increase has been observed
+experimentally. Our calibration constants in Table 3 show no time relationship over a one-
+year period.
+In an early experiment, water was accidentally injected into the insulation. This produced a
+marked increase in the calibration constant that made this calorimetric cell unusable.
+Although our sealant is not in direct contact with water, it is the same that is used as caulking
+in bathrooms and showers to seal against moisture.
+The use of this moisture argument by Lee Hansen to explain our excess heat effects would
+require the insulation to become drier during the experiment while the cell is submerged in
+the water bath. This violates common sense as well as the Second Law of Thermodynamics.
+16
+Like many skeptical objections, this one:
+
+1. Cannot happen;
+2. Did not happen, as the data shows;
+3. If it did happen, it would be the skeptics own problem; it would bolster the cold fusion claim.
+
+In another example, Jones brings up the issue of helium diffusing through glass. He asks Miles
+to review the data for different glass flasks and compare it to the duration the flask was stored.
+Miles points out that the flasks which sat in storage longest were among those that showed the
+least amount of helium.
+Termination of the Navy Program and Political Fallout
+The Navy program ended in 1995 because the reproducibility problem could not be solved and
+because of the lack of any positive results at the Naval Research Laboratory (NRL). Miles is
+always polite, but he does not sugarcoat his evaluations. He got in trouble with the management
+at the Navy for criticizing the NRL in statements like this in his final report:
+The second approach that hindered progress was the extended focus on NRL Pd-Ag and Pd
+cathodes. The deuterium loading was poor for these materials, hence excess-heat production
+was not likely. This is exactly what was observed by our calorimetric experiments. Success
+with NRL materials was finally achieved for Pd-B alloys, but these results apparently came
+too late to save this program. Even the NRL Pd-B materials often showed folded-over metal
+regions or other flaws that would likely act as cracks and prevent high loadings. Our
+calorimetry generally yielded excess enthalpy when palladium samples that yielded excess
+heat at other laboratories were tested and never yielded excess heat when samples that
+contained flaws or that showed poor loading characteristics were tested.
+Some comments are necessary concerning the major disappointment that no excess power
+was measured in experiments conducted at NRL (Reference 36). The calorimeters at NRL
+were modified into a larger design to permit loading studies. This obviously changed the
+scaling of the cell, which is an important factor in these experiments (Reference 5).
+Furthermore, the room temperature control was very poor in the laboratory at NRL. Finally,
+the data acquisition system used at NRL did not average the cell potential. This large error
+source (±5%) is discussed on page 9. These factors led to a reported error of ±200 mW or
+larger (±10%) in experiments at NRL (Reference 36). Any excess power effect at NRL
+would have to be at least 600 mW to be clearly beyond experimental error. The excess-power
+effects observed at China Lake during this program would not have been detectable at NRL.
+These statements do not strike me as strident or insubordinate. Nobody has denied the
+technical accuracy of the statements, and nobody can deny that they describe serious problems.
+Voltage changes rapidly in an electrochemical cell, mainly because of bubbles. The cell voltage
+increases as bubbles collect on the electrode, then drops when bubbles disengage. Thus, the cell
+voltage is constantly fluctuating. At the NRL, voltage was read once every six minutes. This
+means they took 240 random samples per day. The standard technique for measuring a rapidly
+oscillating value like the voltage in an electrochemical cell is to take hundreds or thousands of
+samples over a minute, average them, and store this average value once a minute or every few
+minutes. I do not understand how a scientist could overlook the averaging technique. It is built
+into the canned software that comes with data collection instruments and add-on computer
+boards. It is described in textbooks, user manuals and even magazine advertisements.
+His willingness to speak the truth got Miles into trouble with management. He feels this was
+precipitated by his criticism of the NRL experiments. Scientists at big laboratories sometimes
+feel hey have little to learn from people at smaller labs, or retired scientists like Storms who
+work at home. (Actually, Storms has state of the art calorimetry and high-end data acquisition
+equipment, better than used at NRL.) 17 The NRL made many changes in their calorimetry
+system without consulting with Miles, hence their calorimetric error became very large. Is Miles
+too outspoken? I find nothing objectionable in this report. No scientist should get in trouble with
+management for pointing out things like a 5% error caused by not averaging voltage, or errors
+caused by large fluctuations in ambient air temperature. It is the professional responsibility of a
+scientist to point out such problems.
+References
+
+1. Cellucci, F., et al. X-Ray, Heat Excess and 4He in the Electrochemical Confinement of
+Deuterium in Palladium. in Sixth International Conference on Cold Fusion, Progress in
+New Hydrogen Energy. 1996. Lake Toya, Hokkaido, Japan: New Energy and Industrial
+Technology Development Organization, Tokyo Institute of Technology, Tokyo, Japan.
+2. Miles, M. and K.B. Johnson, Anomalous Effects in Deuterated Systems, Final Report.
+1996, Naval Air Warfare Center Weapons Division.
+3. Miles, M., personal communication. 2004.
+4. Bush, B.F., et al., Helium production during the electrolysis of D2O in cold fusion
+experiments. J. Electroanal. Chem., 1991. 304: p. 271.
+5. Bush, B.F. and J.J. Lagowski. Methods of Generating Excess Heat with the Pons and
+Fleischmann Effect: Rigorous and Cost Effective Calorimetry, Nuclear Products Analysis
+of the Cathode and Helium Analysis. in The Seventh International Conference on Cold
+Fusion. 1998. Vancouver, Canada: ENECO, Inc., Salt Lake City, UT.
+6. Storms, E., How to produce the Pons-Fleischmann effect. Fusion Technol., 1996. 29: p.
+261.
+7. Storms, E., personal communication. 1997.
+8. Mizuno, T., et al., Formation of 197Pt radioisotopes in solid state electrolyte treated by
+high temperature electrolysis in D2 gas. Infinite Energy, 1995. 1(4): p. 9.
+9. Bockris, J. and Z. Minevski, Two zones of "Impurities" observed after prolonged
+electrolysis of deuterium on palladium. Infinite Energy, 1996. 1(5/6): p. 67.
+10. ERAB, Report of the Cold Fusion Panel to the Energy Research Advisory Board. 1989:
+Washington, DC.
+11. Miles, M., B.F. Bush, and D.E. Stilwell, Calorimetric principles and problems in
+measurements of excess power during Pd-D2O electrolysis. J. Phys. Chem., 1994. 98: p.
+1948.
+12. Miles, M. and B.F. Bush. Calorimetric Principles and Problems in Pd-D2O Electrolysis.
+in Third International Conference on Cold Fusion, "Frontiers of Cold Fusion". 1992.
+Nagoya Japan: Universal Academy Press, Inc., Tokyo, Japan.
+13. Swartz, M.R. Some Lessons From Optical Examination of the PFC Phase-II Calorimetric
+Curves. in Fourth International Conference on Cold Fusion. 1993. Lahaina, Maui:
+Electric Power Research Institute 3412 Hillview Ave., Palo Alto, CA 94304.
+14. Melich, M.E. and W.N. Hansen. Back to the Future, The Fleischmann-Pons Effect in
+1994. in Fourth International Conference on Cold Fusion. 1993. Lahaina, Maui: Electric
+Power Research Institute 3412 Hillview Ave., Palo Alto, CA 94304.
+15. Miles, M., Letter to Steven E. Jones. 1993.
+16. Miles, M. and C.P. Jones, Cold fusion experimenter Miles responds to critic. 21st
+Century Sci. & Technol., 1992. Spring: p. 75.
+17. Storms, E., personal communication. 2004.
+

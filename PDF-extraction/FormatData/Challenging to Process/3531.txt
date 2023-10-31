@@ -1,0 +1,1294 @@
+TRITIUM GENERATION FROM THE INTERACTION OF
+A GLOW DISCHARGE PLASMA WITH METALS AND
+WITH A MAGNETIC FIELD
+V.A. ROMODANOV
+FSUE SRI SPA“LUTCH”
+Zheleznodorozhnaya 24, Podolsk, Moscow reg. 142100. Russia. Tel.: 095-137-9258. Fax:
+095-137-9384
+E-mail: luchatis.dhtp.kiae.ru/istokistok.sialuch.ru
+We present results of our research on tritium generation through the bombardment
+of the surface of various metals by accelerated ions of hydrogen isotopes from
+
+a glow discharge plasma, with and without a magnetic field. The introduction
+of a magnetic field perpendicular to the sample surface results in an increase in
+the tritium activity, and in the tritium generation rate, of almost two orders of
+magnitude as compared to similar experiments run with no magnetic field. The
+largest tritium generation rates observed were obtained with the glow discharge
+operating in a magnetic field, and were in the range 109–1010 atom/s. This is
+higher than our background by three to four orders of magnitude. The use of
+a magnetic field has resulted in good reproducibility, and the development of a
+reliable tritium generation rate of about 1010 atom/s for tantalum, tungsten, and
+platinum.
+A new technique for the generation and measurement of excess heat is presented
+based on the transfusion of hydrogen isotopes through the metal wall of a hollow
+sample electrode toward the glow discharge. In the case of a vanadium cathode,
+the maximum excess thermal power is about 30% of the absorbed power. The
+generation of excess power is found to be maximized in the temperature 600–700K
+for relative power, and 800–1000K for absolute power. The results of measurements
+support a nuclear origin for the tritium generation, as opposed to a conventional
+thermal activation explanation.
+Mass spectroscopic measurements show an increase in species with deuterium in
+discharge experiments with hydrogen gas and with deuterium gas. The tritium
+generation rate is found to increase with the addition of deuterium, but by an
+amount not commensurate with the amount of deuterium added. Measurements
+of the gamma spectrum indicate that positrons are not generated in the course of
+tritium generation. These observations allow us to assert that modified versions of
+p+p and p+d reactions are responsible for the productionof deuteriumand tritium;
+where the reactions in these experiments proceed through electronic catalysis, as
+p+e+p and p+e+d. The production of excess heat at the level of 1 kW through this
+reaction mechansim (and under these discharge conditions with hydrogen isotopes)
+would be associated with a tritium generation rate of about 1012 atom/s.
+325
+326
+
+1. Introduction
+We have reported previously1–3 that the interaction of accelerated ions of hydrogen
+isotopes from a low-energy (<10 keV) glow discharge plasma with metals can result
+in intense tritium generation (up to 109 atom/s, using deuterium gas of technical
+cleanliness composed of 95% D2 + 5% H2,volumetric). It was also found that the
+use of a natural mix of a hydrogen isotopes (0.015% D2+H2 99.985%), can result
+in high rates of tritium production, and a tritium generation rate of 108 atom/s
+was measured.4 The reproducibility in the case of similar experiments has not been
+
+sufficient for normal scientific research and unequivocal conclusions, as measured
+values of the tritium generation rate could differ from experiment to experiment by
+three orders of magnitude due to minor differences in experimental conditions.
+Further studies have shown that the poor reproducibility is connected to the
+problem of uncontrollable tritium absorption by some constructional elements of
+the working chamber, that could lead to an unpredictable appearance of tritium
+resulting in a degradation of the experimental results.5 ,6 We have now managed to
+achieve good reproducibility. This is due to a combination of improvements in tech-
+nique that include: the removal of most “tritium-active” constructional elements of
+structure of the working chamber, improvements in the technique of gas removal
+from internal surfaces of the working chamber and samples, and purges of the work-
+ing liquid for the roughing-down pump by ballast gas after each experiment.7 The
+reliable reproducibility of experiments, with the absence of uncontrolled tritium
+emission from the installation and samples, has allowed us to return to areas of
+our basic research interests, which include: studying the interaction for hydrogen
+isotopes with metals in the glow discharge, and revisiting experiments with pulsed
+current and an external magnetic field, which earlier gave the highest tritium gen-
+eration rate.8
+The purpose of the present work was the study of tritium generation and excess
+heat, from the interaction of mixes of hydrogen isotopes with metal surfaces in a
+plasma glow discharge, and the effects due to an imposed magnetic field.
+2. Experimental Approach
+One focus of our research has been on the interaction of hydrogen isotopes with
+metals includes the acceleration of positive ions in the glow discharge at constant
+current at elevated pressure, and the consequences that occur when these ions are
+incident on the surface of different metals.1,2,8 We briefly describe in this section
+the experimental approach we used.
+2.1. The discharge facility
+The research was carried out at the UVN-84R-1 facility, a schematic of which is
+illustrated in Fig. 1. In facility is described in detail in Ref. [9]. The facility
+includes a turbo-molecular pump (23) for evacuating the chamber (3), in which
+is placed a simple hollow cathode (4). The sample cavity is pumped out by a
+327
+4
+5
+6
+3 15
+18
+17
+7
+2
+1
+8
+23
+16
+10
+12 13
+14 22
+21
+20
+19
+24
+9
+N O S
+To gas-system.
+Figure 1. The scheme of installation on research of a hydrogen mass-spectrum. 1: Differential
+manometer; 2: 7.9.12.13.14.15.16.19.2; 2: valves; 3: chamber; 4: sample-cathod; 5: anode; 6:
+flange; 8: manometer; 10: roughing-down pump; 11: high-vaccum valve; 17: IPDO-2; 18: NORD-
+250; 20: TMP-200; 21: nitric trap; 23: TMP-500; 24: mass-spectrometer MX-7304.
+different turbo-molecular pump (20), and the electrodischarge (18) with a control
+for the pumped-out gases of mass-spectrometers MX-7304 and IPDO-2. The sample
+consists of a hollow cylinder, sealed on one side and welded to a fastening flange on
+the other. The sample thickness in the case of vanadium, molybdenum, niobium,
+and titanium is 0.5–4mm, the outside diameter is 10–20mm, and the length is
+20–100mm.
+The pressure of the (plasma-forming) gas is maintained in the range 0.5–
+25× 103 Pa. The sample temperature varied in the range 300–1800K due to the
+power supplied by the glow discharge, which was run at voltages in the range 200–
+700 V and current densities in the range 50–1000A/m2. The temperature is mea-
+sured using thermocouples (TR5/TR20) placed outside of the operative range of
+the discharge, and using optical pyrometers (OMP-54), with an error is not higher
+than ±10%. The sensitivity of the measurement system on the hydrogen flow was
+no worse than 109 atom/s. An (arch-type) magnetic field was implemented per-
+pendicular to the plane of the cathode as illustrated in Fig. 2 using water-cooled
+magnetrons.
+The device consists of a water-cooled vacuum chamber (1), in which the mag-
+netron system (4) with water cooling (5) and barium ferrite permanent magnet (6)
+is placed. The sample-cathode (3) is placed on the magnetron surface and could be
+cooled by it. Because of heterogeneity of the distribution of magnetic field lines (7)
+in space, the magnetic field on the sample surface was in the range 0.002–0.02 T.
+The magnetic field distribution was kept constant during the experiment by using
+water cooling. The ring anode (2), placed coaxial with the sample at a distance of
+328
+1
+2
+Water
+3
+4
+5
+7
+6
+H2,D2, T2
+Figure 2. The scheme of the device on research of interaction of hydrogen isotopes with metals in
+the glow discharge at imposing a magnetic field. 1: Vacuum chamber; 2: anode; 3: sample-cathode;
+4: tank of magnetrons; 5: cooling water; 6: permanent magnet; 7: magnetic field lines.
+5–50mm, was at high voltage. The sample temperature, and distance between the
+anode and cathode, could be adjusted. The chamber (1), after the removal of gases
+and pump out, could be filled with a mix of hydrogen isotopes containing of various
+ratios, or inert gases. In similar experiments we used flat samples of various metals,
+with a diameter of 100mm and thickness of 0.1–2mm. Rings and cores of corrosion-
+proof steel or molybdenum were used for the anode. We used titanium, niobium,
+molybdenum, tantalum, and tungsten samples of technical cleanliness, with impu-
+rity levels no more than 1% by mass. We used a mix of hydrogen isotopes with a
+concentration 1.5 × 10−2% deuterium in ordinary hydrogen; or deuterium gas with
+a technical cleanliness of 95% D2 + 5% H2 atomic shares; or a mix of hydrogen
+isotopes or helium-4 with the an impurity content of no more than 1% by mass.
+The power supply used a rectifier (that was not stabilised) with a ballast resistor,
+giving a maximal voltage up to 6kV and current up to 3 A.
+2.2. Background measurements
+Background measurements were done using cylindrical hollow samples of molybde-
+num sealed on one end, and attached to water-cooled flanges on the other.4 These
+samples have a diameter of 23mm, a length of 100mm, and a wall thickness of
+1 mm. For such samples we carried out experiments as with thermal activation,
+with heating from a tungsten resistive heater, and with the glow discharge using a
+natural mix of hydrogen isotopes. In these experiments, it was possible to assess
+whether tritium leaked in from elements of the vacuum chamber and equipment.
+The thermal activation was not applied to flat samples because of powerful cooling
+of samples due to the water-cooled substrate.
+329
+2.3. Experimental protocol
+The experiments were carried out as follows: The sample is initially fixed on cooled
+magnetrons, then the chamber is pumped out, and then degassed with help of the
+resistive heater running at a power up to 10 kW. After the removal of superfluous
+gases and the cooling of internal parts of the chamber to below 400K, the chamber
+is filled the desired mix of hydrogen isotopes to operating pressure. High voltage
+is applied to the anode, which initiates the glow discharge and establishes neces-
+sary current, voltage and temperature conditions at the sample. The discharge
+and experimental parameters are maintained for a certain time (2–50h), then the
+plasma-forming gas is pumped from the chamber by the vacuum pump in into
+rubber “pillows” and the discharge is switched off.
+Hydrogen from the “pillows” is mixed with air and burned on a heated spiral in
+a cylindrical furnace of a special installation. Water produced from the burning is
+frozen in a cooled trap at a temperature of 260–270K. Then 0.2ml of the formed
+water enters a 5 ml liquid scintillator (ZS-8) and the tritium content is measured at
+the BETA-2 facility. The efficiency of measurement β-particles in these measure-
+ments was 28% using VNIIFTRI standards. The measurement error for tritium
+content in these tests did not exceed ±50%.
+For background measurements on flat samples with substrate water-cooling and
+magnetic field we used inert helium for the gas discharge. A philosophy of measure-
+ment have kept the former use of the addition of the initial hydrogen in the pillow
+with helium completely pumped out from the working volume after termination of
+the experiment. For maximal catching of trace tritium the additional hydrogen also
+was pumped through working volume. Thus, we could compare the tritium genera-
+tion rate for isotopes of hydrogen and helium under conditions with approximately
+the same influence of thermal and radiating effects. The third series of background
+measurements consists of the use of flat samples on a cooled substrate in the glow
+discharge using a gas of hydrogen isotopes, but without use of an external magnetic
+field. This series of measurements allowed us to determine the influence of the mag-
+netic field on the tritium generation rate, with comparable thermo-desorption and
+electro-migration effects.
+2.4. Radiation detection
+Measurements of radiation intensity of a gammas with an energy near 510.8keV
+were made using a gamma spectrometer station. We used a high purity planar
+5 cm2 germanium detector from Canberra with a portable (notebook) computer, and
+GENIE-2000 software. The choice of size amplification, as the power calibration has
+shown, provided for a measurement of the background gamma energies in a range
+of energy from 30 to 2000keV. The background and possible gamma radiation at
+the working installation was measured over 7000 s. The distance from the detector
+to the centre of discharge unit is about 120mm; from the detector to the outside
+wall of the chamber is about 20 mm. Between the detector and the possible source
+of gamma radiation was a water-cooled wall of the facility, with a wall of thickness
+330
+5
+4
+3
+2
+1
+H2,D2
+Figure 3. The scheme for definition of the thermal effects in the glow discharge. 1: Basis of a
+sample from molybdenum; 2: cup of the sample of hydride-forming metal; 3: anode; 4: ceramic
+isolators; 5: thermocouples.
+5 mm made of steel (12C18N10T). The measurement efficiency was determined using
+sources consisting of radioactive solutions of Cs-137 and Ba-133. At 511 keV the
+detection efficiency was measured to be 0.00013 ± 0.00003.
+2.5. Thermal measurements
+The scheme used for measuring thermal effects associated with a cathode sample
+in a glow discharge experiment with hydrogen isotopes is shown in Fig. 3. The
+system consists of a molybdenum base (1), with a cup welded on it (2) made of a
+hydride-forming metal (such as niobium, vanadium or zirconium). Thermocouples
+(5) were welded at different distances from the sample into the molybdenum base
+as shown. The thermocouples (TR5/20) allowed us to determine the thermal flow
+from the sample to a water-cooled sink through a material (Mo) with a known
+thermal resistance. The sample was surrounded by the ring anode (3), and by
+ceramic cylinders (4) of quartz and zirconium oxides to reduce thermal losses.
+The basic philosophy of the thermal measurement can be described as follows.
+In the beginning, the working chamber filled by hydrogen isotopes and a discharge
+is ignited between the electrodes, one of which is the sample. In the sample cavity
+a vacuum is created using a roughing pump and a turbomolecular pump. Then the
+sample temperature becomes elevated, and the glow discharge is operated under
+stable discharge parameters for 2–6h, leading to a constant heat flow that can be
+measured. The temperature difference between the thermocouples in the molybde-
+331
+num basis is measured, and the heat flow is calculated from
+Q = −λS
+(
+dT
+dl
+)
+,
+where λ is the thermal conduction coefficient of molybdenum in the relevant temper-
+ature range, where S is the cross sectional area of the molybdenum basis, and where
+and
+dT
+dl
+is the thermal gradient estimated from the temperature measurements.
+As excess heat in our experiments is associated with the hydrogen isotopes, sub-
+sequent measurements of temperatures on the sample and molybdenum base were
+carried out after filling the internal sample cavity with hydrogen isotopes, keeping
+the power of the glow discharge and parameters outside of the sample constant. The
+thermal flow from the sample was measured repeatedly using the formula above af-
+ter stabilisation of parameters for 2–6h. Measurements were carried out at sample
+temperatures up to 1000K. The thermal flow from the sample was measured both
+with the internal sample cavity under vacuum, and filled with hydrogen isotopes,
+at identical discharge power, allowing for an estimation of the difference in ther-
+mal flow between the two cases. During measurements, we alternately pumped out
+the internal sample cavity. The discharge caused a constant flow of hydrogen iso-
+topes from the discharge side through the sample wall to the inside, resulting in
+further loading hydrogen isotopes into the internal sample cavity up to a pressure
+of 6 × 103 Pa.
+This measurement philosophy assumes that the background level for excess heat
+is defined when the internal sample cavity is under vacuum. Such an approach
+probably overestimates the measured excess heat, as the influence of heat trans-
+mission inside the sample is not taken into account. The absolute error associated
+with the thermal flow measurements did not exceed ±50% (relative ±20%). These
+measurements allow for only an estimate of the overall thermal balance. As further
+research has shown, the (unaccounted) heat loss in our system due to convection
+reduces the accuracy for estimations of the complete thermal balance. Given this,
+the technique is still useful, since it supposes a only a simple change associated with
+the sample; this is an important advantage at this stage of the research.
+3. Results
+3.1. Results at different temperatures
+The basic results from experiments on the influence of a magnetic field on the tri-
+tium generation rate are shown in Table 1. One sees that for cylindrical samples
+of molybdenum with thermal activation and natural mix of hydrogen isotopes, the
+resulting activity associated with the presence of tritium exceeded by about five
+times the activity of the initial hydrogen gas. For these samples, the excess activity
+from glow discharge experiments using a natural mix of hydrogen isotopes is seen
+to be greater at 1600 K than at 1800 K, Experiments with water-cooled molyb-
+denum samples at lower temperature (near 1000 K) in natural hydrogen result in
+332
+Table 1. Tritium generation from the interaction of the glow discharge plasma with metals, with and
+without a magnetic field.
+experimental parameters no field magnetic field
+metal, gas T I V t Pc Ps flow act. ΓT act. ΓT
+K A V h Pa Pa Mol/s cps T/s cps T/s
+×103 ×103 ×107
+H 0.08 0.08
+±.04 ±.04
+Mo-23, H 1800 - - 46 24 120 1.2 0.5 8[5] - -
+–31 –170
+Mo-23, H 1600 3 600 31 16 149 0.6 1.3 2[6] - -
+–19 –167
+Mo-100, H 1020 3.1 410 6 6 6 - 40 9.7[7] - -
+Mo-100, He 1255 2.9 395 6 5.6 5.6 - - - 0.1 1.8[5]
+, H 1020 3.1 415 4 6 6 - - - 1700 6.1[9]
+Nb-100, H 1055 3.0 395 6 6 6 - 16 3.9[7] - -
+Nb-100, He 1280 2.9 440 6 6.6 6.6 - - - 5 7.9[6]
+, H 1020 3.1 450 4 6.3 6.3 - - - 350 1.3[9]
+Ta-100, H 1045 3.1 410 6 6 6 - 12 2.9[7] - -
+Ta-100, He 1270 3.0 445 6 6.5 6.5 - - - 4 6.1[6]
+, H 1020 3.2 510 4 7.2 7.2 - - - 250 1.1[9]
+W-100, H 1030 3.1 445 6 6 6 - 27 6.5[7] - -
+W-100, He 1300 2.8 425 6 7.8 7.8 - - - 0.1 1.9[5]
+, H 1005 3.1 490 6.5 8 8 - - - 3200 9.4[9]
+T is temperature (K), I is the current (A), V is voltage (V), t is run time (h), Pc is the cell pressure
+(Pa ×103), Ps is the sample temperature (Pa ×103), act. denotes the tritium activity in counts/sec,
+and ΓT is the tritium production rate in atoms/sec. Powers of 10 indicated with brackets; 6.1[9] =
+6.1 × 109.
+even greater activity, about a factor of 50 higher than the initial gas activity. This
+is probably connected to the further reduction of the sample temperature, which
+in subsequent experiments did not exceed 1300K. We note that a the surface con-
+centration hydrogen isotopes is increased at the lower temperatures. It is possible
+that the increase of activity is also connected to the influence the electric field dis-
+tribution, the self-magnetic field, and to the interaction of hydrogen isotopes with
+the sputtered atoms from the flat metal sample.
+
+The introduction of the magnetic field perpendicular to the molybdenum sample
+surface with other parameters comparable has resulted in an additional increase of
+activity (and the tritium generation rate) of almost another two orders of magnitude.
+333
+Table 2. Tritium generation associatedwith the interaction of hydrogen isotopes with different
+metals in a glow discharge with a magnetic field imposed.
+Material experimental parameters results
+T I V t Pc act. ΓT Coefficient of
+K A V h Pa cps atom/s nuclear interaction
+× 103 atom/ion
+99.985% H2 0.08
++0.015% D2 ±0.04
+Ti 1090 3.1 410 4.1 7.4 140 6.3×108 5.3×10−11
+0.85 Ti 1170 3.1 385 4 6.2 2000 7.5×109 6.3×10−10
++ 0.15 Pt
+V 1170 3.1 405 5 7.4 750 2.7×109 2.4×10−10
+1260 3.1 390 4 14.4 47 4.1×108 3.7×10−11
+Nb 1060 3.1 395 6 3 12 1.5×107 1.3×10−12
+1020 3.1 450 4 6.3 340 1.3×109 1.1×10−10
+1170 3.1 465 4 14.2 11 9.5×107 8.3×10−12
+Mo 990 3.1 400 6 3 17 2.1×107 1.8×10−12
+1020 3.1 415 4 6 1700 6.1×109 5×10−10
+1290 3.1 525 8.5 16 330 1.5×109 1.3×10−10
+Ta 1020 3.2 510 4 7.2 255 1.1×109 9.3×10−11
+1180 3.1 430 4 14.2 17 1.5×108 1.3×10−11
+W 1060 3.2 395 6 3 8 9.7×106 8.2×10−13
+1005 3.1 490 6.5 8 3200 9.4×109 8.3×10−10
+1255 3.1 530 8.5 14.8 658 2.8×109 2.4×10−10
+1470 3.0 680 8 30.6 229 2.1×109 1.9×10−10
+670 1.9 360 4 6 3 1.1×107 1.5×10−12
+Pb 620 1.9 350 4 6 24 8.7×107 1.2×10−11
+3.2. Metal surface effects
+The use of inert helium in the (plasma-forming) gas for experiments on flat samples
+of molybdenum, with a water-cooled substrate and magnetic field, results in values
+of tritium activity close to background. A similar value was seen in the case of
+tungsten. For materials such as niobium and tantalum, the tritium activity with
+inert helium has increased by more than an order of magnitude, in comparison
+with molybdenum and tungsten. This could be connected to residual hydrogen, the
+quantity of which is greater in hydride-forming metals.
+The tritium generation rate for flat samples with a natural mix of hydrogen
+isotopes for flat samples in the glow discharge in the absences of a magnetic field were
+within the range of 2.9× 107–9.7× 107 atom/s for the metals tested. This is almost
+two orders of magnitude greater than the background rate one would associated with
+the initial hydrogen gas activity. For such conditions the tritium generation rate
+for molybdenum and tungsten are seen to be somewhat greater than for niobium
+334
+100 500 900 1300 1700
+Energy (eV)C
+oe
+ffi
+ci
+en
+t o
+f n
+uc
+le
+ar
+in
+te
+ra
+ct
+io
+n
+(a
+to
+m
+/io
+n)
+10-14
+10-12
+10-10
+Figure 4. Dependence of the coefficient of nuclear interactions versus an energy of ions for hydro-
+gen isotopes in the glow discharge. 1: Dependence for Nb, Mo, Ta and W, received from results
+of present works; 2: earlier received dependence for W; 3: earlier received dependence for Mo.3
+and tantalum. This may be connected to the interaction of hydrogen isotopes with
+the metal surface, since the presence of dissolved hydrogen at the surface changes
+the physical characteristics; for example, softening the impact during collisions of
+isotopes with the surface and connecting with surface electrons.
+3.3. Results with a magnetic field
+
+The introduction of a magnetic field in the region where the the glow discharge
+plasma interacts with the metal surface has allowed us to achieve tritium generation
+rates in the range of 1.1× 109–9.4× 109 atom/s, for all of the metals investigated
+with a natural mix of hydrogen isotopes. The largest tritium generation rate is found
+in the case of tungsten. As was the case for no magnetic field, the tritium production
+rate is higher for molybdenum and tungsten than for niobium and tantalum.
+3.4. Results at different pressures
+Results for experiments focused on the dependence of the tritium generation rate on
+gas pressure are given in Table 2. From this table it is possible to see the influence of
+pressure, and other parameters, on the tritium generation rate already more clearly
+than was presented previously (see Refs. 8 and 9).
+3.5. Dependence on deuteron ion energy
+It is not possible to define precisely the deuteron energy required for tritium gener-
+ation from the results. From the results shown in Figure 4 (see [3]), the threshold
+335
+0.1 1.0 10.0
+Current density (A/cm2)
+10-13
+10-11
+10-9
+C
+oe
+ffi
+ci
+en
+t o
+f n
+uc
+le
+ar
+in
+te
+ra
+ct
+io
+n
+(a
+to
+m
+/io
+n)
+Figure 5. Dependence for coefficient of nuclear interaction versus of a current density in the glow
+discharge for Nb and W; 1: niobium (D2); 2: tungsten (D2);
+2 3: niobium (H2); 4: tungsten (H2);
+present work.
+energy can be defined roughly; in this case the energy is 100 eV. A reduction in the
+tritium generation rate for energies above 100 eV is apparent in curves 2 and 3 of
+this figure; this reduction is associated with a reduction of the current density at
+low pressure, and a reduction of the ion energy at increased pressure and voltage.
+In the case of tungsten, an increase of the voltage from 360V up to 490 V, and a
+corresponding increase in the current (and hence current density) from 1.9 to 3.1A,
+results in an increase of the tritium generation rate from 1.1× 107 atom/s up to
+9.4× 109 atom/s (almost on three orders of magnitude). It is possible to conclude
+from these results that the voltage reduction for the discharge down to 400V or
+below is not expedient. The increase in the tritium generation rate with a decrease
+
+in pressure to (6–8)× 103 Pa for all materials supports this conclusion. In spite of
+the fact that at reduced pressure for some materials (molybdenum, tungsten) the
+voltage fell, an increase in the tritium generation rate was observed; this can be
+attributed to a decrease of the energy loss due to collisions at the lower pressure.
+This increase in rate occurred even at a significant reduction of the current density
+(which has a square law dependence on pressure). Thus it is desirable that the ion
+energy be much higher 100 eV, according to the dependence exhibited in curve 1.
+3.6. Dependence on ion flux
+An increase in the deuteron ion energy and flux results in an increase of the tritium
+generation rate. The dependence of the tritium generation rate is monotonic in the
+current density, with a power law dependence in the range of 1.2–1.5 (see Fig. 5),
+was found previously9.11
+The present results show that there exists an optimum ratio of ion energy and
+336
+current density. For a decrease of pressure in the case of tungsten from 30.6× 103 Pa
+down to 8× 103 Pa (and a corresponding reduction of the current density, a factor
+of approximately 14), the increase in ion energy (even with a reduction in voltage)
+results in an increase of the tritium generation rate from 2.1× 109 atom/s up to
+9.4× 109 atom/s. However, with a further pressure decrease (approximately two-
+fold) down to 3× 103 Pa, the tritium generation rate falls on the order of 2–3 orders
+of magnitude for Nb, Mo, W. The average current density in this case is lower by
+a factor of 4. The current density at a pressure of 8× 103 Pa is about 1A/cm2,
+with a power law dependence in the range 3–4, which may be considered as the the
+optimum for experiments on the tritium generation.
+3.7. Temperature of the target-anvil
+In the case of thermal activation, the appearance of tritium exhibits an exponential
+dependence of temperature.5 A similar dependence of the rate of tritium production
+is not present in these glow discharge experiments. At the same time, the results
+for tungsten and lead obtained at lower voltage and current (two last lines of Table
+4) are disproportionately low, which indicates a negative influence on the tritium
+generation rate for temperatures is lower than 700–800K. It is clear that the op-
+timum temperatures lay in a range from 900 to 1300K, as at higher temperatures
+the ion energy is reduced (due to thermo-emission).
+3.8. Dependence on pressure
+The optimum pressure in the present experiments is in the range 6× 103 Pa to
+8× 103 Pa (see Fig. 6), which can be compared to previous results.8,11 The main
+feature of the present experiments is that the optimum pressure was the same for
+all metals. The further decrease of pressure below the peak results in a significant
+reduction of the tritium generation rate because due primarily to the decrease of
+current density, where the increase in ion energy does not compensate the decrease
+in current density [see curves 8,9]. For niobium, molybdenum, and tungsten, the
+reduction of the tritium generation rate is two to three orders of magnitude.
+A decrease in pressure is possible only if the average current density is not lower
+than 0.1 Å/cm2. It is known that the braking action of the residual gases results in
+a decrease of the energy of accelerated ions, an effect which is reduced considerably
+at pressures less than (10–50)Pa. It is clear then that the pressure in the range
+of 10 to 50Pa will be optimum; however, the current density specified above must
+be maintained. The maximum pressure should not exceed 2× 104 Pa because of a
+decrease in ion energy, and even an increase in the discharge voltage.
+3.9. Material of the target-anvil
+Satisfactory agreement of the tritium generation rate with predictions made earlier
+is obtained.12 The highest tritum generation rates are found in the case of heavier
+337
+20 40 60 80
+C
+oe
+ff.
+o
+f n
+uc
+le
+ar
+in
+te
+ra
+ct
+io
+ns
+, a
+to
+m
+/io
+n.
+10−9
+10−10
+10−11
+10−12
+10−13
+10−14
+Pressure of plasma-forming gas, × 103 Pa.
+1 − Mo
+2 − Ta
+3 − Nb
+4 − Nb + 1%Zr
+5,6,7 − W
+(J.A.CM-2)
+8 3
+9
+2
+4
+6
+5
+7
+2
+1
+0.2 0.6
+Figure 6. Dependence of coefficient of nuclear interaction versus on pressure of plasma-forming
+gas in the glow discharge for various materials of the sample-cathode; 1: molybdenum (D2); 2:
+tantalum (D2); 3: niobium (D2); 4: niobium +1% of zirconium (D2); 5,6,7: tungsten (D2);8 8:
+niobium (H2); 9: tungsten (H2); present work.
+metals, such as tungsten and platinum. Prospective materials include hafnium,
+tantalum, osmium, iridium, and gold. It is also possible to consider for use even
+heavier metals such as lead, bismuth, thorium, and uranium.
+3.10. Plasma-forming gas
+It is shown in [13] that the tritium generation rate for a mix of hydrogen isotopes
+based on hydrogen, and a mix based on deuterium, does not exceed one order of
+magnitude. This implies that the p + d reaction mechanism for tritium formation
+(which is discussed later on in this paper) is a secondary reaction as compared to
+the primary p + p reaction that leads to deuterium formation (also discussed later
+on), with an associated reaction rate approximately six orders of magnitude smaller.
+Therefore, from the point of view of efficiency, the use of easier isotopes for excess
+heat production and for tritium generation is the the most important factor.
+3.11. Magnetic field
+It is possible to conclude from diefferent results obtained for coaxial and planar
+experimental systems that the self-magnetic field influences the tritium generation
+
+rate. The introduction of an external magnetic field of 0.02–0.2T on the discharge
+system has allowed us to increase the rate for tritium generation by two orders
+of magnitude.14 A careful study of the influence of intensity, gradient, form of
+338
+6
+3
+4
+5
+1
+2
+20
+40
+60
+80
+100
+100 200 300 400 500 600
+Power consumption, W.
+D
+iff
+er
+en
+ce
+o
+f t
+em
+pe
+ra
+tu
+re
+s,
+K
+.
+Figure 7. Dependence for difference of the temperatures, on measuring base, versus total a power
+consumption for hollow sample of vanadiumwith diameter of 40mm, height of 60mm and thickness
+of the wall of 2mm. 1: Sample-cathode, hydrogen, Pc = Psam = 5000Pa; 2: sample-cathode,
+hydrogen, Pc = Psam = 10,000Pa; 3: sample-cathode, hydrogen,Pc = Psam = 2000Pa; 4: sample-
+cathode, deuterium, Pc = Psam = 2000Pa; 5: sample-anode, deuterium, Pc = Psam = 2000Pa; 6:
+sample-anode, hydrogen, Pc = Psam = 2000Pa.
+distribution, polarity, and other characteristics of the magnetic field on the discharge
+parameters to obtain a further increase of efficiency to the discharge system.
+3.12. Energy balance
+The dependence of the temperatures difference on the molybdenum (measuring)
+base (and hence the thermal flow from the sample) on the total power for a hollow
+vanadium sample with a diameter of 40 mm, a height of 60 mm, and a wall thickness
+of 2 mm, for Pc = Psam (background), is shown in Fig. 7. One can see an inflection
+in the curves at small temperature differences and low power (about 50-70W),
+which is similar to [3]. This effect, in our opinion, is connected to the onset of
+convective heat transfer. It is necessary to keep in mind that at reduced pressure
+the sample temperature (and hence temperature difference) is increased (see curves
+1,2), because of a reduction in the convective heat transfer. In this connection, the
+smaller temperature difference for a pressure of 2000Pa (see curves 3, 4) are caused
+by a change of the design used for this pressure. This is due to a difference in the
+approach used for the measurement of the anode temperature, where the distance
+between the thermocouples and anode was changed.
+For experiments in which the sample is the cathode, the distinction in differ-
+ences of temperatures for protium and deuterium is not great (curves 3 and 4).
+In experiments in hydrogen in which the sample is the anode, the heat absorbed
+339
+20000 60000 100000 140000
+Pressure in cavity of the sample, Pa.
+20
+40
+60
+80
+100
+120
+140
+D
+iff
+er
+en
+ce
+o
+f t
+em
+pe
+ra
+tu
+re
+s,
+K
+6
+54
+321
+Figure 8. Dependence of difference of temperatures on measuring base versus pressure of the
+natural mix of hydrogen isotopes in a cavity of the sample (hollow sample of vanadium, diameter
+of 40mm, height of 60mm and thickness of a wall of 2 mm). 1: Sample-cathode, E = 820W,
+Pc = 10000Pa, T = 840K; 2: sample-cathode, E = 770W, Pc = 10,000Pa, T = 850K; 3: sample-
+cathode, E = 396W, Pc = 10,000Pa, T = 680K; 4: sample-anode, E = 769W, Pc = 10000Pa,
+T = 695K; 5: sample-cathode, E = 252W, Pc = 20,000Pa, T = 535K; 6: sample-anode,
+E = 388W, Pc = 10,000Pa, T = 550K.
+is approximately half as much as in experiments where the sample is the cathode
+(see curves 3, 6). In experiments in deuterium, this difference is not as significant
+(see curves 4 and 5). The data obtained allow us to make a thermal balance of the
+distribution of heat in the discharge. For example, in a discharge plasma at 2000Pa
+and interelectrode distance 5mm, about 10% of the total power is lost in the glow
+discharge plasma. From the results shown in Fig. 7, it is possible to find that for a
+hydrogen discharge with the sample as cathode, about 60% of heat is dissipated on
+the cathode and about 30% of heat is dissipated on the anode.
+The dependence of the base temperature difference (and hence the power ab-
+sorbed by the sample) on the internal pressure of the sample cavity is shown in
+Fig. 8. One can see a flat maximum in (0.04–0.1) MPa for the different experi-
+mental conditions. An additional thermal flux occurs on the sample when filled
+by hydrogen, irrespective whether the sample is the cathode or anode. Hence, to
+obtain an identical thermal flux, the discharge power should be increased by two
+when the sample is an anode (as compared to when the sample is a cathode, see
+curves 3–6).
+340
+Table 3. Measurement of the excess heat flow in the glow discharge with a natural
+mix of hydrogen isotopes with forward and reverse flows of hydrogen through the wall
+of the cathode sample.
+Pd Pc Ps Tt ∆T Ts Pabs (K) Pxs Pxs/Pabs
+W ×10−3 Pa ×10−3 Pa K K K W W %
+210 10 44 430 41 525 10.3 0.5 5
+10 10−3 425 39 540 9.8 - -
+256 10 90 455 52 570 13.1 2.0 18
+10 10−3 435 44 575 11.1 - -
+284 10 65 460 57 580 14.3 2.3 19
+10 10−3 450 48 590 12.0 - -
+396 10 108 530 80 690 19.9 4.5 29
+10 10−3 490 62 680 15.4 - -
+525 10 43 555 90 730 22.2 2.5 13
+10 10−3 520 80 730 19.7 - -
+532 10 38 550 86 710 21.2 2.2 12
+10 10−3 525 77 720 19.0 - -
+658 11 50 600 108 820 26.2 3.4 15
+11 10−3 570 94 820 22.8 - -
+798 11 90 605 109 810 26.4 3.1 13
+11 10−3 575 96 820 23.3 - -
+820 10 62 625 118 840 28.6 3.9 16
+10 10−3 590 102 840 24.7 - -
+Pd is the discharge power (W); Pc is the chamber pressure (×10−3 Pa); Ps is the
+internal sample pressure (×10−3 Pa); Tt is the temperature of top hold-down; ∆T is
+the difference of base temperatures (K); Ts is the sample temperature; Pabs is the
+power absorbed by the sample (W); Pxs is the excess power; Pxs/Pd is the ratio of
+excess power to the power absorbed by the sample
+3.13. Excess heat measurements
+Measurements of the excess heat flow from the cathode sample for a natural mix of
+hydrogen isotopes (99.985% protium +0.015% deuterium) are presented in Table 3.
+One sees that the excess power is sharply increased with a temperature rise up to
+600–700K; beyond that there is little change. The relative excess power reached
+29% from everything absorbed by a sample; for example, at a total discharge power
+of 396W, the sample got 396× 0.6 =238 W, and thus the absolute values of excess
+power is (238× 0.29 =69), or about 70 W. As compared to all of the power dissipated
+by the glow discharge, this excess power is about 10%. The maximum relative values
+of the excess heat were observed in the temperature range 600–700K.
+Results for a study of the excess thermal flux for deuterium, and for a natural
+mix of a hydrogen isotopes (protium + 0.015% deuterium), are shown in Table 4.
+341
+Table 4. Comparison of the excess heat between deuterium and a natural mix of hydrogen isotopes,
+for glow discharge experiments with forward and reverse flows of hydrogen through the wall of the
+cathode sample.
+cathode/ gas Pd Pc Ps Tt ∆T Ts Pabs Pxs Pxs/Pabs
+anode W ×10−3 Pa ×10−3 Pa K K K W W %
+cathode H 430 2.5 83 487 84 733 21.0 2.5 13
+430 3 ×10−3 475 74 715 18.5 - -
+D 463 2.8 43 508 92 811 22.8 1.5 7
+463 2.8 ×10−3 493 86 813 21.3 - -
+anode H 975 2.3 80 468 66 728 16.6 1.5 10
+975 2.3 ×10−3 458 60 730 15.1 - -
+D 851 4 50 446 50 666 12.6 1.3 11
+837 4 ×10−3 441 45 663 11.3 - -
+Pd is the discharge power (W); Pc is the chamber pressure (×10−3 Pa); Ps is the internal sample
+pressure ×10−3 Pa; Tt is the emperature of top-hold-down (K); ∆T is the temperature difference
+of the base; Ts is the sample temperature (K); Pabs is the power absorbed by the sample (W); Pxs
+is the excess power; Pxs/Pd is the ratio of excess power to the power absorbed by the sample
+For simplification of accounts in case of the scheme which inclusion the sample-
+anode, both for protium and for deuterium accepted, that from consumption power
+of the discharge the 30% of this power is absorbed by a sample. It is visible,
+that the excess power in experiments with deuterium under identical conditions
+is comparable to excess power received in experiments with a natural mix of the
+hydrogen isotopes. The excess thermal flows at identical temperatures of samples
+with protium and deuterium are comparable as in experiments, when the sample is
+the cathode and in experiments, when the sample is the anode.
+3.14. Tritium generation
+The dependence of the tritium generation rate on the composition of the plasma-
+forming gas is shown in Table 5, where results are given for a natural mix of hydrogen
+isotops, and for mixtures containing about 10% deuterium by volume. The use of
+a magnetic field in the interaction zone where the glow discharge plasma interacts
+with the metal surface allowed us to reach a maximum tritium generation rate of
+1010 atom/s. This maximum rate was observed in experiments with tungsten. The
+addition of deuterium at the 10% level is seen to produce a further increase in
+the tritium generation rate. This increase is about 10–20% for molybdenum and
+tungsten; for niobium and tantalum the increase of the tritium generation rate is
+much larger, by a factor of 4 to 7. This increase in the tritium generation rate did
+not correspond to the increase in the deuterium concentration (which in all cases
+was increased by almost 4–5 orders of magnitude). The determination of why there
+should be such a difference will be the subject of future research.
+342
+Table 5. Results for the dependence of the tritium generation rate on gas composition and sample
+material for glow discharge experiments in a magnetic field.
+gas experimental parameters experimental results
+metal H D T I V t Pc act. ΓT yield
+% % K A V h Pa×103 cps T/s T/ion
+H 99.985 0.015 0.08
+±0.04
+D 5 95 0.3
+±0.15
+SS 99.985 0.015 1020 3.1 415 4 6 170 6.1[8] 5.3[-11]
+91 9 870 3.1 400 3 5.7 370 1.7[9] 1.5[-10]
+Nb 99.985 0.015 1020 3.1 450 4 6.3 350 1.3[9] 1.1[-10]
+90 10 920 3.1 420 4 5.8 1200 4.1[9] 3.5[-10]
+Mo 99.985 0.015 1020–1200 3.0 335 2 5.5 10 6.7[7] 5.9[-12]
+91 9 1050–1190 3.1 355 4 5.6 25 8.5[7] 7.3[-12]
+Mo 99.985 0.015 1020 3.2 510 4 7.2 250 1.1[9] 9.3[-11]
+87 13 920 3.2 515 4 6 2160 7.8[9] 6.6[-10]
+W 99.985 0.015 1005 3.1 490 6.5 8 3160 9.4[9] 8.3[-10]
+87 13 920 3.2 475 4 6 3100 1.1[10] 9.5[-10]
+SS is stainless steel; T is the temperature (K); I is the current (A); V is the voltage (V); t is the
+run time (h); Pc is the chamber pressure (Pa×103); act. is the tritium activity in counts per second;
+ΓT is the tritium generation rate (atoms/sec); yield is the the coefficient of nuclear interaction in
+atoms/ion. Powers of 10 indicated with brackets; 1.1[10] = 1.1 × 1010.
+3.15. Mass spectroscopy
+We showed previously1 an increase in the mass spectrum of hydrogen isotope peaks
+with higher numbers (complexes), associated with the passage of the hydrogen iso-
+topes through a membrane heated by thermal radiation or by the glow discharge
+plasma (Fig. 9), as compared with a control spectrum taken from gas obtained
+Pressure in sample, × 100 Pa.
+P
+e
+a
+kh
+e
+ig
+h
+t
+o
+f
+si
+xt
+h
+m
+a
+ss
+,
+a
+rb
+itr
+a
+ry
+u
+n
+it
+10−510−6 10−4
+40
+30
+20
+10
+0
+1
+2
+3
+Figure 9. Mass 6 versus pressure. 1: Deuterium flow through valve leak; 2: deuterium flow
+through niobium, resistive heating; 3: deuterium flow through niobium, discharge.
+343
+321 321 321 321 321
+Mass-spectrum
+In
+te
+ns
+ity
+, a
+rb
+. u
+ni
+ts
+.
+4321 4321 4321
+Mass-spectrum
+In
+te
+ns
+ity
+, a
+rb
+. u
+ni
+ts
+.
+(a) (b)
+Figure 10. The mass-spectrum of protium mass for the membrane of vanadium. (a) at 300K;
+(b) in the glow discharge (V = 200V, J = 50 Å/m2, T = 900K).
+through a leak valve. The fixed complexes are stable enough, since they pass through
+about one meter of gas before detection in the mass spectrometer. These complexes
+can testify to the occurrence in these experiments of new elements, such as deu-
+terium or tritium. The appearance of these long-lived complexes may be associated
+with the occurrence of excess heat.
+In Figs. 10(b) and 11(b) the mass-spectra of a natural mix of hydrogen, and of
+64321 64321 64321 64321
+Mass-Spectrum
+In
+te
+ns
+ity
+, a
+rb
+. u
+ni
+ts
+654321 654321 654321
+Mass-spectrum
+In
+te
+ns
+ity
+, a
+rb
+. u
+ni
+ts
+(a) (b)
+Figure 11. The mass-spectrum of deuterium mass for the membrane of vanadium. (a) at 300K;
+(b) in the glow discharge (V = 200V, J = 50 Å/m2, T = 1000K).
+344
+32
+16
+0
+338 511 583
+Energy, keV.
+Q
+u
+a
+n
+tit
+y
+o
+f
+p
+u
+ls
+e
+s,
+p
+u
+ls
+e
+.
+Figure 12. Background gamma spectrum from the installation with the discharge off. The expo-
+sure time is 7000 s.
+deuterium, after passage through the membrane of vanadium is shown, following
+irradiation by accelerated ions from the glow discharge plasma. It cam be seem that
+from a comparison with the initial spectra (Figs. 10(a) and 11(a)) there occurs in
+both cases an increase in heavy complexes; masses 3,4 in the case of hydrogen, and
+masses 5,6 in the case of deuterium. In the case of hydrogen, the mass 3 peak
+is stronger than the mass 4 peak. In the case of deuterium, the mass 6 peak is
+stronger than the mass 5 peak. This seems reasonable when thought of in terms
+of three-atom complexes: the mass 3 peak of H–H–H should be stronger than the
+mass 4 peak of H–H–D in the hydrogen discharge; and the mass 6 peak of D–D–D
+should be stronger than the mass 5 peak of D–D–H in the deuterium discharge.
+The height of the peak with mass 3 for hydrogen reached 50% of the peak with
+mass 2; and the height of the peak with mass 6 for deuterium reached 20% of
+the from peak with mass 4; following passage of the hydrogen isotopes through
+a niobium membrane in glow discharge experiments. It was possible only to find
+trances of mass 5 and mass 6 in the case of vanadium and niobium in a hydrogen
+discharge. It was not possible to observe heavier complexes with mass 7–9 in the
+case of vanadium and niobium in a deuterium discharge. It seems clear that the
+peaks of mass 3–4 for hydrogen, and mass 5–6 for deuterium, are connected to
+deuterium generation in these the glow discharge experiments. Although tritium
+generation occurs as reported above, it was not possible to detect tritium through
+the use of mass spectrometers due to the low resolution.
+3.16. Radiation measurements
+We present in Table 6 results of gamma radiation measurements; where the fore-
+ground measurements were taken during discharge operation, and the background
+measurements were taken with the discharge off. Values for number of counts
+(pulses) in the peak areas, along with energies and identification of isotopes that
+are candidates for lines at the gamma energy. In the background spectra of the
+345
+Q
+ua
+nt
+ity
+o
+f p
+ul
+se
+s,
+p
+ul
+se
+.
+Energy, keV.
+338 511 583
+32
+16
+0
+Figure 13. Foreground gamma spectrum taken with the discharge on. The exposure time was
+also 7000 s.
+facility, and in the discharge spectra, there are gamma peaks for U-235, Th-232,
+and their disintegration products (Tl-208 and Pb-212); and also K-40 and Cs-137.
+The background gamma spectrum in a range 330–590keV is shown in Figure 12;
+and the foreground spectrum taken with the discharge on is shown in Figure 13.
+The number of counts measured over 700 s at 511± 1keV with the discharge
+on is 45, and with the discharge off is 74. This difference corresponds a standard
+deviation for this measurement. The number of counts at this energy is so small
+Table 6. The values of pulses quantity for the allocated zones of a γ-spectrum
+at working installation, without inclusion of the glow discharge (background) and
+at interaction of a natural mix of hydrogen isotopes with niobium at influence
+of the glow discharge and imposing of the magnetic field (I = 3,1 Å; V = 450V;
+T = 1020K)
+zone Eγ peak area peak area isotope (parent)
+index KeV (background) (with discharge)
+1 90 ± 0.5 0 15 U-235
+2 143.8 ± 0.5 5 8 U-235
+3 163.4 ± 0.5 0 0 U-235
+4 185.7 ± 0.5 10 4 U-235
+5 205.3 ± 0.5 0 1 U-235
+6 221.4 ± 0.5 0 0 U-235
+7 238.6 ± 0.7 45 40 Pb-212 (Th-232)
+8 338.3 ± 0.7 4 14 Ac-228 (Th-232)
+9 511 ± 1 74 45 Tl-208 (Th-232)
+10 583 ± 1 28 7 Tl-208 (Th-232)
+11 661.7 ± 1 31 18 Cs-137
+12 727 ± 1 9 0 Tl-208 (Th-232)
+13 763 ± 1 4 0 Tl-208 (Th-232)
+14 911 ± 1.5 26 5 Ac-228 (Th-232)
+15 1001 ± 1.5 0 0 Pa-234m (U-238)
+16 1173.2± 1.5 2 0 Co-60
+17 1460 ± 1.5 35 27 K-40
+18 1588 ± 1.5 5 20 Ac-228 (Th-232)
+The peak area is in units of counts.
+346
+that the associated error is ±50%. Thus it is possible to conclude that positron
+generation does not occur in association with the glow discharge at a detectable
+level, and that the 511 KeV signal is due to the natural disintegration of Tl-208,
+with is a product of Th-232 decay.
+4. Discussion
+4.1. Tritium generation using the new technique
+With the new experimental technique presented here, in which care is taken to
+prevent spurious tritium signals from the equipment and working chamber, we
+have evidently demonstrated that the tritium generation rate can be increased.
+These results are in the contradiction with tritium evolution due to thermal ac-
+tivation, where the apparent tritium generation rate increase exponentially with
+temperature.5 Therefore, it is possible to consider these results as contributing to
+the proof that the tritium generation observed in the glow discharge discharge ex-
+periments has a nuclear origin. It is especially important that significant tritium
+generation rate is observed using a natural mix of hydrogen isotopes in the (plasma-
+forming) gas. The tritium generation rate depends very strongly on the geometry
+of the discharge. The reasons for the advantage of the planar glow discharge scheme
+for tritium generation are at present not clear.
+The low results obtained with helium are essential to an understanding of the
+nature of tritium generation. These results can provide estimates for the influence
+of radiating size, thermo-desorption effects, and electro-migration effects, on the
+tritium generation rate in similar experiments. These experiments can be carried
+out conveniently with other inert gases, in particular, with argon.
+The significant influence of the magnetic field in the interaction area (for hydro-
+gen isotopes with the metal surface metals) on the tritium generation rate supports
+the the notion that tritium generation is due to (nuclear reactions), and not due
+to thermal activation. The magnetic field can impact the tritium generation rate
+indirectly through a modification of the glow discharge discharge parameters, and
+directly through the character of the interaction of the isotopes with the metal sur-
+face. In the latter case, the magnetic field can influence the orientation of atoms,
+nuclei, and electrons required for tritium generation.
+The new approach has shown an opportunity to achieve very significant tritium
+generation rates, even when a natural mixture of hydrogen isotopes is used. The
+demonstrated rate of tritium production in the range 109–1010 atom/s allows it to
+be measured using standard scintillation techniques. The rate for tritium generation
+production increases with the addition of deuterium, but by an amount less than
+an order of magnitude even when the deuterium concentration is increased by 4-5
+orders of magnitude. It is possible to conclude from this that the dependence of
+the tritium generation rate on the initial deuterium concentration is not as great as
+might have been expected.
+347
+4.2. Excess power using relative measurements
+The technique used for the measurement of the excess power has advantages, despite
+the impossibility of developing an absolute estimate, has advantages as a relative
+measurement. The relative measurement can be done with rather high accuracy
+(±20%) and good sensitivity (±0.1 W). The primary appeal of this new technique,
+which we have developed and reported, is that excess power is considered to be
+demonstrated when the temperature increases only when the sample is filled (rel-
+ative to the case where it is evacuated), all other experimental parameters being
+equal.
+The excess thermal power generation is rather complex a high-temperature pro-
+cess; which depends on the interaction of accelerated ions of hydrogen isotopes with
+metals in the glow discharge plasma, and with surface processes (such as sorption,
+desorption, and solubility). The maximal relative efficiency of the excess power
+generation is observed in a range of temperatures 600–700K; and and the absolute
+efficiency is maximized in the range 800–1000K.
+The excess heat generation on the sample operating as an anode is approximately
+half than when operating as a cathode; hence it is possible to assume that the
+basic activation means for the process is a thermal activation. The presence of
+an optimum on pressure of hydrogen isotopes in the range 0.04–0.1 MPa (and also
+unexpectedly a dependece on the flow), does not yet have a simple explanation. It is
+probably associated with the complex kinetics of formation of double and threefold
+complexes reported in [1,13] and tritium generation.3,15
+Small differences in the excess heat measured for deuterium, and for anatural mix
+of a hydrogen isotopes, shows that in the new approach for excess heat generation
+the usual nuclear processes do not play an essential role.
+4.3. Tritium generation characteristics
+The experimental scheme with the cylindrical cathode sample is not optimum for
+maintaining an acceptable tritium generation rate.4,14 It allows us to obtain a tri-
+tium generation rate not above 109 atom/s; which corresponds to estimates of a
+maximum quantity of heat at the expense of nuclear reactions arising in low-energy
+interaction of hydrogen isotopes with metals at a level on the order of watts,10,13
+as we will discuss later on. The excess power values measured in the present work
+are in the range 0.5–4.5W.
+There is evidence for an increase in deuterium concentration, based on the in-
+crease in the mass 3–4 peaks in the mass spectra for a hydrogen discharge, and an
+increase in the mass 5–6 peaks in the case of a deuterium discharge. The absence
+of mass 7–9 peaks is due to the fact that tritium generation is much slower, and
+sensitivity of mass-spectrometers is not sufficient for measuring such low levels of
+tritium. The implication is that the tritium generation occurs as a secondary p+d
+nuclear reaction, and high energy deuterons may be generated from p+p nuclear
+reactions, as confirmed by the measurements of the increase of 3–6 mass in the mass
+spectrometer data.
+348
+With regard to the character of the reactions involved in tritium generation
+(during the interaction of hydrogen isotopes with a metal surface during the glow
+discharge), the results indicate the following features which have been found in
+similar experiments:
+(1) Tritium generation does not depend directly on temperature.
+(2) Tritium generation depends basically on the experimental parameters that relate to
+the of force of interaction of the hydrogen isotopes (current, voltage, characteristics
+of the magnetic field). With an increase of the voltage and current, the tritium
+generation rate grows.
+(3) The tritium generation rate has an obvious dependence on the nuclear number
+(mass number) of the bombarded material by ions of hydrogen isotopes from the
+glow discharge plasma. The best results are obtained in the case of heavy metals,
+such as tantalum, tungsten, platinum.
+(4) The tritium generation rate does not depend directly on the amount of hydrogen
+dissolved in metal.
+(5) With the transport by diffusion of the hydrogen isotopes through the metal wall
+under discharge conditions, tritium collects behind a membrane, instead of before
+it. This is contrary to the isotope diffusion effect.
+(6) Electromigration is also insignificant in affecting the tritium output from the cath-
+ode sample, since in the metals that we used hydrogen is partially ionized with a
+positive charge.
+4.4. Reaction mechanisms proposed
+It is possible to judge the form of the reactions responsible from experiments with
+the detection of gamma radiation near 511keV. The experiments have shown that
+gamma radiation in this area is not registered. Hence, the specified reactions can
+go only as threefold, with catalysis by means of electrons; i.e. the basic reaction in
+similar experiments is:
+p + e + p → d(∼ 2 keV) + ν(∼ 1.95 MeV).
+[Such reactions assume electrons influence of the solid on stability of hydrogen
+molecules and specificity for products of reaction.] This reaction is remarkable
+in that any radioactive byproducts are absent. Most of the reaction energy is
+carried away by the neutrino, soft X-ray radiation is observable, and high-energy
+radiation is absent. The energy associated with tritium generation is three orders of
+magnitude less that that associated with the energy observed due to the majority
+of thermonuclear reactions. The same reaction can serve a source of energetic
+deuterons for similar reactions based on p+e+d. Hence tritium generation under the
+conditions specified can occur in pure hydrogen, without deuterium as an impurity.
+The rate of secondary nuclear reactions is smaller on average in the range 10−5–10−7
+(with an average of 10−6).
+349
+Since the maximum tritium generation rate was observed for mixtures of hydro-
+gen and deuterium, we believe that the tritium was formed not from thermonuclear
+D–D reactions, but instead from
+p + e + d → T(∼ 6 keV) + ν(∼ 5.98 MeV).
+Such reaction can proceed due to impurity deuterium in hydrogen and through
+secondary deuterons formed from p + e + p reactions. The measured power for this
+reaction is also three orders of magnitude lower than the power from the majority
+of thermonuclear reactions. A similar reaction can result in the formation of 4He:
+p + e + T → 4H(∼ 15 keV) + ν(∼ 19.8 MeV)
+↓
+4He(∼ 15 eV) + β−(∼ 15 keV).
+The reactions proposed correspond best in our opinion to observable products in
+the majority of experiments on the low-energy interaction of the hydrogen isotopes
+with metals in measurements of deuterium, tritium, helium-4, excess heat and X-ray
+radiation with the certain energy.
+4.5. Reaction strength
+It is known that the coupling constant for weak interactions of particles is approxi-
+mately five orders of magnitude less than for the strong force, and cross sections for
+weak interactions are approximately 14 orders of magnitude less than for the strong
+force. However, the corresponding interaction time for weak interactions has a large
+duration (more than 10−8 s), which can affect the character of the interaction. Weak
+reactions can go spontaneously at low energy (beta-disintegration).
+If the instability of hydrogen atoms or molecules (interacting with electrons in
+the energetic field of metals) will be proved, the significant reduction of the influence
+of the Coulomb barrier on the proposed reactions can compensate to increase the
+reaction cross section associated with weak interactions. Hence if the cross section
+of the proposed reactions occur at a level 10−40–10−30 cm2 (instead of 10−25 cm2,
+as is the case for the strong force) even this cross section can appear sufficient for
+practical applications, even though it is connected to substantial growth of an active
+zone. That weak interactions can occur only on a much smaller distance scale, in
+comparison with the strong force (10−18 m in comparison with 10−15–10−16 m) is
+in this case not the determining factor. The conventional thermonuclear reactions
+of
+p + e + p → d + β+ + ν + 0.42 MeV
+and
+p + d →3 He + γ + 5.494 MeV
+350
+have low interaction cross sections, even at energies of several MeV. These thermo-
+nuclear reactions go with a small speed, even at small distances between nucleons.
+Therefore, when the complex p + d + d (having received energy in plasma of the
+glow discharge and having collided with a metal target, which in this case plays a
+anvil role) begins collapsing a thermonuclear reaction probably goes, but we can
+not observe it because of the low interaction cross section. Further that distance
+p+d theoretically can be as much as small and possible to decrease of the Coulomb
+barrier in a complex p + d + p or p + d + d, practically, up to zero. Even energies
+of some hundreds of electron volts appears to be sufficient for collisions of the
+specified complexes down to distances on the order of 10−18 m due to shielding.
+There is enough to time for the course of such processes a stationary glow discharge
+plasma (∼10 ms).
+4.6. Resulting estimates and potential appliciations
+The results presented show that if we assume the novel p + e + d reactions13 dis-
+cussed above, and take the observed tritium generation rate of 1010 atom/s, then
+
+the resulting thermal power is about 10−5 W. If we proceed from the assumption
+that tritium generation is a consequence of much more intense p + e + p reactions
+with (KeV) deuterium formation (where tritium results approximately one in 106
+of time) the tritium generation rate measured implies a thermal generation from
+the new p + e + p reactions discussed above at a power level of about 10W. These
+estimates correspond to our experiments on excess heat production.3,16 For the de-
+velopment of thermal energy due to nuclear reactions at a level comparable with
+the input electrical energy (some kW), the tritium generation rate should would
+need to be about 1012 atom/s.
+There has been at least one hundred models and theories proposed, but none of
+them can give an unequivocal explanation for the experimental data. Nevertheless,
+such features of the new proposed reactions have an overwhelming advantage with
+the participation only of protons, and since the only radioactive product present is
+tritium in small amounts. This allows us to plan the basic directions of practical
+use of nuclear reactions arising from the low-energy interaction of hydrogen isotopes
+with metals:
+- Power
+- Wastes storage and processing
+(A) Wastes processing with tritium.
+(B) Processing of high active, heavy wastes.
+- Production of rare isotopes.
+- Development of new materials.
+- Isotope light sources and energy.
+- Generators of coherent radiation (Lasers).
+351
+
+5. Conclusions
+
+(1) The introduction of a magnetic field perpendicular to the sample surface (in the
+interaction of hydrogen isotopes with metals in the glow discharge plasma) has re-
+sulted in an increase in the observed tritium activity, and in the tritium generation
+rate, by almost two orders of magnitude, as compared with the same experiments
+with no magnetic field.
+(2) Tritium generation rates as high as 109–1010 atom/s have been observed in glow
+discharge experiments with mixtures of hydrogen isotopes in a glow discharge
+operating in a magnetic field, exceeding the test background level by three to four
+orders of magnitude. The use of a magnetic field has ensured good reproducibility
+for these results, and the reliable achievement of a tritium generation rate near
+1010 atom/s in the case of tantalum, tungsten, and platinum.
+(3) A new technique for excess heat generation and detection has been proposed, in
+which the transfusion of hydrogen isotopes occurs through the metal wall of a
+hollow tight sample (in the direction to the glow discharge) where the sample con-
+stitutes one of the discharge electrodes. For samples of vanadium, the maximum
+excess thermal power is about about 30% of the power absorbed by the sample
+(when operating as a cathode). Excess power generation is optimized at temper-
+atures in the range 600–700 (for relative power) and 800-1000 K (for the absolute
+power).
+(4) In the spectra taken with a mass spectrometer, the appearance of mass 3 and 4
+peaks in the case of a hydrogen discharge, and the appearance of mass 5 and mass
+6 peaks in the case of a deuterium discharge (as compared to spectra taken under
+thermal activation), supports the conjecture that deuterium is generated in the
+experiments.
+(5) The gamma spectrum of the working installation with the discharge included, and
+without, differed a little. The difference between the two measurements did not
+exceed the estimated experimental error of ±50%. Thus it is possible to assert that
+there is no significant generation of positrons during glow discharge operation.
+(6) Features of the experiments discussed in this work are consistent with a nuclear
+origin of tritium generation (arising from the interaction of the glow discharge
+plasma with a metal surface), and not consistent with conventional tritium evolu-
+tion through thermal activation.
+(7) The established increase of the amount of deuterium which is observable (associ-
+ated with the interaction of hydrogen isotopes with metals in the glow discharge
+plasma) for mixes of isotopes (both in the case of hydrogen gas, and deuterium
+gas) from mass spectroscopic measurements; and the incommensurate increase in
+the tritium generation rate as a function of deuterium concentration; and absence
+of positrons; together, allow us to assert that the nuclear reactions p+p and p+d
+(with the corresponding formation of deuterium and tritium) proceed through
+electronic catalysis as p + e + p and p + e + d.
+
+(8) It is a stated assumption that for the generation of thermal energy at a level of
+about 1 kW, an associated tritium generation rate of about 1012 atom/s would
+occur, based on the low energy nuclear reactions under discussion in this work.
+352
+References
+1. V.A. Romodanov, V.I. Savin, M.V. Shakhurin et al., Zhurnal Tekhnicheskoy Fiziki,
+61(5), 122–125 (1991) (in Russian).
+2. V.A. Romodanov, V.I. Savin, Ya.B. Skuratnik and Yu.M. Timofeev, Reaction of Nu-
+clear Fusion in Condensed Matter - Voprosy Atomnoj Nauki i Tekhniki. Ser: Radiation
+Damage Physics and Radiation Technology, 1992, 1(58), 2(59), 73–82. (In Russian).
+3. V.A. Romodanov, V. Savin, Ya. Skuratnik and Yu. Timofeev, in Proceedings of the
+ICCF-3, Nagoya, Japan, ed. H Ikegami (Universal Academy Press Inc., Tokyo, Japan,
+1993), pp. 307–319.
+4. V.A. Romodanov, V.I. Savin, Ya.B. Skuratnik, in Proceedings of the ICCF-6, Japan,
+Vol. 2, ed. M Okamoto (Published by NEDO, IAE. Tokyo, Japan, 1996), pp. 585–589.
+5. A. Vitaliy Romodanov, I. Valeriy Savin, B. Yakov Skuratnik and N. Valeriy Majorov,
+in Proceedings of the ICCF-7, Vancouver, British Columbia, Canada, ed. G Miley
+(Published by ENECO, Inc., Salt Lake Sity, Utah, USA, 1998), pp. 319–324.
+6. V.A. Romodanov, Ya.B. Skuratnik and A.K. Pokrovsky, in Proceedings of the ICCF-8,
+Vol. 70, ed. F Scaramuzzi (Published by IPS, Bologna, Italy, 2000), pp. 265–268.
+7. V.A. Romodanov and Y.B. Skuratnik, Tritium Registration in Metal-Hydrogen Sys-
+tems - Cold Nuclear Fusion (Materials of the 9-d Russian conference on cold fusion and
+nuclei transmutation. Sochi, Russian, 30.09-07.10.2001y) M.: SRC PTP “ERZION”,
+2002, p. 55-62. (In Russian).
+8. V. Romodanov, V. Savin, Ya. Skuratnik and V. Elksnin, in Proceedings of the ICCF-4,
+Lahaina, Maui (Hawaii TR-104188-V3, EPRI, 1994), pp. 1–15.
+9. V.A. Romodanov, V.I. Savin, Ya.B. Skuratnik, Yu.N. Zhivluk and A.K. Pokrovskiy,
+in Proceedings of the ICENES-8’96, Vol. 2, ed. AV Zrodnikov, Russia, IPPE, Obninsk,
+Kaluga Region, Russia, 1997, pp. 504–511.
+10. V.A. Romodanov, Prospects to Intensity Increase of the Nuclear Reactions at Low-
+Energy Interaction of Hydrogen Isotopes and Possible Areas of their Application -
+Submitted on ICCF-10.
+11. V.A. Romodanov, V.I. Savin, Ya.B. Skuratnik and V.N.Majorov, in Proceedings of the
+ICCF-6, Japan, Vol. 1, ed. M Okamoto (Published by NEDO, IAE, Tokyo, Japan,
+1996), pp. 340–346.
+12. V. Romodanov, V. Savin, Ya. Skuratnik and S. Korneev, in Proceedings of the ICCF-4,
+Lahaina, Maui, Hawaii. TR-104188-V3, EPRI, 1994, p. 22(1–13).
+13. V.A. Romodanov, The Research of Positrons Annihilation and Possible Ways of P +D
+Nuclear Reactions - Submitted on ICCF-10.
+14. V.A. Romodanov, The Tritium Generation at Low-Energy Interaction of Hydrogen
+Isotopes with Metals - Submitted on ICCF-10.
+15. A. Vitaliy Romodanov, I. Valeriy Savin, B. Yakov Skuratnik, F. Boris Kostenko, S.
+Vladilen Barashenkov and Z. Michael Yuriev, in Proceedings of the ICCF-7, Vancou-
+ver, British Columbia, Canada, ed. G Miley (Published by ENECO, Inc., Salt Lake
+Sity, Utah, USA, 1998), pp. 325–329.
+16. V.A. Romodanov, The Registration of Excess Heat Which Arise at Metal Interaction
+with Hydrogen Isotopes - Submitted on ICCF-10.
